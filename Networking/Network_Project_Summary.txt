@@ -1,0 +1,23 @@
+
+In this project, we explored common network protocols, analyzed network traces, and performed local network attacks from both offensive and defensive perspectives.
+
+Objectives:
+- Understand core network protocols and concepts.
+- Learn offensive techniques to attack local network traffic.
+- Apply traffic analysis to detect security issues.
+
+Part 1: Network Attacks
+- Goal: Perform man-in-the-middle attacks to alter HTTP content.
+- Setup: Use VirtualBox and provided VM.
+- Task: Modify ./attack.py to replace AES keys from freeaeskey.xyz with a known key.
+- Grad students: Perform similar attack over HTTPS using attack_https.py.
+
+Part 2: Anomaly Detection
+- Goal: Detect port scanning in network traffic.
+- Task: Develop detector.py to analyze PCAP files for SYN scans.
+- Technique: Identify IPs sending excessive SYN packets compared to SYN+ACK responses.
+
+Submission:
+- attack.py: Script for HTTP attack.
+- attack_https.py: Script for HTTPS attack (grad only).
+- detector.py: Program for SYN scan detection.
