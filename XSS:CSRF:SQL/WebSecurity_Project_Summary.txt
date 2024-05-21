@@ -1,0 +1,23 @@
+
+In this project, we attacked an insecure website by exploiting three common vulnerabilities: SQL injection, cross-site scripting (XSS), and cross-site request forgery (CSRF). The aim was to understand these attacks and learn how to defend against them.
+
+Objectives:
+- Identify and avoid common web vulnerabilities.
+- Understand the risks and weaknesses of naive defenses.
+- Gain experience with web architecture, HTML, JavaScript, and SQL programming.
+
+We targeted a site called BUNGLE!, developed using Python and the Bottle web framework. The site stores usernames, passwords, and search history in a MySQL database and had several vulnerabilities due to circumvented security mechanisms.
+
+Part 1: SQL Injection
+- Goal: Log in as an arbitrary user without knowing the password.
+- Techniques: Manipulated SQL queries to bypass login mechanisms.
+
+Part 2: Cross-site Scripting (XSS)
+- Goal: Steal the username and the user’s last search.
+- Techniques: Injected malicious scripts via the search box to extract user data.
+
+Part 3: Cross-site Request Forgery (CSRF)
+- Goal: Log in the victim to an attacker-controlled account without their knowledge.
+- Techniques: Crafted HTML forms to exploit login mechanisms and demonstrate CSRF vulnerabilities.
+
+The project provided a hands-on experience in identifying and exploiting web vulnerabilities, enhancing our ability to build more secure web applications.
