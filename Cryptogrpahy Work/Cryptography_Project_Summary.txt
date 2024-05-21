@@ -1,0 +1,53 @@
+
+Project 1: Cryptography
+
+Summary
+
+Focuses on cryptography and explores the vulnerabilities and pitfalls of cryptographic implementations. The key areas covered in the project included length extension attacks, hash collisions, and cryptanalysis of the Vigenère cipher.
+
+Skills and Objectives
+
+1. Understanding Cryptographic Pitfalls:
+   - Learned about the common vulnerabilities in cryptographic hash functions (MD5, SHA-1, SHA-256).
+   - Explored the differences between hash functions and HMAC, and why HMAC-SHA256 is preferred for security.
+
+2. Conducting Length Extension Attacks:
+   - Gained hands-on experience in exploiting the length extension vulnerability in hash functions.
+   - Implemented a length extension attack to modify a URL and execute unauthorized commands on a server.
+
+3. Generating and Exploiting Hash Collisions:
+   - Investigated the vulnerabilities of MD5 and SHA-1 due to hash collisions.
+   - Used the fastcoll tool to generate MD5 collisions and verified the behavior of the colliding files.
+
+4. Cryptanalysis of Vigenère Cipher:
+   - Applied frequency analysis to break a Vigenère cipher.
+   - Implemented a program to determine the key length and decrypt ciphertext encrypted with the Vigenère cipher.
+
+Detailed Tasks and Solutions
+
+Part 1: Length Extension
+
+1. Length Extension Attack:
+   - Used the pymd5 library to experiment with MD5 hash length extension.
+   - Implemented a script (len_ext_attack.py) to modify an authorized API URL and add an unauthorized command.
+
+2. Hash Collisions:
+   - Generated MD5 collisions using the fastcoll tool.
+   - Verified that the colliding files had the same MD5 hash but different SHA-256 hashes.
+   - Created Python scripts (good.py and evil.py) with identical MD5 hashes but different outputs.
+
+Part 2: Cryptanalysis
+
+1. Classical Cryptanalysis:
+   - Analyzed the relative frequency of letters in English text and the provided plaintext.
+   - Encrypted the plaintext using different Vigenère keys and calculated the population variance of letter frequencies.
+   - Developed a method to determine the key length by analyzing frequency variances.
+
+2. Vigenère Cipher Decryption:
+   - Created a script (vigenere.py) to decrypt Vigenère ciphers by determining the key used for encryption.
+
+
+
+Conclusion
+
+This project provided practical experience in identifying and exploiting cryptographic vulnerabilities, emphasizing the importance of secure cryptographic practices. The hands-on tasks reinforced the theoretical concepts and showcased real-world implications of cryptographic failures.
