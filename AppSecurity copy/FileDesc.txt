@@ -1,0 +1,80 @@
+
+1. cookie:
+   - Content: Contains a numeric value `24155`.
+   - Skills Involved: Basic file handling and understanding of the file format.
+
+2. Dockerfile:
+   - Content: Contains instructions to create a Docker image using Ubuntu 20.04. It installs necessary packages, creates a user `ubuntu`, and sets up the working environment.
+   - Skills Involved: Docker, containerization, Linux system administration, package management.
+
+3. helper.c:
+   - Content: C program that includes functions for manipulating the stack and disabling ASLR (Address Space Layout Randomization). It includes security-related operations like setting user ID and checking the integrity of a canary value.
+   - Skills Involved: C programming, security concepts, stack manipulation, system calls, and memory management.
+
+4. Makefile:
+   - Content: A Makefile for compiling multiple C programs. It defines compiler settings, targets for various programs, and a clean-up routine. It also includes commands to set file permissions.
+   - Skills Involved: Makefile syntax, compilation process, automation, setting file permissions.
+
+5. setcookie:
+   - Content: A Python script that generates a "cookie" value based on SHA-1 hash of the provided arguments and writes it to a file named "cookie".
+   - Skills Involved: Python programming, file handling, hashing algorithms, command-line argument parsing.
+
+6. shellcode.py:
+   - Content: Contains a shellcode in binary format for execution.
+   - Skills Involved: Assembly language understanding, shellcode creation, binary data handling.
+
+7. sol0.py:
+   - Content: A simple Python script that prints a formatted string.
+   - Skills Involved: Python programming, string formatting.
+
+8. sol1.py:
+   - Content: A Python script that creates a payload by combining NOP sled and a specific memory address, and writes it to stdout.
+   - Skills Involved: Python programming, buffer overflow concepts, use of struct module for packing data.
+
+9. sol2.py:
+   - Content: A Python script that constructs an attack string using shellcode, padding, and a specific memory address, then writes it to stdout.
+   - Skills Involved: Python programming, buffer overflow exploitation, shellcode integration, use of struct module for packing data.
+
+10. target9.c:
+    - Content: A C program with a vulnerable function `vulnerable` that uses `strncpy` without proper bounds checking.
+    - Skills Involved: C programming, understanding of buffer overflow vulnerabilities, secure coding practices.
+
+11. sol3.py:
+    - Content: A Python script that constructs an attack string using shellcode, padding, and specific memory addresses, then writes it to stdout.
+    - Skills Involved: Python programming, buffer overflow exploitation, shellcode integration, use of struct module for packing data.
+
+12. target0.c:
+    - Content: A C program with a vulnerable function that uses `gets` to read input into a buffer without bounds checking.
+    - Skills Involved: C programming, understanding of buffer overflow vulnerabilities, secure coding practices.
+
+13. target1.c:
+    - Content: A C program with a vulnerable function that uses `gets` to read input into a buffer without bounds checking. It includes functions to print different grades.
+    - Skills Involved: C programming, understanding of buffer overflow vulnerabilities, secure coding practices.
+
+14. target2.c:
+    - Content: A C program with a vulnerable function that uses `strcpy` to copy input into a buffer without bounds checking.
+    - Skills Involved: C programming, understanding of buffer overflow vulnerabilities, secure coding practices.
+
+15. target3.c:
+    - Content: A C program with a vulnerable function that uses `strncpy` to copy input into a buffer without proper bounds checking.
+    - Skills Involved: C programming, understanding of buffer overflow vulnerabilities, secure coding practices.
+
+16. target4.c:
+    - Content: A C program with functions to read elements from a file into a buffer. It has potential vulnerabilities related to file handling and buffer overflow.
+    - Skills Involved: C programming, file handling, buffer overflow vulnerabilities, secure coding practices.
+
+17. target5.c:
+    - Content: A C program with a vulnerable function that uses `strcpy` to copy input into a buffer without bounds checking.
+    - Skills Involved: C programming, understanding of buffer overflow vulnerabilities, secure coding practices.
+
+18. target6.c:
+    - Content: A C program with a vulnerable function that uses `strcpy` to copy input into a buffer without bounds checking. It includes random stack manipulation using `alloca`.
+    - Skills Involved: C programming, understanding of buffer overflow vulnerabilities, secure coding practices, stack manipulation.
+
+19. target7.c:
+    - Content: A C program with a vulnerable function that manipulates linked list structures. Compiled with DEP (Data Execution Prevention) enabled.
+    - Skills Involved: C programming, understanding of buffer overflow vulnerabilities, secure coding practices, linked list manipulation.
+
+20. target8.c:
+    - Content: A C program with a vulnerable function that uses `strcpy` to copy input into a buffer without bounds checking. Identical to target2 but compiled with DEP enabled.
+    - Skills Involved: C programming, understanding of buffer overflow vulnerabilities, secure coding practices.
