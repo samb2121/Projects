@@ -1,0 +1,117 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3500</ORINum>
+   <ReportDate>12/16/2023 17:02:00</ReportDate>
+   <StartDate>12/16/2023 15:38:00</StartDate>
+   <Summary>Shanta Lara Navarrete 12/16/2023</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>716209</AddressId>
+      <Address>
+         <AddressId>716209</AddressId>
+         <StreetNumber>74</StreetNumber>
+         <StreetName>Mm I95 Sb</StreetName>
+         <City>Joppa</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.351636</Longitude>
+         <Latitude>39.442203</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Behringer</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Sawyer</LastName>
+            <FirstName>Duke</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>395535</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Lara Navarrete</LastName>
+               <FirstName>Shanta</FirstName>
+               <MiddleName>Michelle</MiddleName>
+               <DOB>09/26/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Lara Navarrete</LastName>
+               <FirstName>Shanta</FirstName>
+               <MiddleName>Michelle</MiddleName>
+               <DOB>09/26/1989 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>11550</StreetNumber>
+               <StreetName>Crossroads</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21220</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.41084</Longitude>
+               <Latitude>39.355308</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>506</StreetNumber>
+               <StreetDirCode>E</StreetDirCode>
+               <StreetName>Cedar point</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Perrville</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.070603</Longitude>
+               <Latitude>39.580575</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>667</PhoneArea>
+               <PhonePrefix>415</PhonePrefix>
+               <PhoneSuffix>0452</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <Person>
+            <PersonId>395536</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,127 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5000</ORINum>
+   <ReportDate>02/15/2023 22:58:00</ReportDate>
+   <StartDate>02/15/2023 21:21:00</StartDate>
+   <Summary>Hit-and-run collision.Driver found and charges were applied for.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Obstructing</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>INDIAN HEAD HIGH / MARSHALL HALL RD</IncAddrComment>
+      <AddressId>656080</AddressId>
+      <Address>
+         <AddressId>656080</AddressId>
+         <StreetName>Indian Head High</StreetName>
+         <City>Bryans Road</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 INDIAN HEAD HIGH / 3037-3165 MARSHALL HALL RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>7000-7098 INDIAN HEAD HIGH / 3037-3165 MARSHALL HALL RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>6956-6998 INDIAN HEAD HIGH / 3037-3165 MARSHALL HALL RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Howard</LastName>
+            <FirstName>Travis</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Shank</LastName>
+            <FirstName>Ryan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Casarella</LastName>
+            <FirstName>Stephen</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Kreczmer</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 0043</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0043</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>3222</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>3222</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>3224</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>3224</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>43</ApproxAge>
+         <Person>
+            <PersonId>369210</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Johnson</LastName>
+               <FirstName>Michael</FirstName>
+               <MiddleName>Alphanso</MiddleName>
+               <DOB>09/21/1979 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Johnson</LastName>
+               <FirstName>Michael</FirstName>
+               <MiddleName>Alphanso</MiddleName>
+               <DOB>09/21/1979 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2951</StreetNumber>
+               <StreetName>Bannock</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Bryans Road</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20616</Zip5>
+               <Zip4>3049</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.079263</Longitude>
+               <Latitude>38.631535</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,136 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>07/09/2023 03:38:00</ReportDate>
+   <StartDate>07/09/2023 03:20:00</StartDate>
+   <Summary>DUI / DWI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>STILL MEADOW BLVD/ BEAGLIN PARK DR</IncAddrComment>
+      <AddressId>686006</AddressId>
+      <Address>
+         <AddressId>686006</AddressId>
+         <StreetName>Still Meadow</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>Salisbury</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>DR</CrossStreetTypeCode>
+         <Longitude>-75.560626</Longitude>
+         <Latitude>38.385571</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>1500-1510 STILL MEADOW BLVD / 0-0 BEAGLIN PARK DR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bean</LastName>
+            <FirstName>Travis</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Todd</LastName>
+            <FirstName>Bradley</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Oborokumo</LastName>
+            <FirstName>Tamarapreye</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Todd</LastName>
+            <FirstName>Bradley</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Todd</LastName>
+            <FirstName>Bradley</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>19739</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>19739</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>48</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>133505</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Anderson</LastName>
+               <FirstName>Gary</FirstName>
+               <MiddleName>Anthony</MiddleName>
+               <DOB>03/28/1975 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Anderson</LastName>
+               <FirstName>Gary</FirstName>
+               <MiddleName>Anthony</MiddleName>
+               <DOB>03/28/1975 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>503 `</StreetNumber>
+               <StreetName>Emory</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>302</SubNumber>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21804</Zip5>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>3</StreetNumber>
+               <StreetName>Sunset </StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Laurel</City>
+               <StateCode>Delaware</StateCode>
+               <Zip5>19956</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.585855</Longitude>
+               <Latitude>38.557274</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

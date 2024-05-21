@@ -1,0 +1,116 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>01/07/2023 22:41:00</ReportDate>
+   <StartDate>01/07/2023 22:25:00</StartDate>
+   <Summary>CDS possession marijuana less than 10 grams.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>116 MAIN ST,NORTH EAST</IncAddrComment>
+      <AddressId>679731</AddressId>
+      <City>MDC206</City>
+      <Address>
+         <AddressId>679731</AddressId>
+         <StreetNumber>116</StreetNumber>
+         <StreetName>Main Street</StreetName>
+         <StreetTypeCode>Extension</StreetTypeCode>
+         <City>North East</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21901</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.945062</Longitude>
+         <Latitude>39.609143</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pepe</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bishop</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Starr</LastName>
+            <FirstName>Dalton</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>2 1635</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 1635</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>20</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>365543</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Tate</LastName>
+               <FirstName>Giawan</FirstName>
+               <MiddleName>Tymiene</MiddleName>
+               <DOB>12/21/2002 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Tate</LastName>
+               <FirstName>Giawan</FirstName>
+               <MiddleName>Tymiene</MiddleName>
+               <DOB>12/21/2002 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>302</PhoneArea>
+               <PhonePrefix>509</PhonePrefix>
+               <PhoneSuffix>8889</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Three partially burnt marijuana cigarettes. Total weight with packaging: 8.5 grams.</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>241054</Property_ID>
+         <DrugTypeCode>SUSPECTED MARIJUANA</DrugTypeCode>
+         <Quantity>8.5</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,164 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>08/01/2023 20:44:00</ReportDate>
+   <StartDate>08/01/2023 20:31:00</StartDate>
+   <Summary>The vehicle was stopped for an inoperable brake light. I detected the odor of an alcoholic beverage emitting from the driver's breath and person. Driver performed SFST's poorly and was placed under arrest for DUI.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>SOUTHERN MARYLAND BLVD/ WARD RD</IncAddrComment>
+      <AddressId>306639</AddressId>
+      <Address>
+         <AddressId>306639</AddressId>
+         <StreetName>Southern Maryland</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>Dunkirk</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20754</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-76.6603</Longitude>
+         <Latitude>38.7172</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>10201-10425 SOUTHERN MARYLAND BLVD / 10090-10111 WARD RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>10138-10198 SOUTHERN MARYLAND BLVD / 0-0 WARD RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>10003-10199 SOUTHERN MARYLAND BLVD / 0-0 WARD RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Crook</LastName>
+            <FirstName>William</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Barrientos</LastName>
+            <FirstName>Edin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Backus</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Palumbo</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Backus</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Backus</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>42</ApproxAge>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>384034</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>James</LastName>
+               <FirstName>Jonathan</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>07/31/1981 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>James</LastName>
+               <FirstName>Jonathan</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>07/31/1981 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>6310</StreetNumber>
+               <StreetName>Buttercup</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Upper Marlboro</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20772</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.847152</Longitude>
+               <Latitude>38.803804</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>792</PhonePrefix>
+               <PhoneSuffix>9717</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>155711</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>2T1KR32E96C574068</VIN>
+         <VehicleYear>2006</VehicleYear>
+         <VehicleMakeCode>TOYOTA(TOYT)</VehicleMakeCode>
+         <VehicleModelCode>MATRIX (SPORT WAGON)</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehSecColorCode>BLU</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>6BFR86</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>11</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

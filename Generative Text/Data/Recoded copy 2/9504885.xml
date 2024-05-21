@@ -1,0 +1,293 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>04/24/2023 15:17:00</ReportDate>
+   <StartDate>04/24/2023 13:35:00</StartDate>
+   <Summary>Fireearm investigation</Summary>
+   <IncidentType>
+      <IncidentTypeCode>FIREARM</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>27216</AddressId>
+      <Address>
+         <AddressId>27216</AddressId>
+         <StreetNumber>421</StreetNumber>
+         <StreetDirCode>W</StreetDirCode>
+         <StreetName>Pulaski</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <SubTypeCode>APT</SubTypeCode>
+         <SubNumber>18</SubNumber>
+         <City>Elkton</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21921</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.861237</Longitude>
+         <Latitude>39.608519</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Hughes</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Sawa</LastName>
+            <FirstName>Jon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bagonis</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>35</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>375324</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Millatti</LastName>
+               <FirstName>Anthony</FirstName>
+               <MiddleName>Rainey</MiddleName>
+               <DOB>12/31/1987 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Millatti</LastName>
+               <FirstName>Anthony</FirstName>
+               <MiddleName>Rainey</MiddleName>
+               <DOB>12/31/1987 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>421</StreetNumber>
+               <StreetDirCode>W</StreetDirCode>
+               <StreetName>Pulaski</StreetName>
+               <StreetTypeCode>Highway</StreetTypeCode>
+               <SubTypeCode>UNIT</SubTypeCode>
+               <SubNumber>20</SubNumber>
+               <City>Elkton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21921</Zip5>
+               <Zip4>5218</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.8598634</Longitude>
+               <Latitude>39.6078989</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Polymer 80 9mm handgun W/ MOA/weapon light</Description>
+         <PropertyTypeCode>MSPPI</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248757</Property_ID>
+         <Make>Polymer 80</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Beretta 92FS 9mm handgun </Description>
+         <PropertyTypeCode>MSPPI</PropertyTypeCode>
+         <SerialNumber>A322688Z</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248758</Property_ID>
+         <Make>Beretta </Make>
+         <Model>92FS</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Polymer 80 5.56 rifle W/ Sig scope</Description>
+         <PropertyTypeCode>GUN - RIFLE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248759</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>TAN</SecondaryColor>
+         <Make>Polymer 80 rifle</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Polymer 80 rifle W/ spit fire scope</Description>
+         <PropertyTypeCode>GUN - RIFLE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248760</Property_ID>
+         <PrimaryColor>GRN</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>Polymer 80 rifle</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Polymer 80 .300 black out SBR W/ cross fire scope </Description>
+         <PropertyTypeCode>GUN - RIFLE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248761</Property_ID>
+         <PrimaryColor>TAN</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>Polymer 80 rifle</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Polymer 80 .300 black out SBR W/ sig scope</Description>
+         <PropertyTypeCode>GUN - RIFLE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248762</Property_ID>
+         <PrimaryColor>GRN</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>Polymer 80</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Polymer 80 7.62 x 39 rifle W/ scope</Description>
+         <PropertyTypeCode>GUN - RIFLE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248763</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>TAN</SecondaryColor>
+         <Make>Polymer 80</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Polymer 80 5.56 rifle W/ vortex scope</Description>
+         <PropertyTypeCode>GUN - RIFLE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248764</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>TAN</SecondaryColor>
+         <Make>Polymer 80</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Ruger American .308 bolt action rifle S/N:690901352</Description>
+         <PropertyTypeCode>MSPRB</PropertyTypeCode>
+         <SerialNumber>690901352</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248765</Property_ID>
+         <Make>Ruger</Make>
+         <Model>American</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>AR-15 .308 caliber rifle upper receiver W/ sig scope</Description>
+         <PropertyTypeCode>GUN - RIFLE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248766</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>TAN</SecondaryColor>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>AR-15 300 black out rifle upper receiver W/ weapon light </Description>
+         <PropertyTypeCode>GUN - RIFLE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248767</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>TAN</SecondaryColor>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Polymer 80 milled out lower receiver </Description>
+         <PropertyTypeCode>GUN - RIFLE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248768</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>TAN</SecondaryColor>
+         <Make>Polymer 80</Make>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>misc. calibers of ammunition </Description>
+         <PropertyTypeCode>AMMUNITION</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248769</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Misc. firearm magazines </Description>
+         <PropertyTypeCode>FIREARM ACCESSORIES</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248770</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Dulski</LastName>
+            <FirstName>Steve</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>List</LastName>
+            <FirstName>Ryan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,147 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>05/11/2023 13:22:00</ReportDate>
+   <StartDate>05/11/2023 12:40:00</StartDate>
+   <Summary>THEFT OF SOLAR LIGHTS FROM COMPLAINANT'S FRONT LAWN.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>693649</AddressId>
+      <Address>
+         <AddressId>693649</AddressId>
+         <StreetNumber>35</StreetNumber>
+         <StreetName>Pelhamdale</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Elkton</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.798534</Longitude>
+         <Latitude>39.571128</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Steinmetz</LastName>
+            <FirstName>Kristopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Spayd</LastName>
+            <FirstName>Samuel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Scott</LastName>
+            <FirstName>Conor</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0521</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>63</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>376735</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>BEDWELL</LastName>
+               <FirstName>MARY</FirstName>
+               <DOB>09/14/1959 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>BEDWELL</LastName>
+               <FirstName>MARY</FirstName>
+               <DOB>09/14/1959 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>35</StreetNumber>
+               <StreetName>Pelhamdale</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Elkton</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.798534</Longitude>
+               <Latitude>39.571128</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>302</PhoneArea>
+               <PhonePrefix>893</PhonePrefix>
+               <PhoneSuffix>2385</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>63</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>376736</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>BEDWELL</LastName>
+               <FirstName>DONALD</FirstName>
+               <DOB>09/20/1959 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>BEDWELL</LastName>
+               <FirstName>DONALD</FirstName>
+               <DOB>09/20/1959 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>35</StreetNumber>
+               <StreetName>Pelhamdale</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Elkton</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.798534</Longitude>
+               <Latitude>39.571128</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>SOLAR LAMPS FOR LAWN</Description>
+         <PropertyTypeCode>LAWN ORNAMENT</PropertyTypeCode>
+         <PropertyValue>20</PropertyValue>
+         <Value>20</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248560</Property_ID>
+         <Quantity>5</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

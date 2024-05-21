@@ -1,0 +1,117 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>03/12/2023 16:51:00</ReportDate>
+   <StartDate>03/12/2023 16:28:00</StartDate>
+   <Summary>Two vehicle collision // DUI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>OCEAN GTWY/ CENTREVILLE RD</IncAddrComment>
+      <AddressId>233447</AddressId>
+      <City>MDC219</City>
+      <Address>
+         <AddressId>233447</AddressId>
+         <StreetDirCode>W</StreetDirCode>
+         <StreetName>Ocean </StreetName>
+         <StreetTypeCode>Gateway</StreetTypeCode>
+         <City>Queenstown</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21658</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Distance>0.5</Distance>
+         <DistanceUnits>M</DistanceUnits>
+         <Longitude>-76.076017</Longitude>
+         <Latitude>38.953905</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>PRIOR TO RT 213</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Barbiche</LastName>
+            <FirstName>Cody</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bolduc</LastName>
+            <FirstName>Nathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Damiano</LastName>
+            <FirstName>Ariona</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>14583</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>47</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>371409</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Groce</LastName>
+               <FirstName>Kevin</FirstName>
+               <MiddleName>Alan</MiddleName>
+               <DOB>04/18/1975 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Groce</LastName>
+               <FirstName>Kevin</FirstName>
+               <MiddleName>Alan</MiddleName>
+               <DOB>04/18/1975 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>150811</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>2T1KU4EE1AC290541</VIN>
+         <VehicleYear>2012</VehicleYear>
+         <VehicleMakeCode>TOYOTA(TOYT)</VehicleMakeCode>
+         <VehicleModelCode>MATRIX (SPORT WAGON)</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>2AD1443</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

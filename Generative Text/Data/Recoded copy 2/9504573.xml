@@ -1,0 +1,121 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2200</ORINum>
+   <ReportDate>04/26/2023 11:28:00</ReportDate>
+   <StartDate>04/26/2023 11:05:00</StartDate>
+   <Summary>Civil Marijuana</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>DUAL / EASTERN</IncAddrComment>
+      <AddressId>586282</AddressId>
+      <Address>
+         <AddressId>586282</AddressId>
+         <StreetName>Dual</StreetName>
+         <City>Hagerstown</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.70189</Longitude>
+         <Latitude>39.63166</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>1026-1026 DUAL / 0-0 EASTERN</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>1001-1025 DUAL / 0-0 EASTERN</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>1000-1024 DUAL / 1-99 EASTERN</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 DUAL / 0-0 EASTERN</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 DUAL / 2-98 EASTERN</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 DUAL / 1-99 EASTERN</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Shilling</LastName>
+            <FirstName>Kenneth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>O'Neal</LastName>
+            <FirstName>Zachary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>CIVIL 5-601</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>CIVIL 5-601</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>37</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>375953</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Tomago</LastName>
+               <FirstName>Sherry</FirstName>
+               <MiddleName>Joy</MiddleName>
+               <DOB>03/30/1986 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Tomago</LastName>
+               <FirstName>Sherry</FirstName>
+               <MiddleName>Joy</MiddleName>
+               <DOB>03/30/1986 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Marijuana</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248231</Property_ID>
+         <DrugTypeCode>SUSPECTED MARIJUANA</DrugTypeCode>
+         <Quantity>12.5</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

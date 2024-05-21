@@ -1,0 +1,367 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2200</ORINum>
+   <ReportDate>07/02/2023 18:48:00</ReportDate>
+   <StartDate>07/02/2023 18:04:00</StartDate>
+   <Summary>2ND DEGREE ASSAULT REPORTED</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>699695</AddressId>
+      <Address>
+         <AddressId>699695</AddressId>
+         <StreetNumber>13944</StreetNumber>
+         <StreetName>Heavenly Acres</StreetName>
+         <StreetTypeCode>Ridge</StreetTypeCode>
+         <City>Hancock</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-78.129168</Longitude>
+         <Latitude>39.694872</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Matthai</LastName>
+            <FirstName>Adam</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Campbell</LastName>
+            <FirstName>Zachary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>65</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>382113</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>TRUE</LastName>
+               <FirstName>VICKIE</FirstName>
+               <MiddleName>DIANE</MiddleName>
+               <DOB>03/13/1958 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>TRUE</LastName>
+               <FirstName>VICKIE</FirstName>
+               <MiddleName>DIANE</MiddleName>
+               <DOB>03/13/1958 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>13944</StreetNumber>
+               <StreetName>Heavenly Acres</StreetName>
+               <StreetTypeCode>Ridge</StreetTypeCode>
+               <City>Hancock</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.129168</Longitude>
+               <Latitude>39.694872</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>678</PhonePrefix>
+               <PhoneSuffix>6710</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>45</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>268177</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>True</LastName>
+               <FirstName>Eric</FirstName>
+               <MiddleName>Brent</MiddleName>
+               <DOB>06/25/1978 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>True</LastName>
+               <FirstName>Eric</FirstName>
+               <MiddleName>Brent</MiddleName>
+               <DOB>06/25/1978 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>110</StreetNumber>
+               <StreetName>Franklin</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Hancock</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21750</Zip5>
+               <Zip4>1106</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.1818927</Longitude>
+               <Latitude>39.7027792</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>520</PhonePrefix>
+               <PhoneSuffix>1488</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>R</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>44</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>199336</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Shives</LastName>
+               <FirstName>Megan</FirstName>
+               <MiddleName>Louise</MiddleName>
+               <DOB>08/13/1978 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Shives</LastName>
+               <FirstName>Megan</FirstName>
+               <MiddleName>Louise</MiddleName>
+               <DOB>08/13/1978 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>14859</StreetNumber>
+               <StreetName>National</StreetName>
+               <StreetTypeCode>Pike</StreetTypeCode>
+               <City>Clear Spring</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.85733251375257</Longitude>
+               <Latitude>39.65731325351633</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>R</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>44</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>382114</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>HOWE</LastName>
+               <FirstName>KEITH</FirstName>
+               <MiddleName>WILLIAM</MiddleName>
+               <DOB>05/16/1979 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>HOWE</LastName>
+               <FirstName>KEITH</FirstName>
+               <MiddleName>WILLIAM</MiddleName>
+               <DOB>05/16/1979 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>13944</StreetNumber>
+               <StreetName>Heavenly Acres</StreetName>
+               <StreetTypeCode>Ridge</StreetTypeCode>
+               <City>Hancock</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.129168</Longitude>
+               <Latitude>39.694872</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>491</PhonePrefix>
+               <PhoneSuffix>1256</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>R</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>40</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>382115</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>HOWE</LastName>
+               <FirstName>AMANDA</FirstName>
+               <MiddleName>BETH</MiddleName>
+               <DOB>11/04/1982 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>HOWE</LastName>
+               <FirstName>AMANDA</FirstName>
+               <MiddleName>BETH</MiddleName>
+               <DOB>11/04/1982 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>13944</StreetNumber>
+               <StreetName>Heavenly Acres</StreetName>
+               <StreetTypeCode>Ridge</StreetTypeCode>
+               <City>Hancock</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.129168</Longitude>
+               <Latitude>39.694872</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>491</PhonePrefix>
+               <PhoneSuffix>4986</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>71</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>382116</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>COCO</LastName>
+               <FirstName>KEITH</FirstName>
+               <MiddleName>FRANK</MiddleName>
+               <DOB>06/24/1952 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>COCO</LastName>
+               <FirstName>KEITH</FirstName>
+               <MiddleName>FRANK</MiddleName>
+               <DOB>06/24/1952 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>14507</StreetNumber>
+               <StreetName>HEAVENLY ACRES</StreetName>
+               <StreetTypeCode>Ridge</StreetTypeCode>
+               <City>Hancock</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21750</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>717</PhoneArea>
+               <PhonePrefix>814</PhonePrefix>
+               <PhoneSuffix>2649</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>R</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Matthai</LastName>
+            <FirstName>Adam</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Campbell</LastName>
+            <FirstName>Zachary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,109 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>02/02/2023 01:33:00</ReportDate>
+   <StartDate>02/02/2023 01:06:00</StartDate>
+   <Summary>Driver found to be in possession of CDS marijaua.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>SR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>S SALISBURY BLVD/ KAY AVE</IncAddrComment>
+      <AddressId>583976</AddressId>
+      <City>MDC154</City>
+      <Address>
+         <AddressId>583976</AddressId>
+         <StreetDirCode>S</StreetDirCode>
+         <StreetName>Salisbury</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>Salisbury</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21801</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>AVE</CrossStreetTypeCode>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Pardoe</LastName>
+            <FirstName>Mary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Hopkins</LastName>
+            <FirstName>Dra'karr</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Other Enforcement Action</OffenseStatusCode>
+         <OffenseCode>1 1564</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <Remarks>DRIVER ISSUED CIVL CIT.</Remarks>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1564</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>18</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>367871</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Ray</LastName>
+               <FirstName>Keyshaun</FirstName>
+               <MiddleName>Malik</MiddleName>
+               <DOB>06/25/2004 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Ray</LastName>
+               <FirstName>Keyshaun</FirstName>
+               <MiddleName>Malik</MiddleName>
+               <DOB>06/25/2004 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>278</PhonePrefix>
+               <PhoneSuffix>2201</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>One zip lock bag containing suspected raw marijuana</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>242692</Property_ID>
+         <DrugTypeCode>SUSPECTED MARIJUANA</DrugTypeCode>
+         <Quantity>27.9</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

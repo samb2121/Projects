@@ -1,0 +1,139 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>08/17/2023 20:00:00</ReportDate>
+   <StartDate>08/17/2023 19:51:00</StartDate>
+   <Summary>Possession of CDS NOT-Canabis.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>704160</AddressId>
+      <Address>
+         <AddressId>704160</AddressId>
+         <StreetNumber>210</StreetNumber>
+         <StreetName>Morris</StreetName>
+         <StreetTypeCode>Avenue</StreetTypeCode>
+         <City>Federalsburg</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.776689</Longitude>
+         <Latitude>38.69478</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Dulski</LastName>
+            <FirstName>Steve</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mazet</LastName>
+            <FirstName>Gary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1111</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1111</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>62</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>78283</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Wilmer Jr</LastName>
+               <FirstName>Wendell</FirstName>
+               <MiddleName>Deweese</MiddleName>
+               <DOB>09/30/1960 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Wilmer Jr</LastName>
+               <FirstName>Wendell</FirstName>
+               <MiddleName>Deweese</MiddleName>
+               <DOB>09/30/1960 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>7271</StreetNumber>
+               <StreetName>Statum</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Denton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21629</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.833283</Longitude>
+               <Latitude>38.807008</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>114</StreetNumber>
+               <StreetDirCode>S</StreetDirCode>
+               <StreetName>Pearl</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Seaford</City>
+               <StateCode>Delaware</StateCode>
+               <Zip5>19973</Zip5>
+               <Zip4>3920</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.6125296</Longitude>
+               <Latitude>38.6400476</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>253</PhonePrefix>
+               <PhoneSuffix>9833</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Crack cocaine, documented on MSP Property Held form 342778</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>253167</Property_ID>
+         <DrugTypeCode>SUSPECTED CRACK COCAINE</DrugTypeCode>
+         <Quantity>0.6</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>15</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Glass smoking device containing trace amounts of crack cocaine, Property Held form 342778</Description>
+         <PropertyTypeCode>DRUG / NARCOTIC EQUIPMENT</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>253168</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

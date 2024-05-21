@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-006022</IncidentReportNum>
+   <AgencyCode>82</AgencyCode>
+   <ORINum>MDMSP5400</ORINum>
+   <ReportDate>02/16/2023 12:04:00</ReportDate>
+   <ReportTime>02/16/2023 12:04:00</ReportTime>
+   <StartDate>02/16/2023 11:16:00</StartDate>
+   <StartTime>02/16/2023 11:16:00</StartTime>
+   <Summary>I responded to a request to assist the fire department with a hazardous materials incident at the Elementary School.  Assistance was provided to the school personnel and fire department with traffic control in an attempt to expedite dismissal of children.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>02/16/2023 12:04:35</CreatorDate>
+   <UpdatorId>MSP5561</UpdatorId>
+   <UpdatorDate>05/15/2023 18:30:19</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>AOA</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>422918</AddressId>
+      <City>MDC347</City>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>02/16/2023 12:04:37</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>02/16/2023 13:30:36</UpdatorDate>
+      <Address>
+         <AddressId>422918</AddressId>
+         <StreetNumber>43765</StreetNumber>
+         <StreetName>Evergreen</StreetName>
+         <StreetTypeCode>WAY</StreetTypeCode>
+         <City>California</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-76.56508259675097</Longitude>
+         <Latitude>38.30127379462006</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>EVERGREEN ELEMENTARY SCHOOL</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>02/16/2023 12:04:28</SuppReportDate>
+      <SuppReportTime>02/16/2023 12:04:28</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>82</SuppAgencyCode>
+      <DsIcrDate>05/15/2023 18:30:19</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>02/16/2023 12:04:35</CreatorDate>
+      <UpdatorId>MSP5561</UpdatorId>
+      <UpdatorDate>05/15/2023 18:30:19</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>&amp;nbsp; &amp;nbsp;On February 16, 2023 at approximately 1116 hours, the St. Mary&amp;#39;s County Emergency Communications Center dispatched police for an assist other agency at Evergreen Elementary School located at 43765 Evergreen Way, California, St. Mary&amp;#39;s County, Maryland.&amp;nbsp; I responded to the scene and made contact with Chief Ernest Rogers of the Hollywood Volunteer Fire Department who had command of the incident.&amp;nbsp; There, I was briefed that there had been a hazardous materials incident during the routine mixing of a corrosive material with water by maintenance personnel creating a vapor cloud.&amp;nbsp; The school had already been evacuated by school staff prior to my arrival with children remaining outside.&amp;nbsp; &amp;nbsp;I made contact with the school Principal Jamie Jameson, who made the decision to cancel the remainder of the school day and begin the process of busing students home from school early.&amp;nbsp; Trooper Pettitt #7174 of the MSP Leonardtown Barrack arrived on scene and was tasked with stopping all traffic on Wildewood Parkway into the school grounds.&amp;nbsp; Myself, Principal Jameson and Trooper Pettitt then assisted with traffic control in and out of the school ensuring orderly dismissal of children from the school.&amp;nbsp; Troopers remained on scene until all students had been either picked up by their parents or bused from the scene.&amp;nbsp; Fire Department personnel cleared the scene and rendered the building safe after ventilating the building.&lt;br /&gt; &lt;br /&gt; This case closed no further.&amp;nbsp;</NarrativeText>
+         <CreatorId>MSP0568</CreatorId>
+         <CreatorDate>02/16/2023 13:33:25</CreatorDate>
+         <UpdatorId>MSP0568</UpdatorId>
+         <UpdatorDate>02/16/2023 14:11:45</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>82</AgencyCode>
+            <ORINumber>MDMSP5400</ORINumber>
+            <LastName>Pettitt</LastName>
+            <FirstName>Julia</FirstName>
+            <InternalID>7174</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>82</AgencyCode>
+            <ORINumber>MDMSP5400</ORINumber>
+            <LastName>Jackson</LastName>
+            <FirstName>Rhett</FirstName>
+            <InternalID>5561</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>CVED</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Davis</LastName>
+            <FirstName>Matthew</FirstName>
+            <InternalID>0568</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

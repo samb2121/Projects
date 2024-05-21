@@ -1,0 +1,97 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5200</ORINum>
+   <ReportDate>04/29/2023 13:13:00</ReportDate>
+   <StartDate>04/29/2023 12:54:00</StartDate>
+   <Summary>Sick and Injured</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>I97 NB TO QUARTERFIELD WB / QUARTERFIELD RD</IncAddrComment>
+      <AddressId>630806</AddressId>
+      <Address>
+         <AddressId>630806</AddressId>
+         <StreetName>I97 Nb To Quarterfield Wb</StreetName>
+         <City>Glen Burnie</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <AddressCommonName>
+            <CommonPlaceName>1-30 I97 NB TO QUARTERFIELD WB / 7780-7794 QUARTERFIELD RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>1-30 I97 NB TO QUARTERFIELD WB / 7781-7787 QUARTERFIELD RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wahl</LastName>
+            <FirstName>Corey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Smith</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Smith</LastName>
+            <FirstName>Kelvin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>376665</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>SICILIANO</LastName>
+               <FirstName>JOSE</FirstName>
+               <MiddleName>MARVIN ARGUMEDO</MiddleName>
+               <DOB>05/04/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>SICILIANO</LastName>
+               <FirstName>JOSE</FirstName>
+               <MiddleName>MARVIN ARGUMEDO</MiddleName>
+               <DOB>05/04/1989 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>152480</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>1FTPW14555KD36005</VIN>
+         <VehicleYear>2005</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>F-150</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BRO</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>2ED7423</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>1</VehicleLicMonth>
+         <VehConditionCode>F</VehConditionCode>
+         <VehDamageCode>12</VehDamageCode>
+         <VehDamageDesc>REAR WINDOW BROKEN </VehDamageDesc>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

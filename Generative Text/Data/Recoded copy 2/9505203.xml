@@ -1,0 +1,52 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>10/05/2023 18:47:00</ReportDate>
+   <StartDate>10/05/2023 18:10:00</StartDate>
+   <Summary>CDS Possession</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>HAGER ST/ FREDERICK ST</IncAddrComment>
+      <AddressId>709082</AddressId>
+      <Address>
+         <AddressId>709082</AddressId>
+         <StreetName>Hager</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Hagerstown</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>ST</CrossStreetTypeCode>
+         <Longitude>-77.71756</Longitude>
+         <Latitude>39.63432</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>238-299 HAGER ST / 272-299 FREDERICK ST</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Thompson</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Buck</LastName>
+            <FirstName>Theodore</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>West</LastName>
+            <FirstName>Thomas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

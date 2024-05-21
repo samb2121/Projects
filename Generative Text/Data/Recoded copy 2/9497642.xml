@@ -1,0 +1,158 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4800</ORINum>
+   <ReportDate>04/02/2023 03:34:00</ReportDate>
+   <StartDate>04/02/2023 03:07:00</StartDate>
+   <Summary>MDOP</Summary>
+   <IncidentType>
+      <IncidentTypeCode>MDOP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>689366</AddressId>
+      <Address>
+         <AddressId>689366</AddressId>
+         <StreetNumber>10423</StreetNumber>
+         <StreetName>Harrison</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Berlin</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.202068</Longitude>
+         <Latitude>38.307805</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Kreiling</LastName>
+            <FirstName>Chad</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Shockley</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Brader</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>49</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>74335</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Smack</LastName>
+               <FirstName>Kendra</FirstName>
+               <MiddleName>Evette</MiddleName>
+               <DOB>10/24/1973 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Smack</LastName>
+               <FirstName>Kendra</FirstName>
+               <MiddleName>Evette</MiddleName>
+               <DOB>10/24/1973 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>10742</StreetNumber>
+               <StreetName>FLOWER</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>BERLIN</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.1901441173269</Longitude>
+               <Latitude>38.33617650279741</Latitude>
+               <SubBeat>964</SubBeat>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>10423</StreetNumber>
+               <StreetName>Harrison</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Berlin</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.202068</Longitude>
+               <Latitude>38.307805</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>20</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>306035</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Cousar</LastName>
+               <FirstName>Gabriel</FirstName>
+               <MiddleName>Timothy</MiddleName>
+               <DOB>09/16/2002 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Cousar</LastName>
+               <FirstName>Gabriel</FirstName>
+               <MiddleName>Timothy</MiddleName>
+               <DOB>09/16/2002 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>10742</StreetNumber>
+               <StreetName>FLOWER</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>BERLIN</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.1901441173269</Longitude>
+               <Latitude>38.33617650279741</Latitude>
+               <SubBeat>964</SubBeat>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>373</PhonePrefix>
+               <PhoneSuffix>9201</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>152055</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>KMHGC4DD3CU195479</VIN>
+         <VehicleYear>2012</VehicleYear>
+         <VehicleMakeCode>HYUNDAI</VehicleMakeCode>
+         <VehicleModelCode>Genesis</VehicleModelCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehSecColorCode>WHI</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>7DY9484</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

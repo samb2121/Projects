@@ -1,0 +1,159 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2200</ORINum>
+   <ReportDate>01/16/2023 17:03:00</ReportDate>
+   <StartDate>01/16/2023 16:03:00</StartDate>
+   <Summary>ASSAULT</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>106327</AddressId>
+      <City>MDC112</City>
+      <Address>
+         <AddressId>106327</AddressId>
+         <StreetNumber>21036</StreetNumber>
+         <StreetName>NATIONAL</StreetName>
+         <StreetTypeCode>Pike</StreetTypeCode>
+         <City>BOONSBORO</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.63733909220305</Longitude>
+         <Latitude>39.56609685751731</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FAMILY RECREATION</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Ward</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Gertz</LastName>
+            <FirstName>Chris</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>42</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>346689</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Phillips</LastName>
+               <FirstName>Tanya</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>07/01/1980 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Phillips</LastName>
+               <FirstName>Tanya</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>07/01/1980 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>9920</StreetNumber>
+               <StreetName>CRYSTAL FALLS </StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Hagerstown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21740</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.608206</Longitude>
+               <Latitude>39.586872</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>367</PhonePrefix>
+               <PhoneSuffix>7307</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>366277</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Rolle</LastName>
+               <FirstName>Shacole</FirstName>
+               <MiddleName>Shanea</MiddleName>
+               <DOB>01/25/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Rolle</LastName>
+               <FirstName>Shacole</FirstName>
+               <MiddleName>Shanea</MiddleName>
+               <DOB>01/25/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>303</StreetNumber>
+               <StreetName>Roberts</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>1</SubNumber>
+               <City>Martinsburg</City>
+               <StateCode>West Virginia</StateCode>
+               <Zip5>25404</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>938</PhonePrefix>
+               <PhoneSuffix>7100</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>148707</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>JN1EV7AR9KM591652</VIN>
+         <VehicleYear>2019</VehicleYear>
+         <VehicleMakeCode>INFINITI</VehicleMakeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehicleLicStateCode>VA</VehicleLicStateCode>
+         <VehicleLicNumber>B48404</VehicleLicNumber>
+         <VehicleLicYear>2022</VehicleLicYear>
+         <VehicleLicMonth>12</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

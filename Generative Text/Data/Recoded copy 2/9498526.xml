@@ -1,0 +1,132 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>06/24/2023 01:58:00</ReportDate>
+   <StartDate>06/24/2023 01:30:00</StartDate>
+   <Summary>DUI: 23-341 "R" CLAGGETT</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>EASTERN BLVD/ SEAMASTER RD</IncAddrComment>
+      <AddressId>632682</AddressId>
+      <Address>
+         <AddressId>632682</AddressId>
+         <StreetName>Eastern</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>Essex</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-76.4456</Longitude>
+         <Latitude>39.32569</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>1918-1918 EASTERN BLVD / 0-0 SEAMASTER RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Speak</LastName>
+            <FirstName>Logan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Wallace</LastName>
+            <FirstName>Anthony</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Speak</LastName>
+            <FirstName>Logan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Speak</LastName>
+            <FirstName>Logan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16357</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16357</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>39</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>381143</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Claggett</LastName>
+               <FirstName>Larnelle</FirstName>
+               <MiddleName>Daniel</MiddleName>
+               <DOB>09/10/1983 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Claggett</LastName>
+               <FirstName>Larnelle</FirstName>
+               <MiddleName>Daniel</MiddleName>
+               <DOB>09/10/1983 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>5413</StreetNumber>
+               <StreetName>Bishops Head</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Columbia</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21044</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>154622</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VehicleYear>2006</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>CROWN VICTORIA</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>3CP0835</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

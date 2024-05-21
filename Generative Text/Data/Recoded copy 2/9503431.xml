@@ -1,0 +1,183 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>01/26/2023 15:46:00</ReportDate>
+   <StartDate>01/26/2023 15:05:00</StartDate>
+   <Summary>Assault between two brothers.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>451133</AddressId>
+      <City>MDC279</City>
+      <Address>
+         <AddressId>451133</AddressId>
+         <StreetNumber>325</StreetNumber>
+         <StreetName>Creekside Commons</StreetName>
+         <StreetTypeCode>Court</StreetTypeCode>
+         <City>Stevensville</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.31388220205787</Longitude>
+         <Latitude>38.9736993693116</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Nickerson</LastName>
+            <FirstName>Tanner</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Wiley</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Majerowicz</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>20</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>248072</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Williams</LastName>
+               <FirstName>Ryan</FirstName>
+               <MiddleName>NMN</MiddleName>
+               <DOB>03/27/2002 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Williams</LastName>
+               <FirstName>Ryan</FirstName>
+               <MiddleName>NMN</MiddleName>
+               <DOB>03/27/2002 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>325</StreetNumber>
+               <StreetName>Creekside Commons</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Stevensville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21666</Zip5>
+               <Zip4>2564</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.315074</Longitude>
+               <Latitude>38.973835</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>1113</StreetNumber>
+               <StreetName>Bradley</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Centreville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21617</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.053598</Longitude>
+               <Latitude>39.041441</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>829</PhonePrefix>
+               <PhoneSuffix>5988</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>23</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>50788</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Williams</LastName>
+               <FirstName>Branden</FirstName>
+               <MiddleName>Tyler</MiddleName>
+               <DOB>01/03/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Williams</LastName>
+               <FirstName>Branden</FirstName>
+               <MiddleName>Tyler</MiddleName>
+               <DOB>01/03/2000 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>211</StreetNumber>
+               <StreetName>STATE</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>STEVENSVILLE</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>02166</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.311389</Longitude>
+               <Latitude>38.982204</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Wiley</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Majerowicz</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared Exceptionally - Prosecution Declined, No Complaint Filed</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,122 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0300</ORINum>
+   <ReportDate>11/01/2023 01:36:00</ReportDate>
+   <StartDate>11/01/2023 01:10:00</StartDate>
+   <Summary>DUI / DWI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>MD-201 SB EXIT 23 RAMP 5,GREENBELT</IncAddrComment>
+      <AddressId>711673</AddressId>
+      <Address>
+         <AddressId>711673</AddressId>
+         <StreetName>I-95</StreetName>
+         <City>Greenbelt</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20770</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.898108</Longitude>
+         <Latitude>39.005886</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Albaugh</LastName>
+            <FirstName>Josiah</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Kemp</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Glessner</LastName>
+            <FirstName>John</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>14583</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14583</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>4382</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>4382</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>21334</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>21334</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>27</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>391756</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>FERREIRA</LastName>
+               <FirstName>DANIEL</FirstName>
+               <MiddleName>ENRIQUE</MiddleName>
+               <DOB>04/05/1996 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>FERREIRA</LastName>
+               <FirstName>DANIEL</FirstName>
+               <MiddleName>ENRIQUE</MiddleName>
+               <DOB>04/05/1996 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,212 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>12/09/2023 18:29:00</ReportDate>
+   <StartDate>12/09/2023 18:28:00</StartDate>
+   <Summary>Late reported assault</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>2369</AddressId>
+      <Address>
+         <AddressId>2369</AddressId>
+         <StreetNumber>1234</StreetNumber>
+         <StreetName>WASHINGTON</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>WESTMINSTER</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21157</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.99524</Longitude>
+         <Latitude>39.5404</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>WESTMINSTER HEALTHCARE CENTER</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>GOLDEN LIVING NURSING</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>WESTMINSTER HEALTH CARE</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>WESTMINSTER HEALTH CENTER</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>WESTMINSTER HEALTHCARE</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>GOLDEN LIVING NURSING CENTER</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>MD - SPPCS - WIRELESS CALLER</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>BEVERLY LIVING CTR</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>GOLDEN LIVING</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>GOLDEN LIVING CENTER</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Smith</LastName>
+            <FirstName>Dale</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Petry</LastName>
+            <FirstName>Colton</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Drug Store/Doctors Office/Hospital</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>281366</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Bonnett</LastName>
+               <FirstName>Shannon</FirstName>
+               <MiddleName>Rae</MiddleName>
+               <DOB>03/14/1990 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Bonnett</LastName>
+               <FirstName>Shannon</FirstName>
+               <MiddleName>Rae</MiddleName>
+               <DOB>03/14/1990 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1803</StreetNumber>
+               <StreetName>Harman</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21230</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.6529588</Longitude>
+               <Latitude>39.2675531</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>100</StreetNumber>
+               <StreetName>Charles</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Westminster</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21157</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.99233</Longitude>
+               <Latitude>39.564864</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>453</PhonePrefix>
+               <PhoneSuffix>1143</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>43</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>395021</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Mcdougald</LastName>
+               <FirstName>Shanea</FirstName>
+               <DOB>11/23/1980 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Mcdougald</LastName>
+               <FirstName>Shanea</FirstName>
+               <DOB>11/23/1980 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>4157</StreetNumber>
+               <StreetName>Mountain</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <SubTypeCode>POB</SubTypeCode>
+               <SubNumber>323</SubNumber>
+               <City>Pasadena</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21122</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.516001</Longitude>
+               <Latitude>39.120508</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>876</PhonePrefix>
+               <PhoneSuffix>6784</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mcgee</LastName>
+            <FirstName>Jon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Petry</LastName>
+            <FirstName>Colton</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Drug Store/Doctors Office/Hospital</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+   </IncidentSupplement>
+</Incident>

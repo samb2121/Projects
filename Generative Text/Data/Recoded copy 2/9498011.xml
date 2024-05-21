@@ -1,0 +1,146 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>01/28/2023 01:17:00</ReportDate>
+   <StartDate>01/28/2023 00:51:00</StartDate>
+   <Summary>Impaired driver arrested on traffic stop</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>LIBERTY RD/ WORMANS MILL RD</IncAddrComment>
+      <AddressId>558213</AddressId>
+      <City>MDC151</City>
+      <Address>
+         <AddressId>558213</AddressId>
+         <StreetName>Liberty</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Frederick</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-77.395635</Longitude>
+         <Latitude>39.445349</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>PRIOR TO WORMANS MILL</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>7590-7598 LIBERTY RD / 0-0 WORMANS MILL RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 LIBERTY RD / 7900-7929 WORMANS MILL RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>WB  LIBERTY RD / 0-0 WORMANS MILL RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>7600-7608 LIBERTY RD / 0-0 WORMANS MILL RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 LIBERTY RD / 0-0 WORMANS MILL RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>7550-7588 LIBERTY RD / 0-0 WORMANS MILL RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Dodson</LastName>
+            <FirstName>Travis</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bonneville</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Dodson</LastName>
+            <FirstName>Travis</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Dodson</LastName>
+            <FirstName>Travis</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>14583</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14583</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>32</ApproxAge>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>263570</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Marroquin Soma</LastName>
+               <FirstName>Lesly</FirstName>
+               <MiddleName>Yanira</MiddleName>
+               <DOB>10/20/1990 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Marroquin Soma</LastName>
+               <FirstName>Lesly</FirstName>
+               <MiddleName>Yanira</MiddleName>
+               <DOB>10/20/1990 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>505</StreetNumber>
+               <StreetName>Logan</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Frederick</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21701</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.418802</Longitude>
+               <Latitude>39.405311</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>947</PhonePrefix>
+               <PhoneSuffix>4947</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,138 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5100</ORINum>
+   <ReportDate>02/11/2023 02:33:00</ReportDate>
+   <StartDate>02/11/2023 02:18:00</StartDate>
+   <Summary>Driver was stopped for a traffic violation and later arrested for DUI/DWI.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>416 ROWE,ANNAPOLIS</IncAddrComment>
+      <AddressId>558963</AddressId>
+      <City>MDC102</City>
+      <Address>
+         <AddressId>558963</AddressId>
+         <StreetName>Rowe Blvd @ Melvin Ave.</StreetName>
+         <City>Annapolis</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21401</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Distance>0</Distance>
+         <Longitude>-76.50559</Longitude>
+         <Latitude>38.98881</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 ROWE BLVD / 0-0 MELVIN AVE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Anderson</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Anderson</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Jeans</LastName>
+            <FirstName>Kyle</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>368762</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Schill</LastName>
+               <FirstName>Scott</FirstName>
+               <MiddleName>Kim</MiddleName>
+               <DOB>10/15/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Schill</LastName>
+               <FirstName>Scott</FirstName>
+               <MiddleName>Kim</MiddleName>
+               <DOB>10/15/1989 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2027</StreetNumber>
+               <StreetName>Bank</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21231</Zip5>
+               <Zip4>2714</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.588034</Longitude>
+               <Latitude>39.286673</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>472</PhonePrefix>
+               <PhoneSuffix>0246</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>149708</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>2HGFG3B51DH515480</VIN>
+         <VehicleYear>2013</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>CIVIC (AND CRX), CIVIC DEL SOL</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>1BE2848</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>8</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

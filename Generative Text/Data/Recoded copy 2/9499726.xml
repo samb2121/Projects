@@ -1,0 +1,91 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0400</ORINum>
+   <ReportDate>08/06/2023 14:32:00</ReportDate>
+   <StartDate>08/06/2023 13:22:00</StartDate>
+   <Summary>pedestrian walking on nb 270, t96, EP</Summary>
+   <IncidentType>
+      <IncidentTypeCode>EP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>N 270 TO E MIDDLEBROOK RAMP / MIDDLEBROOK RD</IncAddrComment>
+      <AddressId>703329</AddressId>
+      <Address>
+         <AddressId>703329</AddressId>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>270</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <City>Germantown</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20876</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-77.25134</Longitude>
+         <Latitude>39.18107</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Seidl</LastName>
+            <FirstName>Brendon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Butler</LastName>
+            <FirstName>Andre</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Yu</LastName>
+            <FirstName>Zhi</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Other Enforcement Action</OffenseStatusCode>
+         <OffenseCode>16995</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>16995</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>66</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>384631</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>FORRESTER</LastName>
+               <FirstName>BYRON</FirstName>
+               <MiddleName>KEITH</MiddleName>
+               <DOB>10/21/1956 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>FORRESTER</LastName>
+               <FirstName>BYRON</FirstName>
+               <MiddleName>KEITH</MiddleName>
+               <DOB>10/21/1956 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>PE</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

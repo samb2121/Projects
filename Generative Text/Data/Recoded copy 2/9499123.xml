@@ -1,0 +1,71 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>06/23/2023 11:26:00</ReportDate>
+   <StartDate>06/23/2023 11:26:00</StartDate>
+   <Summary>RAPID Electronic Compliance Audit</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>495717</AddressId>
+      <Address>
+         <AddressId>495717</AddressId>
+         <StreetNumber>14000</StreetNumber>
+         <StreetName>Crain</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <City>Brandywine</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20613</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.86836</Longitude>
+         <Latitude>38.696362</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Haas</LastName>
+            <FirstName>Jesse</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Tucker</LastName>
+            <FirstName>John</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>372987</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Fones</LastName>
+               <FirstName>Lisa</FirstName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Fones</LastName>
+               <FirstName>Lisa</FirstName>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>372</PhonePrefix>
+               <PhoneSuffix>1000</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

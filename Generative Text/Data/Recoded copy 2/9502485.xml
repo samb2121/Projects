@@ -1,0 +1,81 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>10/30/2023 13:40:00</ReportDate>
+   <StartDate>10/30/2023 13:08:00</StartDate>
+   <Summary>Work place injury.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>176 NORTH EAST RD,NORTH EAST</IncAddrComment>
+      <AddressId>711512</AddressId>
+      <Address>
+         <AddressId>711512</AddressId>
+         <StreetNumber>176</StreetNumber>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>East</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <StreetSuffixCode>E</StreetSuffixCode>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.94725</Longitude>
+         <Latitude>39.61377</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Siemek</LastName>
+            <FirstName>Adam </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Eby</LastName>
+            <FirstName>Kyle </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>NOCHG</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>NOCHG</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>32</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>391647</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Roblero</LastName>
+               <FirstName>Dulce</FirstName>
+               <DOB>11/11/1990 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Roblero</LastName>
+               <FirstName>Dulce</FirstName>
+               <DOB>11/11/1990 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>920</PhonePrefix>
+               <PhoneSuffix>3160</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

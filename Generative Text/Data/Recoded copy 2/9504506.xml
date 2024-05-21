@@ -1,0 +1,173 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3000</ORINum>
+   <ReportDate>09/25/2023 17:29:00</ReportDate>
+   <StartDate>09/25/2023 16:34:00</StartDate>
+   <Summary>Theft from grocery store</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>24962</AddressId>
+      <SubBeat>531</SubBeat>
+      <Address>
+         <AddressId>24962</AddressId>
+         <StreetNumber>2101</StreetNumber>
+         <StreetName>ROCK SPRING</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>FOREST HILL</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>531</SubBeat>
+         <Longitude>-76.38592043849587</Longitude>
+         <Latitude>39.57415859612372</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>SHOPRITE</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>KLIENS</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Stec</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wantz</LastName>
+            <FirstName>Corbett </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0621 23C</OffenseCode>
+         <PlaceCode>Grocery/Supermarket</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0621 23C</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>31</ApproxAge>
+         <Person>
+            <PersonId>70484</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Otte</LastName>
+               <FirstName>Sean</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>01/31/1992 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Otte</LastName>
+               <FirstName>Sean</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>01/31/1992 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>23</ApproxAge>
+         <Person>
+            <PersonId>391288</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hoskins</LastName>
+               <FirstName>Robert</FirstName>
+               <DOB>05/05/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hoskins</LastName>
+               <FirstName>Robert</FirstName>
+               <DOB>05/05/2000 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>4325</StreetNumber>
+               <StreetName>Madonna</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Street</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21154</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.49442</Longitude>
+               <Latitude>39.651032</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240005829</BusinessNumber>
+         <BusinessName>Klein's Shoprite</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>24962</AddressId>
+            <StreetNumber>2101</StreetNumber>
+            <StreetName>ROCK SPRING</StreetName>
+            <StreetTypeCode>Road</StreetTypeCode>
+            <City>FOREST HILL</City>
+            <StateCode>Maryland</StateCode>
+            <CountryCode>United States of America</CountryCode>
+            <CountyCode>NaN</CountyCode>
+            <Longitude>-76.38592043849587</Longitude>
+            <Latitude>39.57415859612372</Latitude>
+            <SubBeat>531</SubBeat>
+            <AddressCommonName>
+               <CommonPlaceName>SHOPRITE</CommonPlaceName>
+            </AddressCommonName>
+            <AddressCommonName>
+               <CommonPlaceName>KLIENS</CommonPlaceName>
+            </AddressCommonName>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>MISC/NO CODE</PropertyTypeCode>
+         <PropertyValue>231.06</PropertyValue>
+         <Value>231.06</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254940</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Stec</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wantz</LastName>
+            <FirstName>Corbett </FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

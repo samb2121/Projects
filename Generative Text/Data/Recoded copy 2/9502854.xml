@@ -1,0 +1,136 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>03/18/2023 12:24:00</ReportDate>
+   <StartDate>03/18/2023 11:30:00</StartDate>
+   <Summary>Theft of a catalytic converter.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>1763 MANCHESTER RD</IncAddrComment>
+      <AddressId>693168</AddressId>
+      <City>MDC249</City>
+      <Address>
+         <AddressId>693168</AddressId>
+         <StreetNumber>1763</StreetNumber>
+         <StreetName>Manchester</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Westminster</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21157</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.93552</Longitude>
+         <Latitude>39.619796</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>McCarty</LastName>
+            <FirstName>Cade</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Iman</LastName>
+            <FirstName>Andrew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Inactive</OffenseStatusCode>
+         <OffenseCode>1 1137_AOL</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <Person>
+            <PersonId>372554</PersonId>
+            <RaceCode>Unknown</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>65</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>372555</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Shatzer</LastName>
+               <FirstName>Harlod</FirstName>
+               <MiddleName>Bruce</MiddleName>
+               <DOB>07/10/1957 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Shatzer</LastName>
+               <FirstName>Harlod</FirstName>
+               <MiddleName>Bruce</MiddleName>
+               <DOB>07/10/1957 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>487</PhonePrefix>
+               <PhoneSuffix>7310</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>151277</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>1FTNX21LX4EA72550</VIN>
+         <VehicleYear>2004</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>F250 Regular Cab</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>MAR</VehPriColorCode>
+         <VehSecColorCode>MAR</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>ITHAPNS</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>3</VehicleLicMonth>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>One catalytic converter. </Description>
+         <PropertyTypeCode>997</PropertyTypeCode>
+         <PropertyValue>1000</PropertyValue>
+         <Value>1000</Value>
+         <SerialNumber>UNK</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246048</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

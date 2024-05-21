@@ -1,0 +1,148 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>02/23/2023 16:22:00</ReportDate>
+   <StartDate>02/23/2023 16:22:00</StartDate>
+   <Summary>Theft</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>82419</AddressId>
+      <SubBeat>554</SubBeat>
+      <City>MDC371</City>
+      <Address>
+         <AddressId>82419</AddressId>
+         <StreetNumber>370</StreetNumber>
+         <StreetName>OLD MILL</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>CONOWINGO</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>554</SubBeat>
+         <Longitude>-76.17551139912666</Longitude>
+         <Latitude>39.72090058430287</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Davis</LastName>
+            <FirstName>James</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mingle</LastName>
+            <FirstName>Ian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0521</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0521</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>369165</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Flayhearty</LastName>
+               <FirstName>Amiee</FirstName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Flayhearty</LastName>
+               <FirstName>Amiee</FirstName>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>297752</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Salvati</LastName>
+               <FirstName>Kevin</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>06/22/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Salvati</LastName>
+               <FirstName>Kevin</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>06/22/1989 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>370</StreetNumber>
+               <StreetName>Old Mill</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21918</Zip5>
+               <Zip4>1153</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.173385</Longitude>
+               <Latitude>39.719373</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>206</PhonePrefix>
+               <PhoneSuffix>4322</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>32 inch tv</Description>
+         <PropertyTypeCode>TELEVISION</PropertyTypeCode>
+         <PropertyValue>99</PropertyValue>
+         <Value>99</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>244220</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>With leather strap and Casco 6x9 scope, unsure of serial number</Description>
+         <PropertyTypeCode>MSPRL</PropertyTypeCode>
+         <PropertyValue>99</PropertyValue>
+         <Value>99</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>244221</Property_ID>
+         <Make>Marlin</Make>
+         <Model>30-30</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

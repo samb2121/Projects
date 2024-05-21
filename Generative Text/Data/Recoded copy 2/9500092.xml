@@ -1,0 +1,315 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4800</ORINum>
+   <ReportDate>09/19/2023 11:40:00</ReportDate>
+   <StartDate>09/19/2023 10:15:00</StartDate>
+   <Summary>Theft report.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>702493</AddressId>
+      <Address>
+         <AddressId>702493</AddressId>
+         <StreetNumber>10434</StreetNumber>
+         <StreetName>Assateague</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Berlin</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.200728</Longitude>
+         <Latitude>38.319914</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Jenkins</LastName>
+            <FirstName>Thomas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Johnson</LastName>
+            <FirstName>Jonathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Ruiz</LastName>
+            <FirstName>Francisco</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Gibbons</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1137_AOL</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1137_AOL</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>3 4025</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>3 4025</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>59</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>35867</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Joyner</LastName>
+               <FirstName>David</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>12/11/1963 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Joyner</LastName>
+               <FirstName>David</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>12/11/1963 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>9049</StreetNumber>
+               <StreetName>POPLAR</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>BERLIN</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.21696797785455</Longitude>
+               <Latitude>38.31114927927183</Latitude>
+               <SubBeat>966</SubBeat>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>669</PhonePrefix>
+               <PhoneSuffix>5715</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>359</PhonePrefix>
+               <PhoneSuffix>9000</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>493</PhonePrefix>
+               <PhoneSuffix>2042</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>45</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>186146</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Scott</LastName>
+               <FirstName>Heather</FirstName>
+               <MiddleName>Renee</MiddleName>
+               <DOB>07/02/1978 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Scott</LastName>
+               <FirstName>Heather</FirstName>
+               <MiddleName>Renee</MiddleName>
+               <DOB>07/02/1978 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>10004</StreetNumber>
+               <StreetName>Orchard</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Berlin</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.21985409394694</Longitude>
+               <Latitude>38.277520178851695</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>757</PhoneArea>
+               <PhonePrefix>694</PhonePrefix>
+               <PhoneSuffix>7323</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>202</PhonePrefix>
+               <PhoneSuffix>9416</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>47</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>392536</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Spence</LastName>
+               <FirstName>Deshawn</FirstName>
+               <DOB>05/22/1976 00:00:00</DOB>
+               <TitleCode>Senior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Spence</LastName>
+               <FirstName>Deshawn</FirstName>
+               <DOB>05/22/1976 00:00:00</DOB>
+               <TitleCode>Senior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>37198</StreetNumber>
+               <StreetName>Sugarhill</StreetName>
+               <StreetTypeCode>Way</StreetTypeCode>
+               <City>Selbyville</City>
+               <StateCode>Delaware</StateCode>
+               <Zip5>19975</Zip5>
+               <Zip4>4201</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.097209</Longitude>
+               <Latitude>38.47691</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>302</PhoneArea>
+               <PhonePrefix>208</PhonePrefix>
+               <PhoneSuffix>0367</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>PA</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>C</DocumentTypeCode>
+         <PropertyTypeCode>CASH</PropertyTypeCode>
+         <PropertyValue>1000</PropertyValue>
+         <Value>1000</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254402</Property_ID>
+         <Quantity>1000</Quantity>
+         <Amount>1000</Amount>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>SAFE</PropertyTypeCode>
+         <PropertyValue>500</PropertyValue>
+         <Value>500</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254403</Property_ID>
+         <PrimaryColor>WHI</PrimaryColor>
+         <SecondaryColor>RED</SecondaryColor>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>4</RoleCode>
+         <StatusCode>4</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>SAFE</PropertyTypeCode>
+         <PropertyValue>500</PropertyValue>
+         <Value>500</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254403</Property_ID>
+         <PrimaryColor>WHI</PrimaryColor>
+         <SecondaryColor>RED</SecondaryColor>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Jonischek</LastName>
+            <FirstName>Todd</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Gibbons</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Jonischek</LastName>
+            <FirstName>Todd</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Gibbons</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

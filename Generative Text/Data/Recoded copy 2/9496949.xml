@@ -1,0 +1,153 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0300</ORINum>
+   <ReportDate>04/01/2023 00:44:00</ReportDate>
+   <StartDate>04/01/2023 00:11:00</StartDate>
+   <Summary>DUI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>I97 / CROWNSVILLE RD</IncAddrComment>
+      <AddressId>583527</AddressId>
+      <City>MDC102</City>
+      <Address>
+         <AddressId>583527</AddressId>
+         <StreetName>I97</StreetName>
+         <City>Annapolis</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <AddressCommonName>
+            <CommonPlaceName>401-1000 I97 / 1806-1829 CROWNSVILLE RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>1001-2500 I97 / 1806-1829 CROWNSVILLE RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>401-1050 I97 / 1800-1825 CROWNSVILLE RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>401-1000 I97 / 1810-1845 CROWNSVILLE RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>SB 97 AT CROWNSVILLE</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>401-1050 I97 / 1806-1829 CROWNSVILLE RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>1051-2500 I97 / 1800-1825 CROWNSVILLE RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Anderson</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Williams</LastName>
+            <FirstName>Aaron</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>PERIS</LastName>
+            <FirstName>BRYAN</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <Remarks>DUI</Remarks>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>45</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>224667</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Mendoza</LastName>
+               <FirstName>Isaac</FirstName>
+               <DOB>02/15/1978 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Mendoza</LastName>
+               <FirstName>Isaac</FirstName>
+               <DOB>02/15/1978 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3111</StreetNumber>
+               <StreetName>New Coach</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Bowie</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20716</Zip5>
+               <Zip4>1216</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.7443158</Longitude>
+               <Latitude>38.9331287</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>601</PhonePrefix>
+               <PhoneSuffix>9570</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>151523</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>1GT49SEYXMF196713</VIN>
+         <VehicleYear>2021</VehicleYear>
+         <VehicleMakeCode>GENERAL MOTORS CORP.</VehicleMakeCode>
+         <VehicleModelCode>Sierra (Classic) 1500 HD Crew Cab</VehicleModelCode>
+         <VehicleStyleCode>4T</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehSecColorCode>WHI</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>2EM4003</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>3</VehicleLicMonth>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehicleValue>0</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,117 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0300</ORINum>
+   <ReportDate>11/10/2023 03:08:00</ReportDate>
+   <StartDate>11/10/2023 02:41:00</StartDate>
+   <Summary>DUI/DWI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>25 MM CAPITAL BELTWAY SB, COLLEGE PARK</IncAddrComment>
+      <AddressId>712647</AddressId>
+      <Address>
+         <AddressId>712647</AddressId>
+         <StreetNumber>25</StreetNumber>
+         <StreetName>Mm Capital Beltway Sb College</StreetName>
+         <StreetTypeCode>Park</StreetTypeCode>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.9189935</Longitude>
+         <Latitude>39.0185155</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Richards</LastName>
+            <FirstName>Jerrell</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Williams</LastName>
+            <FirstName>Aaron</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Fleming</LastName>
+            <FirstName>Sierra</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>46</ApproxAge>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>392610</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hellams</LastName>
+               <FirstName>Eugene</FirstName>
+               <DOB>02/01/1977 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hellams</LastName>
+               <FirstName>Eugene</FirstName>
+               <DOB>02/01/1977 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>7814</StreetNumber>
+               <StreetName>Cloister</StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <City>Greenbelt</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20770</Zip5>
+               <Zip4>3030</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.871229</Longitude>
+               <Latitude>38.988696</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

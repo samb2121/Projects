@@ -1,0 +1,109 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>08/11/2023 23:01:00</ReportDate>
+   <StartDate>08/11/2023 22:46:00</StartDate>
+   <Summary>Traffic Arrest/Warrant Service</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Warrant Service</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>W PATRICK ST/ GROVE HILL RD</IncAddrComment>
+      <AddressId>614066</AddressId>
+      <Address>
+         <AddressId>614066</AddressId>
+         <StreetDirCode>W</StreetDirCode>
+         <StreetName>Patrick</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Frederick</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-77.45764</Longitude>
+         <Latitude>39.418901</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 W PATRICK ST / 0-0 GROVE HILL RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Riggs</LastName>
+            <FirstName>Cole</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bonneville</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Sweckard</LastName>
+            <FirstName>Adam</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>19731</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>19731</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>48</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>385220</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Burton</LastName>
+               <FirstName>Jason</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>03/27/1975 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Burton</LastName>
+               <FirstName>Jason</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>03/27/1975 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1307</StreetNumber>
+               <StreetName>Butterfly</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Frederick</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21703</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.459792</Longitude>
+               <Latitude>39.410287</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

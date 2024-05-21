@@ -1,0 +1,152 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2200</ORINum>
+   <ReportDate>09/25/2023 11:23:00</ReportDate>
+   <StartDate>09/25/2023 11:01:00</StartDate>
+   <Summary>Traffic stop. Warrant/CDS arrest</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>W WASHINGTON ST/ W ANTIETAM ST</IncAddrComment>
+      <AddressId>708004</AddressId>
+      <Address>
+         <AddressId>708004</AddressId>
+         <StreetDirCode>W</StreetDirCode>
+         <StreetName>Washington</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Hagerstown</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetDirCode>W</CrossStreetDirCode>
+         <CrossStreetTypeCode>ST</CrossStreetTypeCode>
+         <Longitude>-77.7294</Longitude>
+         <Latitude>39.64612</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>458-498 W WASHINGTON ST / 400-499 W ANTIETAM ST</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>501-503 W WASHINGTON ST / 400-499 W ANTIETAM ST</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Doyle</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Socks</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>O'Neal</LastName>
+            <FirstName>Zachary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Shilling</LastName>
+            <FirstName>Kenneth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Harper</LastName>
+            <FirstName>Derek</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1111</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1111</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>30</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>377992</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Dyson</LastName>
+               <FirstName>Krystyna</FirstName>
+               <MiddleName>Maria</MiddleName>
+               <DOB>03/23/1993 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Dyson</LastName>
+               <FirstName>Krystyna</FirstName>
+               <MiddleName>Maria</MiddleName>
+               <DOB>03/23/1993 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>37</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>389232</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Harvey</LastName>
+               <FirstName>Travis</FirstName>
+               <DOB>04/21/1986 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Harvey</LastName>
+               <FirstName>Travis</FirstName>
+               <DOB>04/21/1986 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>One Burnt glass smoking device containing suspected cocaine residue. </Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254778</Property_ID>
+         <DrugTypeCode>SUSPECTED COCAINE</DrugTypeCode>
+         <Quantity>0.01</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

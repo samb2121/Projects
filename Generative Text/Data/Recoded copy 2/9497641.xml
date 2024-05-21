@@ -1,0 +1,165 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>04/02/2023 02:31:00</ReportDate>
+   <StartDate>04/02/2023 02:02:00</StartDate>
+   <Summary>DUI and CDS possession</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>689362</AddressId>
+      <City>MDC244</City>
+      <Address>
+         <AddressId>689362</AddressId>
+         <StreetNumber>15</StreetNumber>
+         <StreetName>Mm Capital Beltway Nb</StreetName>
+         <City>Hyattsville</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.84739</Longitude>
+         <Latitude>38.89338</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>NB 495 @ CENTRAL AVE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>White</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wiesemann</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Oleyar</LastName>
+            <FirstName>Adam</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Murray</LastName>
+            <FirstName>Niall</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>19739</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>19739</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>14583</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14583</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>21334</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>21334</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>15664</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>15664</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>373260</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Atkinson</LastName>
+               <FirstName>Reginald</FirstName>
+               <MiddleName>Sherrell</MiddleName>
+               <DOB>09/05/1986 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Atkinson</LastName>
+               <FirstName>Reginald</FirstName>
+               <MiddleName>Sherrell</MiddleName>
+               <DOB>09/05/1986 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>7216</StreetNumber>
+               <StreetName>Lost Spring Court</StreetName>
+               <City>Lanham</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20706</Zip5>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>151577</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VehicleYear>2007</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>ODYSSEY</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehicleLicStateCode>VA</VehicleLicStateCode>
+         <VehicleLicNumber>TXW4078</VehicleLicNumber>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <StatusCode>15</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Raw Cannabis Property Held P-339173</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>248708</Property_ID>
+         <DrugTypeCode>SUSPECTED MARIJUANA</DrugTypeCode>
+         <Quantity>49</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

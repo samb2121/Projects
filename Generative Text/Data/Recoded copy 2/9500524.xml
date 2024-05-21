@@ -1,0 +1,114 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2100</ORINum>
+   <ReportDate>06/24/2023 17:23:00</ReportDate>
+   <StartDate>06/24/2023 17:20:00</StartDate>
+   <Summary>Theft of Vehicle Tag</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>698817</AddressId>
+      <Address>
+         <AddressId>698817</AddressId>
+         <StreetNumber>23</StreetNumber>
+         <StreetName>Wempe</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Cumberland</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-78.75472</Longitude>
+         <Latitude>39.638205</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Miller</LastName>
+            <FirstName>Barry</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Diehl</LastName>
+            <FirstName>Dwight</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Inactive</OffenseStatusCode>
+         <OffenseCode>1 0521</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0521</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>54</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>380757</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Barmoy</LastName>
+               <FirstName>Philip</FirstName>
+               <MiddleName>Bradly</MiddleName>
+               <DOB>05/19/1969 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Barmoy</LastName>
+               <FirstName>Philip</FirstName>
+               <MiddleName>Bradly</MiddleName>
+               <DOB>05/19/1969 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>23</StreetNumber>
+               <StreetName>Wempe</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Cumberland</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.75472</Longitude>
+               <Latitude>39.638205</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>697</PhonePrefix>
+               <PhoneSuffix>4892</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Maryland License Plate # 6EG9160</Description>
+         <PropertyTypeCode>LICENSE PLATE</PropertyTypeCode>
+         <PropertyValue>1</PropertyValue>
+         <Value>1</Value>
+         <SerialNumber>6EG9160</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>250965</Property_ID>
+         <PrimaryColor>WHI</PrimaryColor>
+         <Make>Maryland</Make>
+         <Model>License Plate</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

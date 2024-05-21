@@ -1,0 +1,104 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>01/18/2023 00:03:00</ReportDate>
+   <StartDate>01/17/2023 23:50:00</StartDate>
+   <Summary>Suspended driver.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>SUNSET DR/ FAWN HAVEN CT</IncAddrComment>
+      <AddressId>680848</AddressId>
+      <City>MDC236</City>
+      <Address>
+         <AddressId>680848</AddressId>
+         <StreetName>Sunset</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Sykesville</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>CT</CrossStreetTypeCode>
+         <Longitude>-76.91771</Longitude>
+         <Latitude>39.39232</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>6525-6602 SUNSET DR / 2250-2262 FAWN HAVEN CT</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Shipley</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Phelps</LastName>
+            <FirstName>William</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>3096</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>19760</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>46</ApproxAge>
+         <Person>
+            <PersonId>366425</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Meliotis</LastName>
+               <FirstName>Alekos</FirstName>
+               <DOB>11/30/1976 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Meliotis</LastName>
+               <FirstName>Alekos</FirstName>
+               <DOB>11/30/1976 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>7490</StreetNumber>
+               <StreetName>Lazy Morning</StreetName>
+               <StreetTypeCode>Way</StreetTypeCode>
+               <City>Marriottsville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21104</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.91921</Longitude>
+               <Latitude>39.368878</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>148769</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VehicleYear>2014</VehicleYear>
+         <VehicleMakeCode>HYUNDAI</VehicleMakeCode>
+         <VehicleModelCode>SONIC</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehicleLicNumber>2EN2476</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

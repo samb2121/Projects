@@ -1,0 +1,128 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>03/27/2023 12:09:00</ReportDate>
+   <StartDate>03/27/2023 11:26:00</StartDate>
+   <Summary>Verbal domestic at 31822 Johnson Rd.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>297510</AddressId>
+      <City>MDC226</City>
+      <Address>
+         <AddressId>297510</AddressId>
+         <StreetNumber>31822</StreetNumber>
+         <StreetName>Johnson</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Salisbury</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21804</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.510274</Longitude>
+         <Latitude>38.311929</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wilkins</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mareck</LastName>
+            <FirstName>Keven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pilchard</LastName>
+            <FirstName>Bailey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>NOCHG</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>47</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>372803</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Vance</LastName>
+               <FirstName>Nicole</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>02/24/1976 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Vance</LastName>
+               <FirstName>Nicole</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>02/24/1976 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>48</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>369666</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Vance</LastName>
+               <FirstName>Charles</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>11/13/1974 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Vance</LastName>
+               <FirstName>Charles</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>11/13/1974 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>31822</StreetNumber>
+               <StreetName>Johnson</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21804</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.510274</Longitude>
+               <Latitude>38.311929</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>493</PhonePrefix>
+               <PhoneSuffix>2970</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

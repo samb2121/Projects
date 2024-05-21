@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2015ROOT0184</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>09/10/2015 06:00:00</ReportDate>
+   <ReportTime>09/10/2015 06:00:00</ReportTime>
+   <StartDate>09/10/2015 03:00:00</StartDate>
+   <StartTime>09/01/2015 03:00:00</StartTime>
+   <EndDate>09/10/2015 03:30:00</EndDate>
+   <EndTime>09/01/2015 03:30:00</EndTime>
+   <Summary>setting end date</Summary>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>09/10/2015 12:29:17</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:37</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CCD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>CV</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>174</AddressId>
+      <Beat>Test</Beat>
+      <SubBeat>Area</SubBeat>
+      <City>3</City>
+      <CreatorId>STATE_OFFICER13</CreatorId>
+      <CreatorDate>09/10/2015 12:30:03</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>07/12/2017 13:27:11</UpdatorDate>
+      <Address>
+         <AddressId>174</AddressId>
+         <StreetNumber>123</StreetNumber>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>Automation</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <SubTypeCode>TRLR</SubTypeCode>
+         <City>Durham</City>
+         <StateCode>NC</StateCode>
+         <Zip5>27701</Zip5>
+         <CountryCode>US</CountryCode>
+         <Beat>Test</Beat>
+         <SubBeat>Area</SubBeat>
+         <Longitude>-78.892044</Longitude>
+         <Latitude>35.99812</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>Automation Test Location</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>Dead strip</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>09/10/2015 12:29:17</SuppReportDate>
+      <SuppReportTime>09/10/2015 12:29:17</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>09/10/2015 12:32:45</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>09/10/2015 12:29:17</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:24</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Close date test</NarrativeTitle>
+         <NarrativeText>&amp;nbsp;test</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>09/10/2015 12:32:33</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>09/10/2015 12:32:33</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>2369</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>16-42-19-16</OffenseCode>
+         <PlaceCode>08</PlaceCode>
+         <BiasCode>61</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>09/10/2015 03:00:00</OffenseStatusDate>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>09/10/2015 12:32:10</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>09/10/2015 12:32:10</UpdatorDate>
+      </IncidentOffense>
+   </IncidentSupplement>
+</Incident>

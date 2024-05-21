@@ -1,0 +1,112 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>07/17/2023 20:08:00</ReportDate>
+   <StartDate>07/17/2023 18:32:00</StartDate>
+   <Summary>The complainant received a suspicious package with suspected CDS in it.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>131988</AddressId>
+      <Address>
+         <AddressId>131988</AddressId>
+         <StreetNumber>11357</StreetNumber>
+         <StreetName>GREEN VALLEY</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>UNION BRIDGE</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.22254577543085</Longitude>
+         <Latitude>39.5439196907219</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mattingly</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Hopkins</LastName>
+            <FirstName>Douglas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>382971</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Krantz</LastName>
+               <FirstName>Christopher</FirstName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Krantz</LastName>
+               <FirstName>Christopher</FirstName>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>One (1) Adderall pill</Description>
+         <PropertyTypeCode>DRUGS - COMMON MEDICINE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>251971</Property_ID>
+         <DrugTypeCode>SUSPECTED METH/AMPHETAMINES</DrugTypeCode>
+         <Quantity>1</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Small maroon velvet pull string bag</Description>
+         <PropertyTypeCode>BAG</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>251972</Property_ID>
+         <PrimaryColor>RED</PrimaryColor>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Martin</LastName>
+            <FirstName>Phillip</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Hood</LastName>
+            <FirstName>Daryl</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

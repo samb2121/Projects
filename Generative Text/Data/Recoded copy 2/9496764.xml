@@ -1,0 +1,124 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>01/11/2023 16:14:00</ReportDate>
+   <StartDate>01/11/2023 16:05:00</StartDate>
+   <Summary>Traffic stop with probable cause search and issuance of civil citation.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>SR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>43328</AddressId>
+      <City>MDC373</City>
+      <Address>
+         <AddressId>43328</AddressId>
+         <StreetDirCode>W</StreetDirCode>
+         <StreetName>Ocean gateway</StreetName>
+         <City>Cordova</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21625</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Benson</LastName>
+            <FirstName>Tyler</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Holson</LastName>
+            <FirstName>Troy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Johnston</LastName>
+            <FirstName>Tyler</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>2 1635</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 1635</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>23</ApproxAge>
+         <Person>
+            <PersonId>282195</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Taylor</LastName>
+               <FirstName>Kenneth</FirstName>
+               <MiddleName>Brody</MiddleName>
+               <DOB>12/16/1999 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Taylor</LastName>
+               <FirstName>Kenneth</FirstName>
+               <MiddleName>Brody</MiddleName>
+               <DOB>12/16/1999 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>703</StreetNumber>
+               <StreetName>Marion Quimby</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Stevensville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21666</Zip5>
+               <Zip4>2535</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.313951</Longitude>
+               <Latitude>38.971514</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>490</PhonePrefix>
+               <PhoneSuffix>9985</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>One baggie containing marijuana. Weight to included packaging. </Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>241426</Property_ID>
+         <DrugTypeCode>SUSPECTED MARIJUANA</DrugTypeCode>
+         <Quantity>7.3</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

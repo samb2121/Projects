@@ -1,0 +1,145 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>04/27/2023 16:25:00</ReportDate>
+   <StartDate>04/27/2023 15:59:00</StartDate>
+   <Summary>The unknown suspect stole the victim's unattended on the beltway.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>THMV</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>647670</AddressId>
+      <SubBeat>610</SubBeat>
+      <Address>
+         <AddressId>647670</AddressId>
+         <StreetName>CAPITAL BELTWAY</StreetName>
+         <City>Upper Marlboro</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20774</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-76.8435</Longitude>
+         <Latitude>38.87086</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>York</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Olds</LastName>
+            <FirstName>Garrett</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>2 0480</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 0480</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <Person>
+            <PersonId>375486</PersonId>
+            <RaceCode>Unknown</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>30</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>375487</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Jalloh</LastName>
+               <FirstName>Mohamed</FirstName>
+               <MiddleName>Ramadan</MiddleName>
+               <DOB>04/26/1993 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Jalloh</LastName>
+               <FirstName>Mohamed</FirstName>
+               <MiddleName>Ramadan</MiddleName>
+               <DOB>04/26/1993 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>614</PhoneArea>
+               <PhonePrefix>680</PhonePrefix>
+               <PhoneSuffix>8207</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>152416</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>7</StatusCode>
+         <VIN>JTDKB20UX57016674</VIN>
+         <VehicleYear>2005</VehicleYear>
+         <VehicleMakeCode>TOYOTA(TOYT)</VehicleMakeCode>
+         <VehicleModelCode>PRIUS</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>RED</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>8DN6477</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>4</VehicleLicMonth>
+         <VehicleValue>5950</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Heath</LastName>
+            <FirstName>William</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wilson</LastName>
+            <FirstName>Jessica</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

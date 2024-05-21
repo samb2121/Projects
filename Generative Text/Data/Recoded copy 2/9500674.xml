@@ -1,0 +1,164 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5100</ORINum>
+   <ReportDate>07/03/2023 02:03:00</ReportDate>
+   <StartDate>07/03/2023 01:43:00</StartDate>
+   <Summary>DUI/DWI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>699724</AddressId>
+      <Address>
+         <AddressId>699724</AddressId>
+         <StreetName>WEST STREET AT HUDSON STREET</StreetName>
+         <City>Annapolis</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21401</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.534848</Longitude>
+         <Latitude>38.98285</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Phillips</LastName>
+            <FirstName>Daniel </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Appiah</LastName>
+            <FirstName>Felix</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Phillips</LastName>
+            <FirstName>Daniel </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Phillips</LastName>
+            <FirstName>Daniel </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>15664</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>15664</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>21334</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>21334</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>14583</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14583</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>25</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>C</ClearMultiArrestCode>
+         <Person>
+            <PersonId>381611</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Bolanos</LastName>
+               <FirstName>Lorenzo</FirstName>
+               <MiddleName>De La Cruz</MiddleName>
+               <DOB>08/02/1997 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Bolanos</LastName>
+               <FirstName>Lorenzo</FirstName>
+               <MiddleName>De La Cruz</MiddleName>
+               <DOB>08/02/1997 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetName>2004 Harbor Gates </StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Annapolis</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21401</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>608</PhonePrefix>
+               <PhoneSuffix>9192</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>154812</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>19XFB2F71FE271363</VIN>
+         <VehicleYear>2015</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>CIVIC (AND CRX), CIVIC DEL SOL</VehicleModelCode>
+         <VehicleStyleCode>4D</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>5DN8563</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>11</VehicleLicMonth>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

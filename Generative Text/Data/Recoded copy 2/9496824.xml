@@ -1,0 +1,117 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>02/27/2023 08:10:00</ReportDate>
+   <StartDate>02/27/2023 07:47:00</StartDate>
+   <Summary>Theft</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>THMV</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>685663</AddressId>
+      <City>MDC146</City>
+      <Address>
+         <AddressId>685663</AddressId>
+         <StreetNumber>1853</StreetNumber>
+         <StreetDirCode>E</StreetDirCode>
+         <StreetName>Old Philadelphia</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Elkton</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.872131</Longitude>
+         <Latitude>39.605264</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Spayd</LastName>
+            <FirstName>Samuel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Steinmetz</LastName>
+            <FirstName>Kristopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0622 23F</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0622 23F</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>31</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>121275</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hanna</LastName>
+               <FirstName>Roy</FirstName>
+               <MiddleName>Homer</MiddleName>
+               <DOB>04/13/1991 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hanna</LastName>
+               <FirstName>Roy</FirstName>
+               <MiddleName>Homer</MiddleName>
+               <DOB>04/13/1991 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>8105</StreetNumber>
+               <StreetName>Maresca</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <City>North East</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21901</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.957083</Longitude>
+               <Latitude>39.608187</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>907</PhonePrefix>
+               <PhoneSuffix>7097</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>circular rotary saw primarily used for concrete</Description>
+         <PropertyTypeCode>CHAINSAW</PropertyTypeCode>
+         <PropertyValue>1100</PropertyValue>
+         <Value>1100</Value>
+         <SerialNumber>188321883</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>244462</Property_ID>
+         <PrimaryColor>ONG</PrimaryColor>
+         <SecondaryColor>WHI</SecondaryColor>
+         <Make>STIHL</Make>
+         <Model>TS 420</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

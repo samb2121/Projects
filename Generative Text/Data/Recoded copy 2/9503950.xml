@@ -1,0 +1,158 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3000</ORINum>
+   <ReportDate>02/21/2023 05:28:00</ReportDate>
+   <StartDate>02/21/2023 04:29:00</StartDate>
+   <Summary>Domestic Assault</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>470184</AddressId>
+      <City>MDC555</City>
+      <Address>
+         <AddressId>470184</AddressId>
+         <StreetNumber>3327</StreetNumber>
+         <StreetName>Conowingo</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Street</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.27681837647044</Longitude>
+         <Latitude>39.62977259976296</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rogers</LastName>
+            <FirstName>Justin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Dudek</LastName>
+            <FirstName>Anthony</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rowe</LastName>
+            <FirstName>Jason</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Rowe</LastName>
+            <FirstName>Jason</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>47</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>369701</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Chant</LastName>
+               <FirstName>Kristen</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>06/11/1975 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Chant</LastName>
+               <FirstName>Kristen</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>06/11/1975 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3327</StreetNumber>
+               <StreetName>Conowingo</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Street</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.27681837647044</Longitude>
+               <Latitude>39.62977259976296</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>717</PhoneArea>
+               <PhonePrefix>803</PhonePrefix>
+               <PhoneSuffix>1468</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>52</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>369702</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Zeller</LastName>
+               <FirstName>Todd</FirstName>
+               <DOB>10/27/1970 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Zeller</LastName>
+               <FirstName>Todd</FirstName>
+               <DOB>10/27/1970 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3327</StreetNumber>
+               <StreetName>Conowingo</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Street</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.27681837647044</Longitude>
+               <Latitude>39.62977259976296</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>979</PhonePrefix>
+               <PhoneSuffix>3965</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

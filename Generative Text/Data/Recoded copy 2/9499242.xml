@@ -1,0 +1,132 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>08/18/2023 02:27:00</ReportDate>
+   <StartDate>08/18/2023 02:03:00</StartDate>
+   <Summary>Traffic stop that led to a DUI arrest.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>7619 CROOM,UPPER MARLBORO</IncAddrComment>
+      <AddressId>704172</AddressId>
+      <Address>
+         <AddressId>704172</AddressId>
+         <StreetNumber>7600</StreetNumber>
+         <StreetName>Croom</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <SubTypeCode>UPPR</SubTypeCode>
+         <SubNumber>MARLB</SubNumber>
+         <City>Upper Marlboro</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20772</Zip5>
+         <Zip4>9729</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.792702</Longitude>
+         <Latitude>38.785023</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Ware</LastName>
+            <FirstName>Traevon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Rogers</LastName>
+            <FirstName>Dominique</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Stacey</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>55</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>385684</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Curtis</LastName>
+               <FirstName>Steven</FirstName>
+               <MiddleName>Leroy</MiddleName>
+               <DOB>01/21/1968 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Curtis</LastName>
+               <FirstName>Steven</FirstName>
+               <MiddleName>Leroy</MiddleName>
+               <DOB>01/21/1968 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>8101</StreetNumber>
+               <StreetName>croom station</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Upper Marlboro</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20772</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>156334</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>3FA6P0HD5HR391323</VIN>
+         <VehicleYear>2017</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>FUSION</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehSecColorCode>BLU</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>9DE2762</VehicleLicNumber>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,179 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3500</ORINum>
+   <ReportDate>09/25/2023 15:03:00</ReportDate>
+   <StartDate>09/25/2023 14:52:00</StartDate>
+   <Summary>DUI/ CDS POSS</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>SR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>42209</AddressId>
+      <Address>
+         <AddressId>42209</AddressId>
+         <StreetNumber>66</StreetNumber>
+         <StreetName>MM I95 NB</StreetName>
+         <City>ROSEDALE</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>621</SubBeat>
+         <Longitude>-76.46203999999993</Longitude>
+         <Latitude>39.36904003854454</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Sawyer</LastName>
+            <FirstName>Duke</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Schepleng</LastName>
+            <FirstName>Mark</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Shaw</LastName>
+            <FirstName>Gary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Schepleng</LastName>
+            <FirstName>Mark</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Schepleng</LastName>
+            <FirstName>Mark</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>4 3550</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>4 3550</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>14585</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14585</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>14587</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14587</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>47</ApproxAge>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>221314</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>RUBINO</LastName>
+               <FirstName>KEVIN</FirstName>
+               <MiddleName>ANTONIO</MiddleName>
+               <DOB>03/23/1976 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>RUBINO</LastName>
+               <FirstName>KEVIN</FirstName>
+               <MiddleName>ANTONIO</MiddleName>
+               <DOB>03/23/1976 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2102</StreetNumber>
+               <StreetName>Chapel</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Havre de Grace</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21078</Zip5>
+               <Zip4>1816</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.15145</Longitude>
+               <Latitude>39.5539063</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>599</PhonePrefix>
+               <PhoneSuffix>2424</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>157447</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VehicleYear>2006</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>FOCUS</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehSecColorCode>GRY</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>3FG0710</VehicleLicNumber>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>TWO BLUE PLASTIC VIALS CONTAINING SUSPECTED HEROIN</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254502</Property_ID>
+         <DrugTypeCode>SUSPECTED HEROIN</DrugTypeCode>
+         <Quantity>1.4</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

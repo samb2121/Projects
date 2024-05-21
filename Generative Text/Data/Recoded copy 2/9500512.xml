@@ -1,0 +1,157 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>09/15/2023 11:55:00</ReportDate>
+   <StartDate>09/15/2023 11:53:00</StartDate>
+   <Summary>Subject walk-in report of identity theft/fraud.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>FRD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>IDT</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>8416</AddressId>
+      <SubBeat>670</SubBeat>
+      <Address>
+         <AddressId>8416</AddressId>
+         <StreetNumber>8908</StreetNumber>
+         <StreetName>KELSO</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>ESSEX</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>670</SubBeat>
+         <Longitude>-76.46651083308754</Longitude>
+         <Latitude>39.339274405310675</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>BK "R"</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>BARRACK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>BALTIMORE CITY/COUNTY, HARFORD COUNTY</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>GOLDEN RING</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>7515 HEARTHSIDE WAY, ELKRIDGE MD 21075</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>MSP GOLDEN RING BARRACK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>ON KELSO IN FRONT OF BARRACK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>BARRACK R</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>NO FIXED ADDRESS</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>SYKESVILLE TRAINING CENTER</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>GOLDEN RING BK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>8908 KELSO DR</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>GOLDEN RING BARRACK</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Horton</LastName>
+            <FirstName>Arthur</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Kennedy</LastName>
+            <FirstName>Jonathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1368</OffenseCode>
+         <PlaceCode>Bank/Savings And Loan</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1368</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>72</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>387898</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Elliott</LastName>
+               <FirstName>Rod</FirstName>
+               <DOB>08/19/1951 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Elliott</LastName>
+               <FirstName>Rod</FirstName>
+               <DOB>08/19/1951 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>7535</StreetNumber>
+               <StreetName>Gum Spring</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Rosedale</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21237</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>730</PhonePrefix>
+               <PhoneSuffix>4565</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>680</PhonePrefix>
+               <PhoneSuffix>6465</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <StatusCode>1</StatusCode>
+         <DocumentTypeCode>C</DocumentTypeCode>
+         <PropertyTypeCode>CASH</PropertyTypeCode>
+         <PropertyValue>4420</PropertyValue>
+         <Value>4420</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254115</Property_ID>
+         <Quantity>4420</Quantity>
+         <Amount>4420</Amount>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

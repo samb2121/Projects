@@ -1,0 +1,126 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3000</ORINum>
+   <ReportDate>01/17/2023 14:52:00</ReportDate>
+   <StartDate>01/17/2023 14:18:00</StartDate>
+   <Summary>Domestic Violence</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>473266</AddressId>
+      <City>MDC397</City>
+      <Address>
+         <AddressId>473266</AddressId>
+         <StreetNumber>2207</StreetNumber>
+         <StreetName>Pulaski</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <City>Edgewood</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.30674439430742</Longitude>
+         <Latitude>39.4366024586416</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Dudek</LastName>
+            <FirstName>Anthony</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Montgomery</LastName>
+            <FirstName>James</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>21</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>366500</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Fitzgerald</LastName>
+               <FirstName>Deja</FirstName>
+               <MiddleName>Tatiyanna</MiddleName>
+               <DOB>02/06/2001 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Fitzgerald</LastName>
+               <FirstName>Deja</FirstName>
+               <MiddleName>Tatiyanna</MiddleName>
+               <DOB>02/06/2001 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>708</StreetNumber>
+               <StreetName>Cedar Crest</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Edgewood</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21040</Zip5>
+               <Zip4>3833</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.327049</Longitude>
+               <Latitude>39.425369</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>24</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>98360</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Brown</LastName>
+               <FirstName>Tricia</FirstName>
+               <MiddleName>Andrea</MiddleName>
+               <DOB>05/08/1998 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Brown</LastName>
+               <FirstName>Tricia</FirstName>
+               <MiddleName>Andrea</MiddleName>
+               <DOB>05/08/1998 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>311</StreetNumber>
+               <StreetName>Seagull</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Aberdeen</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21001</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.218862</Longitude>
+               <Latitude>39.450594</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>272</PhonePrefix>
+               <PhoneSuffix>3690</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

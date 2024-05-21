@@ -1,0 +1,178 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3500</ORINum>
+   <ReportDate>07/24/2023 01:00:00</ReportDate>
+   <StartDate>07/24/2023 00:25:00</StartDate>
+   <Summary>DUI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>92.1 MM I95 SB, PERRYVILLE</IncAddrComment>
+      <AddressId>701835</AddressId>
+      <Address>
+         <AddressId>701835</AddressId>
+         <StreetNumber>92</StreetNumber>
+         <StreetName>1 Mm I95 Sb Perryville</StreetName>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.0829158333333</Longitude>
+         <Latitude>39.5858023833333</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Keane</LastName>
+            <FirstName>Ryan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Porter</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Behringer</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Henry</LastName>
+            <FirstName>Kurtis</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>29</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>383314</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>MCKECHNIE</LastName>
+               <FirstName>ASHLYN</FirstName>
+               <MiddleName>MARGARET</MiddleName>
+               <DOB>08/31/1993 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>MCKECHNIE</LastName>
+               <FirstName>ASHLYN</FirstName>
+               <MiddleName>MARGARET</MiddleName>
+               <DOB>08/31/1993 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1900</StreetNumber>
+               <StreetName>Little Raven</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Denver</City>
+               <StateCode>Colorado</StateCode>
+               <Zip5>80202</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-105.001411</Longitude>
+               <Latitude>39.758749</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>30</ApproxAge>
+         <Person>
+            <PersonId>383315</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>ZOTAMOU</LastName>
+               <FirstName>PELAGIE</FirstName>
+               <MiddleName>DE ZO</MiddleName>
+               <DOB>07/25/1992 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>ZOTAMOU</LastName>
+               <FirstName>PELAGIE</FirstName>
+               <MiddleName>DE ZO</MiddleName>
+               <DOB>07/25/1992 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>155413</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>YV1MC67278J049277</VIN>
+         <VehicleYear>2008</VehicleYear>
+         <VehicleMakeCode>VOLVO(VOLV)</VehicleMakeCode>
+         <VehicleModelCode>C70</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehicleLicStateCode>CO</VehicleLicStateCode>
+         <VehicleLicStateCode>CO</VehicleLicStateCode>
+         <VehicleLicNumber>AY0916</VehicleLicNumber>
+         <VehicleLicNumber>AY0916</VehicleLicNumber>
+         <VehDamageCode>0</VehDamageCode>
+         <VehicleValue>500</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Behringer</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Keane</LastName>
+            <FirstName>Ryan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,116 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>01/10/2023 12:48:00</ReportDate>
+   <StartDate>01/10/2023 12:37:00</StartDate>
+   <Summary>Stolen Registration</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Stolen Property</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>679992</AddressId>
+      <City>MDC143</City>
+      <Address>
+         <AddressId>679992</AddressId>
+         <StreetNumber>29181</StreetNumber>
+         <StreetName>Schwaninger</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Easton</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21601</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.065021</Longitude>
+         <Latitude>38.735441</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Cannon</LastName>
+            <FirstName>James</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Glover</LastName>
+            <FirstName>Sean</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1137_AOL</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1137_AOL</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>83</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>230292</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>LYONS</LastName>
+               <FirstName>WILLIAM</FirstName>
+               <MiddleName>HAROLD</MiddleName>
+               <DOB>02/04/1939 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>LYONS</LastName>
+               <FirstName>WILLIAM</FirstName>
+               <MiddleName>HAROLD</MiddleName>
+               <DOB>02/04/1939 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>310</PhonePrefix>
+               <PhoneSuffix>7005</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Maryland registration plate</Description>
+         <PropertyTypeCode>986</PropertyTypeCode>
+         <PropertyValue>125</PropertyValue>
+         <Value>125</Value>
+         <SerialNumber>6BF6562</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>241191</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Chester</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Glover</LastName>
+            <FirstName>Sean</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

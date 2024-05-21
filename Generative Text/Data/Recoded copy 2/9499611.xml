@@ -1,0 +1,467 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>05/29/2023 13:17:00</ReportDate>
+   <StartDate>05/29/2023 12:39:00</StartDate>
+   <Summary>COLLISION RECONSTRUCTION</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>ACR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>SHORE HWY/ GREENWOOD RD</IncAddrComment>
+      <AddressId>649276</AddressId>
+      <Address>
+         <AddressId>649276</AddressId>
+         <StreetName>Shore</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <City>Denton</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21629</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-75.76556</Longitude>
+         <Latitude>38.828048</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Brown</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Koehler</LastName>
+            <FirstName>Justin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Del Vecchio</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mowbray</LastName>
+            <FirstName>Mark</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>15908</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>15908</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>378449</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Diehl</LastName>
+               <FirstName>Makayla</FirstName>
+               <MiddleName>Nydia</MiddleName>
+               <DOB>05/28/2001 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Diehl</LastName>
+               <FirstName>Makayla</FirstName>
+               <MiddleName>Nydia</MiddleName>
+               <DOB>05/28/2001 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>8444</StreetNumber>
+               <StreetName>Hickman</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Denton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21629</Zip5>
+               <Zip4>2875</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.723685</Longitude>
+               <Latitude>38.838379</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>477</PhonePrefix>
+               <PhoneSuffix>8303</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>43</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>378450</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Orjuela Toro</LastName>
+               <FirstName>Ana</FirstName>
+               <MiddleName>Catalina</MiddleName>
+               <DOB>05/29/1980 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Orjuela Toro</LastName>
+               <FirstName>Ana</FirstName>
+               <MiddleName>Catalina</MiddleName>
+               <DOB>05/29/1980 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>608</StreetNumber>
+               <StreetName>Admiral</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>422</SubNumber>
+               <City>Annapolis</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21401</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.529544</Longitude>
+               <Latitude>38.992756</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>407</PhoneArea>
+               <PhonePrefix>473</PhonePrefix>
+               <PhoneSuffix>7609</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>44</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>378451</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Orjuela Toro</LastName>
+               <FirstName>Natalia</FirstName>
+               <DOB>09/02/1978 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Orjuela Toro</LastName>
+               <FirstName>Natalia</FirstName>
+               <DOB>09/02/1978 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>608</StreetNumber>
+               <StreetName>Admiral</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>422</SubNumber>
+               <City>Annapolis</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21401</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.529544</Longitude>
+               <Latitude>38.992756</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>PA</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>66</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>378453</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Toro Vargas</LastName>
+               <FirstName>Olga</FirstName>
+               <MiddleName>Lucia</MiddleName>
+               <DOB>09/12/1956 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Toro Vargas</LastName>
+               <FirstName>Olga</FirstName>
+               <MiddleName>Lucia</MiddleName>
+               <DOB>09/12/1956 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>608</StreetNumber>
+               <StreetName>Admiral</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>422</SubNumber>
+               <City>Annapolis</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21401</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.529544</Longitude>
+               <Latitude>38.992756</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>PA</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>69</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>378455</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Jones</LastName>
+               <FirstName>George</FirstName>
+               <MiddleName>Edgar</MiddleName>
+               <DOB>02/17/1954 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Jones</LastName>
+               <FirstName>George</FirstName>
+               <MiddleName>Edgar</MiddleName>
+               <DOB>02/17/1954 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>32066</StreetNumber>
+               <StreetName>Robin Hoods</StreetName>
+               <StreetTypeCode>Loop</StreetTypeCode>
+               <City>Millsboro</City>
+               <StateCode>Delaware</StateCode>
+               <Zip5>19966</Zip5>
+               <Zip4>6204</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.192817</Longitude>
+               <Latitude>38.627908</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>991</PhonePrefix>
+               <PhoneSuffix>9232</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>63</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>378457</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Jones</LastName>
+               <FirstName>Sara</FirstName>
+               <MiddleName>Ann</MiddleName>
+               <DOB>08/05/1959 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Jones</LastName>
+               <FirstName>Sara</FirstName>
+               <MiddleName>Ann</MiddleName>
+               <DOB>08/05/1959 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>32066</StreetNumber>
+               <StreetName>Robin Hoods</StreetName>
+               <StreetTypeCode>Loop</StreetTypeCode>
+               <City>Millsboro</City>
+               <StateCode>Delaware</StateCode>
+               <Zip5>19966</Zip5>
+               <Zip4>6204</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.192817</Longitude>
+               <Latitude>38.627908</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>PA</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>153598</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>7FARW2H90NE028088</VIN>
+         <VehicleYear>2022</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>CR-V</VehicleModelCode>
+         <VehicleStyleCode>4H</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehicleLicStateCode>DE</VehicleLicStateCode>
+         <VehicleLicNumber>PC801023</VehicleLicNumber>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>153594</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>1N4AL3AP1DC269756</VIN>
+         <VehicleYear>2013</VehicleYear>
+         <VehicleMakeCode>NISSAN</VehicleMakeCode>
+         <VehicleModelCode>ALTIMA</VehicleModelCode>
+         <VehicleStyleCode>4D</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>RED</VehPriColorCode>
+         <VehicleLicStateCode>FL</VehicleLicStateCode>
+         <VehicleLicNumber>CI7517</VehicleLicNumber>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>153593</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>JHLRD18731S001431</VIN>
+         <VehicleYear>2001</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>CR-V</VehicleModelCode>
+         <VehicleStyleCode>4H</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>GRN</VehPriColorCode>
+         <VehPriColorCode>GRN</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>4Z7719</VehicleLicNumber>
+         <VehicleLicNumber>4Z7719</VehicleLicNumber>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehConditionCode>TOTALED</VehConditionCode>
+         <VehDamageCode>12</VehDamageCode>
+         <VehDamageDesc>Front end damage.</VehDamageDesc>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Menchey</LastName>
+            <FirstName>Ronald</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Gore</LastName>
+            <FirstName>Charles</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Gore</LastName>
+            <FirstName>Charles</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mowbray</LastName>
+            <FirstName>Mark</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>MSP1004</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>28</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>388361</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Aion</LastName>
+               <FirstName>Travis</FirstName>
+               <MiddleName>Avery</MiddleName>
+               <DOB>06/16/1994 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Aion</LastName>
+               <FirstName>Travis</FirstName>
+               <MiddleName>Avery</MiddleName>
+               <DOB>06/16/1994 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>100</StreetNumber>
+               <StreetName>Harborview</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <SubTypeCode>UNIT</SubTypeCode>
+               <SubNumber>805</SubNumber>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21230</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.604383</Longitude>
+               <Latitude>39.279369</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>973</PhoneArea>
+               <PhonePrefix>590</PhonePrefix>
+               <PhoneSuffix>7928</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

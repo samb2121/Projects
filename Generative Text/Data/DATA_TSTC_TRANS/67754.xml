@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2013ISP0000091</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>06/04/2013 13:26:00</ReportDate>
+   <ReportTime>06/04/2013 13:26:00</ReportTime>
+   <StartDate>06/04/2013 13:26:00</StartDate>
+   <StartTime>06/01/2013 13:26:00</StartTime>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>06/04/2013 13:26:48</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:25</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CNG</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>120</AddressId>
+      <Beat>104</Beat>
+      <SubBeat>West Patrol</SubBeat>
+      <City>2</City>
+      <CreatorId>CASESUPER</CreatorId>
+      <CreatorDate>06/04/2013 13:26:58</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>07/12/2017 12:56:11</UpdatorDate>
+      <Address>
+         <AddressId>120</AddressId>
+         <StreetNumber>100</StreetNumber>
+         <StreetName>Ash</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>INDIANAPOLIS</City>
+         <StateCode>IN</StateCode>
+         <Zip5>01234</Zip5>
+         <Zip4>7777</Zip4>
+         <CountryCode>US</CountryCode>
+         <Beat>Test</Beat>
+         <SubBeat>Area</SubBeat>
+         <Longitude>-86.26354</Longitude>
+         <Latitude>39.95494</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>Health Center</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/04/2013 13:26:48</SuppReportDate>
+      <SuppReportTime>06/04/2013 13:26:48</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>04/28/2014 14:40:52</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>06/04/2013 13:26:48</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:16</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>test</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/04/2013 13:28:42</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>06/04/2013 13:28:42</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>1175</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>02</OffenseStatusCode>
+         <OffenseCode>35-48-4-11 M01</OffenseCode>
+         <PlaceCode>40</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>06/04/2013 13:27:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>35-48-4-11 M01</ArrestChargeCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/04/2013 13:27:47</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/02/2013 18:21:29</UpdatorDate>
+      </IncidentOffense>
+      <IncidentOffense>
+         <IncidentId>1175</IncidentId>
+         <OffenseNumber>2</OffenseNumber>
+         <OffenseStatusCode>02</OffenseStatusCode>
+         <OffenseCode>35-48-4-11 M05</OffenseCode>
+         <PlaceCode>40</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>2</UCRNumber>
+         <OffenseStatusDate>06/04/2013 13:37:00</OffenseStatusDate>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <ArrestChargeCode>35-48-4-11 M05</ArrestChargeCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/04/2013 13:38:09</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/02/2013 18:21:29</UpdatorDate>
+      </IncidentOffense>
+      <IncidentOffense>
+         <IncidentId>1175</IncidentId>
+         <OffenseNumber>3</OffenseNumber>
+         <OffenseStatusCode>02</OffenseStatusCode>
+         <OffenseCode>35-48-4-11 M05</OffenseCode>
+         <PlaceCode>40</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>3</UCRNumber>
+         <OffenseStatusDate>06/04/2013 13:37:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>35-48-4-11 M05</ArrestChargeCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/04/2013 13:38:10</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/02/2013 18:21:29</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>01</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/04/2013 13:29:02</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:15</UpdatorDate>
+         <Person>
+            <PersonId>173</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>ALEXANDERRRRR</LastName>
+               <FirstName>KAREN</FirstName>
+               <MiddleName>A</MiddleName>
+               <DOB>08/01/2011 00:00:00</DOB>
+               <SSN>1.23456789E8</SSN>
+               <DateOfInfo>06/06/2012 13:56:20</DateOfInfo>
+               <SLastName>A425</SLastName>
+               <SFirstName>K650</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>ALEXANDERRRRR</LastName>
+               <FirstName>KAREN</FirstName>
+               <MiddleName>A</MiddleName>
+               <DOB>08/01/2011 00:00:00</DOB>
+               <SSN>1.23456789E8</SSN>
+               <SLastName>A425</SLastName>
+               <SFirstName>K650</SFirstName>
+               <DateOfInfo>06/06/2012 13:56:20</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>123</StreetNumber>
+               <StreetName>Main</StreetName>
+               <StreetTypeCode>ST</StreetTypeCode>
+               <City>Bloomington</City>
+               <StateCode>NY</StateCode>
+               <Zip5>12411</Zip5>
+               <CountryCode>US</CountryCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>217</PhoneArea>
+               <PhonePrefix>654</PhonePrefix>
+               <PhoneSuffix>1248</PhoneSuffix>
+               <DateOfInfo>07/08/2013 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>06/04/2013 13:29:02</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:18</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/04/2013 13:43:34</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>06/04/2013 13:43:34</UpdatorDate>
+      </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/04/2013 13:28:14</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/10/2017 23:00:38</UpdatorDate>
+         <DateOfInfo>06/04/2013 00:00:00</DateOfInfo>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <PropertyTypeCode>560</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>811</Property_ID>
+         <DrugTypeCode>E</DrugTypeCode>
+         <Quantity>2</Quantity>
+         <QuantityUnit>LB</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>04/28/2014 14:40:02</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/10/2017 23:00:37</UpdatorDate>
+         <DateOfInfo>06/04/2013 00:00:00</DateOfInfo>
+         <StatusCode>1</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <PropertyTypeCode>560</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>811</Property_ID>
+         <DrugTypeCode>E</DrugTypeCode>
+         <Quantity>2</Quantity>
+         <QuantityUnit>LB</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>04/28/2014 14:40:02</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/10/2017 23:00:37</UpdatorDate>
+         <DateOfInfo>06/04/2013 00:00:00</DateOfInfo>
+         <StatusCode>1</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <PropertyTypeCode>560</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>811</Property_ID>
+         <DrugTypeCode>E</DrugTypeCode>
+         <Quantity>2</Quantity>
+         <QuantityUnit>LB</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,138 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5200</ORINum>
+   <ReportDate>11/28/2023 20:14:00</ReportDate>
+   <StartDate>11/28/2023 19:44:00</StartDate>
+   <Summary>A vehicle in motion caught on fire. Driver failed to identify herself and requested a fire investigation.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>VF</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>MD-295 / HANOVER RD</IncAddrComment>
+      <AddressId>714513</AddressId>
+      <Address>
+         <AddressId>714513</AddressId>
+         <StreetNumber>295</StreetNumber>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>Baltimore-Washington</StreetName>
+         <StreetTypeCode>Parkway</StreetTypeCode>
+         <City>Hanover</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21076</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.7239042</Longitude>
+         <Latitude>39.1777238</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Cearfoss</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Treleaven</LastName>
+            <FirstName>Jason</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Cearfoss</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Louderback</LastName>
+            <FirstName>Jonathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>41</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>394083</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Royal</LastName>
+               <FirstName>Raven</FirstName>
+               <MiddleName>Jenell</MiddleName>
+               <DOB>08/31/1982 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Royal</LastName>
+               <FirstName>Raven</FirstName>
+               <MiddleName>Jenell</MiddleName>
+               <DOB>08/31/1982 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2659</StreetNumber>
+               <StreetDirCode>W</StreetDirCode>
+               <StreetName>Lafayette</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21216</Zip5>
+               <Zip4>4732</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.661349</Longitude>
+               <Latitude>39.298014</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>159359</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>2</StatusCode>
+         <VIN>1G1ZE5E77BF135996</VIN>
+         <VehicleYear>2011</VehicleYear>
+         <VehicleMakeCode>CHEVROLET</VehicleMakeCode>
+         <VehicleModelCode>MALIBU (INCLUDES CHEVELLES THROUGH 1977) &amp; MALIBU MAXX</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>MAR</VehPriColorCode>
+         <VehicleLicStateCode>DC</VehicleLicStateCode>
+         <VehicleLicNumber>GU2643</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>12</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Logsdon</LastName>
+            <FirstName>Frank</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Cearfoss</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

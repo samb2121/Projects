@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2017D4210104</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>07/11/2017 14:28:00</ReportDate>
+   <ReportTime>07/11/2017 14:28:00</ReportTime>
+   <StartDate>07/11/2017 14:28:00</StartDate>
+   <StartTime>07/01/2017 14:28:00</StartTime>
+   <Summary>test</Summary>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>07/11/2017 14:28:48</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:40</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>B/H</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>571</AddressId>
+      <Beat>Test</Beat>
+      <SubBeat>Area</SubBeat>
+      <City>7</City>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>07/11/2017 14:29:01</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>07/11/2017 14:30:28</UpdatorDate>
+      <Address>
+         <AddressId>571</AddressId>
+         <StreetNumber>222</StreetNumber>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>Main</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>Cleveland</City>
+         <StateCode>IN</StateCode>
+         <CountryCode>US</CountryCode>
+         <Beat>Test</Beat>
+         <SubBeat>Area</SubBeat>
+         <Longitude>-86.64267128447958</Longitude>
+         <Latitude>39.86307865492383</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>Dead strip</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>07/11/2017 14:28:49</SuppReportDate>
+      <SuppReportTime>07/11/2017 14:28:49</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>07/13/2017 12:41:17</DsIcrDate>
+      <DsIcrSubmissionStatus>SENT WAITING FOR RESPONSE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>07/11/2017 14:28:49</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:25</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>test</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>07/11/2017 14:32:16</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>07/11/2017 14:32:16</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>2752</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>05</OffenseStatusCode>
+         <OffenseCode>35-43-4-2.5 V02</OffenseCode>
+         <PlaceCode>46</PlaceCode>
+         <BiasCode>41</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>07/11/2017 14:28:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>35-43-4-2.5 V02</ArrestChargeCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>07/11/2017 14:30:09</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>07/11/2017 14:30:09</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>27</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>07/11/2017 14:31:08</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:22</UpdatorDate>
+         <Person>
+            <PersonId>641</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>F</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Pickler</LastName>
+               <FirstName>Kelly</FirstName>
+               <DateOfInfo>11/11/2014 15:50:00</DateOfInfo>
+               <SLastName>P246</SLastName>
+               <SFirstName>K400</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Pickler</LastName>
+               <FirstName>Kelly</FirstName>
+               <SLastName>P246</SLastName>
+               <SFirstName>K400</SFirstName>
+               <DateOfInfo>11/11/2014 15:50:00</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>2239</StreetNumber>
+               <StreetDirCode>E</StreetDirCode>
+               <StreetName>CORD 275</StreetName>
+               <StreetSuffixCode>N</StreetSuffixCode>
+               <City>MILAN</City>
+               <StateCode>IN</StateCode>
+               <CountryCode>US</CountryCode>
+               <Longitude>-122.25827</Longitude>
+               <Latitude>49.0544954</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>07/11/2017 14:31:08</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:22</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>04</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>07/11/2017 14:31:23</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:22</UpdatorDate>
+         <Person>
+            <PersonId>463</PersonId>
+            <RaceCode>U</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>AutomationGuy</LastName>
+               <FirstName>Johnny</FirstName>
+               <MiddleName>Smith</MiddleName>
+               <DOB>01/01/2013 00:00:00</DOB>
+               <DateOfInfo>06/18/2013 12:24:48</DateOfInfo>
+               <SLastName>A353</SLastName>
+               <SFirstName>J500</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>AutomationGuy</LastName>
+               <FirstName>Johnny</FirstName>
+               <MiddleName>Smith</MiddleName>
+               <DOB>01/01/2013 00:00:00</DOB>
+               <SLastName>A353</SLastName>
+               <SFirstName>J500</SFirstName>
+               <DateOfInfo>06/18/2013 12:24:48</DateOfInfo>
+            </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>555</PhoneArea>
+               <PhonePrefix>444</PhonePrefix>
+               <PhoneSuffix>7890</PhoneSuffix>
+               <DateOfInfo>06/18/2013 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>07/11/2017 14:31:24</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:22</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>334</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>07/11/2017 14:32:09</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>07/11/2017 14:32:09</UpdatorDate>
+         <DateOfInfo>04/12/2017 15:34:06</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <VIN>KIT111FORDFAIR</VIN>
+         <VehicleYear>2017</VehicleYear>
+         <VehicleMakeCode>FORD</VehicleMakeCode>
+         <VehicleModelCode>FAR</VehicleModelCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehicleLicStateCode>PA</VehicleLicStateCode>
+         <VehicleLicNumber>KIT 111</VehicleLicNumber>
+         <VehicleValue>3444</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,226 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>03/07/2023 18:06:00</ReportDate>
+   <StartDate>03/01/2023 18:05:00</StartDate>
+   <Summary>The victim reported an unauthorized fraudulent transaction from her bank account.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>FRD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>686622</AddressId>
+      <City>MDC536</City>
+      <Address>
+         <AddressId>686622</AddressId>
+         <StreetNumber>4505</StreetNumber>
+         <StreetName>Williams Wharf</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Saint Leonard</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20685</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.578573</Longitude>
+         <Latitude>38.447496</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Evans</LastName>
+            <FirstName>Charles</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Palumbo</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1186</OffenseCode>
+         <PlaceCode>Bank/Savings And Loan</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1186</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>68</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>371440</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Shick</LastName>
+               <FirstName>Joanne</FirstName>
+               <MiddleName>Elizabeth</MiddleName>
+               <DOB>07/02/1954 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Shick</LastName>
+               <FirstName>Joanne</FirstName>
+               <MiddleName>Elizabeth</MiddleName>
+               <DOB>07/02/1954 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>4505</StreetNumber>
+               <StreetName>Williams Wharf</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Saint Leonard</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20685</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.578573</Longitude>
+               <Latitude>38.447496</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>610</PhonePrefix>
+               <PhoneSuffix>8404</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>65</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>371441</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Siglar</LastName>
+               <FirstName>John</FirstName>
+               <MiddleName>Muelbe</MiddleName>
+               <DOB>12/08/1957 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Siglar</LastName>
+               <FirstName>John</FirstName>
+               <MiddleName>Muelbe</MiddleName>
+               <DOB>12/08/1957 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3610</StreetNumber>
+               <StreetName>Clover</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Port Republic</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20675</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <DocumentTypeCode>C</DocumentTypeCode>
+         <PropertyTypeCode>CASH</PropertyTypeCode>
+         <PropertyValue>95</PropertyValue>
+         <Value>95</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>245262</Property_ID>
+         <Quantity>0</Quantity>
+         <Amount>95</Amount>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <StatusCode>1</StatusCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Evans</LastName>
+            <FirstName>Charles</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Palumbo</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Evans</LastName>
+            <FirstName>Charles</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Palumbo</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Evans</LastName>
+            <FirstName>Charles</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Palumbo</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Evans</LastName>
+            <FirstName>Charles</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Palumbo</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

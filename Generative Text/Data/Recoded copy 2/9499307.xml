@@ -1,0 +1,121 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>10/04/2023 05:44:00</ReportDate>
+   <StartDate>10/04/2023 05:15:00</StartDate>
+   <Summary>Accident/Driving Without License.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>TANEYTOWN PIKE/ ROYER RD</IncAddrComment>
+      <AddressId>42626</AddressId>
+      <Address>
+         <AddressId>42626</AddressId>
+         <StreetName>Taneytown</StreetName>
+         <StreetTypeCode>Pike</StreetTypeCode>
+         <City>Westminster</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21157</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-77.024709</Longitude>
+         <Latitude>39.588187</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>915-1046 TANEYTOWN PIKE / 386-389 ROYER RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>601-622 TANEYTOWN PIKE / 386-389 ROYER RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>800-821 TANEYTOWN PIKE / 0-0 ROYER RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Petry</LastName>
+            <FirstName>Colton</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pettyjohn</LastName>
+            <FirstName>Evan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Reilly</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>19731</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>19731</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>15525</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>15525</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>31</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>390173</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>RAMOS Vijil</LastName>
+               <FirstName>Rudi</FirstName>
+               <MiddleName>Alexander</MiddleName>
+               <DOB>07/06/1992 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>RAMOS Vijil</LastName>
+               <FirstName>Rudi</FirstName>
+               <MiddleName>Alexander</MiddleName>
+               <DOB>07/06/1992 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>208</StreetNumber>
+               <StreetName>Mid Pines</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Owings Mills</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21117</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.785049</Longitude>
+               <Latitude>39.43015</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

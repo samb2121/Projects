@@ -1,0 +1,122 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>03/05/2023 02:50:00</ReportDate>
+   <StartDate>03/05/2023 02:17:00</StartDate>
+   <Summary>Accident that resulted in DUI arrest</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>686325</AddressId>
+      <City>MDC244</City>
+      <Address>
+         <AddressId>686325</AddressId>
+         <StreetName>Leeland</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Upper Marlboro</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.74786</Longitude>
+         <Latitude>38.87179</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>16000-16099</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Figueroa-Stalk</LastName>
+            <FirstName>Jashaun</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Rogers</LastName>
+            <FirstName>Dominique</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Stacey</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Arena/Stadium/Fairgrounds/Coliseum</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>44</ApproxAge>
+         <Person>
+            <PersonId>157654</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hernandez</LastName>
+               <FirstName>Eric</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>07/15/1978 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hernandez</LastName>
+               <FirstName>Eric</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>07/15/1978 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>43703</StreetNumber>
+               <StreetName>Yulan</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>California</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20619</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.564167</Longitude>
+               <Latitude>38.309121</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>405</PhoneArea>
+               <PhonePrefix>315</PhonePrefix>
+               <PhoneSuffix>7230</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>150566</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VehicleYear>2022</VehicleYear>
+         <VehicleMakeCode>TESLA MOTORS ; CALIFORNIA, ELECTRIC VEHICLE (ROADSTER)</VehicleMakeCode>
+         <VehicleModelCode>Y</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>CR19429</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

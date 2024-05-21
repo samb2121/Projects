@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-034315</IncidentReportNum>
+   <AgencyCode>56</AgencyCode>
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>09/30/2023 11:45:00</ReportDate>
+   <ReportTime>09/30/2023 11:45:00</ReportTime>
+   <StartDate>09/30/2023 11:39:00</StartDate>
+   <StartTime>09/30/2023 11:39:00</StartTime>
+   <Summary>I rolled up on a single vehicle on fire at 6700 Sykesville Road.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>09/30/2023 11:45:28</CreatorDate>
+   <UpdatorId>MSP2927</UpdatorId>
+   <UpdatorDate>10/02/2023 13:12:42</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>4534</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>09/30/2023 11:45:29</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>09/30/2023 13:11:41</UpdatorDate>
+      <Address>
+         <AddressId>4534</AddressId>
+         <StreetNumber>6700</StreetNumber>
+         <StreetName>Sykesville</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Sykesville</City>
+         <StateCode>MD</StateCode>
+         <Zip5>21784</Zip5>
+         <CountryCode>US</CountryCode>
+         <Longitude>-76.96373</Longitude>
+         <Latitude>39.390678</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>HIGHS</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>HIGHS  F/U</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>09/30/2023 11:45:28</SuppReportDate>
+      <SuppReportTime>09/30/2023 11:45:28</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>56</SuppAgencyCode>
+      <DsIcrDate>10/02/2023 13:12:42</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>09/30/2023 11:45:28</CreatorDate>
+      <UpdatorId>MSP2927</UpdatorId>
+      <UpdatorDate>10/02/2023 13:12:42</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>ACRS Report.</NarrativeText>
+         <CreatorId>MSP6498</CreatorId>
+         <CreatorDate>09/30/2023 13:11:57</CreatorDate>
+         <UpdatorId>MSP6498</UpdatorId>
+         <UpdatorDate>09/30/2023 13:11:57</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>56</AgencyCode>
+            <ORINumber>MDMSP0200</ORINumber>
+            <LastName>Smith</LastName>
+            <FirstName>Dale</FirstName>
+            <InternalID>2927</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>56</AgencyCode>
+            <ORINumber>MDMSP0200</ORINumber>
+            <LastName>Pettis</LastName>
+            <FirstName>Robert</FirstName>
+            <InternalID>6498</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

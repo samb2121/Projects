@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2016D4210016</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>02/03/2016 10:51:00</ReportDate>
+   <ReportTime>02/03/2016 10:51:00</ReportTime>
+   <StartDate>02/03/2016 10:51:00</StartDate>
+   <StartTime>02/01/2016 10:51:00</StartTime>
+   <Summary>Test for custom forms</Summary>
+   <CreatorId>D_OFFICER</CreatorId>
+   <CreatorDate>02/03/2016 10:51:13</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:37</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CAB</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>509</AddressId>
+      <City>18</City>
+      <CreatorId>D_OFFICER</CreatorId>
+      <CreatorDate>02/03/2016 10:53:39</CreatorDate>
+      <UpdatorId>STATE_OFFICER11</UpdatorId>
+      <UpdatorDate>02/23/2016 10:03:25</UpdatorDate>
+      <Address>
+         <AddressId>509</AddressId>
+         <StreetNumber>700</StreetNumber>
+         <StreetName>Front st.</StreetName>
+         <City>Littleton</City>
+         <StateCode>CO</StateCode>
+         <Zip5>80130</Zip5>
+         <CountryCode>US</CountryCode>
+         <Beat>Test</Beat>
+         <SubBeat>Area</SubBeat>
+         <AddressCommonName>
+            <CommonPlaceName>Dead strip</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>02/03/2016 10:51:13</SuppReportDate>
+      <SuppReportTime>02/03/2016 10:51:13</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>400</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>05/02/2016 13:15:07</DsIcrDate>
+      <DsIcrSubmissionStatus>SENT WAITING FOR RESPONSE</DsIcrSubmissionStatus>
+      <CreatorId>D_OFFICER</CreatorId>
+      <CreatorDate>02/03/2016 10:51:13</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:25</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>&amp;nbsp;test for custom forms</NarrativeText>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>02/03/2016 10:55:43</CreatorDate>
+         <UpdatorId>D_OFFICER</UpdatorId>
+         <UpdatorDate>02/03/2016 10:55:43</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Smith</LastName>
+            <FirstName>Charles</FirstName>
+            <InternalID>2014</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>X</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Hanover</LastName>
+            <FirstName>Jeff</FirstName>
+            <InternalID>96965</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>2444</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>16-42-19-16</OffenseCode>
+         <PlaceCode>03</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>02/03/2016 10:51:00</OffenseStatusDate>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>02/03/2016 10:55:31</CreatorDate>
+         <UpdatorId>D_OFFICER</UpdatorId>
+         <UpdatorDate>02/03/2016 10:55:31</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>45</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>02/23/2016 09:40:18</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:23</UpdatorDate>
+         <Person>
+            <PersonId>672</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Frosty</LastName>
+               <FirstName>Jack</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>12/01/1970 00:00:00</DOB>
+               <SSN>9.99999999E8</SSN>
+               <TitleCode>JR</TitleCode>
+               <DateOfInfo>12/18/2014 13:00:28</DateOfInfo>
+               <SLastName>F623</SLastName>
+               <SFirstName>J200</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Frosty</LastName>
+               <FirstName>Jack</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>12/01/1970 00:00:00</DOB>
+               <SSN>9.99999999E8</SSN>
+               <TitleCode>JR</TitleCode>
+               <SLastName>F623</SLastName>
+               <SFirstName>J200</SFirstName>
+               <DateOfInfo>12/18/2014 13:00:28</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>86</StreetNumber>
+               <StreetDirCode>NE</StreetDirCode>
+               <StreetName>ASHWOOD</StreetName>
+               <StreetTypeCode>LN</StreetTypeCode>
+               <StreetSuffixCode>N</StreetSuffixCode>
+               <City>DILLON</City>
+               <CountryCode>US</CountryCode>
+               <Beat>Test</Beat>
+               <SubBeat>Area</SubBeat>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>D_OFFICER</CreatorId>
+            <CreatorDate>02/23/2016 09:40:18</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:23</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>05/02/2016 12:47:42</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:23</UpdatorDate>
+         <Person>
+            <PersonId>412</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>JOSEPH</LastName>
+               <FirstName>SMITH</FirstName>
+               <DOB>11/07/1979 00:00:00</DOB>
+               <DateOfInfo>12/10/2012 09:28:32</DateOfInfo>
+               <SLastName>J210</SLastName>
+               <SFirstName>S530</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>JOSEPH</LastName>
+               <FirstName>SMITH</FirstName>
+               <DOB>11/07/1979 00:00:00</DOB>
+               <SLastName>J210</SLastName>
+               <SFirstName>S530</SFirstName>
+               <DateOfInfo>12/10/2012 09:28:32</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            <CreatorId>D_OFFICER</CreatorId>
+            <CreatorDate>05/02/2016 12:56:13</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:23</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>37</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>05/02/2016 12:45:55</CreatorDate>
+         <UpdatorId>D_OFFICER</UpdatorId>
+         <UpdatorDate>05/02/2016 12:45:55</UpdatorDate>
+         <DateOfInfo>12/26/2012 07:30:31</DateOfInfo>
+         <DateOfInfo>09/03/2012 11:45:12</DateOfInfo>
+         <DateOfInfo>10/29/2012 14:21:43</DateOfInfo>
+         <DateOfInfo>01/22/2015 19:12:57</DateOfInfo>
+         <DateOfInfo>06/27/2013 11:17:55</DateOfInfo>
+         <DateOfInfo>07/12/2013 15:55:24</DateOfInfo>
+         <StatusCode>16</StatusCode>
+         <VIN>SAFG651AS32165ETR651</VIN>
+         <VehicleYear>1999</VehicleYear>
+         <VehicleMakeCode>CHEV</VehicleMakeCode>
+         <VehicleModelCode>MOC</VehicleModelCode>
+         <VehicleLicStateCode>IL</VehicleLicStateCode>
+         <VehicleLicStateCode>IL</VehicleLicStateCode>
+         <VehicleLicStateCode>IL</VehicleLicStateCode>
+         <VehicleLicStateCode>IL</VehicleLicStateCode>
+         <VehicleLicNumber>123569</VehicleLicNumber>
+         <VehicleLicNumber>123569</VehicleLicNumber>
+         <VehicleLicNumber>123569</VehicleLicNumber>
+         <VehicleLicNumber>123569</VehicleLicNumber>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>10</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>05/02/2016 12:55:28</CreatorDate>
+         <UpdatorId>D_OFFICER</UpdatorId>
+         <UpdatorDate>05/02/2016 12:55:28</UpdatorDate>
+         <DateOfInfo>03/26/2012 18:14:50</DateOfInfo>
+         <DateOfInfo>07/28/2014 16:17:03</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <VIN>22222VIN</VIN>
+         <VehicleYear>2004</VehicleYear>
+         <VehicleMakeCode>FORD</VehicleMakeCode>
+         <VehicleModelCode>TAU</VehicleModelCode>
+         <VehicleStyleCode>SD</VehicleStyleCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehicleLicStateCode>PA</VehicleLicStateCode>
+         <VehicleLicStateCode>PA</VehicleLicStateCode>
+         <VehicleLicNumber>ABC12145</VehicleLicNumber>
+         <VehicleLicNumber>ABC12145</VehicleLicNumber>
+         <VehicleLicYear>2011</VehicleLicYear>
+         <VehicleLicYear>2011</VehicleLicYear>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehConditionCode>G</VehConditionCode>
+         <VehicleValue>10000</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>1</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>02/23/2016 10:00:02</SuppReportDate>
+      <SuppReportTime>02/23/2016 10:00:02</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1900</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>05/02/2016 13:15:07</DsIcrDate>
+      <DsIcrSubmissionStatus>SENT WAITING FOR RESPONSE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>02/23/2016 10:00:02</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:25</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement#1 - Narrative</NarrativeTitle>
+         <NarrativeText>&amp;nbsp;asdfasfa</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>02/23/2016 10:05:02</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>02/23/2016 10:05:02</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>2444</IncidentId>
+         <OffenseNumber>2</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-2-2  C02</OffenseCode>
+         <PlaceCode>46</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>1</SupplementSeq>
+         <UCRNumber>2</UCRNumber>
+         <OffenseStatusDate>02/03/2016 10:51:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>35-43-2-2  C02</ArrestChargeCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>02/23/2016 10:04:09</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>02/23/2016 10:04:09</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>28</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>02/23/2016 10:04:43</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:23</UpdatorDate>
+         <Person>
+            <PersonId>807</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Sandy</LastName>
+               <FirstName>Philly</FirstName>
+               <DateOfInfo>01/21/2016 00:00:00</DateOfInfo>
+               <SLastName>S530</SLastName>
+               <SFirstName>P400</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Santha</LastName>
+               <FirstName>Pho</FirstName>
+               <DOB>01/02/1990 00:00:00</DOB>
+               <DateOfInfo>01/21/2016 00:00:00</DateOfInfo>
+               <SLastName>S530</SLastName>
+               <SFirstName>P000</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Sandman</LastName>
+               <FirstName>Phil</FirstName>
+               <DateOfInfo>01/20/2016 23:35:05</DateOfInfo>
+               <SLastName>S535</SLastName>
+               <SFirstName>P400</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Sandy</LastName>
+               <FirstName>Philly</FirstName>
+               <SLastName>S530</SLastName>
+               <SFirstName>P400</SFirstName>
+               <DateOfInfo>01/21/2016 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Santha</LastName>
+               <FirstName>Pho</FirstName>
+               <DOB>01/02/1990 00:00:00</DOB>
+               <SLastName>S530</SLastName>
+               <SFirstName>P000</SFirstName>
+               <DateOfInfo>01/21/2016 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Sandman</LastName>
+               <FirstName>Phil</FirstName>
+               <SLastName>S535</SLastName>
+               <SFirstName>P400</SFirstName>
+               <DateOfInfo>01/20/2016 23:35:05</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>02/23/2016 10:04:44</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:23</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>05/02/2016 12:58:33</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>05/02/2016 12:58:33</UpdatorDate>
+      </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>134</VEHICLE_ID>
+         <RoleCode>AB</RoleCode>
+         <CreatorId>STATE_OSUPER8</CreatorId>
+         <CreatorDate>05/02/2016 13:00:44</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/12/2017 13:27:17</UpdatorDate>
+         <DateOfInfo>07/24/2012 00:00:00</DateOfInfo>
+         <DateOfInfo>12/15/2014 16:49:12</DateOfInfo>
+         <StatusCode>15</StatusCode>
+         <VIN>JN1CA21D6TT733649</VIN>
+         <VehicleYear>1996</VehicleYear>
+         <VehicleMakeCode>NISS</VehicleMakeCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+         <VehicleLicStateCode>IN</VehicleLicStateCode>
+         <VehicleLicStateCode>IN</VehicleLicStateCode>
+         <VehicleLicNumber>408CFA</VehicleLicNumber>
+         <VehicleLicNumber>408CFA</VehicleLicNumber>
+         <VehicleLicYear>2016</VehicleLicYear>
+         <VehicleLicYear>2016</VehicleLicYear>
+         <VehicleLicMonth>9</VehicleLicMonth>
+         <VehicleLicMonth>9</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>2</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>05/02/2016 13:09:00</SuppReportDate>
+      <SuppReportTime>05/02/2016 13:09:00</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>700</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>05/02/2016 13:15:07</DsIcrDate>
+      <DsIcrSubmissionStatus>SENT WAITING FOR RESPONSE</DsIcrSubmissionStatus>
+      <CreatorId>D_OFFICER</CreatorId>
+      <CreatorDate>05/02/2016 13:09:00</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:25</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement#2 - Narrative</NarrativeTitle>
+         <NarrativeText>asdfadfasdfaf</NarrativeText>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>05/02/2016 13:14:02</CreatorDate>
+         <UpdatorId>D_OFFICER</UpdatorId>
+         <UpdatorDate>05/02/2016 13:14:02</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>M</LastName>
+            <FirstName>Dana</FirstName>
+            <InternalID>12345</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentVehicle>
+         <VEHICLE_ID>179</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>05/02/2016 13:13:11</CreatorDate>
+         <UpdatorId>D_OFFICER</UpdatorId>
+         <UpdatorDate>05/02/2016 13:13:11</UpdatorDate>
+         <DateOfInfo>10/30/2012 21:26:07</DateOfInfo>
+         <DateOfInfo>05/28/2014 13:27:58</DateOfInfo>
+         <DateOfInfo>06/10/2014 10:42:57</DateOfInfo>
+         <StatusCode>10</StatusCode>
+         <VIN>RT45GH69TY</VIN>
+         <VehicleYear>2009</VehicleYear>
+         <VehicleMakeCode>MERZ</VehicleMakeCode>
+         <VehicleLicStateCode>CA</VehicleLicStateCode>
+         <VehicleLicStateCode>CA</VehicleLicStateCode>
+         <VehicleLicStateCode>CA</VehicleLicStateCode>
+         <VehicleLicNumber>LKM 546</VehicleLicNumber>
+         <VehicleLicNumber>LKM 546</VehicleLicNumber>
+         <VehicleLicNumber>LKM 546</VehicleLicNumber>
+         <VehicleLicMonth>6</VehicleLicMonth>
+         <VehicleLicMonth>6</VehicleLicMonth>
+         <VehicleLicTypeCode>AP</VehicleLicTypeCode>
+         <VehicleLicTypeCode>AP</VehicleLicTypeCode>
+         <VehicleValue>1234</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

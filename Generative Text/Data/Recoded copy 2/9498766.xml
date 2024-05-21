@@ -1,0 +1,182 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>09/29/2023 21:23:00</ReportDate>
+   <StartDate>09/29/2023 21:14:00</StartDate>
+   <Summary>Two vehicle collision. ACRS completed/submitted via Delta Plus. The passenger in vehicle two was arrested for multiple warrants, and possessed suspected methamphetamine and oxycodone.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Warrant Service</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>PULASKI HWY/ N MAIN ST EXT</IncAddrComment>
+      <AddressId>659399</AddressId>
+      <Address>
+         <AddressId>659399</AddressId>
+         <StreetName>Pulaski</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <City>North East</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetDirCode>N</CrossStreetDirCode>
+         <CrossStreetTypeCode>EXT</CrossStreetTypeCode>
+         <Longitude>-75.945086</Longitude>
+         <Latitude>39.609482</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>2050-2350 PULASKI HWY / 1-139 N MAIN ST EXT</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Reeves</LastName>
+            <FirstName>Jared</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pope</LastName>
+            <FirstName>Jordan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Kres</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Billstone</LastName>
+            <FirstName>Seth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pope</LastName>
+            <FirstName>Jordan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1111</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1111</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>53</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>C</ClearMultiArrestCode>
+         <Person>
+            <PersonId>160019</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Brooks</LastName>
+               <FirstName>David</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>08/14/1970 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Brooks</LastName>
+               <FirstName>David</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>08/14/1970 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>224</StreetNumber>
+               <StreetDirCode>W</StreetDirCode>
+               <StreetName>Red Hill</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Conowingo</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.19374900378577</Longitude>
+               <Latitude>39.71991981426011</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>531</StreetNumber>
+               <StreetName>Bell Manor</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Conowingo</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21918</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.200493</Longitude>
+               <Latitude>39.697071</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>642</PhonePrefix>
+               <PhoneSuffix>4986</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>223</PhoneArea>
+               <PhonePrefix>266</PhonePrefix>
+               <PhoneSuffix>6993</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Three clear plastic bags containing suspected methamphetamine</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254836</Property_ID>
+         <DrugTypeCode>SUSPECTED METH/AMPHETAMINES</DrugTypeCode>
+         <Quantity>11.7</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Six capsules with etchings Xtampza ER 13.5 mg suspected Oxycodone</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254837</Property_ID>
+         <DrugTypeCode>SUSPECTED OTHER NARCOTICS</DrugTypeCode>
+         <Quantity>6</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

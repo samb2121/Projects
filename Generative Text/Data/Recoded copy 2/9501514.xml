@@ -1,0 +1,119 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4700</ORINum>
+   <ReportDate>10/09/2023 12:58:00</ReportDate>
+   <StartDate>10/05/2023 12:00:00</StartDate>
+   <Summary>Report of a stolen decal on a Maryland license plate displaying a 2025 year of expiration.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>434228</AddressId>
+      <Address>
+         <AddressId>434228</AddressId>
+         <StreetNumber>210</StreetNumber>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>Somerset</StreetName>
+         <StreetTypeCode>Avenue</StreetTypeCode>
+         <City>Crisfield</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.84429138956457</Longitude>
+         <Latitude>37.98642156562929</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>CRISFIELD HIGH SCHOOL</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Jonischek</LastName>
+            <FirstName>Todd</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Revel</LastName>
+            <FirstName>John</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0521</OffenseCode>
+         <PlaceCode>School-Elementary/Secondary</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0521</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>43</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>389967</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Harper</LastName>
+               <FirstName>Drew</FirstName>
+               <DOB>01/22/1980 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Harper</LastName>
+               <FirstName>Drew</FirstName>
+               <DOB>01/22/1980 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>9758</StreetNumber>
+               <StreetName>OCEAN</StreetName>
+               <StreetTypeCode>Gateway</StreetTypeCode>
+               <City>BERLIN</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21811</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.231607</Longitude>
+               <Latitude>38.345914</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>641</PhonePrefix>
+               <PhoneSuffix>3101</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>PO</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>VPO</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Vehicle registration sticker issued by the MVA that displays an expiration year of 2025.</Description>
+         <PropertyTypeCode>REGIST. STICKER</PropertyTypeCode>
+         <PropertyValue>99.99</PropertyValue>
+         <Value>99.99</Value>
+         <SerialNumber>5CZ5189</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>255064</Property_ID>
+         <PrimaryColor>WHI</PrimaryColor>
+         <SecondaryColor>WHI</SecondaryColor>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

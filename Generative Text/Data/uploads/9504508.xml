@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-033788</IncidentReportNum>
+   <AgencyCode>67</AgencyCode>
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>09/25/2023 21:00:00</ReportDate>
+   <ReportTime>09/25/2023 21:00:00</ReportTime>
+   <StartDate>09/25/2023 20:09:00</StartDate>
+   <StartTime>09/25/2023 20:09:00</StartTime>
+   <EndDate>09/25/2023 21:00:00</EndDate>
+   <Summary>Traffic stop resulting in a warrant service.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>09/25/2023 21:00:21</CreatorDate>
+   <UpdatorId>MSP1174</UpdatorId>
+   <UpdatorDate>12/14/2023 13:05:21</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>WAR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>N POINT BLVD/ EASTERN AVE</IncAddrComment>
+      <AddressId>708048</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>09/25/2023 21:00:23</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>09/25/2023 21:01:32</UpdatorDate>
+      <Address>
+         <AddressId>708048</AddressId>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>Point</StreetName>
+         <StreetTypeCode>BLVD</StreetTypeCode>
+         <City>Baltimore</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>AVE</CrossStreetTypeCode>
+         <Longitude>-76.51755</Longitude>
+         <Latitude>39.29343</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>401-499 N POINT BLVD / 0-0 EASTERN AVE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>09/25/2023 21:00:17</SuppReportDate>
+      <SuppReportTime>09/25/2023 21:00:17</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>67</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>09/26/2023 20:59:38</DsIcrDate>
+      <DsIcrSubmissionStatus>PROCESS COMPLETE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>09/25/2023 21:00:21</CreatorDate>
+      <UpdatorId>TAMI.ANDREASSEN@INTERACT911.COM</UpdatorId>
+      <UpdatorDate>10/27/2023 16:45:02</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>On September 25, 2023 at 2010 hours, I, Trooper Sampson #7515 was dispatched to assist CPL Dunlap #6273 with a traffic stop at Eastern Blvd at North Point Rd.&lt;br /&gt; &lt;br /&gt; Prior to my arrival, CPL Dunlap had already placed the driver, later identified as Nylz Malachi Davis 1/M DOB: 10/06/1997 in custody for a FTA for a traffic case.&amp;nbsp; I subsequently arrested Davis at 2028 hours and transported him to the Golden Ring Barrack for processing.&amp;nbsp; Upon his hearing with the commissioner he was subsequently released on his own recognizance and released from police custody.&lt;br /&gt; &lt;br /&gt; All events occurred in Baltimore County, Maryland.&amp;nbsp;&amp;nbsp;</NarrativeText>
+         <CreatorId>MSP7515</CreatorId>
+         <CreatorDate>09/25/2023 21:17:55</CreatorDate>
+         <UpdatorId>MSP7515</UpdatorId>
+         <UpdatorDate>09/25/2023 22:04:39</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>67</AgencyCode>
+            <ORINumber>MDMSP3400</ORINumber>
+            <LastName>Watson</LastName>
+            <FirstName>David</FirstName>
+            <InternalID>5796</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>66</AgencyCode>
+            <ORINumber>MDMSP0300</ORINumber>
+            <LastName>Dunlap</LastName>
+            <FirstName>Matin</FirstName>
+            <InternalID>6273</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>67</AgencyCode>
+            <ORINumber>MDMSP3400</ORINumber>
+            <LastName>Zinn</LastName>
+            <FirstName>Tyler</FirstName>
+            <InternalID>5682</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>67</AgencyCode>
+            <ORINumber>MDMSP3400</ORINumber>
+            <LastName>Sampson</LastName>
+            <FirstName>Aaron</FirstName>
+            <InternalID>7515</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>523244</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>02</OffenseStatusCode>
+         <OffenseCode>1 1475</OffenseCode>
+         <PlaceCode>13</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>09/25/2023 20:09:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1475</ArrestChargeCode>
+         <CreatorId>MSP7515</CreatorId>
+         <CreatorDate>09/25/2023 21:07:00</CreatorDate>
+         <UpdatorId>MSP7515</UpdatorId>
+         <UpdatorDate>09/25/2023 21:07:00</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>25</ApproxAge>
+         <ResidentStatusCode>S</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <CreatorId>MSP7515</CreatorId>
+         <CreatorDate>09/25/2023 21:16:48</CreatorDate>
+         <UpdatorId>MSP7515</UpdatorId>
+         <UpdatorDate>09/25/2023 21:27:36</UpdatorDate>
+         <Person>
+            <PersonId>388749</PersonId>
+            <RaceCode>B</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>N</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Davis</LastName>
+               <FirstName>Nylz</FirstName>
+               <MiddleName>Malachi</MiddleName>
+               <DOB>10/06/1997 00:00:00</DOB>
+               <SSN>9768</SSN>
+               <DateOfInfo>09/25/2023 21:09:19</DateOfInfo>
+               <SLastName>D120</SLastName>
+               <SFirstName>N420</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Davis</LastName>
+               <FirstName>Nylz</FirstName>
+               <MiddleName>Malachi</MiddleName>
+               <DOB>10/06/1997 00:00:00</DOB>
+               <SSN>9768</SSN>
+               <SLastName>D120</SLastName>
+               <SFirstName>N420</SFirstName>
+               <DateOfInfo>09/25/2023 21:09:19</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>2163</StreetNumber>
+               <StreetName>Kyle Green</StreetName>
+               <StreetTypeCode>RD</StreetTypeCode>
+               <City>Abingdon</City>
+               <StateCode>MD</StateCode>
+               <Zip5>21009</Zip5>
+               <Zip4>2403</Zip4>
+               <CountryCode>US</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.330249</Longitude>
+               <Latitude>39.473394</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>RES</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>814</PhonePrefix>
+               <PhoneSuffix>2951</PhoneSuffix>
+               <DateOfInfo>09/25/2023 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            <CreatorId>MSP7515</CreatorId>
+            <CreatorDate>09/25/2023 21:25:54</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:49:28</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>MSP7515</CreatorId>
+            <CreatorDate>09/25/2023 21:25:54</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:49:28</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240010642</BusinessNumber>
+         <BusinessName> State Of Maryland</BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>MSP7515</CreatorId>
+         <CreatorDate>09/25/2023 21:15:15</CreatorDate>
+         <UpdatorId>MSP7515</UpdatorId>
+         <UpdatorDate>09/25/2023 21:15:15</UpdatorDate>
+      </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>157453</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <CreatorId>MSP</CreatorId>
+         <CreatorDate>09/25/2023 21:00:24</CreatorDate>
+         <UpdatorId>MSP</UpdatorId>
+         <UpdatorDate>09/25/2023 21:00:24</UpdatorDate>
+         <DateOfInfo>09/25/2023 20:09:59</DateOfInfo>
+         <StatusCode>8</StatusCode>
+         <VehicleMakeCode>NISS</VehicleMakeCode>
+         <VehicleModelCode>SEN</VehicleModelCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>7EZ8993</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

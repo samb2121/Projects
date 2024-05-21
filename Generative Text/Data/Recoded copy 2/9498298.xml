@@ -1,0 +1,164 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4700</ORINum>
+   <ReportDate>06/27/2023 17:05:00</ReportDate>
+   <StartDate>06/27/2023 16:47:00</StartDate>
+   <Summary>Traffic Stop/ Search/ K-9 Scan</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>SR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>405701</AddressId>
+      <Address>
+         <AddressId>405701</AddressId>
+         <StreetNumber>12175</StreetNumber>
+         <StreetName>Somerset</StreetName>
+         <StreetTypeCode>Avenue</StreetTypeCode>
+         <City>Princess Anne</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21853</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.697637</Longitude>
+         <Latitude>38.21581</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>DOLLAR GENERAL</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Graef </LastName>
+            <FirstName>Garrett </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Towsend</LastName>
+            <FirstName>Daniel </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Barkley</LastName>
+            <FirstName>Ivan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Heun</LastName>
+            <FirstName>Mason </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1111</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1111</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>381130</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Cawood</LastName>
+               <FirstName>Ronnie</FirstName>
+               <MiddleName>Ray</MiddleName>
+               <DOB>05/12/1990 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Cawood</LastName>
+               <FirstName>Ronnie</FirstName>
+               <MiddleName>Ray</MiddleName>
+               <DOB>05/12/1990 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>235</PhonePrefix>
+               <PhoneSuffix>6676</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>154618</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>1ftyr10v4xtb05613</VIN>
+         <VehicleYear>1999</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>RENEGADE (TRAILHAWK &amp; LATITUDE)</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>49r839</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>7</VehicleLicMonth>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Trace amounts located in cut straw</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>251225</Property_ID>
+         <DrugTypeCode>SUSPECTED UNKNOWN</DrugTypeCode>
+         <Quantity>0.001</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Trace amount of CDS in pokemon card</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>251226</Property_ID>
+         <DrugTypeCode>SUSPECTED UNKNOWN</DrugTypeCode>
+         <Quantity>0.001</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

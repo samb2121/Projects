@@ -1,0 +1,124 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2200</ORINum>
+   <ReportDate>04/05/2023 22:02:00</ReportDate>
+   <StartDate>04/03/2023 00:15:00</StartDate>
+   <EndDate>04/05/2023 18:41:00</EndDate>
+   <Summary>Stolen vehicle</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Unauthorized Use of Motor Vehicle</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>308537</AddressId>
+      <Address>
+         <AddressId>308537</AddressId>
+         <StreetNumber>10644</StreetNumber>
+         <StreetName>Downsville</StreetName>
+         <StreetTypeCode>Pike</StreetTypeCode>
+         <City>Hagerstown</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.75919795431093</Longitude>
+         <Latitude>39.60334055544392</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>PARK AND RIDE MD 632 AT I70</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>PARK AND RIDE MD 632 / I70</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bell</LastName>
+            <FirstName>Scott</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Daniels</LastName>
+            <FirstName>Jared</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>2 0480</OffenseCode>
+         <PlaceCode>Parking Lot/Garage</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 0480</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>44</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>373516</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Kye</LastName>
+               <FirstName>Christopher</FirstName>
+               <MiddleName>Anthony</MiddleName>
+               <DOB>05/11/1978 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Kye</LastName>
+               <FirstName>Christopher</FirstName>
+               <MiddleName>Anthony</MiddleName>
+               <DOB>05/11/1978 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>224</StreetNumber>
+               <StreetDirCode>W</StreetDirCode>
+               <StreetName>Washington </StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>4</SubNumber>
+               <City>Charlestown</City>
+               <StateCode>West Virginia</StateCode>
+               <Zip5>25414</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.861974</Longitude>
+               <Latitude>39.28847</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>448</PhoneArea>
+               <PhonePrefix>207</PhonePrefix>
+               <PhoneSuffix>6689</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>151667</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>7</StatusCode>
+         <VIN>5NMS23AD5KH017059</VIN>
+         <VehicleYear>2019</VehicleYear>
+         <VehicleMakeCode>HYUNDAI</VehicleMakeCode>
+         <VehicleModelCode>SANTA FE</VehicleModelCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+         <VehicleLicStateCode>FL</VehicleLicStateCode>
+         <VehicleLicNumber>227PFW</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>5</VehicleLicMonth>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehicleValue>25000</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

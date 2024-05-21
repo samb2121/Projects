@@ -1,0 +1,128 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>08/29/2023 17:07:00</ReportDate>
+   <StartDate>08/29/2023 17:06:00</StartDate>
+   <Summary>Police information.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>34690</AddressId>
+      <Address>
+         <AddressId>34690</AddressId>
+         <StreetNumber>10251</StreetNumber>
+         <StreetName>Central</StreetName>
+         <StreetTypeCode>Avenue</StreetTypeCode>
+         <City>Upper Marlboro</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20774</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.82874</Longitude>
+         <Latitude>38.896889</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>MVA LARGO</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>MVA - LARGO</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bowling</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>York</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>46</ApproxAge>
+         <ResidentStatusCode>Unknown</ResidentStatusCode>
+         <Person>
+            <PersonId>386458</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Phillip</LastName>
+               <FirstName>Daniel</FirstName>
+               <MiddleName>Edmunson Ezikel</MiddleName>
+               <DOB>10/17/1976 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Phillip</LastName>
+               <FirstName>Daniel</FirstName>
+               <MiddleName>Edmunson Ezikel</MiddleName>
+               <DOB>10/17/1976 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <Person>
+            <PersonId>386459</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <Person>
+            <PersonId>386460</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240016419</BusinessNumber>
+         <BusinessName>ENTERPRISE</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>156593</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>7</StatusCode>
+         <VehicleYear>2022</VehicleYear>
+         <VehicleMakeCode>NISSAN</VehicleMakeCode>
+         <VehicleModelCode>ALTIMA</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleValue>23000</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

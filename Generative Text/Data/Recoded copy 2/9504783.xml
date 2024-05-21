@@ -1,0 +1,103 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>08/14/2023 12:17:00</ReportDate>
+   <StartDate>08/14/2023 07:15:00</StartDate>
+   <Summary>Extradition/Warrant Service</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Warrant Service</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>501 MALL RD, harrisburg PA (extradition pick-up) to carroll county detention center of westminster MD</IncAddrComment>
+      <AddressId>546375</AddressId>
+      <Address>
+         <AddressId>546375</AddressId>
+         <StreetNumber>100</StreetNumber>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>Court</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.9873</Longitude>
+         <Latitude>39.571595</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>CENTRAL BOOKING</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Petras</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Gibson</LastName>
+            <FirstName>Cameron</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bukoski</LastName>
+            <FirstName>Conrad</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>35</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>376439</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Cousins</LastName>
+               <FirstName>Jerald</FirstName>
+               <MiddleName>Casha</MiddleName>
+               <DOB>01/04/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Cousins</LastName>
+               <FirstName>Jerald</FirstName>
+               <MiddleName>Casha</MiddleName>
+               <DOB>01/04/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>936</StreetNumber>
+               <StreetName>Hummel</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Lemoyne</City>
+               <StateCode>Pennsylvania</StateCode>
+               <Zip5>17043</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.900113</Longitude>
+               <Latitude>40.239384</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>717</PhoneArea>
+               <PhonePrefix>572</PhonePrefix>
+               <PhoneSuffix>8110</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

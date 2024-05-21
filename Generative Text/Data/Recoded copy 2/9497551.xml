@@ -1,0 +1,153 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4700</ORINum>
+   <ReportDate>03/11/2023 20:54:00</ReportDate>
+   <StartDate>03/11/2023 20:20:00</StartDate>
+   <Summary>Traffic stop resulting in the arrest of the driver for DUI (Drugs). DRE notified.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>SOMERSET AVE/ CHESTNUT CIR</IncAddrComment>
+      <AddressId>615138</AddressId>
+      <City>MDC217</City>
+      <Address>
+         <AddressId>615138</AddressId>
+         <StreetName>Somerset</StreetName>
+         <StreetTypeCode>Avenue</StreetTypeCode>
+         <City>Princess Anne</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>CIR</CrossStreetTypeCode>
+         <Longitude>-75.69334</Longitude>
+         <Latitude>38.224122</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>12499-12635 SOMERSET AVE / 12407-12508 CHESTNUT CIR</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>12408-12496 SOMERSET AVE / 12407-12508 CHESTNUT CIR</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>12384-12406 SOMERSET AVE / 12407-12508 CHESTNUT CIR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bynum</LastName>
+            <FirstName>Logan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Brown</LastName>
+            <FirstName>Clinton</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Schur</LastName>
+            <FirstName>Paul</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Revel</LastName>
+            <FirstName>John</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>14585</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14585</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>19743</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>30</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>83797</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Tarpeh</LastName>
+               <FirstName>William</FirstName>
+               <MiddleName>D</MiddleName>
+               <DOB>07/11/1992 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Tarpeh</LastName>
+               <FirstName>William</FirstName>
+               <MiddleName>D</MiddleName>
+               <DOB>07/11/1992 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>9914</StreetNumber>
+               <StreetName>Forest View</StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <City>Gaithersburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20886</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.203835</Longitude>
+               <Latitude>39.189758</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>300</PhonePrefix>
+               <PhoneSuffix>9592</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mareck</LastName>
+            <FirstName>Keven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Romeo</LastName>
+            <FirstName>Ashley</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

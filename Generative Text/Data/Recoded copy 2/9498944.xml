@@ -1,0 +1,184 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>04/24/2023 12:27:00</ReportDate>
+   <StartDate>04/24/2023 12:26:00</StartDate>
+   <Summary>Shoplifting</Summary>
+   <IncidentType>
+      <IncidentTypeCode>THS</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>25576</AddressId>
+      <Address>
+         <AddressId>25576</AddressId>
+         <StreetNumber>75</StreetNumber>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>EAST</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>NORTH EAST</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>551</SubBeat>
+         <Longitude>-75.94790035682597</Longitude>
+         <Latitude>39.610446359509005</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>WALMART - NORTH EAST PLAZA</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>WALMART</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Quirk</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Williams</LastName>
+            <FirstName>Quran</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 0621 23C</OffenseCode>
+         <PlaceCode>Department/Discount Store</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0621 23C</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>29</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>375554</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Lewis</LastName>
+               <FirstName>Jaquear</FirstName>
+               <DOB>04/05/1994 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Lewis</LastName>
+               <FirstName>Jaquear</FirstName>
+               <DOB>04/05/1994 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>40</StreetNumber>
+               <StreetDirCode>N</StreetDirCode>
+               <StreetName>Conococheague </StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>7</SubNumber>
+               <City>Williamsport</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21795</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.821533</Longitude>
+               <Latitude>39.600283</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>452</PhonePrefix>
+               <PhoneSuffix>9417</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>24</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>374650</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Miller</LastName>
+               <FirstName>Noah</FirstName>
+               <DOB>07/07/1998 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Miller</LastName>
+               <FirstName>Noah</FirstName>
+               <DOB>07/07/1998 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>941</PhonePrefix>
+               <PhoneSuffix>7333</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240011199</BusinessNumber>
+         <BusinessName>North East Walmart</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>7972</AddressId>
+            <StreetNumber>75</StreetNumber>
+            <StreetName>North East</StreetName>
+            <StreetTypeCode>Plaza</StreetTypeCode>
+            <City>North East</City>
+            <StateCode>Maryland</StateCode>
+            <Zip5>21901</Zip5>
+            <CountryCode>United States of America</CountryCode>
+            <CountyCode>NaN</CountyCode>
+            <Longitude>-75.949565</Longitude>
+            <Latitude>39.611208</Latitude>
+            <AddressCommonName>
+               <CommonPlaceName>WALMART NORTH EAST PLAZA</CommonPlaceName>
+            </AddressCommonName>
+            <AddressCommonName>
+               <CommonPlaceName>WALMART</CommonPlaceName>
+            </AddressCommonName>
+            <AddressCommonName>
+               <CommonPlaceName>NORTH EAST PLAZA</CommonPlaceName>
+            </AddressCommonName>
+            <AddressCommonName>
+               <CommonPlaceName>NORTH EAST WALMART</CommonPlaceName>
+            </AddressCommonName>
+            <AddressCommonName>
+               <CommonPlaceName>FRANK'S PIZZA</CommonPlaceName>
+            </AddressCommonName>
+            <AddressCommonName>
+               <CommonPlaceName>WALMART- NORTH EAST PLAZA</CommonPlaceName>
+            </AddressCommonName>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>TOYS</PropertyTypeCode>
+         <PropertyValue>139.55</PropertyValue>
+         <Value>139.55</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247969</Property_ID>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

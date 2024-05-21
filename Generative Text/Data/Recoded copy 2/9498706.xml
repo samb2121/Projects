@@ -1,0 +1,113 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>06/21/2023 12:04:00</ReportDate>
+   <StartDate>06/21/2023 10:25:00</StartDate>
+   <Summary>WARRANT SERVICE, THEFT LESS THAN 100</Summary>
+   <IncidentType>
+      <IncidentTypeCode>THS</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Warrant Service</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>7649</AddressId>
+      <SubBeat>670</SubBeat>
+      <Address>
+         <AddressId>7649</AddressId>
+         <StreetNumber>1338</StreetNumber>
+         <StreetName>EASTERN</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>ESSEX</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>670</SubBeat>
+         <Longitude>-76.460483384889</Longitude>
+         <Latitude>39.31586484508168</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>MVA ESSEX</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>ESSEX MVA</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>PEZOLD</LastName>
+            <FirstName>JONATHAN</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Fike</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>PEZOLD</LastName>
+            <FirstName>JONATHAN</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>PEZOLD</LastName>
+            <FirstName>JONATHAN</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>MSP1002</OffenseCode>
+         <PlaceCode>Government/Public Building</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>MSP1002</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>42</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>380428</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>SCOTT</LastName>
+               <FirstName>RICHARDO</FirstName>
+               <MiddleName>REA</MiddleName>
+               <DOB>06/15/1981 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>SCOTT</LastName>
+               <FirstName>RICHARDO</FirstName>
+               <MiddleName>REA</MiddleName>
+               <DOB>06/15/1981 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>454</PhonePrefix>
+               <PhoneSuffix>4339</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

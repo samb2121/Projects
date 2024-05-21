@@ -1,0 +1,181 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>11/01/2023 07:15:00</ReportDate>
+   <StartDate>11/01/2023 07:15:00</StartDate>
+   <Summary>Fugitive arrested on open warrant and was in possession of CDS.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>3109 GRANADA  AVE</IncAddrComment>
+      <AddressId>711686</AddressId>
+      <Address>
+         <AddressId>711686</AddressId>
+         <StreetNumber>3109</StreetNumber>
+         <StreetName>Granada</StreetName>
+         <StreetTypeCode>Avenue</StreetTypeCode>
+         <City>Baltimore</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21207</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Distance>0</Distance>
+         <Longitude>-76.688488</Longitude>
+         <Latitude>39.325933</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Hadley</LastName>
+            <FirstName>Jack</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Vanhoy</LastName>
+            <FirstName>John</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Hadley</LastName>
+            <FirstName>Jack</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Hadley</LastName>
+            <FirstName>Jack</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>1 1111</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1111</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>5 3550</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>5 3550</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>26</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>281597</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Cialella</LastName>
+               <FirstName>Luchinni</FirstName>
+               <MiddleName>Nelson</MiddleName>
+               <DOB>04/07/1997 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Cialella</LastName>
+               <FirstName>Luchinni</FirstName>
+               <MiddleName>Nelson</MiddleName>
+               <DOB>04/07/1997 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1710</StreetNumber>
+               <StreetName>Birch</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Wilmington</City>
+               <StateCode>Delaware</StateCode>
+               <Zip5>19804</Zip5>
+               <Zip4>4031</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.6465616</Longitude>
+               <Latitude>39.714728</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>118</StreetNumber>
+               <StreetDirCode>N</StreetDirCode>
+               <StreetName>Tartan</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Elkton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21921</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.794609</Longitude>
+               <Latitude>39.609618</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>3109</StreetNumber>
+               <StreetName>Granada</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21207</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.688488</Longitude>
+               <Latitude>39.325933</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>667</PhoneArea>
+               <PhonePrefix>380</PhonePrefix>
+               <PhoneSuffix>0161</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Four (4) plastic container with trace amounts of suspected cocaine</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>255992</Property_ID>
+         <DrugTypeCode>SUSPECTED COCAINE</DrugTypeCode>
+         <Quantity>1</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Hypodermic Syringe</Description>
+         <PropertyTypeCode>DRUG PARAPHERNALIA</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>255993</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

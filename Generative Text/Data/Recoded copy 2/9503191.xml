@@ -1,0 +1,135 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0300</ORINum>
+   <ReportDate>01/17/2023 02:30:00</ReportDate>
+   <StartDate>01/17/2023 02:13:00</StartDate>
+   <EndDate>01/17/2023 04:00:00</EndDate>
+   <Summary>Traffic stop / DUI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>10303 BALTIMORE,BELTSVILLE</IncAddrComment>
+      <AddressId>680737</AddressId>
+      <City>MDC132</City>
+      <Address>
+         <AddressId>680737</AddressId>
+         <StreetNumber>10303</StreetNumber>
+         <StreetName>Baltimore Beltsville</StreetName>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.9232222166667</Longitude>
+         <Latitude>39.0237726666667</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Webb</LastName>
+            <FirstName>Noah</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Dunlap</LastName>
+            <FirstName>Matin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Jones</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>65</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>265274</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Robinson</LastName>
+               <FirstName>Dennis</FirstName>
+               <MiddleName>Maurice</MiddleName>
+               <DOB>08/05/1957 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Robinson</LastName>
+               <FirstName>Dennis</FirstName>
+               <MiddleName>Maurice</MiddleName>
+               <DOB>08/05/1957 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>154</StreetNumber>
+               <StreetName>Chesapeake</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <StreetSuffixCode>SW</StreetSuffixCode>
+               <City>Washington</City>
+               <StateCode>District of Columbia</StateCode>
+               <Zip5>20032</Zip5>
+               <Zip4>1321</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.0107224</Longitude>
+               <Latitude>38.8284481</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>202</PhoneArea>
+               <PhonePrefix>621</PhonePrefix>
+               <PhoneSuffix>3997</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>108810</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>1N4AL21E07C124365</VIN>
+         <VehicleYear>2007</VehicleYear>
+         <VehicleMakeCode>NISSAN</VehicleMakeCode>
+         <VehicleModelCode>ALTIMA</VehicleModelCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehicleLicStateCode>DC</VehicleLicStateCode>
+         <VehicleLicNumber>FX5645</VehicleLicNumber>
+         <VehicleLicYear>2020</VehicleLicYear>
+         <VehicleLicMonth>9</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

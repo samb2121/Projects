@@ -1,0 +1,123 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4800</ORINum>
+   <ReportDate>07/17/2023 22:27:00</ReportDate>
+   <StartDate>07/17/2023 22:14:00</StartDate>
+   <Summary>23-96-210 Milligan DUI refusal</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>PHILADELPHIA AVE/ 12TH ST</IncAddrComment>
+      <AddressId>586493</AddressId>
+      <Address>
+         <AddressId>586493</AddressId>
+         <StreetName>Philadelphia</StreetName>
+         <StreetTypeCode>Avenue</StreetTypeCode>
+         <City>Ocean City</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>ST</CrossStreetTypeCode>
+         <Longitude>-75.081697</Longitude>
+         <Latitude>38.342534</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>1100-1112 PHILADELPHIA AVE / 0-0 12TH ST</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>NB PHILADELPHIA/ 12TH</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>1201-1221 PHILADELPHIA AVE / 200-204 12TH ST</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>1101-1121 PHILADELPHIA AVE / 200-204 12TH ST</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>1100-1112 PHILADELPHIA AVE / 105-112 12TH ST</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 PHILADELPHIA AVE / 105-112 12TH ST</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Sweitzer</LastName>
+            <FirstName>Colin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bradley</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>49</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>382862</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Milligan</LastName>
+               <FirstName>Bryan</FirstName>
+               <MiddleName>Scott</MiddleName>
+               <DOB>07/31/1973 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Milligan</LastName>
+               <FirstName>Bryan</FirstName>
+               <MiddleName>Scott</MiddleName>
+               <DOB>07/31/1973 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>29568</StreetNumber>
+               <StreetName>Brant</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>302</SubNumber>
+               <City>Easton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21601</Zip5>
+               <Zip4>7142</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.049081</Longitude>
+               <Latitude>38.77357</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

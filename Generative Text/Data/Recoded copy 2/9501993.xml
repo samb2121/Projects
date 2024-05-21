@@ -1,0 +1,173 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>12/02/2023 13:03:00</ReportDate>
+   <StartDate>12/02/2023 12:16:00</StartDate>
+   <Summary>2nd degree assault that occurred at the Lower Eastern Shore Children's Center.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>1758</AddressId>
+      <Address>
+         <AddressId>1758</AddressId>
+         <StreetNumber>405</StreetNumber>
+         <StreetName>Naylor Mill</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Salisbury</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21801</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.581593</Longitude>
+         <Latitude>38.410222</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>LOWER EASTERN SHORE CHILDREN CENTER</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>LOWER EASTERN SHORE CHILDRENS CTR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Weber</LastName>
+            <FirstName>Timothy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pilchard</LastName>
+            <FirstName>Bailey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1440 4E</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1440 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>16</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>394361</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Sanders</LastName>
+               <FirstName>Antwon</FirstName>
+               <MiddleName>Dandre</MiddleName>
+               <DOB>06/15/2007 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Sanders</LastName>
+               <FirstName>Antwon</FirstName>
+               <MiddleName>Dandre</MiddleName>
+               <DOB>06/15/2007 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>15</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>361163</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Drayton</LastName>
+               <FirstName>J'shawn</FirstName>
+               <MiddleName>Darnell</MiddleName>
+               <DOB>02/12/2008 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Drayton</LastName>
+               <FirstName>J'shawn</FirstName>
+               <MiddleName>Darnell</MiddleName>
+               <DOB>02/12/2008 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>411</StreetNumber>
+               <StreetDirCode>E</StreetDirCode>
+               <StreetName>NAYLOR MILL</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>SALISBURY</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.56480343399896</Longitude>
+               <Latitude>38.40918895213303</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>60</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>298849</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Thomas</LastName>
+               <FirstName>Sherrie</FirstName>
+               <MiddleName>Ann</MiddleName>
+               <DOB>01/25/1963 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Thomas</LastName>
+               <FirstName>Sherrie</FirstName>
+               <MiddleName>Ann</MiddleName>
+               <DOB>01/25/1963 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>31855</StreetNumber>
+               <StreetName>Flower Hill Church </StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Eden</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21822</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.646377</Longitude>
+               <Latitude>38.281232</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>546</PhonePrefix>
+               <PhoneSuffix>4864</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

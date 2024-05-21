@@ -1,0 +1,252 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>10/08/2023 22:34:00</ReportDate>
+   <StartDate>10/08/2023 21:51:00</StartDate>
+   <Summary>POST CRASH INSPECTION REPORT</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>CVED</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>ROBERT CRAIN HWY NW / JOHN HANSON HWY EB TO CRAIN HWY SB</IncAddrComment>
+      <AddressId>709402</AddressId>
+      <Address>
+         <AddressId>709402</AddressId>
+         <StreetDirCode>S</StreetDirCode>
+         <StreetName>CRAIN</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <City>Bowie</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>HWY</CrossStreetTypeCode>
+         <Longitude>-76.717421</Longitude>
+         <Latitude>38.953571</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Murray</LastName>
+            <FirstName>Norman</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Douglas</LastName>
+            <FirstName>Dionta</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Muller</LastName>
+            <FirstName>Jacob</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Clark</LastName>
+            <FirstName>Eleanor</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Ware</LastName>
+            <FirstName>Traevon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Kirkwood</LastName>
+            <FirstName>Steven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rust</LastName>
+            <FirstName>Duane</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>40</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>389932</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>RODRIGUEZ BERMUDEZ</LastName>
+               <FirstName>SANTOS</FirstName>
+               <MiddleName>OVIDIO</MiddleName>
+               <DOB>04/10/1983 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>RODRIGUEZ BERMUDEZ</LastName>
+               <FirstName>SANTOS</FirstName>
+               <MiddleName>OVIDIO</MiddleName>
+               <DOB>04/10/1983 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>8105</StreetNumber>
+               <StreetName>HOLIDAY</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Fort Washington</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20744</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.956362</Longitude>
+               <Latitude>38.778387</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>202</PhoneArea>
+               <PhonePrefix>568</PhonePrefix>
+               <PhoneSuffix>3763</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240020147</BusinessNumber>
+         <BusinessName>D&amp;D TRUCKINGS FORT WASHINGTON LLC</BusinessName>
+         <IncBusinessRoleCode>W</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>157887</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>2NKDLA9X4HM345429</VIN>
+         <VehicleYear>1987</VehicleYear>
+         <VehicleMakeCode>KENWORTH MOTOR TRUCK CO.DIV. OF PACCAR, INC. ALSO INCLUDESKENWORTH GLIDER.</VehicleMakeCode>
+         <VehicleModelCode>TRUCK</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>E63883D</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>7</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Menchey</LastName>
+            <FirstName>Ronald</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Muller</LastName>
+            <FirstName>Jacob</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>MSP1004</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>24</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>393634</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>AVILA LOPEZ</LastName>
+               <FirstName>JEFFREY</FirstName>
+               <MiddleName>ANTHONY</MiddleName>
+               <DOB>06/21/1999 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>AVILA LOPEZ</LastName>
+               <FirstName>JEFFREY</FirstName>
+               <MiddleName>ANTHONY</MiddleName>
+               <DOB>06/21/1999 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>13413</StreetNumber>
+               <StreetName>Bryce</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Herndon</City>
+               <StateCode>Virginia</StateCode>
+               <Zip5>20170</Zip5>
+               <Zip4>4040</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.411362</Longitude>
+               <Latitude>38.968972</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>D</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>159166</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>SHHFK7H26JU400228</VIN>
+         <VehicleYear>2018</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>CIVIC (AND CRX), CIVIC DEL SOL</VehicleModelCode>
+         <VehicleStyleCode>4T</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehSecColorCode>WHI</VehSecColorCode>
+         <VehicleLicStateCode>VA</VehicleLicStateCode>
+         <VehicleLicNumber>UBX2458</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>6</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Menchey</LastName>
+            <FirstName>Ronald</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Zarzecki</LastName>
+            <FirstName>Kevin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

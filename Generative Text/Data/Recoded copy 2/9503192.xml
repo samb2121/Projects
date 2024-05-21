@@ -1,0 +1,183 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5200</ORINum>
+   <ReportDate>01/17/2023 02:44:00</ReportDate>
+   <StartDate>01/17/2023 02:21:00</StartDate>
+   <Summary>Traffic stop which resulted in the driver having an active arrest warrant. Civil amount of Marijuana was recovered.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Warrant Service</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>MD-295 SB TO W NURSERY / W NURSERY TO MD-295 SB</IncAddrComment>
+      <AddressId>421491</AddressId>
+      <City>MDC457</City>
+      <Address>
+         <AddressId>421491</AddressId>
+         <City>Linthicum Heights</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.67814000000003</Longitude>
+         <Latitude>39.21281003841401</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>SB 295 AT W NURSERY</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Cirino</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Caldwell</LastName>
+            <FirstName>Tahir</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Cearfoss</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Caldwell</LastName>
+            <FirstName>Tahir</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Caldwell</LastName>
+            <FirstName>Tahir</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1635</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>MSP1002</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>MSP1002</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>287337</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Lolin</LastName>
+               <FirstName>Lorenzo</FirstName>
+               <MiddleName>Christopher</MiddleName>
+               <DOB>03/29/2000 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Lolin</LastName>
+               <FirstName>Lorenzo</FirstName>
+               <MiddleName>Christopher</MiddleName>
+               <DOB>03/29/2000 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>8607</StreetNumber>
+               <StreetName>Preston</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>New Carrollton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20784</Zip5>
+               <Zip4>2849</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.870407</Longitude>
+               <Latitude>38.9675373</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>202</PhoneArea>
+               <PhonePrefix>428</PhonePrefix>
+               <PhoneSuffix>5339</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>149349</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>1FADP3F20DL331792</VIN>
+         <VehicleYear>2013</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>FOCUS</VehicleModelCode>
+         <VehicleStyleCode>4T</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>7EX1873</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>2</VehicleLicMonth>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <StatusCode>1</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Suspected marijuana</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>242671</Property_ID>
+         <DrugTypeCode>SUSPECTED MARIJUANA</DrugTypeCode>
+         <Quantity>6.8</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <StatusCode>1</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Suspected marijuana</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>242672</Property_ID>
+         <DrugTypeCode>SUSPECTED MARIJUANA</DrugTypeCode>
+         <Quantity>20.1</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

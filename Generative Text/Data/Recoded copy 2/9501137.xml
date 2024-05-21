@@ -1,0 +1,133 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2100</ORINum>
+   <ReportDate>10/14/2023 19:35:00</ReportDate>
+   <StartDate>10/14/2023 12:00:00</StartDate>
+   <EndDate>10/14/2023 16:15:00</EndDate>
+   <Summary>Theft</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>709926</AddressId>
+      <Address>
+         <AddressId>709926</AddressId>
+         <StreetNumber>15701</StreetNumber>
+         <StreetName>Iron Rail</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <StreetSuffixCode>NW</StreetSuffixCode>
+         <City>Mount Savage</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-78.878786</Longitude>
+         <Latitude>39.694576</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Brinkman</LastName>
+            <FirstName>Zachary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Jeffries</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1137_AOL</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1137_AOL</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>57</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>390366</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Wassell</LastName>
+               <FirstName>Paul</FirstName>
+               <MiddleName>Edward</MiddleName>
+               <DOB>06/06/1966 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Wassell</LastName>
+               <FirstName>Paul</FirstName>
+               <MiddleName>Edward</MiddleName>
+               <DOB>06/06/1966 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>304</PhoneArea>
+               <PhonePrefix>813</PhonePrefix>
+               <PhoneSuffix>5060</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Ruger LCP Max, .380 ACP. Rose Gold Color , serial #380976475</Description>
+         <PropertyTypeCode>GUN - HANDGUN</PropertyTypeCode>
+         <PropertyValue>400</PropertyValue>
+         <Value>400</Value>
+         <SerialNumber>380976475</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>255244</Property_ID>
+         <PrimaryColor>GLD</PrimaryColor>
+         <Make>Ruger </Make>
+         <Model>LCP MAX </Model>
+         <Quantity>1</Quantity>
+         <BarrelLength>2.75</BarrelLength>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Brinkman</LastName>
+            <FirstName>Zachary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Jeffries</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Inactive</OffenseStatusCode>
+         <OffenseCode>1 1137_AOL</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1137_AOL</ArrestChargeCode>
+         </IncidentOffense>
+   </IncidentSupplement>
+</Incident>

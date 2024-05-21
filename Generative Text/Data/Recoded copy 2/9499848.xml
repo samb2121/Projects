@@ -1,0 +1,199 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>07/06/2023 20:25:00</ReportDate>
+   <StartDate>07/06/2023 19:19:00</StartDate>
+   <Summary>Theft</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>700105</AddressId>
+      <Address>
+         <AddressId>700105</AddressId>
+         <StreetNumber>23129</StreetNumber>
+         <StreetName>Magnolia Hill</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Denton</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21629</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.897155</Longitude>
+         <Latitude>38.839922</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Goldman</LastName>
+            <FirstName>Stansbury</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Repa</LastName>
+            <FirstName>Alexander</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0622 23D</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0622 23D</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>39</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>382934</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Coleman</LastName>
+               <FirstName>Nicole</FirstName>
+               <MiddleName>Renee</MiddleName>
+               <DOB>08/28/1983 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Coleman</LastName>
+               <FirstName>Nicole</FirstName>
+               <MiddleName>Renee</MiddleName>
+               <DOB>08/28/1983 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>23129</StreetNumber>
+               <StreetName>Magnolia Hill</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Denton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21629</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.897155</Longitude>
+               <Latitude>38.839922</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>438</PhonePrefix>
+               <PhoneSuffix>0542</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>R</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>DJ PA speakers</Description>
+         <PropertyTypeCode>SPEAKER</PropertyTypeCode>
+         <PropertyValue>450</PropertyValue>
+         <Value>450</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>251966</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>Proreck</Make>
+         <Model>Club 4000</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>DJ controller system</Description>
+         <PropertyTypeCode>ELECTRONIC EQUIP</PropertyTypeCode>
+         <PropertyValue>1200</PropertyValue>
+         <Value>1200</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>251967</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <Make>Pioneer</Make>
+         <Model>DDJSX2</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Moving head DJ lights</Description>
+         <PropertyTypeCode>ELECTRONIC EQUIP</PropertyTypeCode>
+         <PropertyValue>200</PropertyValue>
+         <Value>200</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>251968</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <Make>U'King</Make>
+         <Model>Spider</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>cordless drill</Description>
+         <PropertyTypeCode>CONST. EQUIPMENT</PropertyTypeCode>
+         <PropertyValue>100</PropertyValue>
+         <Value>100</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>252086</Property_ID>
+         <PrimaryColor>YEL</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>Dewalt</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>cordless drill</Description>
+         <PropertyTypeCode>CONST. EQUIPMENT</PropertyTypeCode>
+         <PropertyValue>100</PropertyValue>
+         <Value>100</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>252087</Property_ID>
+         <PrimaryColor>RED</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>Milwaukee</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>cordless saw</Description>
+         <PropertyTypeCode>CONST. EQUIPMENT</PropertyTypeCode>
+         <PropertyValue>150</PropertyValue>
+         <Value>150</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>252088</Property_ID>
+         <PrimaryColor>YEL</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>Dewalt</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

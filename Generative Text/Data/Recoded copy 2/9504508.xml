@@ -1,0 +1,135 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>09/25/2023 21:00:00</ReportDate>
+   <StartDate>09/25/2023 20:09:00</StartDate>
+   <EndDate>09/25/2023 21:00:00</EndDate>
+   <Summary>Traffic stop resulting in a warrant service.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Warrant Service</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>N POINT BLVD/ EASTERN AVE</IncAddrComment>
+      <AddressId>708048</AddressId>
+      <Address>
+         <AddressId>708048</AddressId>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>Point</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>Baltimore</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>AVE</CrossStreetTypeCode>
+         <Longitude>-76.51755</Longitude>
+         <Latitude>39.29343</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>401-499 N POINT BLVD / 0-0 EASTERN AVE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Watson</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Dunlap</LastName>
+            <FirstName>Matin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Zinn</LastName>
+            <FirstName>Tyler</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Sampson</LastName>
+            <FirstName>Aaron</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1475</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1475</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>25</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>388749</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Davis</LastName>
+               <FirstName>Nylz</FirstName>
+               <MiddleName>Malachi</MiddleName>
+               <DOB>10/06/1997 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Davis</LastName>
+               <FirstName>Nylz</FirstName>
+               <MiddleName>Malachi</MiddleName>
+               <DOB>10/06/1997 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2163</StreetNumber>
+               <StreetName>Kyle Green</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Abingdon</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21009</Zip5>
+               <Zip4>2403</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.330249</Longitude>
+               <Latitude>39.473394</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>814</PhonePrefix>
+               <PhoneSuffix>2951</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240010642</BusinessNumber>
+         <BusinessName> State Of Maryland</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>157453</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>8</StatusCode>
+         <VehicleMakeCode>NISSAN</VehicleMakeCode>
+         <VehicleModelCode>SENECA</VehicleModelCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>7EZ8993</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

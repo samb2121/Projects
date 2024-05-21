@@ -1,0 +1,331 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>01/21/2023 15:27:00</ReportDate>
+   <StartDate>01/21/2023 14:24:00</StartDate>
+   <Summary>Shoplifting theft at Walgreens.  WPD arrested and charged the same three suspects with theft scheme from several stores in Westminster in the same day.  All items recovered from the suspect vehicle during a traffic stop.  Recovered items returned to Walgreens.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>THS</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Property Recovered (Other Agency)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>Walgreens</IncAddrComment>
+      <AddressId>838</AddressId>
+      <City>MDC305</City>
+      <Address>
+         <AddressId>838</AddressId>
+         <StreetNumber>2926</StreetNumber>
+         <StreetName>Baltimore</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>Finksburg</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21048</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.891359</Longitude>
+         <Latitude>39.496177</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>PNC BANK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>WALGREENS</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>PATROL 4 CHECKS</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>PAPA JOHNS</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>PNC BANK  140 &amp; 91</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>PAPA JOHN'S</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Newill</LastName>
+            <FirstName>Todd</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Karas</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>TOT- Turned Over to Other Agency</OffenseStatusCode>
+         <OffenseCode>1 0621 23C</OffenseCode>
+         <PlaceCode>Drug Store/Doctors Office/Hospital</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <Remarks>WPD #23-00165</Remarks>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0621 23C</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>50</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>315120</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Pirozzi</LastName>
+               <FirstName>Heidi</FirstName>
+               <MiddleName>Leigh</MiddleName>
+               <DOB>06/27/1972 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Pirozzi</LastName>
+               <FirstName>Heidi</FirstName>
+               <MiddleName>Leigh</MiddleName>
+               <DOB>06/27/1972 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2755</StreetNumber>
+               <StreetName>Old Kays Mill</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Finksburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21048</Zip5>
+               <Zip4>1808</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.8988452</Longitude>
+               <Latitude>39.4989551</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>R</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>19</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>M</ClearMultiArrestCode>
+         <Person>
+            <PersonId>370880</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Dumitru</LastName>
+               <FirstName>Contessa</FirstName>
+               <DOB>06/21/2003 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Dumitru</LastName>
+               <FirstName>Contessa</FirstName>
+               <DOB>06/21/2003 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1137</StreetNumber>
+               <StreetName>Ashburton</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21216</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>541</PhoneArea>
+               <PhonePrefix>525</PhonePrefix>
+               <PhoneSuffix>7619</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>20</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>M</ClearMultiArrestCode>
+         <Person>
+            <PersonId>367151</PersonId>
+            <RaceCode>Asian</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>SARDARU</LastName>
+               <FirstName>ECATERINA</FirstName>
+               <DOB>08/17/2002 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>SARDARU</LastName>
+               <FirstName>ECATERINA</FirstName>
+               <DOB>08/17/2002 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>5008</StreetNumber>
+               <StreetName>Frederick</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21229</Zip5>
+               <Zip4>3216</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.697779</Longitude>
+               <Latitude>39.281633</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>52</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>M</ClearMultiArrestCode>
+         <Person>
+            <PersonId>370882</PersonId>
+            <RaceCode>Unknown</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Zlatineanu</LastName>
+               <FirstName>Mioara</FirstName>
+               <DOB>11/07/1970 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Zlatineanu</LastName>
+               <FirstName>Mioara</FirstName>
+               <DOB>11/07/1970 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>5008</StreetNumber>
+               <StreetName>Frederick</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21229</Zip5>
+               <Zip4>3216</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.697779</Longitude>
+               <Latitude>39.281633</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240019432</BusinessNumber>
+         <BusinessName>Walgreens</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>642355</AddressId>
+            <StreetNumber>2926</StreetNumber>
+            <StreetName>Baltimore Finksburg</StreetName>
+            <StateCode>Maryland</StateCode>
+            <CountryCode>United States of America</CountryCode>
+            <CountyCode>NaN</CountyCode>
+            <Longitude>-76.8917166666667</Longitude>
+            <Latitude>39.495825</Latitude>
+            <AddressCommonName>
+               <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+            </AddressCommonName>
+            <BusinessPhone>
+               <PhoneTypeCode>Business</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>861</PhonePrefix>
+               <PhoneSuffix>8100</PhoneSuffix>
+               </BusinessPhone>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Men's Rogaine ( 3 mo supply)</Description>
+         <PropertyTypeCode>OTHER PROP-MISC</PropertyTypeCode>
+         <PropertyValue>63.99</PropertyValue>
+         <Value>63.99</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>241953</Property_ID>
+         <Quantity>2</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Natures Bounty  Co Q-10 Diatary Supplement  (Twin Pack  200 mg )</Description>
+         <PropertyTypeCode>OTHER PROP-MISC</PropertyTypeCode>
+         <PropertyValue>99.99</PropertyValue>
+         <Value>99.99</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>241954</Property_ID>
+         <Quantity>2</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Nature's Bounty   Co Q-10  Dietary Supplement  (twin pack  100 mg )</Description>
+         <PropertyTypeCode>OTHER PROP-MISC</PropertyTypeCode>
+         <PropertyValue>65.99</PropertyValue>
+         <Value>65.99</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>241955</Property_ID>
+         <Quantity>2</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Nature's Bounty  Co Q-10  Dietary Supplement  (200 mg )</Description>
+         <PropertyTypeCode>OTHER PROP-MISC</PropertyTypeCode>
+         <PropertyValue>41.99</PropertyValue>
+         <Value>41.99</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>241956</Property_ID>
+         <Quantity>2</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Nature's Bounty Co Q-10  Dietary Supplement  (400 mg )</Description>
+         <PropertyTypeCode>OTHER PROP-MISC</PropertyTypeCode>
+         <PropertyValue>58.99</PropertyValue>
+         <Value>58.99</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>241957</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,105 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>04/02/2023 10:33:00</ReportDate>
+   <StartDate>04/02/2023 08:34:00</StartDate>
+   <Summary>Driving uninsured vehicle</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>689388</AddressId>
+      <Address>
+         <AddressId>689388</AddressId>
+         <StreetNumber>56</StreetNumber>
+         <StreetName>Mm I70 Eb</StreetName>
+         <City>Frederick</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.38222</Longitude>
+         <Latitude>39.40393</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Brown</LastName>
+            <FirstName>Shawn</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Freysz</LastName>
+            <FirstName>Richard</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mattingly</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>19733</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>19733</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>26</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>373855</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>MENJIVAR BARNICA</LastName>
+               <FirstName>GLEDIN</FirstName>
+               <MiddleName>ADONAY</MiddleName>
+               <DOB>03/11/1997 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>MENJIVAR BARNICA</LastName>
+               <FirstName>GLEDIN</FirstName>
+               <MiddleName>ADONAY</MiddleName>
+               <DOB>03/11/1997 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>75</StreetNumber>
+               <StreetName>Plaza</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <StreetSuffixCode>NE</StreetSuffixCode>
+               <City>Leesburg</City>
+               <StateCode>Virginia</StateCode>
+               <Zip5>20176</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.549627</Longitude>
+               <Latitude>39.1120981</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>151802</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>4T1BK46KX8U562460</VIN>
+         <VehicleYear>2008</VehicleYear>
+         <VehicleMakeCode>TOYOTA(TOYT)</VehicleMakeCode>
+         <VehicleModelCode>CAMRY</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

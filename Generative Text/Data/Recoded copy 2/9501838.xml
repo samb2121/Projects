@@ -1,0 +1,145 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>11/29/2023 20:35:00</ReportDate>
+   <StartDate>11/29/2023 20:24:00</StartDate>
+   <Summary>Traffic stop with a suspended driver.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>6378 GEORGETOWN,SYKESVILLE</IncAddrComment>
+      <AddressId>714598</AddressId>
+      <Address>
+         <AddressId>714598</AddressId>
+         <StreetNumber>6378</StreetNumber>
+         <StreetName>Georgetown Sykesville</StreetName>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.9458483333333</Longitude>
+         <Latitude>39.3973613333333</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>McCarty</LastName>
+            <FirstName>Cade</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pettis</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>17065</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>17065</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>16824</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>16824</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>3099</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>3099</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>16616</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>16616</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>394236</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>SMITH</LastName>
+               <FirstName>DECONTEE</FirstName>
+               <MiddleName>TAYLORING</MiddleName>
+               <DOB>12/25/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>SMITH</LastName>
+               <FirstName>DECONTEE</FirstName>
+               <MiddleName>TAYLORING</MiddleName>
+               <DOB>12/25/1989 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>612</PhoneArea>
+               <PhonePrefix>396</PhonePrefix>
+               <PhoneSuffix>4849</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240009530</BusinessNumber>
+         <BusinessName>State Of Maryland</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>202733</AddressId>
+            <StreetNumber>1100</StreetNumber>
+            <StreetName>Baltimore</StreetName>
+            <StreetTypeCode>Boulevard</StreetTypeCode>
+            <City>Westminster</City>
+            <StateCode>Maryland</StateCode>
+            <Zip5>21157</Zip5>
+            <CountryCode>United States of America</CountryCode>
+            <CountyCode>NaN</CountyCode>
+            <Longitude>-76.957593</Longitude>
+            <Latitude>39.555051</Latitude>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>159427</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>8</StatusCode>
+         <VIN>2CNDL63F496200942</VIN>
+         <VehicleYear>2009</VehicleYear>
+         <VehicleMakeCode>CHEVROLET</VehicleMakeCode>
+         <VehicleModelCode>EQUUS</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>MAR</VehPriColorCode>
+         <VehicleLicStateCode>MN</VehicleLicStateCode>
+         <VehicleLicNumber>EVF554</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

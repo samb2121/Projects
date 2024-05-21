@@ -1,0 +1,54 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>02/28/2023 12:29:00</ReportDate>
+   <StartDate>02/28/2023 12:29:00</StartDate>
+   <Summary>Possession CDS Marijuana</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>685147</AddressId>
+      <City>MDC262</City>
+      <Address>
+         <AddressId>685147</AddressId>
+         <StreetNumber>3610</StreetNumber>
+         <StreetName>Old Silver Hill</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Suitland</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.94789</Longitude>
+         <Latitude>38.8427</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>McNeely</LastName>
+            <FirstName>Ryan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Whetstone</LastName>
+            <FirstName>Jason</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>One heat sealed bag of marijuana</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>245268</Property_ID>
+         <DrugTypeCode>SUSPECTED MARIJUANA</DrugTypeCode>
+         <Quantity>500</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

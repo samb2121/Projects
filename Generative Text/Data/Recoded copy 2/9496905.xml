@@ -1,0 +1,125 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4700</ORINum>
+   <ReportDate>03/15/2023 14:37:00</ReportDate>
+   <StartDate>03/15/2023 14:05:00</StartDate>
+   <Summary>Theft of Money Through a Phone Scam</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>538520</AddressId>
+      <City>MDC217</City>
+      <Address>
+         <AddressId>538520</AddressId>
+         <StreetNumber>11930</StreetNumber>
+         <StreetName>Sherree</StreetName>
+         <StreetTypeCode>Lane</StreetTypeCode>
+         <City>Princess Anne</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21853</Zip5>
+         <Zip4>2140</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.7069141</Longitude>
+         <Latitude>38.2087885</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Peters</LastName>
+            <FirstName>John</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Marshall</LastName>
+            <FirstName>Shadoe</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Unfounded</OffenseStatusCode>
+         <OffenseCode>1 1137_AOL</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <Remarks>Phone Scam</Remarks>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1137_AOL</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>59</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>371674</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hunter</LastName>
+               <FirstName>KATHLEEN</FirstName>
+               <MiddleName>RUTH</MiddleName>
+               <DOB>08/14/1963 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hunter</LastName>
+               <FirstName>KATHLEEN</FirstName>
+               <MiddleName>RUTH</MiddleName>
+               <DOB>08/14/1963 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>11930</StreetNumber>
+               <StreetName>Sherree</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Princess Anne</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21853</Zip5>
+               <Zip4>2140</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.7069141</Longitude>
+               <Latitude>38.2087885</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>603</PhoneArea>
+               <PhonePrefix>553</PhonePrefix>
+               <PhoneSuffix>7006</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>603</PhoneArea>
+               <PhonePrefix>553</PhonePrefix>
+               <PhoneSuffix>7006</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>C</DocumentTypeCode>
+         <PropertyTypeCode>CASH</PropertyTypeCode>
+         <PropertyValue>450</PropertyValue>
+         <Value>450</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>245468</Property_ID>
+         <Quantity>450</Quantity>
+         <Amount>450</Amount>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

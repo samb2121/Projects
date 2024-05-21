@@ -1,0 +1,121 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>03/26/2023 00:00:00</ReportDate>
+   <StartDate>03/25/2023 23:51:00</StartDate>
+   <Summary>The defendant drove a motor vehicle while license suspended.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>688533</AddressId>
+      <City>MDC151</City>
+      <Address>
+         <AddressId>688533</AddressId>
+         <StreetNumber>47</StreetNumber>
+         <StreetName>Mm I70 Wb</StreetName>
+         <City>Frederick</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.50265</Longitude>
+         <Latitude>39.4465</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Brown</LastName>
+            <FirstName>Shawn</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mattingly</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Freysz</LastName>
+            <FirstName>Richard</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Hopkins</LastName>
+            <FirstName>Douglas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>3096</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>3096</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>47</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>148077</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hill</LastName>
+               <FirstName>Tanya</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>03/24/1976 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hill</LastName>
+               <FirstName>Tanya</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>03/24/1976 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>11843</StreetNumber>
+               <StreetName>Grays Corner</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Berlin</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21811</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.142</Longitude>
+               <Latitude>38.338916</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>205</PhonePrefix>
+               <PhoneSuffix>5665</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>151536</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VehicleYear>2020</VehicleYear>
+         <VehicleMakeCode>KIA MOTORS CORPORATION</VehicleMakeCode>
+         <VehicleModelCode>OPTIMA</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>2EG4823</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,294 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>07/15/2023 11:57:00</ReportDate>
+   <StartDate>07/15/2023 11:21:00</StartDate>
+   <EndDate>07/15/2023 12:17:00</EndDate>
+   <Summary>Disorderly subject and MDOP</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Disorderly Conduct</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>Single Family residence</IncAddrComment>
+      <AddressId>88517</AddressId>
+      <Address>
+         <AddressId>88517</AddressId>
+         <StreetNumber>6263</StreetNumber>
+         <StreetName>Solomons</StreetName>
+         <StreetTypeCode>Circle</StreetTypeCode>
+         <City>Hurlock</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21643</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.861531</Longitude>
+         <Latitude>38.635538</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Salgueiro</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Williams</LastName>
+            <FirstName>Andrew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Chester</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Warrant Request</OffenseStatusCode>
+         <OffenseCode>CO193</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>CO193</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Warrant Request</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>20</ApproxAge>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>382658</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Battle</LastName>
+               <FirstName>Eugene</FirstName>
+               <DOB>05/30/2003 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Battle</LastName>
+               <FirstName>Eugene</FirstName>
+               <DOB>05/30/2003 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>20135</StreetNumber>
+               <StreetName>Substation</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Georgetown</City>
+               <StateCode>Delaware</StateCode>
+               <Zip5>19947</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.398712</Longitude>
+               <Latitude>38.661117</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>463</PhonePrefix>
+               <PhoneSuffix>5999</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>50</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>382662</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Harrison</LastName>
+               <FirstName>Lisa</FirstName>
+               <MiddleName>Renee</MiddleName>
+               <DOB>09/22/1972 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Harrison</LastName>
+               <FirstName>Lisa</FirstName>
+               <MiddleName>Renee</MiddleName>
+               <DOB>09/22/1972 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>17</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>382663</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Harrison</LastName>
+               <FirstName>Alyssa</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>08/31/2005 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Harrison</LastName>
+               <FirstName>Alyssa</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>08/31/2005 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>6263</StreetNumber>
+               <StreetName>Solomons</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <City>Hurlock</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21643</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.861531</Longitude>
+               <Latitude>38.635538</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>463</PhonePrefix>
+               <PhoneSuffix>6069</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>18</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>382668</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Ramsey</LastName>
+               <FirstName>Matthew</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>01/23/2005 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Ramsey</LastName>
+               <FirstName>Matthew</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>01/23/2005 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>6263</StreetNumber>
+               <StreetName>Solomons</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <City>Hurlock</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21643</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.861531</Longitude>
+               <Latitude>38.635538</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>515</PhonePrefix>
+               <PhoneSuffix>1742</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>4</RoleCode>
+         <StatusCode>4</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Dry Wall </Description>
+         <PropertyTypeCode>OTHER PROP-MISC</PropertyTypeCode>
+         <PropertyValue>20</PropertyValue>
+         <Value>20</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>251814</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Del Vecchio</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Glover</LastName>
+            <FirstName>Eric</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Williams</LastName>
+            <FirstName>Andrew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Weems</LastName>
+            <FirstName>Clinton</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

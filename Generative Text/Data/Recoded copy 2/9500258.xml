@@ -1,0 +1,213 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4700</ORINum>
+   <ReportDate>07/21/2023 10:37:00</ReportDate>
+   <StartDate>07/21/2023 10:04:00</StartDate>
+   <Summary>Accident involving train, injuries reported</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>LORETTO RD/ INDEPENDENCE CT</IncAddrComment>
+      <AddressId>701600</AddressId>
+      <Address>
+         <AddressId>701600</AddressId>
+         <StreetName>Loretto</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Princess Anne</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>CT</CrossStreetTypeCode>
+         <Longitude>-75.691136</Longitude>
+         <Latitude>38.223341</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>12466-12485 LORETTO RD / 12380-12469 INDEPENDENCE CT</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wilson</LastName>
+            <FirstName>Justin </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Corron</LastName>
+            <FirstName>James</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Marshall</LastName>
+            <FirstName>Randolph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wright</LastName>
+            <FirstName>Ethan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>15648</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>15648</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>30</ApproxAge>
+         <Person>
+            <PersonId>358458</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>MINNS</LastName>
+               <FirstName>NIJA</FirstName>
+               <MiddleName>SHINEICE JANAE</MiddleName>
+               <DOB>07/22/1992 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>MINNS</LastName>
+               <FirstName>NIJA</FirstName>
+               <MiddleName>SHINEICE JANAE</MiddleName>
+               <DOB>07/22/1992 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>30441</StreetNumber>
+               <StreetName>Oak</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <SubTypeCode>UNIT</SubTypeCode>
+               <SubNumber>2</SubNumber>
+               <City>Princess Anne</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21853</Zip5>
+               <Zip4>1302</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.696236</Longitude>
+               <Latitude>38.2109</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>13</ApproxAge>
+         <ResidentStatusCode>Unknown</ResidentStatusCode>
+         <Person>
+            <PersonId>383145</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Smith</LastName>
+               <FirstName>Nijhaell</FirstName>
+               <DOB>07/28/2009 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Smith</LastName>
+               <FirstName>Nijhaell</FirstName>
+               <DOB>07/28/2009 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>PA</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>43</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>383189</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Boothe</LastName>
+               <FirstName>Jacob</FirstName>
+               <MiddleName>Miracle</MiddleName>
+               <DOB>06/14/1980 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Boothe</LastName>
+               <FirstName>Jacob</FirstName>
+               <MiddleName>Miracle</MiddleName>
+               <DOB>06/14/1980 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>8730</StreetNumber>
+               <StreetName>Lennox</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Delmar</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21875</Zip5>
+               <Zip4>2481</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.577185</Longitude>
+               <Latitude>38.432063</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>155342</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>1V2LR2CA8LC504705</VIN>
+         <VehicleYear>2020</VehicleYear>
+         <VehicleMakeCode>VOLKSWAGEN(VOLK)</VehicleMakeCode>
+         <VehicleModelCode>ATLAS AND ATLAS CROSS SPORT</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>A372100</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>11</VehicleLicMonth>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <StatusCode>4</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>General Motors' Electro-Motive Division (EMD MP15AC Locomotive, 1975)</Description>
+         <PropertyTypeCode>996</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <SerialNumber>N/A</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>252060</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>RED</SecondaryColor>
+         <Make>EMD</Make>
+         <Model>MP15AC</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,122 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>12/19/2023 23:41:00</ReportDate>
+   <StartDate>12/04/2023 08:00:00</StartDate>
+   <Summary>The juvenile male victim was assaulted both physically and sexually by the juvenile female suspect.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Sexual Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>484045</AddressId>
+      <Address>
+         <AddressId>484045</AddressId>
+         <StreetNumber>5909</StreetNumber>
+         <StreetName>Jefferson</StreetName>
+         <StreetTypeCode>Pike</StreetTypeCode>
+         <City>Frederick</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.461878372</Longitude>
+         <Latitude>39.394259818</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>NEW LIFE CHRISTIAN SCHOOL</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Rishell</LastName>
+            <FirstName>Daniel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Koontz</LastName>
+            <FirstName>Mark</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>4 3600</OffenseCode>
+         <PlaceCode>School-Elementary/Secondary</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>4 3600</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>11</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>395701</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Holt</LastName>
+               <FirstName>Urban</FirstName>
+               <MiddleName>Nyx</MiddleName>
+               <DOB>06/01/2012 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Holt</LastName>
+               <FirstName>Urban</FirstName>
+               <MiddleName>Nyx</MiddleName>
+               <DOB>06/01/2012 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>322</StreetNumber>
+               <StreetName>Thomas</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Frederick</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21701</Zip5>
+               <Zip4>6248</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.428649</Longitude>
+               <Latitude>39.40989</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <ResidentStatusCode>Unknown</ResidentStatusCode>
+         <Person>
+            <PersonId>395703</PersonId>
+            <RaceCode>Unknown</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Rohrer</LastName>
+               <FirstName>Esme</FirstName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Rohrer</LastName>
+               <FirstName>Esme</FirstName>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

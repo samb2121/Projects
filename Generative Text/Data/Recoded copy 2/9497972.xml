@@ -1,0 +1,122 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>01/25/2023 11:12:00</ReportDate>
+   <StartDate>01/25/2023 10:55:00</StartDate>
+   <Summary>Gentleman walked into the lobby to turn in his registered firearms per pretrial conditions.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>FIREARM</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>94416</AddressId>
+      <SubBeat>670</SubBeat>
+      <City>MDC400</City>
+      <Address>
+         <AddressId>94416</AddressId>
+         <StreetNumber>8908</StreetNumber>
+         <StreetName>Kelso Drive</StreetName>
+         <City>Essex</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21221</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.477875</Longitude>
+         <Latitude>39.332994</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Taylor</LastName>
+            <FirstName>Victor</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Howard</LastName>
+            <FirstName>Charles </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>NC</OffenseCode>
+         <PlaceCode>Government/Public Building</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>61</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>368198</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Breckenridge</LastName>
+               <FirstName>Michael</FirstName>
+               <DOB>05/10/1961 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Breckenridge</LastName>
+               <FirstName>Michael</FirstName>
+               <DOB>05/10/1961 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>8</StreetNumber>
+               <StreetName>Silver Gate</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Perry Hall</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21128</Zip5>
+               <Zip4>8805</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>653</PhonePrefix>
+               <PhoneSuffix>3482</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <StatusCode>13</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Black &amp; Gold handgun</Description>
+         <PropertyTypeCode>GUN - HANDGUN</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>242878</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>GLD</SecondaryColor>
+         <Make>Smith/Wesson</Make>
+         <Model>M&amp;P</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>13</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Black Rifle</Description>
+         <PropertyTypeCode>GUN - RIFLE</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>242879</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>BLU</SecondaryColor>
+         <Make>Sig Sauer </Make>
+         <Model>716i</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

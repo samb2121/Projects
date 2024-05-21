@@ -1,0 +1,176 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0100</ORINum>
+   <ReportDate>12/04/2023 17:08:00</ReportDate>
+   <StartDate>12/04/2023 16:45:00</StartDate>
+   <Summary>CDS possession</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>715075</AddressId>
+      <Address>
+         <AddressId>715075</AddressId>
+         <StreetNumber>80</StreetNumber>
+         <StreetName>Mm I70 Wb</StreetName>
+         <City>West Friendship</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.95627</Longitude>
+         <Latitude>39.30942</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>White</LastName>
+            <FirstName>Brendan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Muller</LastName>
+            <FirstName>Jacob</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Dull</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Deater</LastName>
+            <FirstName>Jonathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1111</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1111</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>40</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>214305</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Corso</LastName>
+               <FirstName>Julie</FirstName>
+               <MiddleName>Nicole</MiddleName>
+               <DOB>08/18/1983 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Corso</LastName>
+               <FirstName>Julie</FirstName>
+               <MiddleName>Nicole</MiddleName>
+               <DOB>08/18/1983 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>804</StreetNumber>
+               <StreetName>Jefferson</StreetName>
+               <StreetTypeCode>Boulevard</StreetTypeCode>
+               <City>Hagerstown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21740</Zip5>
+               <Zip4>5015</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.7005154</Longitude>
+               <Latitude>39.6424331</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>520</PhonePrefix>
+               <PhoneSuffix>8199</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>159940</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>2MEFM74WX1X631040</VIN>
+         <VehicleYear>2001</VehicleYear>
+         <VehicleMakeCode>MERCURY% AUTOMOBILES</VehicleMakeCode>
+         <VehicleModelCode>GRAND MARQUIS</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>GRN</VehPriColorCode>
+         <VehSecColorCode>GRN</VehSecColorCode>
+         <VehicleLicStateCode>VA</VehicleLicStateCode>
+         <VehicleLicNumber>29651B</VehicleLicNumber>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Suboxone</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>257613</Property_ID>
+         <DrugTypeCode>SUSPECTED OTHER DRUGS</DrugTypeCode>
+         <Quantity>5</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Adderall</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>257614</Property_ID>
+         <DrugTypeCode>SUSPECTED OTHER DRUGS</DrugTypeCode>
+         <Quantity>9</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Klonopin</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>257615</Property_ID>
+         <DrugTypeCode>SUSPECTED OTHER DRUGS</DrugTypeCode>
+         <Quantity>10</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

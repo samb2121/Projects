@@ -1,0 +1,174 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>07/18/2023 17:16:00</ReportDate>
+   <StartDate>07/18/2023 16:48:00</StartDate>
+   <Summary>Single Vehicle Motor Vehicle Collision - Personal Injury</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>ACR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>NANTICOKE RD/ WHITEHAVEN RD</IncAddrComment>
+      <AddressId>701323</AddressId>
+      <Address>
+         <AddressId>701323</AddressId>
+         <StreetName>Whitehaven</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Quantico</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21856</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-75.726652</Longitude>
+         <Latitude>38.355444</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mareck</LastName>
+            <FirstName>Keven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Eckrich</LastName>
+            <FirstName>Patrick</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>83</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>382861</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Tubbs</LastName>
+               <FirstName>Charles</FirstName>
+               <DOB>06/27/1940 00:00:00</DOB>
+               <TitleCode>Senior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Tubbs</LastName>
+               <FirstName>Charles</FirstName>
+               <DOB>06/27/1940 00:00:00</DOB>
+               <TitleCode>Senior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>4972</StreetNumber>
+               <StreetName>Ladys</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Eden</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21822</Zip5>
+               <Zip4>2296</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.697645</Longitude>
+               <Latitude>38.330886</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>21</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>358476</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Schroeder</LastName>
+               <FirstName>Jason</FirstName>
+               <DOB>04/24/2002 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Schroeder</LastName>
+               <FirstName>Jason</FirstName>
+               <DOB>04/24/2002 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2667</StreetNumber>
+               <StreetName>Clara</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Tyaskin</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21865</Zip5>
+               <Zip4>2052</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.818288</Longitude>
+               <Latitude>38.268021</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>931</PhoneArea>
+               <PhonePrefix>572</PhonePrefix>
+               <PhoneSuffix>7726</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>155255</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>1D7HU18N28J142634</VIN>
+         <VehicleYear>2008</VehicleYear>
+         <VehicleMakeCode>DODGE(DODG)</VehicleMakeCode>
+         <VehicleModelCode>R1500</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>RED</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>21R830</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Gore</LastName>
+            <FirstName>Charles</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Marshall</LastName>
+            <FirstName>Shadoe</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>MSP1004</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <Remarks>Motor Vehicle Collision - Collision Reconstruction </Remarks>
+         </IncidentOffense>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2013ISP0000052</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>04/03/2013 14:39:00</ReportDate>
+   <ReportTime>04/03/2013 14:39:00</ReportTime>
+   <StartDate>04/03/2013 14:39:00</StartDate>
+   <StartTime>04/01/2013 14:39:00</StartTime>
+   <EndDate>04/03/2013 14:39:00</EndDate>
+   <EndTime>04/01/2013 14:39:00</EndTime>
+   <Summary>test test</Summary>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>04/03/2013 14:39:51</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:23</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>AGA</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>290</AddressId>
+      <Beat>Test</Beat>
+      <SubBeat>Area</SubBeat>
+      <City>1</City>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>04/10/2013 21:14:21</CreatorDate>
+      <UpdatorId>STATE_OFFICER11</UpdatorId>
+      <UpdatorDate>04/10/2013 21:14:54</UpdatorDate>
+      <Address>
+         <AddressId>290</AddressId>
+         <StreetNumber>122</StreetNumber>
+         <StreetDirCode>W</StreetDirCode>
+         <StreetName>Elm</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>Chicago</City>
+         <StateCode>IL</StateCode>
+         <Zip5>60610</Zip5>
+         <Zip4>1</Zip4>
+         <CountryCode>US</CountryCode>
+         <Longitude>-87.632329</Longitude>
+         <Latitude>41.903126</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>04/03/2013 14:39:51</SuppReportDate>
+      <SuppReportTime>04/03/2013 14:39:51</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>07/02/2013 18:20:31</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>04/03/2013 14:39:51</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:15</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>asfg</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>04/10/2013 21:13:19</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>04/10/2013 21:14:03</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>1097</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-1-2A</OffenseCode>
+         <PlaceCode>40</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>2</UCRNumber>
+         <OffenseStatusDate>04/10/2013 21:01:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>35-43-1-2A</ArrestChargeCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>04/10/2013 21:01:32</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/02/2013 18:21:29</UpdatorDate>
+      </IncidentOffense>
+      <IncidentOffense>
+         <IncidentId>1097</IncidentId>
+         <OffenseNumber>2</OffenseNumber>
+         <OffenseStatusCode>02</OffenseStatusCode>
+         <OffenseCode>35-42-2-1  B11</OffenseCode>
+         <PlaceCode>07</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>04/10/2013 21:02:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>35-42-2-1  B11</ArrestChargeCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>04/10/2013 21:02:57</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/02/2013 18:21:29</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>29</ApproxAge>
+         <ResidentStatusCode>U</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>04/10/2013 21:05:12</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:15</UpdatorDate>
+         <Person>
+            <PersonId>7</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Howe</LastName>
+               <FirstName>Luke</FirstName>
+               <DOB>05/10/1983 00:00:00</DOB>
+               <SSN>9.87654321E8</SSN>
+               <TitleCode>I</TitleCode>
+               <DateOfInfo>02/10/2012 09:59:57</DateOfInfo>
+               <SLastName>H000</SLastName>
+               <SFirstName>L200</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Chrome Dome</LastName>
+               <DateOfInfo>03/06/2012 00:00:00</DateOfInfo>
+               <SLastName>C653</SLastName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Howe</LastName>
+               <FirstName>Luke</FirstName>
+               <MiddleName>D</MiddleName>
+               <DOB>05/10/1983 00:00:00</DOB>
+               <SSN>9.87654321E8</SSN>
+               <TitleCode>I</TitleCode>
+               <DateOfInfo>10/02/2013 00:00:00</DateOfInfo>
+               <SLastName>H000</SLastName>
+               <SFirstName>L200</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Howe</LastName>
+               <FirstName>Luke</FirstName>
+               <DOB>05/10/1983 00:00:00</DOB>
+               <SSN>9.87654321E8</SSN>
+               <TitleCode>I</TitleCode>
+               <SLastName>H000</SLastName>
+               <SFirstName>L200</SFirstName>
+               <DateOfInfo>02/10/2012 09:59:57</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>N</NameTypeCode>
+               <LastName>Chrome Dome</LastName>
+               <SLastName>C653</SLastName>
+               <DateOfInfo>03/06/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Howe</LastName>
+               <FirstName>Luke</FirstName>
+               <MiddleName>D</MiddleName>
+               <DOB>05/10/1983 00:00:00</DOB>
+               <SSN>9.87654321E8</SSN>
+               <TitleCode>I</TitleCode>
+               <SLastName>H000</SLastName>
+               <SFirstName>L200</SFirstName>
+               <DateOfInfo>10/02/2013 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>585 </StreetNumber>
+               <StreetDirCode>S</StreetDirCode>
+               <StreetName>Tecumseh</StreetName>
+               <StreetTypeCode>RD</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <City>Indianapollis</City>
+               <StateCode>IN</StateCode>
+               <CountryCode>US</CountryCode>
+               <Longitude>-86.125992</Longitude>
+               <Latitude>39.775332</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>RES</PhoneTypeCode>
+               <PhoneArea>800</PhoneArea>
+               <PhonePrefix>452</PhonePrefix>
+               <PhoneSuffix>1121</PhoneSuffix>
+               <DateOfInfo>03/06/2012 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>04/10/2013 21:05:13</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:19</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>42</ApproxAge>
+         <ResidentStatusCode>U</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER16</CreatorId>
+         <CreatorDate>04/10/2013 21:07:26</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:16</UpdatorDate>
+         <Person>
+            <PersonId>130</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>O</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Bundy</LastName>
+               <FirstName>Al</FirstName>
+               <MiddleName>Test</MiddleName>
+               <SSN>2.22222223E8</SSN>
+               <DateOfInfo>05/03/2011 15:11:42</DateOfInfo>
+               <SLastName>B530</SLastName>
+               <SFirstName>A400</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Bundy</LastName>
+               <FirstName>Al</FirstName>
+               <MiddleName>Test</MiddleName>
+               <SSN>2.22222223E8</SSN>
+               <SLastName>B530</SLastName>
+               <SFirstName>A400</SFirstName>
+               <DateOfInfo>05/03/2011 15:11:42</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>2740</StreetNumber>
+               <StreetDirCode>N</StreetDirCode>
+               <StreetName>ADDISON MEADOWS</StreetName>
+               <StreetTypeCode>LN</StreetTypeCode>
+               <SubTypeCode>BSMT</SubTypeCode>
+               <City>INDIANAPOLIS</City>
+               <StateCode>PA</StateCode>
+               <Zip5>46203</Zip5>
+               <Zip4>5555</Zip4>
+               <Longitude>-86.059884</Longitude>
+               <Latitude>39.728722</Latitude>
+               <Beat>Test</Beat>
+               <SubBeat>Area</SubBeat>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>200</StreetNumber>
+               <StreetName>Main</StreetName>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>2G</SubNumber>
+               <City>INDIANAPOLIS</City>
+               <StateCode>IN</StateCode>
+               <CountryCode>US</CountryCode>
+               <Beat>Test</Beat>
+               <SubBeat>Area</SubBeat>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>RES</PhoneTypeCode>
+               <PhoneArea>309</PhoneArea>
+               <PhonePrefix>829</PhonePrefix>
+               <PhoneSuffix>0123</PhoneSuffix>
+               <DateOfInfo>05/03/2012 00:00:00</DateOfInfo>
+            </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>309</PhoneArea>
+               <PhonePrefix>888</PhonePrefix>
+               <PhoneSuffix>5040</PhoneSuffix>
+               <DateOfInfo>05/03/2012 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>VPO</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>04/10/2013 21:07:26</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:18</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>178</VEHICLE_ID>
+         <RoleCode>AB</RoleCode>
+         <CreatorId>52CIDSUP</CreatorId>
+         <CreatorDate>04/05/2013 17:32:06</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/12/2017 13:33:25</UpdatorDate>
+         <DateOfInfo>10/30/2012 21:10:41</DateOfInfo>
+         <DateOfInfo>03/06/2014 11:16:58</DateOfInfo>
+         <StatusCode>2</StatusCode>
+         <VehicleMakeCode>JEEP</VehicleMakeCode>
+         <VehicleModelCode>GCH</VehicleModelCode>
+         <VehPriColorCode>RED</VehPriColorCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleLicStateCode>CO</VehicleLicStateCode>
+         <VehicleLicStateCode>HI</VehicleLicStateCode>
+         <VehicleLicNumber>GGG123</VehicleLicNumber>
+         <VehicleLicNumber>AAA456</VehicleLicNumber>
+         <VehicleLicYear>2013</VehicleLicYear>
+         <VehicleLicMonth>10</VehicleLicMonth>
+         <VehicleLicTypeCode>CO</VehicleLicTypeCode>
+         <VehConditionCode>G</VehConditionCode>
+         <VehConditionCode>F</VehConditionCode>
+         <VehDamageCode>NaN</VehDamageCode>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>111</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>04/05/2013 17:34:14</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>04/05/2013 17:34:14</UpdatorDate>
+         <DateOfInfo>06/13/2012 13:24:23</DateOfInfo>
+         <DateOfInfo>03/12/2014 14:07:27</DateOfInfo>
+         <StatusCode>3</StatusCode>
+         <VIN>ABC123UNME</VIN>
+         <VehicleYear>2010</VehicleYear>
+         <VehicleMakeCode>JEEP</VehicleMakeCode>
+         <VehicleStyleCode>4T</VehicleStyleCode>
+         <VehicleTypeCode>AT</VehicleTypeCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehSecColorCode>GRN</VehSecColorCode>
+         <VehicleLicStateCode>CO</VehicleLicStateCode>
+         <VehicleLicNumber>ABC123UNME</VehicleLicNumber>
+         <VehicleLicYear>1988</VehicleLicYear>
+         <VehicleLicMonth>10</VehicleLicMonth>
+         <VehicleLicTypeCode>DL</VehicleLicTypeCode>
+         <VehicleMiscID>ABC123UNME</VehicleMiscID>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

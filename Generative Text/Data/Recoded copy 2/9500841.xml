@@ -1,0 +1,175 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>05/21/2023 07:17:00</ReportDate>
+   <StartDate>05/21/2023 06:41:00</StartDate>
+   <Summary>Domestic dispute involving a collision.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>690831</AddressId>
+      <Address>
+         <AddressId>690831</AddressId>
+         <StreetNumber>4665</StreetNumber>
+         <StreetName>Huntingtown</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Huntingtown</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20639</Zip5>
+         <Zip4>8512</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.627485</Longitude>
+         <Latitude>38.625993</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Oleksak</LastName>
+            <FirstName>Jaroslaw</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Newman</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Smith</LastName>
+            <FirstName>Andrew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>21</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>377611</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Maio</LastName>
+               <FirstName>Ashlynn</FirstName>
+               <MiddleName>Nicole</MiddleName>
+               <DOB>05/17/2002 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Maio</LastName>
+               <FirstName>Ashlynn</FirstName>
+               <MiddleName>Nicole</MiddleName>
+               <DOB>05/17/2002 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>36</StreetNumber>
+               <StreetName>Cypress</StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <City>Indian Head</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20640</Zip5>
+               <Zip4>1106</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.133972</Longitude>
+               <Latitude>38.603981</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>690</PhonePrefix>
+               <PhoneSuffix>5187</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>20</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>377612</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Drinnon</LastName>
+               <FirstName>Jordan</FirstName>
+               <MiddleName>James</MiddleName>
+               <DOB>11/06/2002 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Drinnon</LastName>
+               <FirstName>Jordan</FirstName>
+               <MiddleName>James</MiddleName>
+               <DOB>11/06/2002 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>36</StreetNumber>
+               <StreetName>Cypress</StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <City>Indian Head</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20640</Zip5>
+               <Zip4>1106</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.133972</Longitude>
+               <Latitude>38.603981</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>771</PhonePrefix>
+               <PhoneSuffix>4717</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>153255</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>1HGCM72705A000491</VIN>
+         <VehicleYear>2005</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>ACCORD</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>2EJ0189</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>11</VehicleLicMonth>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>153254</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>1N4AL3AP0DC241673</VIN>
+         <VehicleYear>2013</VehicleYear>
+         <VehicleMakeCode>NISSAN</VehicleMakeCode>
+         <VehicleModelCode>ALTIMA</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>3FG1543</VehicleLicNumber>
+         <VehicleLicYear>2025</VehicleLicYear>
+         <VehicleLicMonth>4</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,145 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2300</ORINum>
+   <ReportDate>04/11/2023 22:01:00</ReportDate>
+   <StartDate>04/11/2023 21:31:00</StartDate>
+   <Summary>DUI - 23-026 - Steinly</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>690390</AddressId>
+      <Address>
+         <AddressId>690390</AddressId>
+         <StreetNumber>3379</StreetNumber>
+         <StreetName>Chestnut Ridge</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Grantsville</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-79.098007</Longitude>
+         <Latitude>39.699345</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Kline</LastName>
+            <FirstName>Nicholas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Bradley</LastName>
+            <FirstName>Cody</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Shrout</LastName>
+            <FirstName>Timothy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bradley</LastName>
+            <FirstName>Cody</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Bradley</LastName>
+            <FirstName>Cody</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>19739</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>19739</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>48</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>374041</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Steinly</LastName>
+               <FirstName>Tamela</FirstName>
+               <MiddleName>Sue</MiddleName>
+               <DOB>10/30/1974 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Steinly</LastName>
+               <FirstName>Tamela</FirstName>
+               <MiddleName>Sue</MiddleName>
+               <DOB>10/30/1974 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>942</StreetNumber>
+               <StreetName>Ernest Miller</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Meyersdale</City>
+               <StateCode>Pennsylvania</StateCode>
+               <Zip5>15552</Zip5>
+               <Zip4>7120</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-79.03956</Longitude>
+               <Latitude>39.773005</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>814</PhoneArea>
+               <PhonePrefix>289</PhonePrefix>
+               <PhoneSuffix>9099</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>151880</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>1FADP3F23EL128672</VIN>
+         <VehicleYear>2014</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>FOCUS</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>LBL</VehPriColorCode>
+         <VehicleLicStateCode>PA</VehicleLicStateCode>
+         <VehicleLicNumber>LKC9768</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

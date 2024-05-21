@@ -1,0 +1,130 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3000</ORINum>
+   <ReportDate>07/08/2023 22:33:00</ReportDate>
+   <StartDate>07/08/2023 22:09:00</StartDate>
+   <Summary>DUI/DWI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>700317</AddressId>
+      <Address>
+         <AddressId>700317</AddressId>
+         <StreetNumber>83.9</StreetNumber>
+         <StreetName>Mm I95 Sb</StreetName>
+         <City>Aberdeen</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.200477</Longitude>
+         <Latitude>39.519064</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Boniarski</LastName>
+            <FirstName>Joel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Turner</LastName>
+            <FirstName>Stephen</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Kumador</LastName>
+            <FirstName>Linford</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>19739</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>19739</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>26</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>382016</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>HAYWARD</LastName>
+               <FirstName>JUSTIN</FirstName>
+               <MiddleName>LAMAR</MiddleName>
+               <DOB>06/20/1997 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>HAYWARD</LastName>
+               <FirstName>JUSTIN</FirstName>
+               <MiddleName>LAMAR</MiddleName>
+               <DOB>06/20/1997 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>300</StreetNumber>
+               <StreetName>Cathedral</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21201</Zip5>
+               <Zip4>4403</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.616992</Longitude>
+               <Latitude>39.293234</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>610</PhoneArea>
+               <PhonePrefix>800</PhonePrefix>
+               <PhoneSuffix>9605</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>154954</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>5XXG64J26NG152486</VIN>
+         <VehicleYear>2022</VehicleYear>
+         <VehicleMakeCode>KIA MOTORS CORPORATION</VehicleMakeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehicleLicStateCode>DE</VehicleLicStateCode>
+         <VehicleLicNumber>519291</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

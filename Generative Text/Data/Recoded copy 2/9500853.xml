@@ -1,0 +1,200 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>05/21/2023 18:30:00</ReportDate>
+   <StartDate>05/21/2023 17:31:00</StartDate>
+   <Summary>The juvenile suspect was involved in a single vehicle collision and fled the scene prior to police and fire arrival.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>ROBERT CRAIN HWY NE / POINTER RIDGE DR</IncAddrComment>
+      <AddressId>696705</AddressId>
+      <Address>
+         <AddressId>696705</AddressId>
+         <StreetName>Pointer Ridge</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Bowie</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20716</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>HWY</CrossStreetTypeCode>
+         <Longitude>-76.718057</Longitude>
+         <Latitude>38.908932</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Olds</LastName>
+            <FirstName>Garrett</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>York</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Barlow</LastName>
+            <FirstName>Jordan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>York</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Barlow</LastName>
+            <FirstName>Jordan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Barlow</LastName>
+            <FirstName>Jordan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>3224</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>3224</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>15648</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>15648</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>16</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>377705</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Brunson</LastName>
+               <FirstName>Morgan</FirstName>
+               <MiddleName>Michyla</MiddleName>
+               <DOB>07/13/2006 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Brunson</LastName>
+               <FirstName>Morgan</FirstName>
+               <MiddleName>Michyla</MiddleName>
+               <DOB>07/13/2006 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>16324</StreetNumber>
+               <StreetName>Pewter</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Bowie</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20716</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.72246</Longitude>
+               <Latitude>38.904558</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>852</PhonePrefix>
+               <PhoneSuffix>8819</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>44</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>377710</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Brunson</LastName>
+               <FirstName>Vatima</FirstName>
+               <MiddleName>Shani</MiddleName>
+               <DOB>04/04/1979 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Brunson</LastName>
+               <FirstName>Vatima</FirstName>
+               <MiddleName>Shani</MiddleName>
+               <DOB>04/04/1979 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>16324</StreetNumber>
+               <StreetName>Pewter</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Bowie</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20716</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.72246</Longitude>
+               <Latitude>38.904558</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>518</PhonePrefix>
+               <PhoneSuffix>8476</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>PA</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>153289</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>2T1BU4EE2DC935301</VIN>
+         <VehicleYear>2013</VehicleYear>
+         <VehicleMakeCode>TOYOTA(TOYT)</VehicleMakeCode>
+         <VehicleModelCode>COROLLA</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>3DC3562</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>10</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,154 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2100</ORINum>
+   <ReportDate>03/29/2023 09:38:00</ReportDate>
+   <StartDate>03/29/2023 09:23:00</StartDate>
+   <Summary>Citizen called to report a theft.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>688942</AddressId>
+      <City>MDC136</City>
+      <Address>
+         <AddressId>688942</AddressId>
+         <StreetNumber>10207</StreetNumber>
+         <StreetName>Pin Oak</StreetName>
+         <StreetTypeCode>Court</StreetTypeCode>
+         <StreetSuffixCode>NW</StreetSuffixCode>
+         <City>Cumberland</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-78.78024</Longitude>
+         <Latitude>39.714756</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Diehl</LastName>
+            <FirstName>Dwight</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Williams</LastName>
+            <FirstName>Shane</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Inactive</OffenseStatusCode>
+         <OffenseCode>1 0621 23F</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <Remarks>No suspects</Remarks>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0621 23F</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>66</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>114561</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Sterne</LastName>
+               <FirstName>Richard</FirstName>
+               <MiddleName>Guy</MiddleName>
+               <DOB>10/25/1956 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Sterne</LastName>
+               <FirstName>Richard</FirstName>
+               <MiddleName>Guy</MiddleName>
+               <DOB>10/25/1956 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>10207</StreetNumber>
+               <StreetName>Pin Oak</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <StreetSuffixCode>NW</StreetSuffixCode>
+               <City>Cumberland</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.78024</Longitude>
+               <Latitude>39.714756</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>5301</StreetNumber>
+               <StreetDirCode>E</StreetDirCode>
+               <StreetName>Hyatt</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Ijamsville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21754</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.302139</Longitude>
+               <Latitude>39.37609</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>707</PhonePrefix>
+               <PhoneSuffix>6401</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>151458</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>1GKS2BKD0MR198258</VIN>
+         <VehicleYear>2021</VehicleYear>
+         <VehicleMakeCode>GENERAL MOTORS CORP.</VehicleMakeCode>
+         <VehicleModelCode>YUKON</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>DBL</VehPriColorCode>
+         <VehSecColorCode>DBL</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>5DH2240</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>12</VehicleLicMonth>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>C</DocumentTypeCode>
+         <PropertyTypeCode>CASH</PropertyTypeCode>
+         <PropertyValue>100</PropertyValue>
+         <Value>100</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246301</Property_ID>
+         <Quantity>0</Quantity>
+         <Amount>100</Amount>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>C</DocumentTypeCode>
+         <PropertyTypeCode>CASH</PropertyTypeCode>
+         <PropertyValue>400</PropertyValue>
+         <Value>400</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246302</Property_ID>
+         <Quantity>0</Quantity>
+         <Amount>400</Amount>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

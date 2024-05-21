@@ -1,0 +1,190 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>01/20/2023 07:05:00</ReportDate>
+   <StartDate>01/12/2023 06:06:00</StartDate>
+   <Summary>Prohibited person in possession of a firearm.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>FIREARM</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>City of Occurrence: Baltimore City</IncAddrComment>
+      <AddressId>681168</AddressId>
+      <City>MDC103</City>
+      <Address>
+         <AddressId>681168</AddressId>
+         <StreetNumber>2925</StreetNumber>
+         <StreetName>Sylvan</StreetName>
+         <StreetTypeCode>Avenue</StreetTypeCode>
+         <City>Baltimore City</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.557656</Longitude>
+         <Latitude>39.360258</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Jackson</LastName>
+            <FirstName>Marcus</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Feltman</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Feltman</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Claycomb</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Unfounded</OffenseStatusCode>
+         <OffenseCode>1 1106</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <CSAUCode>C</CSAUCode>
+         <Remarks>Case Unfounded - Lost Firearm</Remarks>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1106</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>366669</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>SMITH</LastName>
+               <FirstName>JUSTIN</FirstName>
+               <MiddleName>OMAR</MiddleName>
+               <DOB>03/16/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>SMITH</LastName>
+               <FirstName>JUSTIN</FirstName>
+               <MiddleName>OMAR</MiddleName>
+               <DOB>03/16/1989 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>673</PhonePrefix>
+               <PhoneSuffix>2175</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>32</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>366670</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>SMITH</LastName>
+               <FirstName>AMBER</FirstName>
+               <MiddleName>NICHELLE</MiddleName>
+               <DOB>10/31/1990 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>SMITH</LastName>
+               <FirstName>AMBER</FirstName>
+               <MiddleName>NICHELLE</MiddleName>
+               <DOB>10/31/1990 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3803</StreetNumber>
+               <StreetName>Monument</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <City>Abingdon</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21009</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.3141281</Longitude>
+               <Latitude>39.4595856</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>60</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>366671</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>SMITH-NELSON</LastName>
+               <FirstName>ANTOINETTE</FirstName>
+               <MiddleName>E</MiddleName>
+               <DOB>11/18/1962 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>SMITH-NELSON</LastName>
+               <FirstName>ANTOINETTE</FirstName>
+               <MiddleName>E</MiddleName>
+               <DOB>11/18/1962 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2925</StreetNumber>
+               <StreetName>Sylvan</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Baltimore City</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.557656</Longitude>
+               <Latitude>39.360258</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>442</PhonePrefix>
+               <PhoneSuffix>9453</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>NOK</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

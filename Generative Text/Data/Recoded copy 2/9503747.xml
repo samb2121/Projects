@@ -1,0 +1,153 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>01/07/2023 01:17:00</ReportDate>
+   <StartDate>01/07/2023 00:48:00</StartDate>
+   <Summary>A vehicle was stopped for traffic violations, driver was arrested for driving under the influence of alcohol and in possession of CDS.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>679644</AddressId>
+      <City>MDC536</City>
+      <Address>
+         <AddressId>679644</AddressId>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>Calvert Beach</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>St Leonard</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20685</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <CrossStreetSuffixCode>S</CrossStreetSuffixCode>
+         <Longitude>-76.511604</Longitude>
+         <Latitude>38.470183</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Oleksak</LastName>
+            <FirstName>Jaroslaw</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Oleksak</LastName>
+            <FirstName>Jaroslaw</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Smith</LastName>
+            <FirstName>Andrew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1111</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>42</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>269915</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hawkins</LastName>
+               <FirstName>Clifton</FirstName>
+               <MiddleName>Darnell</MiddleName>
+               <DOB>04/30/1980 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hawkins</LastName>
+               <FirstName>Clifton</FirstName>
+               <MiddleName>Darnell</MiddleName>
+               <DOB>04/30/1980 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>4729</StreetNumber>
+               <StreetName>SOLOMONS ISLAND</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>HUNTINGTOWN</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.60485286027881</Longitude>
+               <Latitude>38.63050466852431</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>147392</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>1GKFK163X8R205896</VIN>
+         <VehicleYear>2008</VehicleYear>
+         <VehicleMakeCode>GENERAL MOTORS CORP.</VehicleMakeCode>
+         <VehicleModelCode>YUKON</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehSecColorCode>WHI</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>3FD4983</VehicleLicNumber>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Two (2) round yellow pills of Oxycodone. PH: P-343825</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>240983</Property_ID>
+         <DrugTypeCode>SUSPECTED OTHER DRUGS</DrugTypeCode>
+         <Quantity>2</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

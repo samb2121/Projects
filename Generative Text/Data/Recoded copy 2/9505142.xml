@@ -1,0 +1,122 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4800</ORINum>
+   <ReportDate>06/04/2023 02:41:00</ReportDate>
+   <StartDate>06/04/2023 02:19:00</StartDate>
+   <Summary>DUI/DWI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>COASTAL HWY/ 60TH ST</IncAddrComment>
+      <AddressId>666700</AddressId>
+      <Address>
+         <AddressId>666700</AddressId>
+         <StreetName>Coastal</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <City>Ocean City</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>ST</CrossStreetTypeCode>
+         <Longitude>-75.066983</Longitude>
+         <Latitude>38.383465</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 COASTAL HWY / 1-20 60TH ST</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>6001-6021 COASTAL HWY / 100-120 60TH ST</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Shubert</LastName>
+            <FirstName>Seth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Sweitzer</LastName>
+            <FirstName>Colin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Shubert</LastName>
+            <FirstName>Seth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Shubert</LastName>
+            <FirstName>Seth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>379399</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Borrero 3rd</LastName>
+               <FirstName>Jose</FirstName>
+               <MiddleName>Antonio</MiddleName>
+               <DOB>10/10/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Borrero 3rd</LastName>
+               <FirstName>Jose</FirstName>
+               <MiddleName>Antonio</MiddleName>
+               <DOB>10/10/2000 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>153952</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VehicleYear>2016</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>MUSTANG</VehicleModelCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehSecColorCode>BLU</VehSecColorCode>
+         <VehicleLicStateCode>DE</VehicleLicStateCode>
+         <VehicleLicNumber>WEPA</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

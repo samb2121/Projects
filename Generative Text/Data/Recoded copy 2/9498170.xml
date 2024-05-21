@@ -1,0 +1,145 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>02/26/2023 23:59:00</ReportDate>
+   <StartDate>02/26/2023 23:43:00</StartDate>
+   <Summary>Domestic Dispute</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>461690</AddressId>
+      <City>MDC456</City>
+      <Address>
+         <AddressId>461690</AddressId>
+         <StreetNumber>3608</StreetNumber>
+         <StreetName>Karen</StreetName>
+         <StreetTypeCode>Circle</StreetTypeCode>
+         <City>Linkwood</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21835</Zip5>
+         <Zip4>1106</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.9640874</Longitude>
+         <Latitude>38.5448909</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mills</LastName>
+            <FirstName>Steve</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Tassone</LastName>
+            <FirstName>Scott</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Cambra</LastName>
+            <FirstName>Nicholas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>32</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>370946</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>HOLLIDAY</LastName>
+               <FirstName>ISAAC</FirstName>
+               <MiddleName>THOMAS</MiddleName>
+               <DOB>03/14/1990 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>HOLLIDAY</LastName>
+               <FirstName>ISAAC</FirstName>
+               <MiddleName>THOMAS</MiddleName>
+               <DOB>03/14/1990 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>422</StreetNumber>
+               <StreetName>Cambridge</StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <City>Prince Frederick</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20678</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.598649</Longitude>
+               <Latitude>38.550811</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>37</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>235080</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Terry</LastName>
+               <FirstName>Meagan</FirstName>
+               <MiddleName>Ruth</MiddleName>
+               <DOB>03/04/1985 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Terry</LastName>
+               <FirstName>Meagan</FirstName>
+               <MiddleName>Ruth</MiddleName>
+               <DOB>03/04/1985 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3608</StreetNumber>
+               <StreetName>Karen</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <City>Linkwood</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21835</Zip5>
+               <Zip4>1106</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.9640874</Longitude>
+               <Latitude>38.5448909</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>754</PhonePrefix>
+               <PhoneSuffix>9779</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

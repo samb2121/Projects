@@ -1,0 +1,221 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>07/13/2023 20:31:00</ReportDate>
+   <StartDate>07/13/2023 19:45:00</StartDate>
+   <Summary>Subject was assaulted by two subjects who arrived at his residence in a vehicle then left.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>413128</AddressId>
+      <Address>
+         <AddressId>413128</AddressId>
+         <StreetNumber>6128</StreetNumber>
+         <StreetName>Jack</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Salisbury</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21804</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.508863</Longitude>
+         <Latitude>38.359842</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Romeo</LastName>
+            <FirstName>Ashley</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pilchard</LastName>
+            <FirstName>Bailey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Weber</LastName>
+            <FirstName>Timothy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wilkins</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>41</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>122553</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Jewell</LastName>
+               <FirstName>Nicholas</FirstName>
+               <MiddleName>Ryan</MiddleName>
+               <DOB>01/26/1982 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Jewell</LastName>
+               <FirstName>Nicholas</FirstName>
+               <MiddleName>Ryan</MiddleName>
+               <DOB>01/26/1982 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>118</StreetNumber>
+               <StreetName>Evans</StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21804</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.597365</Longitude>
+               <Latitude>38.356868</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>6128</StreetNumber>
+               <StreetName>Jack</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21804</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.50873</Longitude>
+               <Latitude>38.360164</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>7845</StreetNumber>
+               <StreetName>Jones Hastings</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Parsonsburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21849</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.455929</Longitude>
+               <Latitude>38.406456</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>7845</StreetNumber>
+               <StreetName>Jones Hastings</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Parsonsburg</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.45713730312612</Longitude>
+               <Latitude>38.4066465040693</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>835</PhonePrefix>
+               <PhoneSuffix>8411</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>859</PhonePrefix>
+               <PhoneSuffix>2415</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>37</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>79187</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Shockley</LastName>
+               <FirstName>Ricky</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>03/29/1986 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Shockley</LastName>
+               <FirstName>Ricky</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>03/29/1986 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>711</StreetNumber>
+               <StreetName>East</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21804</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.607038</Longitude>
+               <Latitude>38.376955</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>521</StreetNumber>
+               <StreetDirCode>E</StreetDirCode>
+               <StreetName>Isabella</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21801</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.591093</Longitude>
+               <Latitude>38.368785</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>845</PhonePrefix>
+               <PhoneSuffix>9338</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Weber</LastName>
+            <FirstName>Timothy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wilkins</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

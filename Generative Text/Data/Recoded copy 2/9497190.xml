@@ -1,0 +1,149 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>04/15/2023 01:04:00</ReportDate>
+   <StartDate>04/15/2023 01:04:00</StartDate>
+   <Summary>Traffic stop was completed. Driver observed to be under the influence of alcohol. Driver placed through SFST's. Driver arrested.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>S SALISBURY BLVD/ BATEMAN ST</IncAddrComment>
+      <AddressId>54162</AddressId>
+      <Address>
+         <AddressId>54162</AddressId>
+         <StreetDirCode>S</StreetDirCode>
+         <StreetName>Salisbury</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>Salisbury</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21804</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>ST</CrossStreetTypeCode>
+         <Longitude>-75.603702</Longitude>
+         <Latitude>38.344344</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>PAT'S PIZZA</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>NB 13/  BATEMAN ST</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>NB 13/ BATEMAN ST</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>1301-1499 S SALISBURY BLVD / 121-200 BATEMAN ST</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 S SALISBURY BLVD / 127-298 BATEMAN ST</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>1101-1299 S SALISBURY BLVD / 100-198 BATEMAN ST</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>1101-1299 S SALISBURY BLVD / 121-200 BATEMAN ST</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Eckrich</LastName>
+            <FirstName>Patrick</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Norfolk</LastName>
+            <FirstName>Wyatt</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Pardoe</LastName>
+            <FirstName>Mary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Norfolk</LastName>
+            <FirstName>Wyatt</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Norfolk</LastName>
+            <FirstName>Wyatt</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>20</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>374482</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Sanchez-lopez</LastName>
+               <FirstName>Anderson</FirstName>
+               <DOB>05/12/2002 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Sanchez-lopez</LastName>
+               <FirstName>Anderson</FirstName>
+               <DOB>05/12/2002 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>307</StreetNumber>
+               <StreetName>Barclay</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21804</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.589898</Longitude>
+               <Latitude>38.370783</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>000</PhoneArea>
+               <PhonePrefix>000</PhonePrefix>
+               <PhoneSuffix>0000</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

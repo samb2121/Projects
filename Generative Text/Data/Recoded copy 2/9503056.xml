@@ -1,0 +1,122 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0100</ORINum>
+   <ReportDate>04/15/2023 16:37:00</ReportDate>
+   <StartDate>04/15/2023 16:02:00</StartDate>
+   <Summary>Weapons violation, Westbound I-70 West of Route 32.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Disorderly Conduct</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>690809</AddressId>
+      <Address>
+         <AddressId>690809</AddressId>
+         <StreetNumber>73</StreetNumber>
+         <StreetName>Mm I70 Wb</StreetName>
+         <City>Mount Airy</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.07966</Longitude>
+         <Latitude>39.34539</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>73.12 MM I70 WB 94</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Shiveler</LastName>
+            <FirstName>David </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Clark</LastName>
+            <FirstName>Darryl</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rubino</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 1420</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1420</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>30</ApproxAge>
+         <Person>
+            <PersonId>374719</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>46</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>374720</PersonId>
+            <RaceCode>Asian</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Other Ethnicity/National Origin</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Lee</LastName>
+               <FirstName>Andy</FirstName>
+               <MiddleName>Sukwon</MiddleName>
+               <DOB>04/26/1976 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Lee</LastName>
+               <FirstName>Andy</FirstName>
+               <MiddleName>Sukwon</MiddleName>
+               <DOB>04/26/1976 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3850</StreetNumber>
+               <StreetName>braveheart</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21704</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>370</PhonePrefix>
+               <PhoneSuffix>2549</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

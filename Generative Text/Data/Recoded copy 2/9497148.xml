@@ -1,0 +1,141 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>01/30/2023 00:18:00</ReportDate>
+   <StartDate>01/30/2023 00:04:00</StartDate>
+   <Summary>I conducted a traffic stop of a vehicle and the driver was found to be driving under the influence of alcohol.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>BALL RD/ TIMBER VIEW LN</IncAddrComment>
+      <AddressId>682299</AddressId>
+      <City>MDC536</City>
+      <Address>
+         <AddressId>682299</AddressId>
+         <StreetName>Ball</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Saint Leonard</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20685</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>LN</CrossStreetTypeCode>
+         <Longitude>-76.524704</Longitude>
+         <Latitude>38.464975</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>100-1060 BALL RD / 5001-5002 TIMBER VIEW LN</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bauer</LastName>
+            <FirstName>Kevin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Oleksak</LastName>
+            <FirstName>Jaroslaw</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Newman</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Smith</LastName>
+            <FirstName>Andrew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>21</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>356651</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Tracy</LastName>
+               <FirstName>Gannon</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>11/19/2001 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Tracy</LastName>
+               <FirstName>Gannon</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>11/19/2001 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>5220 </StreetNumber>
+               <StreetName>Knight bridge </StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>St leonard</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20685</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.49171</Longitude>
+               <Latitude>38.466945</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>975</PhonePrefix>
+               <PhoneSuffix>0569</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>144521</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>5TDDKRFH6ES048832</VIN>
+         <VehicleYear>2014</VehicleYear>
+         <VehicleMakeCode>TOYOTA(TOYT)</VehicleMakeCode>
+         <VehicleModelCode>4-RUNNER</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>3BW7590</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>2</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

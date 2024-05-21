@@ -1,0 +1,123 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>02/05/2023 10:46:00</ReportDate>
+   <StartDate>02/05/2023 10:42:00</StartDate>
+   <Summary>TRAFFIC STOP/DRIVING WITHOUT LICENSE.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>CRUM RD/ GLADE BLVD</IncAddrComment>
+      <AddressId>635436</AddressId>
+      <City>MDC246</City>
+      <Address>
+         <AddressId>635436</AddressId>
+         <StreetName>Crum</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Walkersville</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>BLVD</CrossStreetTypeCode>
+         <Longitude>-77.343032</Longitude>
+         <Latitude>39.480589</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>CRUM RD S/O GLADE BLVD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>CRUM RD SB  S/O GLADE BLVD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>8800-8999 CRUM RD / 304-411 GLADE BLVD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Conklin</LastName>
+            <FirstName>Gary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Blumenauer</LastName>
+            <FirstName>James</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>3096</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>32</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>321962</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Timmons</LastName>
+               <FirstName>Vincent</FirstName>
+               <MiddleName>Emory</MiddleName>
+               <DOB>12/14/1990 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Timmons</LastName>
+               <FirstName>Vincent</FirstName>
+               <MiddleName>Emory</MiddleName>
+               <DOB>12/14/1990 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>7002</StreetNumber>
+               <StreetName>Upper Mills</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <City>Catonsville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21228</Zip5>
+               <Zip4>2409</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.7666609</Longitude>
+               <Latitude>39.3022778</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>149508</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>1HGCR2F19HA070778</VIN>
+         <VehicleYear>2017</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>ACCORD</VehicleModelCode>
+         <VehicleStyleCode>4D</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>RED</VehPriColorCode>
+         <VehSecColorCode>RED</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>7ED4428</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>2</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,115 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>03/23/2023 19:04:00</ReportDate>
+   <StartDate>03/23/2023 18:52:00</StartDate>
+   <Summary>Traffic stop leading to SFSTs and civil citation for open container.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>WASHINGTON ST/ GOODWILL AVE</IncAddrComment>
+      <AddressId>566080</AddressId>
+      <City>MDC119</City>
+      <Address>
+         <AddressId>566080</AddressId>
+         <StreetName>Washington</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Cambridge</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21613</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>AVE</CrossStreetTypeCode>
+         <Longitude>-76.072746</Longitude>
+         <Latitude>38.561677</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>114-219 WASHINGTON ST / 900-999 GOODWILL AVE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Caraballo</LastName>
+            <FirstName>Kevin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Griffin</LastName>
+            <FirstName>John</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Dadds</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Cooper</LastName>
+            <FirstName>Connor</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>10 125</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>52</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>73786</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Sard</LastName>
+               <FirstName>Stacey</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>07/28/1970 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Sard</LastName>
+               <FirstName>Stacey</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>07/28/1970 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>31260</StreetNumber>
+               <StreetName>Bruceville</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Trappe</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21673</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.991953</Longitude>
+               <Latitude>38.67599</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>476</PhonePrefix>
+               <PhoneSuffix>3136</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

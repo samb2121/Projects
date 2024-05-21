@@ -1,0 +1,141 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>10/16/2023 11:50:00</ReportDate>
+   <StartDate>10/13/2023 16:25:00</StartDate>
+   <EndDate>10/16/2023 06:30:00</EndDate>
+   <Summary>MDOP</Summary>
+   <IncidentType>
+      <IncidentTypeCode>MDOP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>66122</AddressId>
+      <SubBeat>670</SubBeat>
+      <Address>
+         <AddressId>66122</AddressId>
+         <StreetNumber>10690</StreetNumber>
+         <StreetName>RED RUN</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>OWINGS MILLS</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>670</SubBeat>
+         <Longitude>-76.79791499264525</Longitude>
+         <Latitude>39.40420532755291</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>STATE HIGHWAY ADMINSTRATION</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Twardowski</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Stallings</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>3 4025</OffenseCode>
+         <PlaceCode>Parking Lot/Garage</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>3 4025</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>29</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>233315</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Washington</LastName>
+               <FirstName>Daquane</FirstName>
+               <MiddleName>Malik</MiddleName>
+               <DOB>06/13/1994 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Washington</LastName>
+               <FirstName>Daquane</FirstName>
+               <MiddleName>Malik</MiddleName>
+               <DOB>06/13/1994 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>104</StreetNumber>
+               <StreetName>Brubar</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Lochearn</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21207</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.728504</Longitude>
+               <Latitude>39.344692</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>6636</StreetNumber>
+               <StreetName>Dalton</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21207</Zip5>
+               <Zip4>6440</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.7155318</Longitude>
+               <Latitude>39.3505914</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>616</PhonePrefix>
+               <PhoneSuffix>6386</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>863</PhonePrefix>
+               <PhoneSuffix>0048</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240001361</BusinessNumber>
+         <BusinessName>Maryland Department of Transportation</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>136581</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>1FD0W4HY9DEB38320</VIN>
+         <VehicleYear>2013</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>F450 Super Duty Crew Cab</VehicleModelCode>
+         <VehicleStyleCode>CB</VehicleStyleCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>YEL</VehPriColorCode>
+         <VehSecColorCode>YEL</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>SG84058</VehicleLicNumber>
+         <VehicleLicTypeCode>ST</VehicleLicTypeCode>
+         <VehicleValue>700</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

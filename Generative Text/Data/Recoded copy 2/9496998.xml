@@ -1,0 +1,172 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0400</ORINum>
+   <ReportDate>03/18/2023 03:16:00</ReportDate>
+   <StartDate>03/18/2023 02:14:00</StartDate>
+   <Summary>WARRANT/HANDGUN</Summary>
+   <IncidentType>
+      <IncidentTypeCode>FIREARM</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Warrant Service</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>32 MM CAPITAL BELTWAY WB, SILVER SPRING</IncAddrComment>
+      <AddressId>687695</AddressId>
+      <City>MDC278</City>
+      <Address>
+         <AddressId>687695</AddressId>
+         <StreetNumber>495</StreetNumber>
+         <StreetDirCode>E</StreetDirCode>
+         <StreetName>Capital Beltway Wb Silver</StreetName>
+         <City>Silver Spring</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20901</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetNumber>97</CrossStreetNumber>
+         <CrossStreetTypeCode>AVE</CrossStreetTypeCode>
+         <Longitude>-77.043334</Longitude>
+         <Latitude>39.013283</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Emerick</LastName>
+            <FirstName>Seth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Saucerman</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Yarbrough</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 0175</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0175</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1454</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1454</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Active Warrant</OffenseStatusCode>
+         <OffenseCode>3096</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>3096</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>23</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>369214</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Groves</LastName>
+               <FirstName>WINSTON</FirstName>
+               <MiddleName>SEBASTIAN</MiddleName>
+               <DOB>02/17/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Groves</LastName>
+               <FirstName>WINSTON</FirstName>
+               <MiddleName>SEBASTIAN</MiddleName>
+               <DOB>02/17/2000 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>13308</StreetNumber>
+               <StreetName>Burleigh</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Upper Marlboro</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20774</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.774611</Longitude>
+               <Latitude>38.888136</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>459</PhonePrefix>
+               <PhoneSuffix>9688</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>151019</VEHICLE_ID>
+         <RoleCode>IM</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>2C3CDXJG8JH231106</VIN>
+         <VehicleYear>2018</VehicleYear>
+         <VehicleMakeCode>DODGE(DODG)</VehicleMakeCode>
+         <VehicleModelCode>CHAMP (IMPORTED)</VehicleModelCode>
+         <VehicleStyleCode>4T</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehSecColorCode>GRY</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>9EP0327</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>5</VehicleLicMonth>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <StatusCode>15</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <PropertyTypeCode>GUN - HANDGUN</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <SerialNumber>FDK8954</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>245632</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>SIL</SecondaryColor>
+         <Make>Smith &amp; Wesson</Make>
+         <Model>SD9VE</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

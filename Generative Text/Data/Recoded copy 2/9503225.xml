@@ -1,0 +1,119 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3000</ORINum>
+   <ReportDate>02/10/2023 15:40:00</ReportDate>
+   <StartDate>02/10/2023 15:26:00</StartDate>
+   <Summary>Above suspect turned in his firearm from a court order.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>Bel Air Barrack</IncAddrComment>
+      <AddressId>5749</AddressId>
+      <SubBeat>531</SubBeat>
+      <City>MDC107</City>
+      <Address>
+         <AddressId>5749</AddressId>
+         <StreetNumber>1401</StreetNumber>
+         <StreetName>BEL AIR</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>BEL AIR</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>531</SubBeat>
+         <Longitude>-76.38177706785434</Longitude>
+         <Latitude>39.505315450766766</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>MSP BEL AIR BARRACK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>BEL AIR BARRACK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>MSP BEL AIR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>McMachan</LastName>
+            <FirstName>Sean</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Stec</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Brown</LastName>
+            <FirstName>Ethan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>358891</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Carr</LastName>
+               <FirstName>Joshua</FirstName>
+               <MiddleName>David</MiddleName>
+               <DOB>08/17/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Carr</LastName>
+               <FirstName>Joshua</FirstName>
+               <MiddleName>David</MiddleName>
+               <DOB>08/17/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1012</StreetNumber>
+               <StreetName>Rock Spring</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Bel Air</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21014</Zip5>
+               <Zip4>2322</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.36496</Longitude>
+               <Latitude>39.552274</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <Description>Above gun turned in because of a court order, with 2 12 round mags</Description>
+         <PropertyTypeCode>GUN - HANDGUN</PropertyTypeCode>
+         <PropertyValue>200</PropertyValue>
+         <Value>200</Value>
+         <SerialNumber>SDW827</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>243354</Property_ID>
+         <PrimaryColor>BLU</PrimaryColor>
+         <SecondaryColor>BLU</SecondaryColor>
+         <Make>Glock</Make>
+         <Model>23 GEN 4</Model>
+         <Quantity>1</Quantity>
+         <BarrelLength>3.5</BarrelLength>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

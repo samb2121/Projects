@@ -1,0 +1,160 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2200</ORINum>
+   <ReportDate>03/28/2023 17:27:00</ReportDate>
+   <StartDate>03/28/2023 17:26:00</StartDate>
+   <Summary>ASSAULT</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>688878</AddressId>
+      <City>MDC168</City>
+      <Address>
+         <AddressId>688878</AddressId>
+         <StreetNumber>3</StreetNumber>
+         <StreetName>Mm I70 Eb</StreetName>
+         <City>Hancock</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-78.15284</Longitude>
+         <Latitude>39.69686</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Ward</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Gertz</LastName>
+            <FirstName>Chris</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>26</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>53516</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Ravenscroft</LastName>
+               <FirstName>Cody</FirstName>
+               <MiddleName>Devin</MiddleName>
+               <DOB>03/26/1997 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Ravenscroft</LastName>
+               <FirstName>Cody</FirstName>
+               <MiddleName>Devin</MiddleName>
+               <DOB>03/26/1997 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>121</StreetNumber>
+               <StreetName>Arch</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Cumberland</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21502</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-78.7618</Longitude>
+               <Latitude>39.636944</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>338</PhonePrefix>
+               <PhoneSuffix>2775</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>55</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>373031</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Heffner</LastName>
+               <FirstName>James</FirstName>
+               <MiddleName>Paul</MiddleName>
+               <DOB>12/23/1967 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Heffner</LastName>
+               <FirstName>James</FirstName>
+               <MiddleName>Paul</MiddleName>
+               <DOB>12/23/1967 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>422</PhonePrefix>
+               <PhoneSuffix>5480</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>151468</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>3C4PDCBB7FT719521</VIN>
+         <VehicleYear>2015</VehicleYear>
+         <VehicleMakeCode>DODGE(DODG)</VehicleMakeCode>
+         <VehicleModelCode>JOURNEY</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehSecColorCode>GRY</VehSecColorCode>
+         <VehicleLicNumber>2ES6737</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mowers</LastName>
+            <FirstName>Kevin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Ward</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

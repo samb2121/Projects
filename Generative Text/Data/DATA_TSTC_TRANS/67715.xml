@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2015ROOT0217</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>11/04/2015 15:02:00</ReportDate>
+   <ReportTime>11/04/2015 15:02:00</ReportTime>
+   <StartDate>11/04/2015 15:02:00</StartDate>
+   <StartTime>11/01/2015 15:02:00</StartTime>
+   <Summary>test with vehicle</Summary>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>11/04/2015 15:02:47</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:37</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CCD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>190</AddressId>
+      <SubBeat>P69</SubBeat>
+      <City>17</City>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>11/04/2015 15:03:16</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>11/04/2015 15:03:30</UpdatorDate>
+      <Address>
+         <AddressId>190</AddressId>
+         <StreetNumber>486</StreetNumber>
+         <StreetDirCode>E</StreetDirCode>
+         <StreetName>PERRY</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>VERSAILLES</City>
+         <StateCode>IN</StateCode>
+         <CountryCode>US</CountryCode>
+         <SubBeat>P69</SubBeat>
+         <Longitude>-85.245513</Longitude>
+         <Latitude>39.0693275</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>Dead strip</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>11/04/2015 15:02:48</SuppReportDate>
+      <SuppReportTime>11/04/2015 15:02:48</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>11/04/2015 15:07:05</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>11/04/2015 15:02:48</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:25</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>&amp;nbsp;asdfadfsdfad</NarrativeText>
+         <CreatorId>51CIDDET</CreatorId>
+         <CreatorDate>11/04/2015 15:05:30</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/12/2017 13:27:24</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>2405</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>16-42-19-16</OffenseCode>
+         <PlaceCode>38</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>11/04/2015 15:02:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>11/04/2015 15:04:27</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>11/04/2015 15:04:27</UpdatorDate>
+      </IncidentOffense>
+      <IncidentVehicle>
+         <VEHICLE_ID>199</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>11/04/2015 15:05:21</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>11/04/2015 15:05:21</UpdatorDate>
+         <DateOfInfo>06/13/2013 00:00:00</DateOfInfo>
+         <DateOfInfo>11/05/2015 15:13:42</DateOfInfo>
+         <StatusCode>1</StatusCode>
+         <VIN>LEKD94827</VIN>
+         <VehicleYear>2005</VehicleYear>
+         <VehicleMakeCode>CHEV</VehicleMakeCode>
+         <VehicleModelCode>CAM</VehicleModelCode>
+         <VehicleStyleCode>SD</VehicleStyleCode>
+         <VehicleTypeCode>AT</VehicleTypeCode>
+         <VehPriColorCode>BGE</VehPriColorCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehSecColorCode>BGE</VehSecColorCode>
+         <VehicleLicStateCode>AB</VehicleLicStateCode>
+         <VehicleLicNumber>11111</VehicleLicNumber>
+         <VehicleLicMonth>3</VehicleLicMonth>
+         <VehDamageDesc>NEW DAMAGE</VehDamageDesc>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

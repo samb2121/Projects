@@ -1,0 +1,288 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>08/13/2023 23:53:00</ReportDate>
+   <StartDate>08/13/2023 23:14:00</StartDate>
+   <Summary>Single vehicle collision. Investigation revealed the operator was operating the vehicle while under the influence. The operator was transported to FHH, and charged with DUI/DWI.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>BURKITTSVILLE RD/ LEES LN</IncAddrComment>
+      <AddressId>591162</AddressId>
+      <Address>
+         <AddressId>591162</AddressId>
+         <StreetName>Burkittsville</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Knoxville</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>LN</CrossStreetTypeCode>
+         <Longitude>-77.63668</Longitude>
+         <Latitude>39.366996</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>BURKITTSVILLE RD IAO LEES LN</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>4500-4899 BURKITTSVILLE RD / 1100-1448 LEES LN</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>4900-4999 BURKITTSVILLE RD / 1100-1448 LEES LN</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Willhite</LastName>
+            <FirstName>Collin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Baum</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Riggs</LastName>
+            <FirstName>Cole</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>14583</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14583</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>14584</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14584</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>385091</PersonId>
+            <RaceCode>Unknown</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Other Ethnicity/National Origin</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Reyes</LastName>
+               <FirstName>Daisy</FirstName>
+               <MiddleName>Alejandra</MiddleName>
+               <DOB>06/01/1987 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Reyes</LastName>
+               <FirstName>Daisy</FirstName>
+               <MiddleName>Alejandra</MiddleName>
+               <DOB>06/01/1987 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>20026</StreetNumber>
+               <StreetName>Appledowre</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>11</SubNumber>
+               <City>Germantown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20876</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.233532</Longitude>
+               <Latitude>39.183936</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>707</PhonePrefix>
+               <PhoneSuffix>5572</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>16</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>385092</PersonId>
+            <RaceCode>Unknown</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Other Ethnicity/National Origin</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Reyes</LastName>
+               <FirstName>Jason</FirstName>
+               <DOB>06/02/2007 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Reyes</LastName>
+               <FirstName>Jason</FirstName>
+               <DOB>06/02/2007 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>20026</StreetNumber>
+               <StreetName>Appledowre</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>11</SubNumber>
+               <City>Germantown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20876</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.233532</Longitude>
+               <Latitude>39.183936</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>NOK</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>07</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>385093</PersonId>
+            <RaceCode>Unknown</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Other Ethnicity/National Origin</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Reyes</LastName>
+               <FirstName>Jordan</FirstName>
+               <DOB>10/25/2015 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Reyes</LastName>
+               <FirstName>Jordan</FirstName>
+               <DOB>10/25/2015 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>20026</StreetNumber>
+               <StreetName>Appledowre</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>11</SubNumber>
+               <City>Germantown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20876</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.233532</Longitude>
+               <Latitude>39.183936</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>NOK</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>BB</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>385094</PersonId>
+            <RaceCode>Unknown</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Other Ethnicity/National Origin</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Reyes</LastName>
+               <FirstName>Jaylaniz</FirstName>
+               <DOB>06/05/2023 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Reyes</LastName>
+               <FirstName>Jaylaniz</FirstName>
+               <DOB>06/05/2023 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>20026</StreetNumber>
+               <StreetName>Appledowre</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>11</SubNumber>
+               <City>Germantown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20876</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.233532</Longitude>
+               <Latitude>39.183936</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>NOK</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>156125</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>1HGCP26799A026551</VIN>
+         <VehicleYear>2009</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>ACCORD</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>5ER4438</VehicleLicNumber>
+         <VehicleLicYear>2025</VehicleLicYear>
+         <VehicleLicMonth>7</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

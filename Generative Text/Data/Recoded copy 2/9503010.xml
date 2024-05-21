@@ -1,0 +1,138 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>01/30/2023 19:37:00</ReportDate>
+   <StartDate>01/30/2023 19:28:00</StartDate>
+   <Summary>Traffic Stop / Consent Search</Summary>
+   <IncidentType>
+      <IncidentTypeCode>SR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>BLUE STAR MEMORIAL HWY/ NESBIT RD</IncAddrComment>
+      <AddressId>682422</AddressId>
+      <Address>
+         <AddressId>682422</AddressId>
+         <StreetName>US-50</StreetName>
+         <City>Queenstown</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21658</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.187225</Longitude>
+         <Latitude>38.967087</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Passwaters</LastName>
+            <FirstName>Chase</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Curley</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Maranto</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>46</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>216998</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Neuwiller</LastName>
+               <FirstName>Joshua</FirstName>
+               <DOB>01/12/1977 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Neuwiller</LastName>
+               <FirstName>Joshua</FirstName>
+               <DOB>01/12/1977 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>506</StreetNumber>
+               <StreetName>College</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Queenstown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21658</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.081012</Longitude>
+               <Latitude>38.943419</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>210</StreetNumber>
+               <StreetName>Briarwood</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <City>Denton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21629</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.818554</Longitude>
+               <Latitude>38.891104</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>298</PhonePrefix>
+               <PhoneSuffix>7347</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>149269</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>1GCHK236F128651</VIN>
+         <VehicleYear>2003</VehicleYear>
+         <VehicleMakeCode>CHEVROLET</VehicleMakeCode>
+         <VehicleModelCode>SILVERADO</VehicleModelCode>
+         <VehicleStyleCode>FB</VehicleStyleCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>MUL/COL</VehPriColorCode>
+         <VehSecColorCode>MUL/COL</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>2CM1104</VehicleLicNumber>
+         <VehicleLicYear>2020</VehicleLicYear>
+         <VehicleLicMonth>9</VehicleLicMonth>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>One yellow and white prescription bottle with the label removed, containing an unknown white powdery substance.</Description>
+         <PropertyTypeCode>DRUG / NARCOTIC EQUIPMENT</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>242563</Property_ID>
+         <PrimaryColor>WHI</PrimaryColor>
+         <SecondaryColor>YEL</SecondaryColor>
+         <Make>Plastic</Make>
+         <Model>Container</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

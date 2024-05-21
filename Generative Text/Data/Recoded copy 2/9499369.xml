@@ -1,0 +1,104 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>05/03/2023 23:44:00</ReportDate>
+   <StartDate>05/03/2023 23:31:00</StartDate>
+   <Summary>Traffic Arrest</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>692812</AddressId>
+      <Address>
+         <AddressId>692812</AddressId>
+         <StreetNumber>32</StreetNumber>
+         <StreetName>Mm I270 Nb</StreetName>
+         <City>Frederick</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.41666</Longitude>
+         <Latitude>39.38991</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Baum</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Carr</LastName>
+            <FirstName>Steven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>19731</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>19731</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>25</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>376067</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Ruiz Aguilar</LastName>
+               <FirstName>Oscar</FirstName>
+               <MiddleName>Guillermo</MiddleName>
+               <DOB>05/23/1997 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Ruiz Aguilar</LastName>
+               <FirstName>Oscar</FirstName>
+               <MiddleName>Guillermo</MiddleName>
+               <DOB>05/23/1997 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>786</StreetNumber>
+               <StreetName>Vine</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Harrisonburg</City>
+               <StateCode>Virginia</StateCode>
+               <Zip5>22802</Zip5>
+               <Zip4>4930</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-78.851203</Longitude>
+               <Latitude>38.450293</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>152633</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>JT3HN86RX20364538</VIN>
+         <VehicleYear>2002</VehicleYear>
+         <VehicleMakeCode>TOYOTA(TOYT)</VehicleMakeCode>
+         <VehicleModelCode>4-RUNNER</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>BGE</VehPriColorCode>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

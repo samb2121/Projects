@@ -1,0 +1,136 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>12/26/2023 16:35:00</ReportDate>
+   <StartDate>12/26/2023 16:03:00</StartDate>
+   <Summary>Stepdaughter assaulted her stepfather.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>717124</AddressId>
+      <Address>
+         <AddressId>717124</AddressId>
+         <StreetNumber>4109</StreetNumber>
+         <StreetName>Hickory </StreetName>
+         <StreetTypeCode>Cove</StreetTypeCode>
+         <City>Hurlock </City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21643</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75</Longitude>
+         <Latitude>38</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Cooper</LastName>
+            <FirstName>Connor</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Dadds</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Walker</LastName>
+            <FirstName>Drew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>396532</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Cathey</LastName>
+               <FirstName>Ashanti</FirstName>
+               <DOB>11/21/2001 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Cathey</LastName>
+               <FirstName>Ashanti</FirstName>
+               <DOB>11/21/2001 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>44</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>215306</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Jackson</LastName>
+               <FirstName>Antonio</FirstName>
+               <MiddleName>L</MiddleName>
+               <DOB>09/22/1979 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Jackson</LastName>
+               <FirstName>Antonio</FirstName>
+               <MiddleName>L</MiddleName>
+               <DOB>09/22/1979 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>330</StreetNumber>
+               <StreetName>WILSON</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>GRASONVILLE</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.18877183483004</Longitude>
+               <Latitude>38.963805613472914</Latitude>
+               <SubBeat>803</SubBeat>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>4109</StreetNumber>
+               <StreetName>Hickory </StreetName>
+               <StreetTypeCode>Cove</StreetTypeCode>
+               <City>Hurlock </City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21643</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75</Longitude>
+               <Latitude>38</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

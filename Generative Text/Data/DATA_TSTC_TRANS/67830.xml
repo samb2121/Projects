@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2014ISP0000236</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>03/18/2014 11:01:00</ReportDate>
+   <ReportTime>03/18/2014 11:01:00</ReportTime>
+   <StartDate>03/18/2014 11:01:00</StartDate>
+   <StartTime>03/01/2014 11:01:00</StartTime>
+   <Summary>test</Summary>
+   <CreatorId>STATE_OSUPER12</CreatorId>
+   <CreatorDate>03/18/2014 11:01:24</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:24</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>B/H</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>198</AddressId>
+      <City>4</City>
+      <CreatorId>C_ADMIN</CreatorId>
+      <CreatorDate>07/11/2014 12:49:46</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>07/11/2014 12:49:52</UpdatorDate>
+      <Address>
+         <AddressId>198</AddressId>
+         <StreetNumber>12345465</StreetNumber>
+         <StreetDirCode>NW</StreetDirCode>
+         <StreetName>UR Here I AM NOt</StreetName>
+         <StreetTypeCode>APTS</StreetTypeCode>
+         <StreetSuffixCode>SW</StreetSuffixCode>
+         <SubTypeCode>APT</SubTypeCode>
+         <SubNumber>2235A</SubNumber>
+         <City>INDIANAPOLIS</City>
+         <StateCode>DC</StateCode>
+         <Zip5>01234</Zip5>
+         <Zip4>123</Zip4>
+         <CountryCode>US</CountryCode>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>03/18/2014 11:01:24</SuppReportDate>
+      <SuppReportTime>03/18/2014 11:01:24</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>07/11/2014 12:52:43</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OSUPER12</CreatorId>
+      <CreatorDate>03/18/2014 11:01:24</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:18</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>&amp;nbsp;test case</NarrativeText>
+         <CreatorId>STATE_OSUPER12</CreatorId>
+         <CreatorDate>07/11/2014 12:52:22</CreatorDate>
+         <UpdatorId>STATE_OSUPER12</UpdatorId>
+         <UpdatorDate>07/11/2014 12:52:22</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Gerber</LastName>
+            <FirstName>Henry (Sup)</FirstName>
+            <InternalID>445</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>SOUTHZONE</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Jones</LastName>
+            <FirstName>Jim</FirstName>
+            <InternalID>2468</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>1438</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>06</OffenseStatusCode>
+         <OffenseCode>35-43-2-1  B02</OffenseCode>
+         <PlaceCode>39</PlaceCode>
+         <BiasCode>31</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>07/11/2014 12:50:00</OffenseStatusDate>
+         <ForcedEntryCode>N</ForcedEntryCode>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <ArrestChargeCode>35-43-2-1  B02</ArrestChargeCode>
+         <CreatorId>C_ADMIN</CreatorId>
+         <CreatorDate>07/11/2014 12:50:30</CreatorDate>
+         <UpdatorId>STATE_OSUPER12</UpdatorId>
+         <UpdatorDate>07/11/2014 12:50:34</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>53</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OSUPER12</CreatorId>
+         <CreatorDate>07/11/2014 12:51:36</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:18</UpdatorDate>
+         <Person>
+            <PersonId>381</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>ARNEY</LastName>
+               <FirstName>DON</FirstName>
+               <DOB>06/09/1960 00:00:00</DOB>
+               <DateOfInfo>09/05/2012 14:14:18</DateOfInfo>
+               <SLastName>A650</SLastName>
+               <SFirstName>D500</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Arney</LastName>
+               <FirstName>Donnovan</FirstName>
+               <MiddleName>James</MiddleName>
+               <DOB>06/09/1960 00:00:00</DOB>
+               <TitleCode>SR</TitleCode>
+               <DateOfInfo>01/31/2014 00:00:00</DateOfInfo>
+               <SLastName>A650</SLastName>
+               <SFirstName>D515</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Chrome Dome</LastName>
+               <FirstName>Dome</FirstName>
+               <DateOfInfo>07/14/2014 00:00:00</DateOfInfo>
+               <SLastName>C653</SLastName>
+               <SFirstName>D500</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>ARNEY</LastName>
+               <FirstName>DON</FirstName>
+               <DOB>06/09/1960 00:00:00</DOB>
+               <SLastName>A650</SLastName>
+               <SFirstName>D500</SFirstName>
+               <DateOfInfo>09/05/2012 14:14:18</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Arney</LastName>
+               <FirstName>Donnovan</FirstName>
+               <MiddleName>James</MiddleName>
+               <DOB>06/09/1960 00:00:00</DOB>
+               <TitleCode>SR</TitleCode>
+               <SLastName>A650</SLastName>
+               <SFirstName>D515</SFirstName>
+               <DateOfInfo>01/31/2014 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>N</NameTypeCode>
+               <LastName>Chrome Dome</LastName>
+               <FirstName>Dome</FirstName>
+               <SLastName>C653</SLastName>
+               <SFirstName>D500</SFirstName>
+               <DateOfInfo>07/14/2014 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>9291</StreetNumber>
+               <StreetName>UNION SCHOOL</StreetName>
+               <StreetTypeCode>RD</StreetTypeCode>
+               <City>POLAND</City>
+               <StateCode>IN</StateCode>
+               <Zip5>47868</Zip5>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OSUPER12</CreatorId>
+            <CreatorDate>07/11/2014 12:51:36</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:20</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>53</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OSUPER12</CreatorId>
+         <CreatorDate>07/11/2014 12:52:00</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:18</UpdatorDate>
+         <Person>
+            <PersonId>100</PersonId>
+            <RaceCode>P</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>O</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Atkins</LastName>
+               <FirstName>Steve</FirstName>
+               <DOB>01/01/1960 00:00:00</DOB>
+               <DateOfInfo>04/11/2012 10:44:20</DateOfInfo>
+               <SLastName>A325</SLastName>
+               <SFirstName>S310</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Atkinson SUPER LONG LAST NAME ALSO</LastName>
+               <FirstName>Stephen SUPER LONG FIRST NAME ALSO</FirstName>
+               <DOB>06/01/1960 00:00:00</DOB>
+               <SSN>8.88888888E8</SSN>
+               <DateOfInfo>03/01/2013 00:00:00</DateOfInfo>
+               <SLastName>A325</SLastName>
+               <SFirstName>S315</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <DateOfInfo>09/06/2012 00:00:00</DateOfInfo>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Of the World</LastName>
+               <FirstName>King</FirstName>
+               <DateOfInfo>11/14/2018 00:00:00</DateOfInfo>
+               <SLastName>O136</SLastName>
+               <SFirstName>K520</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Atkins</LastName>
+               <FirstName>Steve</FirstName>
+               <DOB>01/01/1960 00:00:00</DOB>
+               <SLastName>A325</SLastName>
+               <SFirstName>S310</SFirstName>
+               <DateOfInfo>04/11/2012 10:44:20</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Atkinson SUPER LONG LAST NAME ALSO</LastName>
+               <FirstName>Stephen SUPER LONG FIRST NAME ALSO</FirstName>
+               <DOB>06/01/1960 00:00:00</DOB>
+               <SSN>8.88888888E8</SSN>
+               <SLastName>A325</SLastName>
+               <SFirstName>S315</SFirstName>
+               <DateOfInfo>03/01/2013 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>N</NameTypeCode>
+               <DateOfInfo>09/06/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Of the World</LastName>
+               <FirstName>King</FirstName>
+               <SLastName>O136</SLastName>
+               <SFirstName>K520</SFirstName>
+               <DateOfInfo>11/14/2018 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>100</StreetNumber>
+               <StreetName>Ash</StreetName>
+               <StreetTypeCode>ST</StreetTypeCode>
+               <City>INDIANAPOLIS</City>
+               <StateCode>IN</StateCode>
+               <Zip5>01234</Zip5>
+               <Zip4>7777</Zip4>
+               <CountryCode>US</CountryCode>
+               <Longitude>-86.26354</Longitude>
+               <Latitude>39.95494</Latitude>
+               <Beat>Test</Beat>
+               <SubBeat>Area</SubBeat>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>RES</PhoneTypeCode>
+               <PhoneArea>222</PhoneArea>
+               <PhonePrefix>222</PhonePrefix>
+               <PhoneSuffix>2222</PhoneSuffix>
+               <DateOfInfo>02/21/2018 00:00:00</DateOfInfo>
+            </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>333</PhoneArea>
+               <PhonePrefix>444</PhonePrefix>
+               <PhoneSuffix>5555</PhoneSuffix>
+               <DateOfInfo>11/14/2018 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>STATE_OSUPER12</CreatorId>
+            <CreatorDate>07/11/2014 12:52:00</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:20</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>8</RoleCode>
+         <CreatorId>C_ADMIN</CreatorId>
+         <CreatorDate>07/11/2014 12:52:10</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/10/2017 23:00:41</UpdatorDate>
+         <StatusCode>8</StatusCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

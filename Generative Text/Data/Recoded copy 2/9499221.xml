@@ -1,0 +1,108 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>06/03/2023 16:09:00</ReportDate>
+   <StartDate>06/03/2023 15:51:00</StartDate>
+   <Summary>6/3/23: Report of harassment/assault at 79 W Frederick St Walkersville</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>113916</AddressId>
+      <Address>
+         <AddressId>113916</AddressId>
+         <StreetNumber>79</StreetNumber>
+         <StreetDirCode>W</StreetDirCode>
+         <StreetName>FREDERICK</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>WALKERSVILLE</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.35841062247158</Longitude>
+         <Latitude>39.47533651862313</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>STATION 11</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Conklin</LastName>
+            <FirstName>Gary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Meyers</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>41</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>378886</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>WIEDER</LastName>
+               <FirstName>RAQUEL</FirstName>
+               <MiddleName>SEGARRA</MiddleName>
+               <DOB>09/07/1981 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>WIEDER</LastName>
+               <FirstName>RAQUEL</FirstName>
+               <MiddleName>SEGARRA</MiddleName>
+               <DOB>09/07/1981 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>901</PhoneArea>
+               <PhonePrefix>239</PhonePrefix>
+               <PhoneSuffix>5670</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>66</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>378885</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>WIEDER</LastName>
+               <FirstName>BRENDA</FirstName>
+               <MiddleName>JEAN</MiddleName>
+               <DOB>10/09/1956 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>WIEDER</LastName>
+               <FirstName>BRENDA</FirstName>
+               <MiddleName>JEAN</MiddleName>
+               <DOB>10/09/1956 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

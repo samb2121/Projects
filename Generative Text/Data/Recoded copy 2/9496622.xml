@@ -1,0 +1,133 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>03/13/2023 21:50:00</ReportDate>
+   <StartDate>03/13/2023 21:46:00</StartDate>
+   <Summary>Traffic stop involving an unlicensed driver.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>KERCHNER/ WOODSBORO PIKE</IncAddrComment>
+      <AddressId>687240</AddressId>
+      <City>MDC246</City>
+      <Address>
+         <AddressId>687240</AddressId>
+         <StreetName>Kerchner</StreetName>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Cain</LastName>
+            <FirstName>Kenneth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Ingram</LastName>
+            <FirstName>Jasmine </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>19731</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>40</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>104795</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Coley</LastName>
+               <FirstName>Donnie</FirstName>
+               <MiddleName>JC</MiddleName>
+               <DOB>10/31/1982 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Coley</LastName>
+               <FirstName>Donnie</FirstName>
+               <MiddleName>JC</MiddleName>
+               <DOB>10/31/1982 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>36B</StreetNumber>
+               <StreetName>Main</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Walkersville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21793</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.350657</Longitude>
+               <Latitude>39.485825</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>12014</StreetNumber>
+               <StreetName>Fingerboard</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Monrovia</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21770</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.246599</Longitude>
+               <Latitude>39.343929</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>457</PhonePrefix>
+               <PhoneSuffix>1923</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>717</PhoneArea>
+               <PhonePrefix>446</PhonePrefix>
+               <PhoneSuffix>6332</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>397</PhonePrefix>
+               <PhoneSuffix>0172</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>150852</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>3N1CN7AP0CL814453</VIN>
+         <VehicleYear>2012</VehicleYear>
+         <VehicleMakeCode>NISSAN</VehicleMakeCode>
+         <VehicleModelCode>SENECA</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>3DN1613</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,123 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>11/08/2023 12:06:00</ReportDate>
+   <StartDate>11/08/2023 11:40:00</StartDate>
+   <Summary>Theft of generator from parked trailer</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>712679</AddressId>
+      <Address>
+         <AddressId>712679</AddressId>
+         <StreetNumber>225</StreetNumber>
+         <StreetName>Saddler</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Grasonville</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21638</Zip5>
+         <Zip4>1051</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.219961</Longitude>
+         <Latitude>38.965038</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Foley</LastName>
+            <FirstName>Donald</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bolduc</LastName>
+            <FirstName>Nathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Damiano</LastName>
+            <FirstName>Ariona</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0622 23G</OffenseCode>
+         <PlaceCode>Parking Lot/Garage</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0622 23G</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>392622</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Peter</LastName>
+               <FirstName>Andreas</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>05/04/1987 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Peter</LastName>
+               <FirstName>Andreas</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>05/04/1987 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>14</StreetNumber>
+               <StreetName>Lauren Knoll</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Baldwin</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21013</Zip5>
+               <Zip4>9656</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.533089</Longitude>
+               <Latitude>39.496871</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>829</PhonePrefix>
+               <PhoneSuffix>0307</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Red Honda FI7000 Generator</Description>
+         <PropertyTypeCode>996</PropertyTypeCode>
+         <PropertyValue>4000</PropertyValue>
+         <Value>4000</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>256362</Property_ID>
+         <PrimaryColor>RED</PrimaryColor>
+         <Make>Honda</Make>
+         <Model>7000</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

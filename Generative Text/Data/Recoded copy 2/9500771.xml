@@ -1,0 +1,136 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>05/09/2023 08:39:00</ReportDate>
+   <StartDate>05/09/2023 07:40:00</StartDate>
+   <Summary>Driving without a required license. 2 FTA warrants</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Warrant Service</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>I/L 695 AT LIBERTY RD</IncAddrComment>
+      <AddressId>693345</AddressId>
+      <Address>
+         <AddressId>693345</AddressId>
+         <StreetName>I/L 695 At Liberty</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.7444390333333</Longitude>
+         <Latitude>39.3355246333333</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rose</LastName>
+            <FirstName>Drew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Rhoten</LastName>
+            <FirstName>Ethan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Miranda</LastName>
+            <FirstName>Neil</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rhoten</LastName>
+            <FirstName>Ethan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Rhoten</LastName>
+            <FirstName>Ethan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>19731</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>19731</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>41</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>C</ClearMultiArrestCode>
+         <Person>
+            <PersonId>376483</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Sorto Zelaya</LastName>
+               <FirstName>Marvin</FirstName>
+               <MiddleName>Roberto</MiddleName>
+               <DOB>09/06/1981 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Sorto Zelaya</LastName>
+               <FirstName>Marvin</FirstName>
+               <MiddleName>Roberto</MiddleName>
+               <DOB>09/06/1981 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>9264</StreetNumber>
+               <StreetName>Piney Branch</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <SubNumber>201</SubNumber>
+               <City>Silver Spring</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20903</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.9861102</Longitude>
+               <Latitude>39.0012897</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>424</PhonePrefix>
+               <PhoneSuffix>3277</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>152813</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>13</StatusCode>
+         <VIN>5FNRL38767B000825</VIN>
+         <VehicleYear>2007</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>ODYSSEY</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>4FA3955</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

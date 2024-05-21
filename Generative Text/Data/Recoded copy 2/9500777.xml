@@ -1,0 +1,155 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5200</ORINum>
+   <ReportDate>05/09/2023 13:18:00</ReportDate>
+   <StartDate>05/09/2023 12:26:00</StartDate>
+   <Summary>Responded for a motor vehicle collision. Driver was arrested for DUI/DWI.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>S/B 295 @ ARUNDEL MILLS BLVD</IncAddrComment>
+      <AddressId>693387</AddressId>
+      <Address>
+         <AddressId>693387</AddressId>
+         <StreetName>S/B 295 @ Arundel Mills</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Litz</LastName>
+            <FirstName>Simon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>White</LastName>
+            <FirstName>Derek</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Garvey</LastName>
+            <FirstName>Killian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>14587</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14587</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>14585</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14585</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>49</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>309991</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Smilardo</LastName>
+               <FirstName>Murphy</FirstName>
+               <MiddleName>Paul</MiddleName>
+               <DOB>06/28/1974 00:00:00</DOB>
+               <TitleCode>II</TitleCode>
+               </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Smilardo</LastName>
+               <FirstName>Murphy</FirstName>
+               <MiddleName>Paul</MiddleName>
+               <DOB>02/28/1974 00:00:00</DOB>
+               <TitleCode>II</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Alias</NameTypeCode>
+               <LastName>Smilardo</LastName>
+               <FirstName>Murphy</FirstName>
+               <MiddleName>Paul</MiddleName>
+               <DOB>06/28/1974 00:00:00</DOB>
+               <TitleCode>II</TitleCode>
+               </Alias>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Smilardo</LastName>
+               <FirstName>Murphy</FirstName>
+               <MiddleName>Paul</MiddleName>
+               <DOB>02/28/1974 00:00:00</DOB>
+               <TitleCode>II</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>16</StreetNumber>
+               <StreetName>Janwall</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Annapolis</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21403</Zip5>
+               <Zip4>1916</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.500767</Longitude>
+               <Latitude>38.954144</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>153166</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>JTNKHMBX7J1006937</VIN>
+         <VehicleYear>2018</VehicleYear>
+         <VehicleMakeCode>TOYOTA(TOYT)</VehicleMakeCode>
+         <VehicleStyleCode>SW</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehSecColorCode>WHI</VehSecColorCode>
+         <VehicleLicStateCode>DE</VehicleLicStateCode>
+         <VehicleLicNumber>PC265263</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>5</VehicleLicMonth>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,104 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>09/06/2023 07:58:00</ReportDate>
+   <StartDate>09/06/2023 07:54:00</StartDate>
+   <Summary>School bus violation.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>3119 RIDGE,WESTMINSTER</IncAddrComment>
+      <AddressId>706119</AddressId>
+      <Address>
+         <AddressId>706119</AddressId>
+         <StreetNumber>3119</StreetNumber>
+         <StreetName>Ridge Westminster</StreetName>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.0580383333333</Longitude>
+         <Latitude>39.4880193333333</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>McCarty</LastName>
+            <FirstName>Cade</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Phelps</LastName>
+            <FirstName>William</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>15638</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>15638</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>37</ApproxAge>
+         <Person>
+            <PersonId>387140</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hahn</LastName>
+               <FirstName>James</FirstName>
+               <MiddleName>Stockton</MiddleName>
+               <DOB>04/05/1986 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hahn</LastName>
+               <FirstName>James</FirstName>
+               <MiddleName>Stockton</MiddleName>
+               <DOB>04/05/1986 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>171</StreetNumber>
+               <StreetName>Pointfield</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Harpers Ferry</City>
+               <StateCode>West Virginia</StateCode>
+               <Zip5>25425</Zip5>
+               <Zip4>5179</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.75587</Longitude>
+               <Latitude>39.319218</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>156837</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>1GCWGAFFXH1279423</VIN>
+         <VehicleYear>2017</VehicleYear>
+         <VehicleMakeCode>CHEVROLET</VehicleMakeCode>
+         <VehicleModelCode>EXP</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>3CX1391</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

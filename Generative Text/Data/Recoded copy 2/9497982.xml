@@ -1,0 +1,205 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3000</ORINum>
+   <ReportDate>01/22/2023 09:28:00</ReportDate>
+   <StartDate>01/22/2023 09:09:00</StartDate>
+   <Summary>Collision, Involved Vehicle w/Stolen Tag</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>N PARADISE RD/ CHAPEL RD</IncAddrComment>
+      <AddressId>561563</AddressId>
+      <City>MDC100</City>
+      <Address>
+         <AddressId>561563</AddressId>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>Paradise</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Aberdeen</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-76.16777</Longitude>
+         <Latitude>39.55829</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>500-599 N PARADISE RD / 4000-4015 CHAPEL RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>600-999 N PARADISE RD / 4000-4014 CHAPEL RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>O'Donald</LastName>
+            <FirstName>Jesse</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Skrodinsky</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Parker</LastName>
+            <FirstName>James</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Skrodinsky</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Skrodinsky</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 0521</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0521</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>3187</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>3187</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>367531</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Aldinger</LastName>
+               <FirstName>Tiffany</FirstName>
+               <MiddleName>Amber</MiddleName>
+               <DOB>11/03/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Aldinger</LastName>
+               <FirstName>Tiffany</FirstName>
+               <MiddleName>Amber</MiddleName>
+               <DOB>11/03/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>13520</StreetNumber>
+               <StreetName>Laurel</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Felton</City>
+               <StateCode>Pennsylvania</StateCode>
+               <Zip5>17322</Zip5>
+               <Zip4>7934</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.511224</Longitude>
+               <Latitude>39.848419</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>717</PhoneArea>
+               <PhonePrefix>542</PhonePrefix>
+               <PhoneSuffix>4679</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>42</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>369153</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Rust</LastName>
+               <FirstName>Donald</FirstName>
+               <MiddleName>Steven</MiddleName>
+               <DOB>01/23/1980 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Rust</LastName>
+               <FirstName>Donald</FirstName>
+               <MiddleName>Steven</MiddleName>
+               <DOB>01/23/1980 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>144</StreetNumber>
+               <StreetName>Brannan</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Aberdeen</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21001</Zip5>
+               <Zip4>2502</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.155923</Longitude>
+               <Latitude>39.507819</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>746</PhonePrefix>
+               <PhoneSuffix>1005</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>PA Motorcycle license plate</Description>
+         <PropertyTypeCode>LICENSE PLATE</PropertyTypeCode>
+         <PropertyValue>1</PropertyValue>
+         <Value>1</Value>
+         <SerialNumber>7RD65</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>243687</Property_ID>
+         <PrimaryColor>WHI</PrimaryColor>
+         <SecondaryColor>BLU</SecondaryColor>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

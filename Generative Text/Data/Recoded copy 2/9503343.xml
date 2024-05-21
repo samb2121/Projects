@@ -1,0 +1,72 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2100</ORINum>
+   <ReportDate>03/06/2023 12:14:00</ReportDate>
+   <StartDate>03/06/2023 12:13:00</StartDate>
+   <Summary>Counterfeit Currency</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>686470</AddressId>
+      <City>MDC136</City>
+      <Address>
+         <AddressId>686470</AddressId>
+         <StreetNumber>1223</StreetNumber>
+         <StreetName>National</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <City>La Vale</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-78.834472</Longitude>
+         <Latitude>39.637335</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROYO FACTORY</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bennett</LastName>
+            <FirstName>Darwin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Toey</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 0067</OffenseCode>
+         <PlaceCode>Department/Discount Store</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0067</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentBusiness>
+         <BusinessNumber>240019569</BusinessNumber>
+         <BusinessName>The FroYo Factory</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>C</DocumentTypeCode>
+         <PropertyTypeCode>CASH</PropertyTypeCode>
+         <PropertyValue>20</PropertyValue>
+         <Value>20</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>245028</Property_ID>
+         <Quantity>1</Quantity>
+         <Amount>20</Amount>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

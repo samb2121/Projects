@@ -1,0 +1,153 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>11/11/2023 01:36:00</ReportDate>
+   <StartDate>11/11/2023 01:22:00</StartDate>
+   <Summary>DUI / DWI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>BEAGLIN PARK DR/ S PARK DR</IncAddrComment>
+      <AddressId>529572</AddressId>
+      <Address>
+         <AddressId>529572</AddressId>
+         <StreetName>Beaglin Park</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Salisbury</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetDirCode>S</CrossStreetDirCode>
+         <CrossStreetTypeCode>DR</CrossStreetTypeCode>
+         <Longitude>-75.57291</Longitude>
+         <Latitude>38.35247</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 BEAGLIN PARK DR / 901-941 S PARK DR</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 BEAGLIN PARK DR / 900-913 S PARK DR</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 BEAGLIN PARK DR / 902-999 S PARK DR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Huntington</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Barfield</LastName>
+            <FirstName>Jacob</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Todd</LastName>
+            <FirstName>Bradley</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Oborokumo</LastName>
+            <FirstName>Tamarapreye</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Todd</LastName>
+            <FirstName>Bradley</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Todd</LastName>
+            <FirstName>Bradley</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>19739</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>31</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>245762</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Brooks</LastName>
+               <FirstName>Joshua</FirstName>
+               <MiddleName>Neil</MiddleName>
+               <DOB>10/30/1992 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Brooks</LastName>
+               <FirstName>Joshua</FirstName>
+               <MiddleName>Neil</MiddleName>
+               <DOB>10/30/1992 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>710</StreetNumber>
+               <StreetName>Beauchamp</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>H</SubNumber>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21801</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.611002</Longitude>
+               <Latitude>38.360826</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>7184</StreetNumber>
+               <StreetName>Parsonsburg</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Parsonsburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21849</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.468799</Longitude>
+               <Latitude>38.388213</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

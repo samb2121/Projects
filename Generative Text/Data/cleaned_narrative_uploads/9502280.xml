@@ -1,0 +1,86 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-035275</IncidentReportNum>
+   <AgencyCode>58</AgencyCode>
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>10/07/2023 19:09:00</ReportDate>
+   <ReportTime>10/07/2023 19:09:00</ReportTime>
+   <StartDate>10/07/2023 19:09:00</StartDate>
+   <StartTime>10/07/2023 19:09:00</StartTime>
+   <Summary>MVC / Firearm Discharge</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>10/07/2023 19:27:04</CreatorDate>
+   <UpdatorId>MSP6047</UpdatorId>
+   <UpdatorDate>10/17/2023 01:05:36</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>FD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>ST MICHAELS RD/ LEE HAVEN RD</IncAddrComment>
+      <AddressId>595723</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>10/07/2023 19:27:05</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>10/13/2023 04:26:03</UpdatorDate>
+      <Address>
+         <AddressId>595723</AddressId>
+         <StreetName>St Michaels</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Easton</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-76.103155</Longitude>
+         <Latitude>38.781298</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>27701-27999 ST MICHAELS RD / 8162-8440 LEE HAVEN RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>10/07/2023 19:27:00</SuppReportDate>
+      <SuppReportTime>10/07/2023 19:27:00</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>58</SuppAgencyCode>
+      <DsIcrDate>10/17/2023 01:05:36</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>10/07/2023 19:27:04</CreatorDate>
+      <UpdatorId>MSP6047</UpdatorId>
+      <UpdatorDate>10/17/2023 01:05:36</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>On October 7th, 2023 at approximately 1909 hours, I was dispatched to a single vehicle collision involving a deer. Upon my arrival, I observed the deer was still alive and severely injured. In accordance with Maryland State Police Operations Directive 10.02, section A, number 3, I utilized my agency issued Mossberg 590A1 shotgun, bearing serial number V1645262, firing one (1) rifled slug, to kill an injured animal to relieve its suffering. Ear and eye protection were used at the time of the firearm discharge. Sgt Del Vecchio replaced my one (1) rifled slug on 10/14/2023.  I request this case be closed</NarrativeText>
+         <CreatorId>MSP6415</CreatorId>
+         <CreatorDate>10/13/2023 04:27:12</CreatorDate>
+         <UpdatorId>MSP6415</UpdatorId>
+         <UpdatorDate>10/14/2023 05:09:40</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>58</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Del Vecchio</LastName>
+            <FirstName>Christopher</FirstName>
+            <InternalID>6047</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>58</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Glover</LastName>
+            <FirstName>Eric</FirstName>
+            <InternalID>6415</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

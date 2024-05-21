@@ -1,0 +1,130 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2200</ORINum>
+   <ReportDate>09/05/2023 13:32:00</ReportDate>
+   <StartDate>09/05/2023 12:53:00</StartDate>
+   <Summary>Theft of two lawnmowers</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>194980</AddressId>
+      <Address>
+         <AddressId>194980</AddressId>
+         <StreetNumber>6701</StreetNumber>
+         <StreetName>SHARPSBURG</StreetName>
+         <StreetTypeCode>Pike</StreetTypeCode>
+         <City>SHARPSBURG</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.74950607765217</Longitude>
+         <Latitude>39.49813004104783</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Brown</LastName>
+            <FirstName>Travis</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wills</LastName>
+            <FirstName>Jeremy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1136_AOL</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1136_AOL</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>35</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>117741</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Harold jr</LastName>
+               <FirstName>Edwin</FirstName>
+               <MiddleName>Duane</MiddleName>
+               <DOB>03/03/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Harold jr</LastName>
+               <FirstName>Edwin</FirstName>
+               <MiddleName>Duane</MiddleName>
+               <DOB>03/03/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>6701</StreetNumber>
+               <StreetName>SHARPSBURG</StreetName>
+               <StreetTypeCode>Pike</StreetTypeCode>
+               <City>SHARPSBURG</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.74950607765217</Longitude>
+               <Latitude>39.49813004104783</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>520</PhonePrefix>
+               <PhoneSuffix>0403</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Zero Turn Lawnmower</Description>
+         <PropertyTypeCode>LAWN MOWER</PropertyTypeCode>
+         <PropertyValue>2000</PropertyValue>
+         <Value>2000</Value>
+         <SerialNumber>000121</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>253889</Property_ID>
+         <PrimaryColor>RED</PrimaryColor>
+         <SecondaryColor>RED</SecondaryColor>
+         <Make>Gravely </Make>
+         <Model>266Z</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Walk behind lawnmower</Description>
+         <PropertyTypeCode>LAWN MOWER</PropertyTypeCode>
+         <PropertyValue>1000</PropertyValue>
+         <Value>1000</Value>
+         <SerialNumber>000290</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>253890</Property_ID>
+         <PrimaryColor>RED</PrimaryColor>
+         <SecondaryColor>RED</SecondaryColor>
+         <Make>Gravely</Make>
+         <Model>Pro 150 </Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

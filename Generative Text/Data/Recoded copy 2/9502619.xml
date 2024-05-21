@@ -1,0 +1,116 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5100</ORINum>
+   <ReportDate>01/10/2023 19:05:00</ReportDate>
+   <StartDate>01/10/2023 18:40:00</StartDate>
+   <Summary>Stolen Tag</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>618439</AddressId>
+      <City>MDC102</City>
+      <Address>
+         <AddressId>618439</AddressId>
+         <StreetNumber>200</StreetNumber>
+         <StreetName>Harry S. Truman</StreetName>
+         <StreetTypeCode>Parkway</StreetTypeCode>
+         <SubTypeCode>STE</SubTypeCode>
+         <SubNumber>300</SubNumber>
+         <City>Annapolis</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21401</Zip5>
+         <Zip4>7601</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.5554159</Longitude>
+         <Latitude>38.9772453</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Jones</LastName>
+            <FirstName>Mujaihid</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Anderson</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0521</OffenseCode>
+         <PlaceCode>Parking Lot/Garage</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>51</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>138582</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Nigh</LastName>
+               <FirstName>Michael</FirstName>
+               <MiddleName>Charles</MiddleName>
+               <DOB>01/07/1972 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Nigh</LastName>
+               <FirstName>Michael</FirstName>
+               <MiddleName>Charles</MiddleName>
+               <DOB>01/07/1972 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1003</StreetNumber>
+               <StreetName>Madison</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Annapolis</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21403</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.491186</Longitude>
+               <Latitude>38.965259</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>757</PhoneArea>
+               <PhonePrefix>561</PhonePrefix>
+               <PhoneSuffix>7509</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>License plate from Dodge Caravan stolen</Description>
+         <PropertyTypeCode>LICENSE PLATE</PropertyTypeCode>
+         <PropertyValue>100</PropertyValue>
+         <Value>100</Value>
+         <SerialNumber>IS91TJ</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>241287</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>Dodge</Make>
+         <Model>Caravan </Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,123 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>10/16/2023 07:37:00</ReportDate>
+   <StartDate>10/16/2023 07:08:00</StartDate>
+   <Summary>ACRS COMPLETED IN THE DELTA PLUS APPLICATION//DRIVING W/OUT INSURANCE.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>I695 / PHILADELPHIA RD</IncAddrComment>
+      <AddressId>581940</AddressId>
+      <Address>
+         <AddressId>581940</AddressId>
+         <StreetName>I695</StreetName>
+         <City>Rosedale</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-76.49173</Longitude>
+         <Latitude>39.33612</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>O/L @ PHILADELPHIA RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>I/L @ PHILADELPHIA RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>I/L @ 34</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 I695 / 0-0 PHILADELPHIA RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>PEZOLD</LastName>
+            <FirstName>JONATHAN</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Twardowski</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Thoren</LastName>
+            <FirstName>Ashley</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>19733</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>19733</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>27</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>392063</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>GATLING</LastName>
+               <FirstName>DAYSHAWN</FirstName>
+               <DOB>10/25/1995 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>GATLING</LastName>
+               <FirstName>DAYSHAWN</FirstName>
+               <DOB>10/25/1995 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>603</StreetNumber>
+               <StreetName>Chester</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21237</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.500202</Longitude>
+               <Latitude>39.309644</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>158631</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>JN1CV6FE5AM354436</VIN>
+         <VehicleYear>2010</VehicleYear>
+         <VehicleMakeCode>INFINITI</VehicleMakeCode>
+         <VehicleModelCode>G37</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>MAR</VehPriColorCode>
+         <VehSecColorCode>MAR</VehSecColorCode>
+         <VehicleLicStateCode>VA</VehicleLicStateCode>
+         <VehicleLicNumber>71365HM</VehicleLicNumber>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehDamageDesc>Involved in accident </VehDamageDesc>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,132 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5400</ORINum>
+   <ReportDate>04/09/2023 20:01:00</ReportDate>
+   <StartDate>04/09/2023 19:52:00</StartDate>
+   <Summary>The suspect was in possession of suspected cannabis personal use.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>THREE NOTCH RD/ FIRST COLONY BLVD</IncAddrComment>
+      <AddressId>690370</AddressId>
+      <Address>
+         <AddressId>690370</AddressId>
+         <StreetNumber>23054</StreetNumber>
+         <StreetName>Three Notch</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>California</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20619</Zip5>
+         <Zip4>2410</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.513822</Longitude>
+         <Latitude>38.301257</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Thomas</LastName>
+            <FirstName>Payton</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Murphy</LastName>
+            <FirstName>Shawn</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Posch</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>CIVIL 5-601</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>373863</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Boswell hurt</LastName>
+               <FirstName>Lauren</FirstName>
+               <DOB>07/31/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Boswell hurt</LastName>
+               <FirstName>Lauren</FirstName>
+               <DOB>07/31/1989 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>45999</StreetNumber>
+               <StreetName>Great Mills</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <SubNumber>311A</SubNumber>
+               <City>Lexington Park</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20653</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.484333</Longitude>
+               <Latitude>38.247632</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>151809</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>3FA6P0G74HR184899</VIN>
+         <VehicleYear>2017</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>FUSION</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>1CT1241</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>12</VehicleLicMonth>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>One ziplock bag containing 40 burnt cigars containing suspected cannabis. </Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246956</Property_ID>
+         <DrugTypeCode>SUSPECTED MARIJUANA</DrugTypeCode>
+         <Quantity>14.7</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

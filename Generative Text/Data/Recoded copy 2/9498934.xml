@@ -1,0 +1,264 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>09/09/2023 16:53:00</ReportDate>
+   <StartDate>09/09/2023 16:11:00</StartDate>
+   <Summary>Vehicle reported stolen from driveway</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>706437</AddressId>
+      <Address>
+         <AddressId>706437</AddressId>
+         <StreetNumber>108</StreetNumber>
+         <StreetName>Lakewood</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <SubTypeCode>APT</SubTypeCode>
+         <SubNumber>A</SubNumber>
+         <City>Salisbury</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21804</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.602423</Longitude>
+         <Latitude>38.333005</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mareck</LastName>
+            <FirstName>Keven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Smith</LastName>
+            <FirstName>Bruce</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1466</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1466</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>53</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>375854</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Phillips</LastName>
+               <FirstName>Sharon</FirstName>
+               <MiddleName>Rose</MiddleName>
+               <DOB>01/04/1970 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Phillips</LastName>
+               <FirstName>Sharon</FirstName>
+               <MiddleName>Rose</MiddleName>
+               <DOB>01/04/1970 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>108</StreetNumber>
+               <StreetName>Lakeview</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>A</SubNumber>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21804</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.596355</Longitude>
+               <Latitude>38.331144</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>156936</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>5</StatusCode>
+         <VIN>2T3H1RFV5NC180300</VIN>
+         <VehicleYear>2022</VehicleYear>
+         <VehicleMakeCode>TOYOTA(TOYT)</VehicleMakeCode>
+         <VehicleModelCode>RAV4 (SPORT UTILITY)</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>5DZ8788</VehicleLicNumber>
+         <VehicleLicNumber>5DZ8788</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>3</VehicleLicMonth>
+         <VehicleLicMonth>3</VehicleLicMonth>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehConditionCode>F</VehConditionCode>
+         <VehDamageCode>12</VehDamageCode>
+         <VehDamageDesc>The interior smelled of Marijuana and there was a lot of ash and blunt trash in the vehicle. </VehDamageDesc>
+         <VehicleValue>20000</VehicleValue>
+         <VehicleValue>30000</VehicleValue>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>KEYS</PropertyTypeCode>
+         <PropertyValue>100</PropertyValue>
+         <Value>100</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>253917</Property_ID>
+         <Make>TOYOTA </Make>
+         <Model>RAV4</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bowie</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Perdue</LastName>
+            <FirstName>Mark</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>38</ApproxAge>
+         <Person>
+            <PersonId>75650</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Yates</LastName>
+               <FirstName>John</FirstName>
+               <MiddleName>David</MiddleName>
+               <DOB>12/07/1984 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Yates</LastName>
+               <FirstName>John</FirstName>
+               <MiddleName>David</MiddleName>
+               <DOB>12/07/1984 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>707</StreetNumber>
+               <StreetName>Wilmington </StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <SubTypeCode>UNIT</SubTypeCode>
+               <SubNumber>6</SubNumber>
+               <City>Ocean City</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21442</Zip5>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>108 </StreetNumber>
+               <StreetName>Laveview</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>A</SubNumber>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21804</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.59684</Longitude>
+               <Latitude>38.331238</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>9021</StreetNumber>
+               <StreetName>Poplar</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Berlin</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21811</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.216949</Longitude>
+               <Latitude>38.311211</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>302</PhoneArea>
+               <PhonePrefix>856</PhonePrefix>
+               <PhoneSuffix>9501</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>225</PhonePrefix>
+               <PhoneSuffix>0961</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mareck</LastName>
+            <FirstName>Keven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Phillips</LastName>
+            <FirstName>Kristopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mareck</LastName>
+            <FirstName>Keven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Smith</LastName>
+            <FirstName>Bruce</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

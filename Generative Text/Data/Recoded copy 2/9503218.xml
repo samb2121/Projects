@@ -1,0 +1,183 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>02/09/2023 20:00:00</ReportDate>
+   <StartDate>02/09/2023 19:09:00</StartDate>
+   <Summary>carjacking</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>STV</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>683733</AddressId>
+      <SubBeat>610</SubBeat>
+      <City>MDC244</City>
+      <Address>
+         <AddressId>683733</AddressId>
+         <StreetName>Pennsylvania avenue</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <City>Upper marlboro</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20772</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>HWY</CrossStreetTypeCode>
+         <CrossStreetSuffixCode>N</CrossStreetSuffixCode>
+         <Longitude>-76.7490787</Longitude>
+         <Latitude>38.8131124</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Estrin</LastName>
+            <FirstName>Scott</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Heun</LastName>
+            <FirstName>Mason </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bowling</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Alvarado</LastName>
+            <FirstName>Alexander</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1420</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1420</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0826</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0826</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>2 0480</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 0480</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>368661</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Williams</LastName>
+               <FirstName>Torain</FirstName>
+               <DOB>04/21/2000 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Williams</LastName>
+               <FirstName>Torain</FirstName>
+               <DOB>04/21/2000 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2415</StreetNumber>
+               <StreetName>Kirtland</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>District Heights</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20747</Zip5>
+               <Zip4>3554</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.877478</Longitude>
+               <Latitude>38.855801</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>277</PhonePrefix>
+               <PhoneSuffix>7805</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>149666</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>7</StatusCode>
+         <VIN>2c3cdzc98fh773422</VIN>
+         <VehicleYear>2015</VehicleYear>
+         <VehicleMakeCode>DODGE(DODG)</VehicleMakeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>3fe1481</VehicleLicNumber>
+         <VehicleValue>30000</VehicleValue>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>149666</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>7</StatusCode>
+         <VIN>2c3cdzc98fh773422</VIN>
+         <VehicleYear>2015</VehicleYear>
+         <VehicleMakeCode>DODGE(DODG)</VehicleMakeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>3fe1481</VehicleLicNumber>
+         <VehicleValue>30000</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Heath</LastName>
+            <FirstName>William</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wilson</LastName>
+            <FirstName>Jessica</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,134 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4800</ORINum>
+   <ReportDate>12/26/2023 16:46:00</ReportDate>
+   <StartDate>12/26/2023 16:17:00</StartDate>
+   <Summary>Verbal Domestic</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>457242</AddressId>
+      <Address>
+         <AddressId>457242</AddressId>
+         <StreetNumber>11201</StreetNumber>
+         <StreetName>Adkins</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Berlin</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21811</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.171752</Longitude>
+         <Latitude>38.362184</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>MD - VZW - VERIFY PD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Kreiling</LastName>
+            <FirstName>Chad</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Lenz</LastName>
+            <FirstName>Eric</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Odonald</LastName>
+            <FirstName>Jameson</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>52</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>232727</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Johnson</LastName>
+               <FirstName>Bruce</FirstName>
+               <MiddleName>Ernest</MiddleName>
+               <DOB>07/24/1971 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Johnson</LastName>
+               <FirstName>Bruce</FirstName>
+               <MiddleName>Ernest</MiddleName>
+               <DOB>07/24/1971 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>11201</StreetNumber>
+               <StreetName>Adkins</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Berlin</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21811</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.171752</Longitude>
+               <Latitude>38.362184</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>540</PhoneArea>
+               <PhonePrefix>359</PhonePrefix>
+               <PhoneSuffix>5337</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>76</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>232729</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>White</LastName>
+               <FirstName>Patricia</FirstName>
+               <MiddleName>Anne</MiddleName>
+               <DOB>05/16/1947 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>White</LastName>
+               <FirstName>Patricia</FirstName>
+               <MiddleName>Anne</MiddleName>
+               <DOB>05/16/1947 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>11201</StreetNumber>
+               <StreetName>Adkins</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Berlin</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21811</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.171752</Longitude>
+               <Latitude>38.362184</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

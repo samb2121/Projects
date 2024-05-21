@@ -1,0 +1,206 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>10/08/2023 00:04:00</ReportDate>
+   <StartDate>10/07/2023 23:37:00</StartDate>
+   <Summary>DUI/Vehicle Pursuit</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>PURSUIT</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>N SOLOMONS ISLAND RD/ TRASKERS BLVD</IncAddrComment>
+      <AddressId>709390</AddressId>
+      <Address>
+         <AddressId>709390</AddressId>
+         <StreetName>Solomons Island</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <StreetSuffixCode>N</StreetSuffixCode>
+         <City>Prince Frederick</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20678</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>BLVD</CrossStreetTypeCode>
+         <Longitude>-76.595834</Longitude>
+         <Latitude>38.555064</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Lewis</LastName>
+            <FirstName>Shareef</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bauer</LastName>
+            <FirstName>Kevin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Davis</LastName>
+            <FirstName>Thomas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Oleksak</LastName>
+            <FirstName>Jaroslaw</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Sklar</LastName>
+            <FirstName>Camden</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>19</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>389924</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Burke</LastName>
+               <FirstName>Michael</FirstName>
+               <MiddleName>Dewayne</MiddleName>
+               <DOB>01/06/2004 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Burke</LastName>
+               <FirstName>Michael</FirstName>
+               <MiddleName>Dewayne</MiddleName>
+               <DOB>01/06/2004 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3575</StreetNumber>
+               <StreetName>Christiana</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Chesapeake Beach</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20732</Zip5>
+               <Zip4>4058</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.537872</Longitude>
+               <Latitude>38.642614</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>771</PhonePrefix>
+               <PhoneSuffix>2722</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>43</ApproxAge>
+         <Person>
+            <PersonId>288578</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Collins</LastName>
+               <FirstName>Joel</FirstName>
+               <MiddleName>Blaine</MiddleName>
+               <DOB>04/25/1980 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Collins</LastName>
+               <FirstName>Joel</FirstName>
+               <MiddleName>Blaine</MiddleName>
+               <DOB>04/25/1980 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>37132</StreetNumber>
+               <StreetName>Mowry</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Mechanicsville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20659</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.7935</Longitude>
+               <Latitude>38.3934</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>27354</StreetNumber>
+               <StreetName>Bosse</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Mechanicsville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20659</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.810486</Longitude>
+               <Latitude>38.417562</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>412</PhonePrefix>
+               <PhoneSuffix>7746</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>157883</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VehicleYear>2019</VehicleYear>
+         <VehicleMakeCode>CHEVROLET</VehicleMakeCode>
+         <VehicleModelCode>SILVERADO</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>RED</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>4FB5372</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>6</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

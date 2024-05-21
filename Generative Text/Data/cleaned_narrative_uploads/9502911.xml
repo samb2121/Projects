@@ -1,0 +1,91 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-011928</IncidentReportNum>
+   <AgencyCode>83</AgencyCode>
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>04/03/2023 19:54:00</ReportDate>
+   <ReportTime>04/03/2023 19:54:00</ReportTime>
+   <StartDate>04/03/2023 19:51:00</StartDate>
+   <StartTime>04/03/2023 19:51:00</StartTime>
+   <Summary>Traffic stop resulting in a negative search.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>04/03/2023 19:54:15</CreatorDate>
+   <UpdatorId>MSP4319</UpdatorId>
+   <UpdatorDate>04/11/2023 01:41:46</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>PCS</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>4568 ST LEONARD,SAINT LEONARD</IncAddrComment>
+      <AddressId>689518</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>04/03/2023 19:54:16</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>04/05/2023 14:38:17</UpdatorDate>
+      <Address>
+         <AddressId>689518</AddressId>
+         <StreetNumber>4568</StreetNumber>
+         <StreetName>St Leonard Saint Leonard</StreetName>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-76.5082027</Longitude>
+         <Latitude>38.4786398666667</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>04/03/2023 19:54:14</SuppReportDate>
+      <SuppReportTime>04/03/2023 19:54:14</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>83</SuppAgencyCode>
+      <DsIcrDate>04/11/2023 01:41:45</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>04/03/2023 19:54:15</CreatorDate>
+      <UpdatorId>MSP4319</UpdatorId>
+      <UpdatorDate>04/11/2023 01:41:46</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>VSR completed in Delta.</NarrativeText>
+         <CreatorId>MSP7588</CreatorId>
+         <CreatorDate>04/05/2023 14:38:33</CreatorDate>
+         <UpdatorId>MSP7588</UpdatorId>
+         <UpdatorDate>04/05/2023 14:38:33</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>83</AgencyCode>
+            <ORINumber>MDMSP5500</ORINumber>
+            <LastName>Custis</LastName>
+            <FirstName>Justin</FirstName>
+            <InternalID>7502</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>83</AgencyCode>
+            <ORINumber>MDMSP5500</ORINumber>
+            <LastName>Pilkerton</LastName>
+            <FirstName>John</FirstName>
+            <InternalID>4319</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>83</AgencyCode>
+            <ORINumber>MDMSP5500</ORINumber>
+            <LastName>Snyder</LastName>
+            <FirstName>Colby</FirstName>
+            <InternalID>7588</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

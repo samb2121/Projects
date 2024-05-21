@@ -1,0 +1,119 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>03/31/2023 16:20:00</ReportDate>
+   <StartDate>03/31/2023 16:07:00</StartDate>
+   <Summary>Traffic stop with a positive K9 scan.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>SR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>SUNBURST HWY/ BYRN ST</IncAddrComment>
+      <AddressId>689912</AddressId>
+      <Address>
+         <AddressId>689912</AddressId>
+         <StreetName>Sunburst</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <City>Cambridge</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21613</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>ST</CrossStreetTypeCode>
+         <Distance>0</Distance>
+         <Longitude>-76.06405605812499</Longitude>
+         <Latitude>38.56977351044476</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Repa</LastName>
+            <FirstName>Alexander</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Goldman</LastName>
+            <FirstName>Stansbury</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Johnston</LastName>
+            <FirstName>Tyler</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>38</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>374235</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>White</LastName>
+               <FirstName>Emanuel</FirstName>
+               <MiddleName>David</MiddleName>
+               <DOB>03/03/1985 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>White</LastName>
+               <FirstName>Emanuel</FirstName>
+               <MiddleName>David</MiddleName>
+               <DOB>03/03/1985 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>702</StreetNumber>
+               <StreetName>Church</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <SubNumber>1</SubNumber>
+               <City>Cambridge</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21613</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.078916</Longitude>
+               <Latitude>38.57361</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>One clear capsule containing an off white powdery substance of suspected heroin/fentanyl mix.</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247198</Property_ID>
+         <DrugTypeCode>SUSPECTED HEROIN</DrugTypeCode>
+         <Quantity>1</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>One clear capsule containing a tan powdery substance of suspected heroin/fentanyl mix. </Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247199</Property_ID>
+         <DrugTypeCode>SUSPECTED HEROIN</DrugTypeCode>
+         <Quantity>1</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

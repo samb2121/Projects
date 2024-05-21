@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2016D4210020</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>03/10/2016 15:20:00</ReportDate>
+   <ReportTime>03/10/2016 15:20:00</ReportTime>
+   <StartDate>03/10/2016 15:20:00</StartDate>
+   <StartTime>03/01/2016 15:20:00</StartTime>
+   <Summary>test 1</Summary>
+   <CreatorId>JMSTEST</CreatorId>
+   <CreatorDate>03/10/2016 15:20:44</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:38</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CAD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>390</AddressId>
+      <SubBeat>P69</SubBeat>
+      <City>18</City>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>03/10/2016 15:21:34</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>03/10/2016 15:21:47</UpdatorDate>
+      <Address>
+         <AddressId>390</AddressId>
+         <StreetNumber>548</StreetNumber>
+         <StreetDirCode>E</StreetDirCode>
+         <StreetName>PERRY</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>VERSAILLES</City>
+         <StateCode>IN</StateCode>
+         <CountryCode>US</CountryCode>
+         <SubBeat>P69</SubBeat>
+         <Longitude>-85.24356464114692</Longitude>
+         <Latitude>39.06942462407412</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>Dead strip</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>03/10/2016 15:20:44</SuppReportDate>
+      <SuppReportTime>03/10/2016 15:20:44</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>03/10/2016 15:28:35</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>03/10/2016 15:20:44</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:25</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>test 1</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/10/2016 15:26:56</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>03/10/2016 15:27:26</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>2466</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-2-2  C05</OffenseCode>
+         <PlaceCode>57</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>03/10/2016 15:20:00</OffenseStatusDate>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <ArrestChargeCode>35-43-2-2  C05</ArrestChargeCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/10/2016 15:22:39</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>03/10/2016 15:22:39</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>53</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/10/2016 15:25:07</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:24</UpdatorDate>
+         <Person>
+            <PersonId>20</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>U</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Thompson</LastName>
+               <FirstName>Terry</FirstName>
+               <DateOfInfo>02/18/2012 18:48:11</DateOfInfo>
+               <SLastName>T512</SLastName>
+               <SFirstName>T600</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Thompsonsen</LastName>
+               <FirstName>Theodore</FirstName>
+               <DateOfInfo>03/01/2013 00:00:00</DateOfInfo>
+               <SLastName>T512</SLastName>
+               <SFirstName>T360</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Thompson</LastName>
+               <FirstName>Terry</FirstName>
+               <SLastName>T512</SLastName>
+               <SFirstName>T600</SFirstName>
+               <DateOfInfo>02/18/2012 18:48:11</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Thompsonsen</LastName>
+               <FirstName>Theodore</FirstName>
+               <SLastName>T512</SLastName>
+               <SFirstName>T360</SFirstName>
+               <DateOfInfo>03/01/2013 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>752</StreetNumber>
+               <StreetDirCode>E</StreetDirCode>
+               <StreetName>Coil</StreetName>
+               <StreetTypeCode>APTS</StreetTypeCode>
+               <SubTypeCode>BSMT</SubTypeCode>
+               <City>INDIANAPOLIS</City>
+               <StateCode>IN</StateCode>
+               <Zip5>43221</Zip5>
+               <Zip4>5</Zip4>
+               <CountryCode>US</CountryCode>
+               <CountyCode>27</CountyCode>
+               <Longitude>-86.14465</Longitude>
+               <Latitude>39.874427</Latitude>
+               <Beat>Test</Beat>
+               <SubBeat>Area</SubBeat>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>03/10/2016 15:25:07</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:22</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/10/2016 15:23:54</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>03/10/2016 15:23:54</UpdatorDate>
+      </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

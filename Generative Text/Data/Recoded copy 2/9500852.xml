@@ -1,0 +1,160 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>05/21/2023 18:30:00</ReportDate>
+   <StartDate>05/21/2023 17:56:00</StartDate>
+   <Summary>Second Degree Assault.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>5121 MAIN ST</IncAddrComment>
+      <AddressId>513856</AddressId>
+      <Address>
+         <AddressId>513856</AddressId>
+         <StreetNumber>5121</StreetNumber>
+         <StreetName>Main</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Grasonville</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21638</Zip5>
+         <Zip4>1227</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.1953316</Longitude>
+         <Latitude>38.9598821</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Strange</LastName>
+            <FirstName>Wendell</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Golladay</LastName>
+            <FirstName>Jerry</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rongstad</LastName>
+            <FirstName>Tori</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>50</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>82100</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Pitts</LastName>
+               <FirstName>Tricia</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>12/10/1972 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Pitts</LastName>
+               <FirstName>Tricia</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>12/10/1972 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>17</StreetNumber>
+               <StreetName>Dunn</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Chester</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21619</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.293998</Longitude>
+               <Latitude>38.951977</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>490</PhonePrefix>
+               <PhoneSuffix>7046</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>64</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>62890</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Handy</LastName>
+               <FirstName>Joanne</FirstName>
+               <MiddleName>Deborah</MiddleName>
+               <DOB>01/03/1959 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Handy</LastName>
+               <FirstName>Joanne</FirstName>
+               <MiddleName>Deborah</MiddleName>
+               <DOB>01/03/1959 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>319</StreetNumber>
+               <StreetName>Little Kidwell</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Centreville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21617</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.065121</Longitude>
+               <Latitude>39.039381</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Golladay</LastName>
+            <FirstName>Jerry</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rongstad</LastName>
+            <FirstName>Tori</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

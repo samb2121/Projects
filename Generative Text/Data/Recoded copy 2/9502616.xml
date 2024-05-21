@@ -1,0 +1,145 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2300</ORINum>
+   <ReportDate>01/10/2023 16:58:00</ReportDate>
+   <StartDate>01/10/2023 16:00:00</StartDate>
+   <Summary>Youth struck staff in the face with an open palm</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>614237</AddressId>
+      <SubBeat>943</SubBeat>
+      <City>MDC304</City>
+      <Address>
+         <AddressId>614237</AddressId>
+         <StreetNumber>124</StreetNumber>
+         <StreetName>Camp 4</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Swanton</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21561</Zip5>
+         <Zip4>1329</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-79.1626549</Longitude>
+         <Latitude>39.4723074</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Broadwater</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Lyons</LastName>
+            <FirstName>Mark</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed-Juvenile Petition</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>365792</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Ward</LastName>
+               <FirstName>Eli</FirstName>
+               <MiddleName>Frederick</MiddleName>
+               <DOB>03/02/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Ward</LastName>
+               <FirstName>Eli</FirstName>
+               <MiddleName>Frederick</MiddleName>
+               <DOB>03/02/2000 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>124</StreetNumber>
+               <StreetName>Camp 4</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Swanton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21561</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-79.162636</Longitude>
+               <Latitude>39.472307</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>616</PhonePrefix>
+               <PhoneSuffix>6545</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>16</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>337619</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Holden</LastName>
+               <FirstName>Evrin</FirstName>
+               <MiddleName>Lamar</MiddleName>
+               <DOB>11/11/2006 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Holden</LastName>
+               <FirstName>Evrin</FirstName>
+               <MiddleName>Lamar</MiddleName>
+               <DOB>11/11/2006 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>405</StreetNumber>
+               <StreetDirCode>W</StreetDirCode>
+               <StreetName>Naylor Mill</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <SubNumber>4</SubNumber>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21801</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.577464</Longitude>
+               <Latitude>38.408659</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>561</PhoneArea>
+               <PhonePrefix>396</PhonePrefix>
+               <PhoneSuffix>8824</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

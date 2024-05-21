@@ -1,0 +1,145 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>01/03/2023 16:28:00</ReportDate>
+   <StartDate>01/03/2023 15:39:00</StartDate>
+   <Summary>Domestic Dispute - Verbal Only</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>559033</AddressId>
+      <City>MDC533</City>
+      <Address>
+         <AddressId>559033</AddressId>
+         <StreetNumber>16512</StreetNumber>
+         <StreetName>Sabillasville</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Sabillasville</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21780</Zip5>
+         <Zip4>9512</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.4528748</Longitude>
+         <Latitude>39.6873723</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Freysz</LastName>
+            <FirstName>Richard</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Freysz</LastName>
+            <FirstName>Richard</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Brown</LastName>
+            <FirstName>Shawn</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>54</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>365140</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Kernan</LastName>
+               <FirstName>Christine</FirstName>
+               <MiddleName>Renee</MiddleName>
+               <DOB>12/25/1968 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Kernan</LastName>
+               <FirstName>Christine</FirstName>
+               <MiddleName>Renee</MiddleName>
+               <DOB>12/25/1968 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>16512</StreetNumber>
+               <StreetName>Sabillasville</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Sabillasville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21780</Zip5>
+               <Zip4>9512</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.4528748</Longitude>
+               <Latitude>39.6873723</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>310</PhonePrefix>
+               <PhoneSuffix>6069</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>53</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>288666</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Kernan</LastName>
+               <FirstName>Michael</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>04/16/1969 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Kernan</LastName>
+               <FirstName>Michael</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>04/16/1969 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>16512</StreetNumber>
+               <StreetName>Sabillasville</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Sabillasville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21780</Zip5>
+               <Zip4>9512</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.4528748</Longitude>
+               <Latitude>39.6873723</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>509</PhonePrefix>
+               <PhoneSuffix>6900</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

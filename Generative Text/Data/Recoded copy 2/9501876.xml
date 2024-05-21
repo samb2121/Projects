@@ -1,0 +1,169 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>10/20/2023 20:17:00</ReportDate>
+   <StartDate>10/20/2023 19:43:00</StartDate>
+   <Summary>I responded to Calvert County Southern Middle School and arrested a male for MDOP.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Criminal Trespass</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>MDOP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>227322</AddressId>
+      <Address>
+         <AddressId>227322</AddressId>
+         <StreetNumber>9615</StreetNumber>
+         <StreetName>Hg trueman</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Lusby</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20657</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.446738</Longitude>
+         <Latitude>38.405735</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>SOUTHERN MIDDLE SCHOOL</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Brill</LastName>
+            <FirstName>Dustin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Hunt</LastName>
+            <FirstName>Kemery</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Pilkerton</LastName>
+            <FirstName>John</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Snyder</LastName>
+            <FirstName>Colby</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>3 4030</OffenseCode>
+         <PlaceCode>School-Elementary/Secondary</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>3 4030</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>7 5707</OffenseCode>
+         <PlaceCode>School-Elementary/Secondary</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>7 5707</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>32</ApproxAge>
+         <ResidentStatusCode>Unknown</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>390933</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Other Ethnicity/National Origin</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Arnold</LastName>
+               <FirstName>Clay</FirstName>
+               <MiddleName>Thomas</MiddleName>
+               <DOB>01/19/1991 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Arnold</LastName>
+               <FirstName>Clay</FirstName>
+               <MiddleName>Thomas</MiddleName>
+               <DOB>01/19/1991 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>17476 </StreetNumber>
+               <StreetName>Piney Point</StreetName>
+               <SubNumber>A3</SubNumber>
+               <City>Piney Point </City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20674</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.511473</Longitude>
+               <Latitude>38.147779</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240020188</BusinessNumber>
+         <BusinessName>Middleham Chapel</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentBusiness>
+         <BusinessNumber>240020189</BusinessNumber>
+         <BusinessName>Calvert County Southern Middle School</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>4</RoleCode>
+         <StatusCode>4</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>WINDOW</PropertyTypeCode>
+         <PropertyValue>5000</PropertyValue>
+         <Value>5000</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>255580</Property_ID>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>4</RoleCode>
+         <StatusCode>4</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>DOOR</PropertyTypeCode>
+         <PropertyValue>5000</PropertyValue>
+         <Value>5000</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>255581</Property_ID>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>4</RoleCode>
+         <StatusCode>4</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>DOOR</PropertyTypeCode>
+         <PropertyValue>5000</PropertyValue>
+         <Value>5000</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>255582</Property_ID>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

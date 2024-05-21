@@ -1,0 +1,201 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>04/09/2023 19:33:00</ReportDate>
+   <StartDate>04/09/2023 19:03:00</StartDate>
+   <Summary>Theft of electric bicycles.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>297183</AddressId>
+      <Address>
+         <AddressId>297183</AddressId>
+         <StreetNumber>1103</StreetNumber>
+         <StreetName>Lake</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Salisbury</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21801</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.602099</Longitude>
+         <Latitude>38.381521</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Pardoe</LastName>
+            <FirstName>Mary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Norfolk</LastName>
+            <FirstName>Wyatt</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 0622 6F</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0622 6F</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>47</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>373977</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Dona</LastName>
+               <FirstName>King</FirstName>
+               <MiddleName>God</MiddleName>
+               <DOB>12/05/1975 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Dona</LastName>
+               <FirstName>King</FirstName>
+               <MiddleName>God</MiddleName>
+               <DOB>12/05/1975 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1103</StreetNumber>
+               <StreetName>Lake</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21801</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.602099</Longitude>
+               <Latitude>38.381521</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>831</PhonePrefix>
+               <PhoneSuffix>4114</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Electric scooter with seat</Description>
+         <PropertyTypeCode>MOTOR SCOOTER</PropertyTypeCode>
+         <PropertyValue>500</PropertyValue>
+         <Value>500</Value>
+         <SerialNumber>Unknown</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247044</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>Unknown</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Electric Bicycle</Description>
+         <PropertyTypeCode>BICYCLE</PropertyTypeCode>
+         <PropertyValue>450</PropertyValue>
+         <Value>450</Value>
+         <SerialNumber>Unknown</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247045</Property_ID>
+         <PrimaryColor>WHI</PrimaryColor>
+         <SecondaryColor>LGR</SecondaryColor>
+         <Make>Nakto</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Pedal Bicycle </Description>
+         <PropertyTypeCode>BICYCLE</PropertyTypeCode>
+         <PropertyValue>50</PropertyValue>
+         <Value>50</Value>
+         <SerialNumber>Unknown</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247046</Property_ID>
+         <PrimaryColor>LBL</PrimaryColor>
+         <SecondaryColor>LBL</SecondaryColor>
+         <Make>Unknown</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Pardoe</LastName>
+            <FirstName>Mary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Norfolk</LastName>
+            <FirstName>Wyatt</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mareck</LastName>
+            <FirstName>Keven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Norfolk</LastName>
+            <FirstName>Wyatt</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mareck</LastName>
+            <FirstName>Keven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Norfolk</LastName>
+            <FirstName>Wyatt</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

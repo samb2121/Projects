@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-037591</IncidentReportNum>
+   <AgencyCode>61</AgencyCode>
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>10/25/2023 23:10:00</ReportDate>
+   <ReportTime>10/25/2023 23:10:00</ReportTime>
+   <StartDate>10/25/2023 22:52:00</StartDate>
+   <StartTime>10/25/2023 22:52:00</StartTime>
+   <Summary>Two motor vehicle property damage collision.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>10/25/2023 23:10:22</CreatorDate>
+   <UpdatorId>MSP6327</UpdatorId>
+   <UpdatorDate>10/27/2023 03:14:39</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>685454</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>10/25/2023 23:10:24</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>10/26/2023 01:00:46</UpdatorDate>
+      <Address>
+         <AddressId>685454</AddressId>
+         <StreetDirCode>S</StreetDirCode>
+         <StreetName>CAPITAL BELTWAY</StreetName>
+         <StreetTypeCode>HWY</StreetTypeCode>
+         <City>Largo</City>
+         <StateCode>MD</StateCode>
+         <Zip5>20774</Zip5>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>DR</CrossStreetTypeCode>
+         <Longitude>-76.8496479</Longitude>
+         <Latitude>38.9104382</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>10/25/2023 23:10:20</SuppReportDate>
+      <SuppReportTime>10/25/2023 23:10:20</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>61</SuppAgencyCode>
+      <DsIcrDate>10/27/2023 03:14:38</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>10/25/2023 23:10:23</CreatorDate>
+      <UpdatorId>MSP6327</UpdatorId>
+      <UpdatorDate>10/27/2023 03:14:39</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>ACRS submitted on Delta Plus.</NarrativeText>
+         <CreatorId>MSP7676</CreatorId>
+         <CreatorDate>10/26/2023 01:01:08</CreatorDate>
+         <UpdatorId>MSP7676</UpdatorId>
+         <UpdatorDate>10/26/2023 01:01:08</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>61</AgencyCode>
+            <ORINumber>MDMSP5600</ORINumber>
+            <LastName>York</LastName>
+            <FirstName>Michael</FirstName>
+            <InternalID>6327</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>61</AgencyCode>
+            <ORINumber>MDMSP5600</ORINumber>
+            <LastName>Smalls</LastName>
+            <FirstName>Samuel</FirstName>
+            <InternalID>7676</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

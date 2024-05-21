@@ -1,0 +1,84 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>04/26/2023 13:48:00</ReportDate>
+   <StartDate>04/26/2023 13:17:00</StartDate>
+   <Summary>Driver voluntarily agreed to a search of his vehicle.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>SR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>2788</AddressId>
+      <Address>
+         <AddressId>2788</AddressId>
+         <StreetName>NB 95 S/O RT 32</StreetName>
+         <City>Jessup</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20794</Zip5>
+         <CountryCode>United States of America</CountryCode>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Young</LastName>
+            <FirstName>Donte</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Updegraff</LastName>
+            <FirstName>Justin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Tenney</LastName>
+            <FirstName>Dylan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>46</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>375438</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Shangoniyi</LastName>
+               <FirstName>Gabriel</FirstName>
+               <DOB>10/01/1976 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Shangoniyi</LastName>
+               <FirstName>Gabriel</FirstName>
+               <DOB>10/01/1976 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>6313</StreetNumber>
+               <StreetName>Monika</StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>810</SubNumber>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21207</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.73733</Longitude>
+               <Latitude>39.30373</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

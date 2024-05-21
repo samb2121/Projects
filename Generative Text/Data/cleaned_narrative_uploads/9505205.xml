@@ -1,0 +1,104 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-035019</IncidentReportNum>
+   <AgencyCode>40I</AgencyCode>
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>10/05/2023 21:27:00</ReportDate>
+   <ReportTime>10/05/2023 21:27:00</ReportTime>
+   <StartDate>10/05/2023 16:43:00</StartDate>
+   <StartTime>10/05/2023 16:43:00</StartTime>
+   <Summary>Vehicle search</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>10/05/2023 21:27:43</CreatorDate>
+   <UpdatorId>MSP6037</UpdatorId>
+   <UpdatorDate>10/19/2023 13:30:19</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>SR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>MOUNT AETNA RD/ EASTERN BLVD S</IncAddrComment>
+      <AddressId>709100</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>10/05/2023 21:27:44</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>10/10/2023 14:56:23</UpdatorDate>
+      <Address>
+         <AddressId>709100</AddressId>
+         <StreetName>Mount Aetna</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Hagerstown</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>BLVD</CrossStreetTypeCode>
+         <CrossStreetSuffixCode>S</CrossStreetSuffixCode>
+         <Longitude>-77.71114</Longitude>
+         <Latitude>39.63122</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>900-959 MOUNT AETNA RD / 450-498 EASTERN BLVD S</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>10/05/2023 21:27:40</SuppReportDate>
+      <SuppReportTime>10/05/2023 21:27:40</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1700</SecurityLevel>
+      <SuppAgencyCode>40I</SuppAgencyCode>
+      <DsIcrDate>10/19/2023 13:30:19</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>10/05/2023 21:27:43</CreatorDate>
+      <UpdatorId>MSP6037</UpdatorId>
+      <UpdatorDate>10/19/2023 13:30:19</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Vehicle search report completed on Delta Plus System</NarrativeText>
+         <CreatorId>MSP5950</CreatorId>
+         <CreatorDate>10/10/2023 14:56:46</CreatorDate>
+         <UpdatorId>MSP5950</UpdatorId>
+         <UpdatorDate>10/10/2023 14:56:46</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>64</AgencyCode>
+            <ORINumber>MDMSP2200</ORINumber>
+            <LastName>Thompson</LastName>
+            <FirstName>David</FirstName>
+            <InternalID>3053</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>40J</AgencyCode>
+            <ORINumber>MDMSP9800</ORINumber>
+            <LastName>Deaner</LastName>
+            <FirstName>Douglas</FirstName>
+            <InternalID>5830</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>40I</AgencyCode>
+            <ORINumber>MDMSP9800</ORINumber>
+            <LastName>Buck</LastName>
+            <FirstName>Theodore</FirstName>
+            <InternalID>6037</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>40I</AgencyCode>
+            <ORINumber>MDMSP9800</ORINumber>
+            <LastName>West</LastName>
+            <FirstName>Thomas</FirstName>
+            <InternalID>5950</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

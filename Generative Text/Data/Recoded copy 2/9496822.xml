@@ -1,0 +1,93 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>02/27/2023 01:34:00</ReportDate>
+   <StartDate>01/30/2023 04:05:00</StartDate>
+   <Summary>Traffic stop</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>I/L 695 @ EXIT 34</IncAddrComment>
+      <AddressId>685643</AddressId>
+      <City>MDC103</City>
+      <Address>
+         <AddressId>685643</AddressId>
+         <StreetName>I/L 695 @ Exit 34</StreetName>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Twardowski</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Thoren</LastName>
+            <FirstName>Ashley</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>370333</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Franklin</LastName>
+               <FirstName>Melford</FirstName>
+               <MiddleName>Thomas</MiddleName>
+               <DOB>02/18/1986 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Franklin</LastName>
+               <FirstName>Melford</FirstName>
+               <MiddleName>Thomas</MiddleName>
+               <DOB>02/18/1986 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>701</StreetNumber>
+               <StreetName>Wedeman</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Linthicum Heights</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21090</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.657165</Longitude>
+               <Latitude>39.221101</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>150362</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>3C6UR5JL8LG297135</VIN>
+         <VehicleYear>2020</VehicleYear>
+         <VehicleMakeCode>DODGE(DODG)</VehicleMakeCode>
+         <VehicleModelCode>R1500</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>2EL8415</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

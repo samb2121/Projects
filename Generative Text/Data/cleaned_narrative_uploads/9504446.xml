@@ -1,0 +1,83 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-030505</IncidentReportNum>
+   <AgencyCode>56</AgencyCode>
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>08/30/2023 07:32:00</ReportDate>
+   <ReportTime>08/30/2023 07:32:00</ReportTime>
+   <StartDate>08/30/2023 07:30:00</StartDate>
+   <StartTime>08/30/2023 07:30:00</StartTime>
+   <Summary>Injured Deer/ Firearms Discharge</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>08/30/2023 07:32:43</CreatorDate>
+   <UpdatorId>MSP2927</UpdatorId>
+   <UpdatorDate>10/02/2023 13:03:23</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>FD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>STOTTLEMYER RD/ GARFIELD RD</IncAddrComment>
+      <AddressId>705406</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>08/30/2023 07:32:44</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>08/30/2023 23:25:22</UpdatorDate>
+      <Address>
+         <AddressId>705406</AddressId>
+         <StreetName>Stottlemyer</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Smithsburg</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-77.52234</Longitude>
+         <Latitude>39.60409</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>13500-13619 STOTTLEMYER RD / 4000-4299 GARFIELD RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>08/30/2023 07:32:41</SuppReportDate>
+      <SuppReportTime>08/30/2023 07:32:41</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>56</SuppAgencyCode>
+      <DsIcrDate>10/02/2023 13:03:23</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>08/30/2023 07:32:43</CreatorDate>
+      <UpdatorId>MSP2927</UpdatorId>
+      <UpdatorDate>10/02/2023 13:03:23</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Narrative:     On August 30th, 2023, at approximately 0730 hours, I, Cpl. McCarty assigned to the Maryland State Police Westminster Barrack, was leaving my scheduled tour of duty. I was traveling on Stottlemyer Rd. in the area of Garfield Rd., in Frederick County MD, when I observed an injured deer in the southbound lane of Stottlemyer Rd.. I did not observe any vehicles with the deer. I activated my rear emergency lights and notified the Maryland State Police Frederick Barrack of the situation. I then discharged one round from my agency issued Glock 17, S/N BUGN990, to relieve the injured deer of its suffering.    All events occurred in Frederick County, MD.    Incident closed. </NarrativeText>
+         <CreatorId>MSP6579</CreatorId>
+         <CreatorDate>08/30/2023 23:45:01</CreatorDate>
+         <UpdatorId>MSP6579</UpdatorId>
+         <UpdatorDate>08/30/2023 23:45:16</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>56</AgencyCode>
+            <ORINumber>MDMSP0200</ORINumber>
+            <LastName>Smith</LastName>
+            <FirstName>Dale</FirstName>
+            <InternalID>2927</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>56</AgencyCode>
+            <ORINumber>MDMSP0200</ORINumber>
+            <LastName>McCarty</LastName>
+            <FirstName>Cade</FirstName>
+            <InternalID>6579</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

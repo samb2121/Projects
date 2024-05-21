@@ -1,0 +1,164 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5400</ORINum>
+   <ReportDate>01/24/2023 17:15:00</ReportDate>
+   <StartDate>01/14/2023 15:00:00</StartDate>
+   <EndDate>01/24/2023 14:00:00</EndDate>
+   <Summary>An unknown suspect stole the victim's trailer registration plate.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>681680</AddressId>
+      <City>MDC184</City>
+      <Address>
+         <AddressId>681680</AddressId>
+         <StreetNumber>21620</StreetNumber>
+         <StreetName>Abells Wharf</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Leonardtown</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20650</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.645309</Longitude>
+         <Latitude>38.260547</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Murphy</LastName>
+            <FirstName>Shawn</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Buglio</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0521</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>47</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>367096</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Abell</LastName>
+               <FirstName>George</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>02/12/1975 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Abell</LastName>
+               <FirstName>George</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>02/12/1975 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>23314</StreetNumber>
+               <StreetName>Shady Mile</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>California</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20619</Zip5>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>481</PhonePrefix>
+               <PhoneSuffix>2102</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>17</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>367097</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Abell</LastName>
+               <FirstName>Tyler</FirstName>
+               <MiddleName>Joseph</MiddleName>
+               <DOB>09/28/2005 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Abell</LastName>
+               <FirstName>Tyler</FirstName>
+               <MiddleName>Joseph</MiddleName>
+               <DOB>09/28/2005 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>23314</StreetNumber>
+               <StreetName>Shady Mile</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>California</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20619</Zip5>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>481</PhonePrefix>
+               <PhoneSuffix>2102</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>149071</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>21810</VIN>
+         <VehicleYear>1961</VehicleYear>
+         <VehicleMakeCode>COX TRAILERS(COXS)</VehicleMakeCode>
+         <VehicleTypeCode>Trailer/RVs</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>875221G</VehicleLicNumber>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>LICENSE PLATE</PropertyTypeCode>
+         <PropertyValue>20</PropertyValue>
+         <Value>20</Value>
+         <SerialNumber>875221G</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>242147</Property_ID>
+         <PrimaryColor>WHI</PrimaryColor>
+         <SecondaryColor>MUL/COL</SecondaryColor>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

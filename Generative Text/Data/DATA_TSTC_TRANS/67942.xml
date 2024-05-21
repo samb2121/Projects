@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2014ISP0000575</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>11/05/2014 11:14:00</ReportDate>
+   <ReportTime>11/05/2014 11:14:00</ReportTime>
+   <StartDate>11/05/2014 11:14:00</StartDate>
+   <StartTime>11/01/2014 11:14:00</StartTime>
+   <Summary>security too high</Summary>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>11/05/2014 11:14:40</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:34</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CAD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>325</AddressId>
+      <City>3</City>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>11/05/2014 11:14:59</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>11/05/2014 11:15:04</UpdatorDate>
+      <Address>
+         <AddressId>325</AddressId>
+         <StreetNumber>6145</StreetNumber>
+         <StreetName>System</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>DECATUR</City>
+         <StateCode>MI</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-85.974456</Longitude>
+         <Latitude>42.108097</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>11/05/2014 11:14:40</SuppReportDate>
+      <SuppReportTime>11/05/2014 11:14:40</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>11/13/2014 15:55:37</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>BIGGUY@GMAIL.COM</CreatorId>
+      <CreatorDate>11/05/2014 11:14:40</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:21</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>&amp;nbsp;test</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>11/05/2014 11:16:13</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>11/05/2014 11:16:13</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>2000</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>3-14-1-13</OffenseCode>
+         <PlaceCode>38</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>11/05/2014 11:15:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>3-14-1-13</ArrestChargeCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>11/05/2014 11:16:00</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>11/05/2014 11:16:01</UpdatorDate>
+      </IncidentOffense>
+   </IncidentSupplement>
+</Incident>

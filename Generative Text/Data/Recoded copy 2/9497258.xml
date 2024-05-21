@@ -1,0 +1,174 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>04/14/2023 05:12:00</ReportDate>
+   <StartDate>04/14/2023 04:30:00</StartDate>
+   <Summary>Traffic stop that lead to an arrest and gun seizure.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>FIREARM</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>S/B 495 CAPITAL BELTWAY N/O BRANCH AVENUE TEMPLE HILLS</IncAddrComment>
+      <AddressId>690325</AddressId>
+      <Address>
+         <AddressId>690325</AddressId>
+         <StreetName>SOUTHBOUND I495 NORTH OF BRANCH AVENUE</StreetName>
+         <City>CAMP SPRINGS</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20746</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.911908</Longitude>
+         <Latitude>38.818739</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Stacey</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Skutovas</LastName>
+            <FirstName>Robertas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Floyd</LastName>
+            <FirstName>Shawn</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Ware</LastName>
+            <FirstName>Traevon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 2801</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 2801</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>50</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <ClearMultiArrestCode>C</ClearMultiArrestCode>
+         <Person>
+            <PersonId>374398</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Blount</LastName>
+               <FirstName>Shawn</FirstName>
+               <MiddleName>Raymone</MiddleName>
+               <DOB>02/07/1973 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Blount</LastName>
+               <FirstName>Shawn</FirstName>
+               <MiddleName>Raymone</MiddleName>
+               <DOB>02/07/1973 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <City>VIRGINIA BEACH</City>
+               <StateCode>Virginia</StateCode>
+               <Zip5>23452</Zip5>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>757</PhoneArea>
+               <PhonePrefix>987</PhonePrefix>
+               <PhoneSuffix>0094</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <ResidentStatusCode>Unknown</ResidentStatusCode>
+         <Person>
+            <PersonId>63205</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Unknown</LastName>
+               <FirstName>Unknown</FirstName>
+               <MiddleName>Unknown</MiddleName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Unknown</LastName>
+               <FirstName>Unknown</FirstName>
+               <MiddleName>Unknown</MiddleName>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>Unknown</StreetNumber>
+               <StreetName>Unknown</StreetName>
+               <City>Unknown</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>152007</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>5N1BT3BB1PC752441</VIN>
+         <VehicleYear>2023</VehicleYear>
+         <VehicleMakeCode>NISSAN</VehicleMakeCode>
+         <VehicleModelCode>ROGUE,ROGUE SELECT,ROGUE SPORT</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehicleLicStateCode>VA</VehicleLicStateCode>
+         <VehicleLicNumber>TTD6263</VehicleLicNumber>
+         <VehicleValue>31250</VehicleValue>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>5</RoleCode>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <PropertyTypeCode>GUN - HANDGUN</PropertyTypeCode>
+         <PropertyValue>325</PropertyValue>
+         <Value>325</Value>
+         <SerialNumber>DAA003421CA</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247281</Property_ID>
+         <PrimaryColor>SIL</PrimaryColor>
+         <Make>BERETTA</Make>
+         <Model>3032 TOMCAT</Model>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

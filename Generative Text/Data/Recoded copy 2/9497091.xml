@@ -1,0 +1,174 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>03/09/2023 14:49:00</ReportDate>
+   <StartDate>03/08/2023 14:00:00</StartDate>
+   <Summary>Theft of Motor vehicle parts and items within the vehicle.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>THVP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>NB I-95 N/O MD -4</IncAddrComment>
+      <AddressId>686923</AddressId>
+      <City>MDC244</City>
+      <Address>
+         <AddressId>686923</AddressId>
+         <StreetName>I-95</StreetName>
+         <City>Upper Marlboro</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20772</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.868886</Longitude>
+         <Latitude>38.83651</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bowling</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Moguche</LastName>
+            <FirstName>Dennis</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 0622 23G</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0622 23G</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>3 4030</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>3 4030</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>43</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>371220</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>WAINKEM</LastName>
+               <FirstName>EDMOND</FirstName>
+               <MiddleName>ATONGNII</MiddleName>
+               <DOB>06/03/1979 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>WAINKEM</LastName>
+               <FirstName>EDMOND</FirstName>
+               <MiddleName>ATONGNII</MiddleName>
+               <DOB>06/03/1979 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>5495</StreetNumber>
+               <StreetName>Cedar</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <SubNumber>210</SubNumber>
+               <City>Columbia</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21044</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.887634</Longitude>
+               <Latitude>39.220887</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>150731</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>JM1CR29L880325597</VIN>
+         <VehicleYear>2008</VehicleYear>
+         <VehicleMakeCode>MAZDA</VehicleMakeCode>
+         <VehicleModelCode>MAZDA5</VehicleModelCode>
+         <VehicleStyleCode>4T</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>4FC7659</VehicleLicNumber>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehicleValue>4000</VehicleValue>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>SPEAKER</PropertyTypeCode>
+         <PropertyValue>650</PropertyValue>
+         <Value>650</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246798</Property_ID>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>RADIO</PropertyTypeCode>
+         <PropertyValue>750</PropertyValue>
+         <Value>750</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246799</Property_ID>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>ELECTRONIC EQUIP</PropertyTypeCode>
+         <PropertyValue>500</PropertyValue>
+         <Value>500</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246800</Property_ID>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>TELEVISION</PropertyTypeCode>
+         <PropertyValue>700</PropertyValue>
+         <Value>700</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246937</Property_ID>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>6 CAR SEATS, TRANSMISSION PART AND STEERING WHEEL ASSEMBLY PARTS</Description>
+         <PropertyTypeCode>996</PropertyTypeCode>
+         <PropertyValue>1200</PropertyValue>
+         <Value>1200</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246938</Property_ID>
+         <Quantity>6</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

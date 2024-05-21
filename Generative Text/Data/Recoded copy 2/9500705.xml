@@ -1,0 +1,180 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>04/19/2023 12:54:00</ReportDate>
+   <StartDate>04/19/2023 12:51:00</StartDate>
+   <Summary>Theft of property from safe inside residence.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>691281</AddressId>
+      <Address>
+         <AddressId>691281</AddressId>
+         <StreetNumber>7473</StreetNumber>
+         <StreetName>Rachel</StreetName>
+         <StreetTypeCode>Lane</StreetTypeCode>
+         <City>Parsonsburg</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.439163</Longitude>
+         <Latitude>38.395272</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mareck</LastName>
+            <FirstName>Keven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pilchard</LastName>
+            <FirstName>Bailey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 0622 23D</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>64</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>375060</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Mosely</LastName>
+               <FirstName>Randy</FirstName>
+               <MiddleName>Keith</MiddleName>
+               <DOB>07/06/1958 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Mosely</LastName>
+               <FirstName>Randy</FirstName>
+               <MiddleName>Keith</MiddleName>
+               <DOB>07/06/1958 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>31</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>1577</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Murray</LastName>
+               <FirstName>Amber</FirstName>
+               <MiddleName>Lyne Marie</MiddleName>
+               <DOB>03/06/1992 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Murray</LastName>
+               <FirstName>Amber</FirstName>
+               <MiddleName>Lyne Marie</MiddleName>
+               <DOB>03/06/1992 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>34572</StreetNumber>
+               <StreetName>Pitts </StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Pittsville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21850</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.412805</Longitude>
+               <Latitude>38.392871</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>359</PhonePrefix>
+               <PhoneSuffix>6006</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Mosely advised that the titles to three S10 pickup trucks were taken, but not the trucks themselves.</Description>
+         <PropertyTypeCode>DOCUMENT</PropertyTypeCode>
+         <PropertyValue>1</PropertyValue>
+         <Value>1</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247592</Property_ID>
+         <Make>Chevy</Make>
+         <Model>S10</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Life Insurance Policy, Mosley stated that his policy is for $25,000.</Description>
+         <PropertyTypeCode>DOCUMENT</PropertyTypeCode>
+         <PropertyValue>1</PropertyValue>
+         <Value>1</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247593</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Diamond Ring. Mosley claimed he purchased the ring for $1100.</Description>
+         <PropertyTypeCode>JEWELRY</PropertyTypeCode>
+         <PropertyValue>1100</PropertyValue>
+         <Value>1100</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247594</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Diamond Ring #2. Mosley stated that he purchased this ring for $2500.</Description>
+         <PropertyTypeCode>JEWELRY</PropertyTypeCode>
+         <PropertyValue>2500</PropertyValue>
+         <Value>2500</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247595</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

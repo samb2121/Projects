@@ -1,0 +1,151 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2300</ORINum>
+   <ReportDate>08/10/2023 12:38:00</ReportDate>
+   <StartDate>08/01/2023 00:00:00</StartDate>
+   <EndDate>08/10/2023 00:00:00</EndDate>
+   <Summary>Fraudulent check</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>51299</AddressId>
+      <Address>
+         <AddressId>51299</AddressId>
+         <StreetNumber>24586</StreetNumber>
+         <StreetName>GARRETT</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <City>MC HENRY</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21541</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-79.3582825381282</Longitude>
+         <Latitude>39.56214173638356</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>SHOP AND SAVE</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>BEAR CREEK TRADERS</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>MARKET SQUARE PLAZA</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>MARKET SQUARE PLAZA  / DEEP CREEK FITNESS</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>DEEP CREEK SHOP &amp; SAVE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bond</LastName>
+            <FirstName>Brett</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Ervin</LastName>
+            <FirstName>Darian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Inactive</OffenseStatusCode>
+         <OffenseCode>1 1135_AOL</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1135_AOL</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>59</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>291298</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Shaffer</LastName>
+               <FirstName>Leisa</FirstName>
+               <MiddleName>Ann</MiddleName>
+               <DOB>05/10/1964 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Shaffer</LastName>
+               <FirstName>Leisa</FirstName>
+               <MiddleName>Ann</MiddleName>
+               <DOB>05/10/1964 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>64</StreetNumber>
+               <StreetName>Moose</StreetName>
+               <StreetTypeCode>Crossing</StreetTypeCode>
+               <City>Oakland</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21550</Zip5>
+               <Zip4>4247</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-79.3372483</Longitude>
+               <Latitude>39.4463371</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>387</PhonePrefix>
+               <PhoneSuffix>2380</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240019996</BusinessNumber>
+         <BusinessName>Legacy Homes Corporation</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>608019</AddressId>
+            <StreetNumber>24586</StreetNumber>
+            <StreetName>Garrett</StreetName>
+            <StreetTypeCode>Highway</StreetTypeCode>
+            <City>McHenry</City>
+            <StateCode>Maryland</StateCode>
+            <Zip5>21541</Zip5>
+            <CountryCode>United States of America</CountryCode>
+            <CountyCode>NaN</CountyCode>
+            <Longitude>-79.3565</Longitude>
+            <Latitude>39.563001</Latitude>
+            <BusinessPhone>
+               <PhoneTypeCode>Business</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>387</PhonePrefix>
+               <PhoneSuffix>8451</PhoneSuffix>
+               </BusinessPhone>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>O</DocumentTypeCode>
+         <Description>Business check</Description>
+         <PropertyTypeCode>CHECK/BOND NEGOT</PropertyTypeCode>
+         <PropertyValue>31.85</PropertyValue>
+         <Value>31.85</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>252803</Property_ID>
+         <AccountName>Legacy Home Corporation</AccountName>
+         <AccountNumber>3.79140521009874E14</AccountNumber>
+         <Amount>31348.19</Amount>
+         <Bank>First United Bank and Trust</Bank>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

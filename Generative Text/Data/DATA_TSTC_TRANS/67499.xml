@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2012ISP0000008</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>05/10/2012 19:03:00</ReportDate>
+   <ReportTime>05/10/2012 19:03:00</ReportTime>
+   <StartDate>05/09/2012 19:03:00</StartDate>
+   <StartTime>05/01/2012 19:03:00</StartTime>
+   <Summary>Citizen's Arrest Incident Report test</Summary>
+   <CreatorId>NANCY.STROUD@INTERACT911.COM</CreatorId>
+   <CreatorDate>05/10/2012 16:03:25</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:19</UpdatorDate>
+   <IncidentAddress>
+      <AddressId>19</AddressId>
+      <City>1</City>
+      <CreatorId>C_ADMIN</CreatorId>
+      <CreatorDate>05/10/2012 16:08:31</CreatorDate>
+      <UpdatorId>C_ADMIN</UpdatorId>
+      <UpdatorDate>10/02/2012 13:51:14</UpdatorDate>
+      <Address>
+         <AddressId>19</AddressId>
+         <StreetNumber>52400</StreetNumber>
+         <StreetDirCode>E</StreetDirCode>
+         <StreetName>County Road 17</StreetName>
+         <City>Bristol</City>
+         <StateCode>IN</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-85.888474</Longitude>
+         <Latitude>41.732221</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>ANG TEST</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>05/10/2012 16:03:26</SuppReportDate>
+      <SuppReportTime>05/10/2012 16:03:26</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>08/01/2012 12:56:02</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_DET3</CreatorId>
+      <CreatorDate>05/10/2012 16:03:26</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:12</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Donut Conspiracy</NarrativeTitle>
+         <NarrativeText>&lt;p&gt;Suspect and accomplices held a conspiracy meeting in the woods just outside of town. Apparently, they really like donuts and are planning on pooling their money to buy the entire stock of the local donut shop.&lt;/p&gt;</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>05/11/2012 13:33:53</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>05/11/2012 13:36:18</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>OFFICER</LastName>
+            <FirstName>JOHN</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>532</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-41-5-2</OffenseCode>
+         <PlaceCode>10</PlaceCode>
+         <BiasCode>11</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>05/10/2012 17:03:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>35-41-5-2</ArrestChargeCode>
+         <CreatorId>C_ADMIN</CreatorId>
+         <CreatorDate>05/10/2012 16:21:28</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/02/2013 18:21:29</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>57</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>C_ADMIN</CreatorId>
+         <CreatorDate>05/10/2012 16:54:12</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:11</UpdatorDate>
+         <Person>
+            <PersonId>44</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Joe</LastName>
+               <FirstName>Cannon</FirstName>
+               <DOB>01/01/1955 00:00:00</DOB>
+               <DateOfInfo>03/16/2012 09:30:39</DateOfInfo>
+               <SLastName>J000</SLastName>
+               <SFirstName>C550</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Joe</LastName>
+               <FirstName>Cannon</FirstName>
+               <DOB>01/01/1955 00:00:00</DOB>
+               <SLastName>J000</SLastName>
+               <SFirstName>C550</SFirstName>
+               <DateOfInfo>03/16/2012 09:30:39</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>C_ADMIN</CreatorId>
+            <CreatorDate>05/10/2012 16:54:12</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:16</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>C_ADMIN</CreatorId>
+            <CreatorDate>05/10/2012 16:54:12</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:16</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>05/10/2012 18:36:06</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/10/2017 22:59:54</UpdatorDate>
+         <DateOfInfo>05/10/2012 00:00:00</DateOfInfo>
+         <StatusCode>11</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>702</PropertyTypeCode>
+         <PropertyValue>7000</PropertyValue>
+         <Value>7000</Value>
+         <SerialNumber>80085</SerialNumber>
+         <Evidence>Y</Evidence>
+         <EvidenceFlag>Y</EvidenceFlag>
+         <ExternalEvidenceId>194</ExternalEvidenceId>
+         <Property_ID>357</Property_ID>
+         <PrimaryColor>CAM</PrimaryColor>
+         <SecondaryColor>COM</SecondaryColor>
+         <Make>Texas Instruments</Make>
+         <Model>X96</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

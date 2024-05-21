@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-000661</IncidentReportNum>
+   <AgencyCode>88</AgencyCode>
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>01/06/2023 11:12:00</ReportDate>
+   <ReportTime>01/06/2023 11:12:00</ReportTime>
+   <StartDate>01/06/2023 10:03:00</StartDate>
+   <StartTime>01/06/2023 10:03:00</StartTime>
+   <Summary>Firearms Violation</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>01/06/2023 11:12:31</CreatorDate>
+   <UpdatorId>MSP2338</UpdatorId>
+   <UpdatorDate>01/26/2023 12:39:39</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>FIREARM</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>WORCESTER HWY/ OLD OCEAN CITY BLVD</IncAddrComment>
+      <AddressId>582675</AddressId>
+      <City>MDC108</City>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>01/06/2023 11:12:32</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>01/12/2023 07:48:21</UpdatorDate>
+      <Address>
+         <AddressId>582675</AddressId>
+         <StreetName>Worcester</StreetName>
+         <StreetTypeCode>HWY</StreetTypeCode>
+         <City>Berlin</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>BLVD</CrossStreetTypeCode>
+         <Longitude>-75.210949</Longitude>
+         <Latitude>38.335255</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>SB 113/ 346</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>9636-9730 WORCESTER HWY / 10149-10152 OLD OCEAN CITY BLVD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>SB 113 / OLD OCEAN CITY</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>SB 113 /346</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>SB 113 PRIOR 346</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>SB 113 / 346</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>SHELL GAS</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>9731-9749 WORCESTER HWY / 10136-10148 OLD OCEAN CITY BLVD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>9732-9748 WORCESTER HWY / 10149-10152 OLD OCEAN CITY BLVD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>9721-9729 WORCESTER HWY / 10136-10148 OLD OCEAN CITY BLVD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>01/06/2023 11:12:27</SuppReportDate>
+      <SuppReportTime>01/06/2023 11:12:27</SuppReportTime>
+      <AgencyOnly>Y</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>88</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>01/20/2023 12:36:05</DsIcrDate>
+      <DsIcrSubmissionStatus>PROCESS COMPLETE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>01/06/2023 11:12:31</CreatorDate>
+      <UpdatorId>TAMI.ANDREASSEN@INTERACT911.COM</UpdatorId>
+      <UpdatorDate>02/16/2023 12:23:00</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>&lt;meta charset="utf-8" /&gt; &lt;p&gt;&lt;strong&gt;Status: Initial Report&lt;br /&gt; Case Number:&lt;/strong&gt;&amp;nbsp;23-MSP-000661&lt;/p&gt;  &lt;p&gt;The camera system is manufactured by Axon. When the emergency lights are activated in the patrol car or the body-worn camera is manually activated, the camera will go back in time and start the recording&amp;nbsp;&lt;strong&gt;60&lt;/strong&gt;&amp;nbsp;seconds before the emergency lights are activated. This is called a &amp;ldquo;60-second pre-record&amp;rdquo;. The camera system does not have a date and time stamp on the video itself. The system records the date and time in the metadata. The time only records the hour and minute when the camera starts the recording.&lt;/p&gt;  &lt;p&gt;The in-car camera and Axon 3 body-worn camera remain the best depiction of the events surrounding the traffic stop. However, in order to obtain an exact time of a specific event, the reader will have to add the length of duration from the start of the video that was recorded in the metadata. Although times are recorded by other means such as the &amp;ldquo;Delta plus&amp;rdquo; system that prints a time stamp on the warning; a citation or safety equipment repair order this time is only when the traffic stop button is activated by the Trooper. This can sometimes be shortly after making contact with a violator. Other programs such as Caliber RMS incident and CAD reports will show a timestamp, but this time depends on when the Police Communications Officer activates the incident. The two aforementioned examples of the recording of time will almost always be different from the in-car camera system due to all of the systems utilizing different internal clocks.&lt;/p&gt;  &lt;p&gt;&lt;br /&gt; &lt;strong&gt;Introduction:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;This report has been prepared based on the observations of this trooper and/ or those of other troopers relative to the offenses. The facts contained hereinafter are not intended to be an exhaustive recitation of the facts pertaining to this case. Instead, this trooper anticipates that during the pretrial proceedings, in this case, the prosecutor will take the opportunity to interview this trooper in order to ascertain any and all relevant facts which might be the subject of this trooper&amp;#39;s testimony during court proceedings.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Assignment:&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;On 01/06/2023, I S/Tpr Spessato, of the Maryland State Police Pro-Active Criminal Enforcement Team was assigned to patrol Worcester County, Maryland. The Pro-Active Criminal Enforcement Team is a team of specially trained Troopers designed to locate criminals through traffic enforcement. The idea is that Troopers will be aggressive and diligent during their enforcement efforts and conduct the complete traffic stop. The objective is to reduce the number of motor vehicle collisions and to locate criminals.&lt;/p&gt;  &lt;p&gt;&lt;br /&gt; &lt;strong&gt;Narrative:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;On 01/06/2023 at approximately 1001 hours, I S/Tpr Spessato was stationary at RT 113 at Carey Road in the center crossover. At this time, I was monitoring the speed of traffic traveling southbound. I observed a white Ford Fusion traveling in lane one (fast lane) at a speed that appeared to be above the posted 55 mph speed limit. The Fusion influenced my Golden Eagle radar unit at a speed of 75 mph in a posted 55 mph zone. I pulled my unmarked MSP patrol vehicle onto S/B RT 113 and accelerated to catch up to the Fusion. As I caught up to the Fusion in lane one, it immediately changed lanes into lane two. I conducted a traffic stop on the Fusion on S/B RT 113 at Old Ocean City Blvd, Berlin MD. I approached the vehicle on the passenger side and made contact with the occupants. While speaking with the occupants during the course of the traffic stop, I detected a strong odor of Marijuana emanating from the vehicle. A warrant-less probable cause search was then conducted. I recovered two loaded firearms within the vehicle, one of which was reported stolen from Sanford, North Carolina. All three occupants of the Fusion were placed under arrest for various firearms violations. It was discovered all three occupants were prohibited from possessing firearms.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;br /&gt; &lt;strong&gt;The Traffic Stop:&lt;/strong&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;On 01/06/2023 at approximately 1001 hours, I S/Tpr Spessato was stationary at RT 113 at Carey Road in the center crossover. At this time, I was monitoring the speed of traffic traveling southbound. I observed a white Ford Fusion bearing North Carolina registration (KBN4834) traveling in lane one (fast lane) at a speed that appeared to be above the posted 55 mph speed limit. The Fusion influenced my Golden Eagle radar unit at a speed of 75 mph in a posted 55 mph zone. I am a certified radar operator trained by the Maryland State Police. The unit was tested before and after the stop and found to be working properly. I pulled my unmarked MSP patrol vehicle onto S/B RT 113 and accelerated to catch up to the Fusion. As I caught up to the Fusion in lane one, it immediately changed lanes into lane two. I conducted a traffic stop on the Fusion on S/B RT 113 at Old Ocean City Blvd (Rt.346). As the vehicle began to slow down, I observed the Fusion turn on its emergency four-way flashers and jerk the wheel to the left partially in the next lane (lane one) and the driver moving within the vehicle. The vehicle then pulled to the right shoulder and came to a stop. I approached the vehicle on the passenger side and made contact with the occupants. I introduced myself and advised the occupants of the reason for the stop. I observed the rear seat passenger appeared to be sleeping as his eyes were closed and his head was resting against the door panel. I observed the front seat passenger also appear to be sleeping as he placed his head against the headrest and partially close his eyes. I identified the driver as Damion A&amp;rsquo;marion Massenburg (DOB 06/30/2002). Upon asking the driver for the registration, the front-seat passenger advised the vehicle was registered to his mother. I asked the front seat passenger if he had any identification and he advised no. I asked the driver where they were coming from and the front seat passenger advised New York and that they were at a funeral. As the passenger continued to look for the registration and insurance information, I asked the driver to exit the vehicle and speak with me, to which he complied. As I met the driver at the rear of the car, I asked if I could pat him down for weapons and he advised, Yes I could. I conducted a pat down which was negative for any weapons.&lt;br /&gt; &lt;br /&gt; While outside the vehicle, I verified the driver&amp;#39;s address and information on the vehicle. I asked the driver where they were coming from and he advised Brooklyn. He further stated he is friends with the other occupants of the vehicle and that it was the front seat passenger&amp;#39;s grandmother that had passed. I then returned to my vehicle to conduct the appropriate license and registration checks. At that time, Cpl. Orndorff arrived on the scene to assist. I informed him of the encounter I had with the occupants and the observations I had made of them. I advised him of the behaviors I observed of the occupants appearing to be sleeping during the stop and the suspicious movements they were making. I asked Cpl. Orndorff to make contact with the occupants and speak to them further. I also requested another unit to assist with the traffic stop. A short time later, Cpl. Orndorff returned to my vehicle and advised the passengers did not have any identifications on them and provided me with the insurance information. He also advised while he was speaking to the occupants, he smelled a strong odor of Marijuana emanating from the vehicle. At that time, TFC Shubert arrived on the scene to assist. I then exited my patrol vehicle and approached the Fusion again to make contact with the occupants. I observed Cpl. Orndorff request the front-seat passenger to exit the vehicle as I approached. As the door opened, I observed the front seat passenger speaking on the telephone and I could smell a strong odor of Marijuana emanating from the vehicle. As Cpl. Orndorff directed the front-seat passenger to the front of my patrol vehicle, I made contact with the rear-seat passenger. I observed he still appeared to be sleeping as his head was resting on his hand against the rear window. I knocked on the window and gained the attention of the rear-seat passenger. As he opened the door, I introduced myself and advised him I was conducting a traffic stop. I again smelled the strong odor of Marijuana emitting from the vehicle. As he exited the vehicle, I observed him have his phone in his hand. I asked if he had any weapons on him and he advised no. I asked if I may pat him down for weapons and he raised his arms and advised, Yes I could. I conducted a pat down which was negative for any weapons. I then directed him to the front of my patrol vehicle with the other two occupants. A probable cause search was then conducted on the vehicle.&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;The Search:&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;While searching the rear passenger area of the vehicle, I located a black jacket on the driver&amp;rsquo;s side rear floor. As I picked up the jacket, I immediately noticed a handgun in the front pocket due to its shape and weight of it. I advised Cpl. Orndorff of what I located and he located another firearm in the passenger seat rear storage compartment. Both myself and Cpl. Orndorff made contact with the occupants and placed them in handcuffs to be detained. I made contact with the front seat passenger and advised him he was being detained due to several firearms being located within the vehicle. He immediately stated one is registered to my mother. Both Cpl. Orndorff and I returned to the vehicle to complete the search. I returned to the jacket and weapon and identified it to be a black Taurus G2C 9mm semi-auto handgun serial number (ACH200365) containing a loaded magazine with (9) 9mm rounds with one loaded 9mm round in the firing chamber. I unloaded the weapon and made it safe. Cpl. Orndorff located a black Glock 26 9mm semi-automatic handgun serial number (BGCT200), loaded with (11) 9mm bullets in the magazine of the gun. An NCIC check was conducted on both weapons which revealed the Glock handgun was reported stolen from the Sanford Police Department in the State of North Carolina on 09/14/2022. While the search was being conducted, TFC Shubert attempted to obtain the other passenger&amp;#39;s name/date of birth. I located a metal tray on the driver&amp;rsquo;s side rear floorboard which was under the jacket containing the firearm. The tray had a lighter, a pack of rolling paper, and loose tobacco on it. Also located was a small bag that displayed a Marijuana leaf on it. The bag contained tobacco left within it. The tray emitted a strong odor of Marijuana as it appeared to be used to prepare Marijuana for smoking. While searching the trunk of the Fusion, I located several bags of athletic clothes and shoes, none which were consistent with attending a funeral. Within one of the bags, I located a black three hole beanie/ski mask. Cpl. Orndorff located a North Carolina identification card in the front glove box displaying Deshawn Kamel-Letier Taylor (DOB 07/03/1997) which was identified to belong to the front seat passenger. I took several photographs of the weapons inside the vehicle. TFC Shubert began to run several checks of the rear seat passenger with the names he provided, however, no returns were being given under the names. Cpl. Converse with the Worcester County Sheriff&amp;rsquo;s Office arrived on the scene to assist as well. With the assistance of Cpl Converse and TFC Shubert, the rear seat passenger was identified as Kyric Timothy Cowell (DOB 08/08/2001). An NCIC check of Cowell revealed he was currently wanted by the Portsmouth Police Department in Virginia for an FTA bench warrant for the destruction of property. The warrant is a misdemeanor and not extraditable in the State of Maryland. After securing the weapons and obtaining the proper identification of all occupants, I again made contact with the driver (Massenburg). Cpl. Orndorff conducted a search of him and directed him to the rear of my patrol vehicle away from the other occupants. I advised him that I would be reading him his Miranda rights and he said he has heard them before and was familiar with them. I advised him if he elected to speak to me, he would be doing so voluntarily but could stop at any time. I then read Massenburg his Miranda rights in their entirety to him. After reading Miranda, I asked if he understood and he advised yes. He immediately stated he doesn&amp;#39;t know anything about it and was coming from New York. I advised him I located the two loaded weapons and asked if he knew anything about them. He first advised no but then said well I know the one is his moms because I know that&amp;#39;s his mom&amp;#39;s car, referring to the front seat passenger, Taylor. Massenburg then stated, well I think both of them are his moms but didn&amp;rsquo;t know one was stolen and they were present. Massenburg further stated they knew each other from working together and they were traveling from New York from visiting family. I advised him that one of the weapons was reported stolen and he stated he didn&amp;rsquo;t know about that and was just driving. I then spoke with Taylor at the rear of my vehicle separate from the other two occupants. Before speaking with Taylor, he requested his jacket which was in the back seat that contained the loaded Taurus firearm in it. I again read Miranda rights to Taylor and advised him he could voluntarily speak to me if he wish but did not have to. After reading Taylor his rights, I asked if he understood and he advised, Yes. Taylor immediately started speaking about the firearms stating they are registered. I clarified by asking him what was registered and he stated the gun is registered and at the end of the day he is trying to protect himself. He also stated he has been involved with stuff and safety comes first. He further began to advise he has been lied to before and said he isn&amp;#39;t doing anything wrong out there. I then asked about the weapon found in his jacket. He stated it belongs to his mother and he is just trying to get back home. I advised the weapon was loaded in his jacket and he said, Yes, it&amp;#39;s different in North Carolina. I asked if he had a permit to carry the weapon and he said no he did not. He further stated he used to have the paperwork on the first weapon he purchased. I then asked about the stolen Glock firearm and he stated he didn&amp;rsquo;t know and had to speak to his lawyer in reference to that one. He stated he takes ownership of the one in his jacket but not the other one. I then directed Taylor to walk to the front of my patrol vehicle and stand with Massenburg. I then directed Cowell to the rear of my patrol vehicle and read his Miranda rights to him. I asked if he understood his rights and speak about the incident. He immediately stated he doesn&amp;rsquo;t know what happened and was just sleeping in the car. I asked about his warrant and he stated he was aware of the warrant but did not know anything about the firearm that was located directly in front of him. I then directed him back to the front of my patrol vehicle. Cpl. Orndorff then asked the driver Massenburg if he had ever touched the weapon in the passenger seat back and he stated, Yes. Massenburg stated his fingerprints would be on it however it is not his gun. After speaking to all three occupants of the vehicle, I determined all three occupants had knowledge of the firearms and or had direct access to them while traveling in the vehicle for the time frame. Also, due to one of the firearms being reported stolen, all three occupants were placed under arrest and transported to the MSP Berlin Barrack for processing. I transported Massenburg in my vehicle and TFC Shubert along with Cpl. Converse transported the other two occupants.&amp;nbsp;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Post-Arrest Investigation:&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Upon arrival at the Barrack, the Maryland Gun Center was notified of the arrest and provided all the information relating to the suspects and guns seized. The gun center provided the following information. Massenburg was currently prohibited from possessing a firearm due to his age. Taylor is currently prohibited from possessing a firearm due to being convicted of a crime punishable by imprisonment for more than one year. Also, being convicted of a disqualifying crime is classified as a felony. The prohibiting offense is accessory after the fact to assault with a deadly weapon with intent to kill having a conviction date of 05/25/2022. Lastly, Cowell is prohibited from possessing a firearm due to his age and being a fugitive from justice on an outstanding warrant. The warrant is through Portsmouth Sheriff&amp;rsquo;s Office warrant number (740JM2200010553) for damage to public property. The Taurus firearm serial number (ACH200365) contained (9) 9mm rounds with a magazine and was documented on MSP property held number (P-338159). The Glock 26 firearm serial number (BGCT200) contained (11) 9mm rounds with a magazine and was documented on MSP property held number (P-338158). All firearms were processed per MSP policy and sent to the Maryland State Police forensics lab for further processing. While at the barrack, it was learned the Glock firearm was stolen from Sanford, North Carolina on 09/14/2022. Due to the out-of-state Nexis and type of crime, Investigators with Homeland Security Investigations were notified of the case and briefed on the investigation. Two Cellular phones were seized from Taylor and two phones were seized from Cowell pending further investigation.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;While TFC Shubert assisted with fingerprinting all three individuals, I again made contact with Cowell. I directed him to the conference room and provided him with water which he requested. I advised him of his Miranda rights again and asked if he would speak to me again about the case. He stated he did not want to read them again and agreed to speak to me. Cowell stated again he was sleeping and the weapon was not his. Cowell stated they were traveling from New York and stayed in a hotel room. He further asked if someone would take ownership of the weapon, then we would go home. I explained to him the seriousness of the charges. He then advised me he would think about it and if he could contact me later on. I then placed him back in the temporary holding cell with Taylor in cell number two while Massenburg was being held in cell number one.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;A short time later, I heard Taylor shouting from the cell attempting to get my attention. I walked back to the cell area and made contact with him. He asked about his mother and if she would be responding to the Barrack. He further advised Massenburg wanted to speak to me alone about the case. I then went to Massenburg&amp;rsquo;s cell and made contact with him. I asked if he wanted to speak to me and he stated he did. I then directed him to the conference room. TFC Shubert was present during the interview. After sitting Massenburg down, I reminded him of his Miranda rights and asked if he understood which he did. I asked him why he called my attention, and he began to speak to me. He immediately stated the stolen gun was his. I observed him speak in a soft voice and look down and away from me as he told me. I asked him to go over the stop from his position and he stated he was moving around due to him putting his seatbelt on. He advised the gun was in the backseat and it was there the whole time. I then began to question him about the weapon. I asked him where he got the gun from and he could not give me an answer. He advised he didn&amp;rsquo;t know the weapon was stolen. While speaking to him, I observed him putting his head down and rubbing his hair as if he was upset. Massenburg further stated they had the gun for safety reasons and it was not used in New York that he knew of. During the course of the interview, there were multiple extended pauses in which I believe Massenburg wanted to provide further information but did not. I asked him if he was going to take accountability for the weapon and he said, Yes, I will take it. Massenburg stated he didn&amp;rsquo;t want to tell on anyone and knew the front-seat passenger had a history of being violent. I advised Massenburg of the seriousness of the charges and explained to him the process of the arrest. Massenburg provided information that he first saw the weapon at his grandmother&amp;#39;s house but did not know where it came from or how it got back into the vehicle they were traveling in. After the interview, I placed Massenburg back in his cell.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;A short time later, Taylor again called for my attention from the cell. I again provided him with his Miranda rights and asked if he would speak to me which he agreed. He stated he only knew about the weapon he had. He then asked If Massenburg was taking accountability for the stolen weapon. He stated he did not have a criminal history and just wanted to get home. He further advised he was taking the weapon (Taurus handgun) back to North Carolina for his mother.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;br /&gt; All three individuals were seen before the Worcester County District Court Commissioner and held on no bond. At the conclusion of Taylor&amp;#39;s hearing with the Commissioner, he began to voluntarily speak/converse with Cpl. Orndorff. He provided Cpl. Orndorff information on an incident he was involved in with Cowell. He stated Cowell took care of business down in North Carolina for him and that they were &amp;quot;boys&amp;quot;. Taylor further advised he was on probation for the incident and questioned how this case would affect it. I learned the incident was in reference to an assault with a deadly weapon (shooting) Taylor and Cowell were charged with in Wake County, North Carolina. They were later transported to the Worcester County Detention Center for further processing.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;br /&gt; Case closed by arrest.&lt;br /&gt; All events occurred in Worcester County, Maryland.&lt;/p&gt; </NarrativeText>
+         <CreatorId>MSP6085</CreatorId>
+         <CreatorDate>01/17/2023 12:20:20</CreatorDate>
+         <UpdatorId>MSP6085</UpdatorId>
+         <UpdatorDate>01/20/2023 11:11:48</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>88</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Orndorff</LastName>
+            <FirstName>Dana</FirstName>
+            <InternalID>2460</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>96</AgencyCode>
+            <ORINumber>MDMSP4800</ORINumber>
+            <LastName>Harper</LastName>
+            <FirstName>Drew</FirstName>
+            <InternalID>1464</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>96</AgencyCode>
+            <ORINumber>MDMSP4800</ORINumber>
+            <LastName>Shubert</LastName>
+            <FirstName>Cody</FirstName>
+            <InternalID>7062</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>88</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Connolly </LastName>
+            <FirstName>Melissa </FirstName>
+            <InternalID>2338</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>88</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Spessato</LastName>
+            <FirstName>Micah</FirstName>
+            <InternalID>6085</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>490038</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>02</OffenseStatusCode>
+         <OffenseCode>1 5212</OffenseCode>
+         <PlaceCode>13</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>01/06/2023 10:03:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 5212</ArrestChargeCode>
+         <CreatorId>MSP6085</CreatorId>
+         <CreatorDate>01/12/2023 08:19:59</CreatorDate>
+         <UpdatorId>MSP6085</UpdatorId>
+         <UpdatorDate>01/12/2023 08:19:59</UpdatorDate>
+      </IncidentOffense>
+      <IncidentOffense>
+         <IncidentId>490038</IncidentId>
+         <OffenseNumber>2</OffenseNumber>
+         <OffenseStatusCode>02</OffenseStatusCode>
+         <OffenseCode>1 2801</OffenseCode>
+         <PlaceCode>13</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>2</UCRNumber>
+         <OffenseStatusDate>01/06/2023 10:03:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 2801</ArrestChargeCode>
+         <CreatorId>MSP6085</CreatorId>
+         <CreatorDate>01/17/2023 12:28:17</CreatorDate>
+         <UpdatorId>MSP6085</UpdatorId>
+         <UpdatorDate>01/17/2023 12:28:17</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>20</ApproxAge>
+         <ResidentStatusCode>O</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <CreatorId>MSP6085</CreatorId>
+         <CreatorDate>01/12/2023 08:05:30</CreatorDate>
+         <UpdatorId>MSP</UpdatorId>
+         <UpdatorDate>08/01/2023 01:56:03</UpdatorDate>
+         <Person>
+            <PersonId>365835</PersonId>
+            <RaceCode>B</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Massenburg</LastName>
+               <FirstName>Damion</FirstName>
+               <MiddleName>A'Marion</MiddleName>
+               <DOB>06/30/2002 00:00:00</DOB>
+               <DateOfInfo>01/11/2023 10:20:06</DateOfInfo>
+               <SLastName>M251</SLastName>
+               <SFirstName>D550</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Massenburg</LastName>
+               <FirstName>Damion</FirstName>
+               <MiddleName>A'Marion</MiddleName>
+               <DOB>06/30/2002 00:00:00</DOB>
+               <SLastName>M251</SLastName>
+               <SFirstName>D550</SFirstName>
+               <DateOfInfo>01/11/2023 10:20:06</DateOfInfo>
+            </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>919</PhoneArea>
+               <PhonePrefix>338</PhonePrefix>
+               <PhoneSuffix>4465</PhoneSuffix>
+               <DateOfInfo>01/11/2023 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            <CreatorId>MSP6085</CreatorId>
+            <CreatorDate>01/20/2023 11:45:17</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:48:39</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>MSP6085</CreatorId>
+            <CreatorDate>01/20/2023 11:45:17</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:48:39</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>25</ApproxAge>
+         <ResidentStatusCode>O</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <CreatorId>MSP6085</CreatorId>
+         <CreatorDate>01/12/2023 08:07:32</CreatorDate>
+         <UpdatorId>MSP</UpdatorId>
+         <UpdatorDate>08/01/2023 01:56:31</UpdatorDate>
+         <Person>
+            <PersonId>365839</PersonId>
+            <RaceCode>B</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Taylor</LastName>
+               <FirstName>Deshawn</FirstName>
+               <MiddleName>Kamel Letier</MiddleName>
+               <DOB>07/03/1997 00:00:00</DOB>
+               <SSN>1.03867343E8</SSN>
+               <DateOfInfo>01/11/2023 10:48:21</DateOfInfo>
+               <SLastName>T460</SLastName>
+               <SFirstName>D250</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Taylor</LastName>
+               <FirstName>Deshawn</FirstName>
+               <MiddleName>Kamel Letier</MiddleName>
+               <DOB>07/03/1997 00:00:00</DOB>
+               <SSN>1.03867343E8</SSN>
+               <SLastName>T460</SLastName>
+               <SFirstName>D250</SFirstName>
+               <DateOfInfo>01/11/2023 10:48:21</DateOfInfo>
+            </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>919</PhoneArea>
+               <PhonePrefix>819</PhonePrefix>
+               <PhoneSuffix>2399</PhoneSuffix>
+               <DateOfInfo>01/11/2023 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            <CreatorId>MSP6085</CreatorId>
+            <CreatorDate>01/20/2023 11:46:05</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:48:38</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>MSP6085</CreatorId>
+            <CreatorDate>01/20/2023 11:46:05</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:48:38</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>21</ApproxAge>
+         <ResidentStatusCode>O</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <CreatorId>MSP6085</CreatorId>
+         <CreatorDate>01/12/2023 08:08:32</CreatorDate>
+         <UpdatorId>MSP</UpdatorId>
+         <UpdatorDate>08/01/2023 01:56:01</UpdatorDate>
+         <Person>
+            <PersonId>365842</PersonId>
+            <RaceCode>B</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Cowell</LastName>
+               <FirstName>Kyric</FirstName>
+               <MiddleName>Timothy</MiddleName>
+               <DOB>08/08/2001 00:00:00</DOB>
+               <SSN>2.27914829E8</SSN>
+               <DateOfInfo>01/11/2023 11:05:56</DateOfInfo>
+               <SLastName>C400</SLastName>
+               <SFirstName>K620</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Cowell</LastName>
+               <FirstName>Kyric</FirstName>
+               <MiddleName>Timothy</MiddleName>
+               <DOB>08/08/2001 00:00:00</DOB>
+               <SSN>2.27914829E8</SSN>
+               <SLastName>C400</SLastName>
+               <SFirstName>K620</SFirstName>
+               <DateOfInfo>01/11/2023 11:05:56</DateOfInfo>
+            </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>757</PhoneArea>
+               <PhonePrefix>506</PhonePrefix>
+               <PhoneSuffix>1848</PhoneSuffix>
+               <DateOfInfo>01/11/2023 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            <CreatorId>MSP6085</CreatorId>
+            <CreatorDate>01/20/2023 11:44:29</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:48:34</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>MSP6085</CreatorId>
+            <CreatorDate>01/20/2023 11:44:29</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:48:34</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>MSP6085</CreatorId>
+         <CreatorDate>01/12/2023 08:19:59</CreatorDate>
+         <UpdatorId>MSP6085</UpdatorId>
+         <UpdatorDate>01/12/2023 08:19:59</UpdatorDate>
+      </IncidentBusiness>
+      <IncidentBusiness>
+         <BusinessNumber>240019413</BusinessNumber>
+         <BusinessName>Sanford Police Department </BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>MSP6085</CreatorId>
+         <CreatorDate>01/17/2023 12:31:21</CreatorDate>
+         <UpdatorId>MSP6085</UpdatorId>
+         <UpdatorDate>01/17/2023 12:31:21</UpdatorDate>
+      </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>148512</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <CreatorId>MSP6085</CreatorId>
+         <CreatorDate>01/13/2023 09:00:30</CreatorDate>
+         <UpdatorId>MSP6085</UpdatorId>
+         <UpdatorDate>01/13/2023 09:00:30</UpdatorDate>
+         <DateOfInfo>01/11/2023 00:00:00</DateOfInfo>
+         <StatusCode>12</StatusCode>
+         <VIN>3FA6P0HD5GR310867</VIN>
+         <VehicleYear>2016</VehicleYear>
+         <VehicleMakeCode>FORD</VehicleMakeCode>
+         <VehicleModelCode>FUS</VehicleModelCode>
+         <VehicleTypeCode>AT</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehicleLicStateCode>NC</VehicleLicStateCode>
+         <VehicleLicNumber>KBN4834</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>8</VehicleLicMonth>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>5</RoleCode>
+         <CreatorId>MSP6085</CreatorId>
+         <CreatorDate>01/12/2023 08:12:30</CreatorDate>
+         <UpdatorId>MSP6085</UpdatorId>
+         <UpdatorDate>01/20/2023 09:17:07</UpdatorDate>
+         <DateOfInfo>01/12/2023 00:00:00</DateOfInfo>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <PropertyTypeCode>MSPPI</PropertyTypeCode>
+         <PropertyValue>550</PropertyValue>
+         <Value>550</Value>
+         <SerialNumber>BGCT200</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>241359</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>Glock</Make>
+         <Model>G26</Model>
+         <Quantity>1</Quantity>
+         <BarrelLength>3.42</BarrelLength>
+      </IncidentProperty>
+      <IncidentProperty>
+         <CreatorId>MSP6085</CreatorId>
+         <CreatorDate>01/12/2023 08:14:39</CreatorDate>
+         <UpdatorId>MSP6085</UpdatorId>
+         <UpdatorDate>01/12/2023 08:16:24</UpdatorDate>
+         <DateOfInfo>01/12/2023 00:00:00</DateOfInfo>
+         <StatusCode>15</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <PropertyTypeCode>MSPPI</PropertyTypeCode>
+         <PropertyValue>250</PropertyValue>
+         <Value>250</Value>
+         <SerialNumber>ACH200365</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>241360</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>Taurus</Make>
+         <Model>G2C</Model>
+         <Quantity>1</Quantity>
+         <BarrelLength>3.2</BarrelLength>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,165 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2100</ORINum>
+   <ReportDate>05/27/2023 21:50:00</ReportDate>
+   <StartDate>05/27/2023 20:46:00</StartDate>
+   <Summary>A physical altercation occurred between brother and sister.  Both resided in the same building owned by the grandmother.  The home is divided in two units with separate entrance/exit access points.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>347568</AddressId>
+      <Address>
+         <AddressId>347568</AddressId>
+         <StreetNumber>12910</StreetNumber>
+         <StreetName>New Row</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <StreetSuffixCode>NW</StreetSuffixCode>
+         <City>Mount Savage</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-78.88173715176553</Longitude>
+         <Latitude>39.699169817092184</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Diehl</LastName>
+            <FirstName>Dwight</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Diehl</LastName>
+            <FirstName>Dwight</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wilson</LastName>
+            <FirstName>Ersel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared Exceptionally - Victim Refused To Cooperate</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>15</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>379266</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Fazenbaker</LastName>
+               <FirstName>Dresden</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>02/09/2008 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Fazenbaker</LastName>
+               <FirstName>Dresden</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>02/09/2008 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>727</PhonePrefix>
+               <PhoneSuffix>6310</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>20</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>178053</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hager</LastName>
+               <FirstName>Destiny</FirstName>
+               <MiddleName>Ambre</MiddleName>
+               <DOB>08/06/2002 00:00:00</DOB>
+               </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Fazenbaker</LastName>
+               <FirstName>Destiny</FirstName>
+               <MiddleName>Ambre</MiddleName>
+               <DOB>08/06/2002 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hager</LastName>
+               <FirstName>Destiny</FirstName>
+               <MiddleName>Ambre</MiddleName>
+               <DOB>08/06/2002 00:00:00</DOB>
+               </Alias>
+            <Alias>
+               <NameTypeCode>Alias</NameTypeCode>
+               <LastName>Fazenbaker</LastName>
+               <FirstName>Destiny</FirstName>
+               <MiddleName>Ambre</MiddleName>
+               <DOB>08/06/2002 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>12910 </StreetNumber>
+               <StreetName>Upper New Row Road</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Mount Savage</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21545</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>609</PhonePrefix>
+               <PhoneSuffix>9315</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>R</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

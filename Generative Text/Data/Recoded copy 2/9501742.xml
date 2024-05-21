@@ -1,0 +1,116 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>01/22/2024 09:00:00</ReportDate>
+   <StartDate>01/22/2024 07:51:00</StartDate>
+   <Summary>Traffic stop leading to a consent search resulting in a negative search.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>SR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>SOUTHERN MARYLAND BLVD/ N SOLOMONS ISLAND RD</IncAddrComment>
+      <AddressId>245676</AddressId>
+      <Address>
+         <AddressId>245676</AddressId>
+         <StreetName>Route 4</StreetName>
+         <City>Huntingtown</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20639</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.60697</Longitude>
+         <Latitude>38.6602</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>2270-2270 MD-2 / 2150-2268 MD-4</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Collins</LastName>
+            <FirstName>Tyler</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Brill</LastName>
+            <FirstName>Dustin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Snyder</LastName>
+            <FirstName>Colby</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Collins</LastName>
+            <FirstName>Tyler</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>45</ApproxAge>
+         <ResidentStatusCode>Unknown</ResidentStatusCode>
+         <Person>
+            <PersonId>143242</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Vinson</LastName>
+               <FirstName>Ernest</FirstName>
+               <MiddleName>Emanule</MiddleName>
+               <DOB>07/21/1978 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Vinson</LastName>
+               <FirstName>Ernest</FirstName>
+               <MiddleName>Emanule</MiddleName>
+               <DOB>07/21/1978 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3115</StreetNumber>
+               <StreetName>75th</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <SubNumber>202</SubNumber>
+               <City>Hyattsville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20785</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.884458</Longitude>
+               <Latitude>38.928198</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>160901</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>V525234229574</VIN>
+         <VehicleYear>2023</VehicleYear>
+         <VehicleMakeCode>DODGE(DODG)</VehicleMakeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>6FP5128</VehicleLicNumber>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

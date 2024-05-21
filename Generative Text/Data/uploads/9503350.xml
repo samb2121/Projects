@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-008340</IncidentReportNum>
+   <AgencyCode>40G</AgencyCode>
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>03/06/2023 16:51:00</ReportDate>
+   <ReportTime>03/06/2023 16:51:00</ReportTime>
+   <StartDate>03/06/2023 16:50:00</StartDate>
+   <StartTime>03/06/2023 16:50:00</StartTime>
+   <Summary>Recovery of CDS after an un-planned encounter with a CI and the suspect.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>03/06/2023 16:51:55</CreatorDate>
+   <UpdatorId>MSP5228</UpdatorId>
+   <UpdatorDate>05/17/2023 10:36:34</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>DSM</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>PCS</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>5749</AddressId>
+      <SubBeat>531</SubBeat>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>03/06/2023 16:51:56</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>04/14/2023 09:42:22</UpdatorDate>
+      <Address>
+         <AddressId>5749</AddressId>
+         <StreetNumber>1401</StreetNumber>
+         <StreetName>BEL AIR</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>BEL AIR</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <SubBeat>531</SubBeat>
+         <Longitude>-76.38177706785434</Longitude>
+         <Latitude>39.505315450766766</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>MSP BEL AIR BARRACK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>BEL AIR BARRACK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>MSP BEL AIR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>03/06/2023 16:51:51</SuppReportDate>
+      <SuppReportTime>03/06/2023 16:51:51</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1700</SecurityLevel>
+      <SuppAgencyCode>40G</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>05/17/2023 10:36:34</DsIcrDate>
+      <DsIcrSubmissionStatus>PROCESS COMPLETE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>03/06/2023 16:51:55</CreatorDate>
+      <UpdatorId>TAMI.ANDREASSEN@INTERACT911.COM</UpdatorId>
+      <UpdatorDate>05/22/2023 18:30:43</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>See attached Confidential Memorandum.</NarrativeText>
+         <CreatorId>MSP6380</CreatorId>
+         <CreatorDate>04/14/2023 10:06:59</CreatorDate>
+         <UpdatorId>MSP6380</UpdatorId>
+         <UpdatorDate>04/14/2023 10:06:59</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>40G</AgencyCode>
+            <ORINumber>MDMSP9800</ORINumber>
+            <LastName>Hodgin</LastName>
+            <FirstName>Victor</FirstName>
+            <InternalID>5228</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>40G</AgencyCode>
+            <ORINumber>MDMSP9800</ORINumber>
+            <LastName>Surratt</LastName>
+            <FirstName>Derek</FirstName>
+            <InternalID>6380</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>497739</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>04</OffenseStatusCode>
+         <OffenseCode>1 1111</OffenseCode>
+         <PlaceCode>20</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>2</UCRNumber>
+         <OffenseStatusDate>03/06/2023 16:50:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>MSP6380</CreatorId>
+         <CreatorDate>04/14/2023 09:44:26</CreatorDate>
+         <UpdatorId>MSP6380</UpdatorId>
+         <UpdatorDate>04/14/2023 09:52:59</UpdatorDate>
+      </IncidentOffense>
+      <IncidentOffense>
+         <IncidentId>497739</IncidentId>
+         <OffenseNumber>2</OffenseNumber>
+         <OffenseStatusCode>04</OffenseStatusCode>
+         <OffenseCode>1 1119</OffenseCode>
+         <PlaceCode>20</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>03/06/2023 16:50:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>MSP6380</CreatorId>
+         <CreatorDate>04/14/2023 09:52:50</CreatorDate>
+         <UpdatorId>MSP6380</UpdatorId>
+         <UpdatorDate>04/14/2023 09:52:59</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>30</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>MSP6380</CreatorId>
+         <CreatorDate>04/14/2023 09:54:17</CreatorDate>
+         <UpdatorId>MSP</UpdatorId>
+         <UpdatorDate>08/01/2023 01:56:22</UpdatorDate>
+         <Person>
+            <PersonId>241283</PersonId>
+            <RaceCode>B</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>N</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Lewis</LastName>
+               <FirstName>Antwan</FirstName>
+               <MiddleName>Damien</MiddleName>
+               <DOB>10/21/1992 00:00:00</DOB>
+               <SSN>2.15379475E8</SSN>
+               <DateOfInfo>08/09/2019 12:42:43</DateOfInfo>
+               <SLastName>L200</SLastName>
+               <SFirstName>A535</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Lewis</LastName>
+               <FirstName>Hodari</FirstName>
+               <DateOfInfo>01/12/2023 00:00:00</DateOfInfo>
+               <SLastName>L200</SLastName>
+               <SFirstName>H360</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <FirstName>Skoon</FirstName>
+               <DateOfInfo>01/12/2023 00:00:00</DateOfInfo>
+               <SFirstName>S500</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Lewis</LastName>
+               <FirstName>Antwan</FirstName>
+               <MiddleName>Damien</MiddleName>
+               <DOB>10/21/1992 00:00:00</DOB>
+               <SSN>2.15379475E8</SSN>
+               <SLastName>L200</SLastName>
+               <SFirstName>A535</SFirstName>
+               <DateOfInfo>08/09/2019 12:42:43</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Lewis</LastName>
+               <FirstName>Hodari</FirstName>
+               <SLastName>L200</SLastName>
+               <SFirstName>H360</SFirstName>
+               <DateOfInfo>01/12/2023 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <FirstName>Skoon</FirstName>
+               <SFirstName>S500</SFirstName>
+               <DateOfInfo>01/12/2023 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>1401</StreetNumber>
+               <StreetName>Phoenix</StreetName>
+               <StreetTypeCode>ST</StreetTypeCode>
+               <SubNumber>7c</SubNumber>
+               <City>Greenwood</City>
+               <StateCode>SC</StateCode>
+               <Zip5>29646</Zip5>
+               <CountryCode>US</CountryCode>
+               <Longitude>-82.147352</Longitude>
+               <Latitude>34.176362</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>1507</StreetNumber>
+               <StreetName>November</StreetName>
+               <StreetTypeCode>CIR</StreetTypeCode>
+               <SubNumber>202</SubNumber>
+               <City>Silver Spring</City>
+               <StateCode>MD</StateCode>
+               <Zip5>20904</Zip5>
+               <CountryCode>US</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.979731</Longitude>
+               <Latitude>39.044789</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>131</StreetNumber>
+               <StreetName>Comegys</StreetName>
+               <StreetTypeCode>LN</StreetTypeCode>
+               <City>Queenstown</City>
+               <StateCode>MD</StateCode>
+               <Zip5>21658</Zip5>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>202</PhoneArea>
+               <PhonePrefix>993</PhonePrefix>
+               <PhoneSuffix>9171</PhoneSuffix>
+               <DateOfInfo>09/25/2023 00:00:00</DateOfInfo>
+            </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>330</PhonePrefix>
+               <PhoneSuffix>6702</PhoneSuffix>
+               <DateOfInfo>01/12/2023 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>MSP6380</CreatorId>
+            <CreatorDate>04/14/2023 10:04:50</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:48:59</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>MSP6380</CreatorId>
+         <CreatorDate>04/14/2023 09:44:26</CreatorDate>
+         <UpdatorId>MSP6380</UpdatorId>
+         <UpdatorDate>04/14/2023 09:44:26</UpdatorDate>
+      </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <CreatorId>MSP6380</CreatorId>
+         <CreatorDate>04/14/2023 10:06:28</CreatorDate>
+         <UpdatorId>MSP6380</UpdatorId>
+         <UpdatorDate>04/14/2023 10:06:28</UpdatorDate>
+         <DateOfInfo>04/14/2023 00:00:00</DateOfInfo>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>fentanyl tablets</Description>
+         <PropertyTypeCode>560</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247202</Property_ID>
+         <DrugTypeCode>H</DrugTypeCode>
+         <Quantity>40</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <CreatorId>MSP6380</CreatorId>
+         <CreatorDate>04/14/2023 10:06:28</CreatorDate>
+         <UpdatorId>MSP6380</UpdatorId>
+         <UpdatorDate>04/14/2023 10:06:28</UpdatorDate>
+         <DateOfInfo>04/14/2023 00:00:00</DateOfInfo>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>fentanyl tablets</Description>
+         <PropertyTypeCode>560</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247202</Property_ID>
+         <DrugTypeCode>H</DrugTypeCode>
+         <Quantity>40</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <CreatorId>MSP6380</CreatorId>
+         <CreatorDate>04/14/2023 10:06:29</CreatorDate>
+         <UpdatorId>MSP6380</UpdatorId>
+         <UpdatorDate>04/14/2023 10:06:29</UpdatorDate>
+         <DateOfInfo>04/14/2023 00:00:00</DateOfInfo>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>MDMA tablet</Description>
+         <PropertyTypeCode>560</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247203</Property_ID>
+         <DrugTypeCode>L</DrugTypeCode>
+         <Quantity>1</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <CreatorId>MSP6380</CreatorId>
+         <CreatorDate>04/14/2023 10:06:29</CreatorDate>
+         <UpdatorId>MSP6380</UpdatorId>
+         <UpdatorDate>04/14/2023 10:06:29</UpdatorDate>
+         <DateOfInfo>04/14/2023 00:00:00</DateOfInfo>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>MDMA tablet</Description>
+         <PropertyTypeCode>560</PropertyTypeCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247203</Property_ID>
+         <DrugTypeCode>L</DrugTypeCode>
+         <Quantity>1</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

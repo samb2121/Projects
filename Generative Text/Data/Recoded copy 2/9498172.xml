@@ -1,0 +1,176 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>02/21/2023 15:14:00</ReportDate>
+   <StartDate>02/21/2023 14:47:00</StartDate>
+   <Summary>Fraud/Theft</Summary>
+   <IncidentType>
+      <IncidentTypeCode>FRD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>656726</AddressId>
+      <City>MDC438</City>
+      <Address>
+         <AddressId>656726</AddressId>
+         <StreetNumber>5531</StreetNumber>
+         <StreetName>Stephen Reid</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Huntingtown</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20639</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Distance>0</Distance>
+         <Longitude>-76.624254</Longitude>
+         <Latitude>38.640791</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Hunt</LastName>
+            <FirstName>Kemery</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Davis</LastName>
+            <FirstName>Thomas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Moorman</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 1136_AOL</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 1160_AOL</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1160_AOL</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>49</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>370123</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Garner</LastName>
+               <FirstName>Shannon</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>10/10/1973 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Garner</LastName>
+               <FirstName>Shannon</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>10/10/1973 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>5531</StreetNumber>
+               <StreetName>Stephen Reid</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Huntingtown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20639</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.624254</Longitude>
+               <Latitude>38.640791</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>50</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>370124</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Garner</LastName>
+               <FirstName>Ralph</FirstName>
+               <MiddleName>Anthony</MiddleName>
+               <DOB>09/25/1972 00:00:00</DOB>
+               <TitleCode>III</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Garner</LastName>
+               <FirstName>Ralph</FirstName>
+               <MiddleName>Anthony</MiddleName>
+               <DOB>09/25/1972 00:00:00</DOB>
+               <TitleCode>III</TitleCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>One Apple iPad Pro 12.9 inch 1024GB</Description>
+         <PropertyTypeCode>ELECTRONIC EQUIP</PropertyTypeCode>
+         <PropertyValue>2000</PropertyValue>
+         <Value>2000</Value>
+         <SerialNumber>JYW7432Q01</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>244357</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <Make>Apple</Make>
+         <Model>iPad Pro 12.9 inch 1024GB</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>One Apple iPad Pro 12.9 inch 1024GB</Description>
+         <PropertyTypeCode>ELECTRONIC EQUIP</PropertyTypeCode>
+         <PropertyValue>2000</PropertyValue>
+         <Value>2000</Value>
+         <SerialNumber>JYW7432Q01</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>244357</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <Make>Apple</Make>
+         <Model>iPad Pro 12.9 inch 1024GB</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

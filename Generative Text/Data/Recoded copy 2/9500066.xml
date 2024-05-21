@@ -1,0 +1,86 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>06/12/2023 19:45:00</ReportDate>
+   <StartDate>06/12/2023 19:44:00</StartDate>
+   <Summary>Fugitive Other Area</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>1174</AddressId>
+      <SubBeat>565</SubBeat>
+      <Address>
+         <AddressId>1174</AddressId>
+         <StreetNumber>533</StreetNumber>
+         <StreetName>BALTIMORE</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>WESTMINSTER</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>565</SubBeat>
+         <Longitude>-76.97871601017208</Longitude>
+         <Latitude>39.567512246252164</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>BOSTON INN</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>BOSTON INN RM 145</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>BOSTON INN  ROOM 147</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Snedeker</LastName>
+            <FirstName>Jordan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Poff</LastName>
+            <FirstName>Mitchell</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>26</ApproxAge>
+         <ResidentStatusCode>Unknown</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>379650</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Salinas</LastName>
+               <FirstName>Kylie</FirstName>
+               <MiddleName>Nicole</MiddleName>
+               <DOB>06/25/1996 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Salinas</LastName>
+               <FirstName>Kylie</FirstName>
+               <MiddleName>Nicole</MiddleName>
+               <DOB>06/25/1996 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetName>No Fixed Address</StreetName>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

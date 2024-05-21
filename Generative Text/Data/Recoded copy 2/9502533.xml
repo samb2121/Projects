@@ -1,0 +1,141 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>01/08/2023 18:28:00</ReportDate>
+   <StartDate>01/08/2023 17:43:00</StartDate>
+   <Summary>theft less than 1000</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>679813</AddressId>
+      <SubBeat>939</SubBeat>
+      <City>MDC191</City>
+      <Address>
+         <AddressId>679813</AddressId>
+         <StreetNumber>17570</StreetNumber>
+         <StreetName>Cool Springs</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Marydel</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21649</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.776344</Longitude>
+         <Latitude>39.089664</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Dadds</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Griffin</LastName>
+            <FirstName>John</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0622 23F</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0622 23F</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <Person>
+            <PersonId>365590</PersonId>
+            <RaceCode>Unknown</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>68</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>365592</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Seal-Whitlock</LastName>
+               <FirstName>Robin</FirstName>
+               <MiddleName>Gail</MiddleName>
+               <DOB>12/09/1954 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Seal-Whitlock</LastName>
+               <FirstName>Robin</FirstName>
+               <MiddleName>Gail</MiddleName>
+               <DOB>12/09/1954 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>17570</StreetNumber>
+               <StreetName>Cool Springs</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Marydel</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21649</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.776344</Longitude>
+               <Latitude>39.089664</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>148404</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>7</StatusCode>
+         <VIN>4YMUL08155V072843</VIN>
+         <VehicleYear>2005</VehicleYear>
+         <VehicleMakeCode>CARRY-ON TRAILER CORP(COTC)</VehicleMakeCode>
+         <VehicleModelCode>PARISIENNE</VehicleModelCode>
+         <VehicleStyleCode>UT</VehicleStyleCode>
+         <VehicleTypeCode>Trailer/RVs</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>083999X</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>8</VehicleLicMonth>
+         <VehicleLicTypeCode>TL</VehicleLicTypeCode>
+         <VehicleValue>500</VehicleValue>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>TIRE</PropertyTypeCode>
+         <PropertyValue>1500</PropertyValue>
+         <Value>1500</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>242145</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

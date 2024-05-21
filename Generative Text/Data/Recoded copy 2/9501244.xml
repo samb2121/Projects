@@ -1,0 +1,101 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>01/14/2024 14:22:00</ReportDate>
+   <StartDate>01/14/2024 13:10:00</StartDate>
+   <Summary>Emergency Petition</Summary>
+   <IncidentType>
+      <IncidentTypeCode>EP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>718847</AddressId>
+      <Address>
+         <AddressId>718847</AddressId>
+         <StreetNumber>3950</StreetNumber>
+         <StreetName>Handy</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Federalsburg</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21632</Zip5>
+         <Zip4>2625</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.716571</Longitude>
+         <Latitude>38.715274</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>PERIS</LastName>
+            <FirstName>BRYAN</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>NIKODEMSKI</LastName>
+            <FirstName>JONATHAN</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Goldman</LastName>
+            <FirstName>Stansbury</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Benson</LastName>
+            <FirstName>Tyler</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>69</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>68208</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>McCumbers</LastName>
+               <FirstName>Ronald</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>05/27/1954 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>McCumbers</LastName>
+               <FirstName>Ronald</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>05/27/1954 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3950</StreetNumber>
+               <StreetName>HANDY</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>FEDERALSBURG</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.7157229068404</Longitude>
+               <Latitude>38.713253654981806</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>754</PhonePrefix>
+               <PhoneSuffix>9697</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

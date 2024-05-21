@@ -1,0 +1,138 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>02/12/2023 23:27:00</ReportDate>
+   <StartDate>02/12/2023 23:07:00</StartDate>
+   <Summary>DUI 23-038</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>N EAST RD/ DOCTOR MILLER RD</IncAddrComment>
+      <AddressId>637630</AddressId>
+      <City>MDC206</City>
+      <Address>
+         <AddressId>637630</AddressId>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>East</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>North East</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-75.9593</Longitude>
+         <Latitude>39.67075</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>1901-1929 N EAST RD / 1-34 DOCTOR MILLER RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Black</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Yocum</LastName>
+            <FirstName>Andrew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>19747</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>19747</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>370671</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Pilkington</LastName>
+               <FirstName>James</FirstName>
+               <MiddleName>Frank</MiddleName>
+               <DOB>05/20/1989 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Pilkington</LastName>
+               <FirstName>James</FirstName>
+               <MiddleName>Frank</MiddleName>
+               <DOB>05/20/1989 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1468</StreetNumber>
+               <StreetName>State</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Oxford</City>
+               <StateCode>Pennsylvania</StateCode>
+               <Zip5>19363</Zip5>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>150496</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>10</StatusCode>
+         <VIN>2GNAXSEV7L6150013</VIN>
+         <VehicleYear>2020</VehicleYear>
+         <VehicleMakeCode>CHEVROLET</VehicleMakeCode>
+         <VehicleModelCode>EQUUS</VehicleModelCode>
+         <VehicleTypeCode>Farm</VehicleTypeCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehSecColorCode>GRY</VehSecColorCode>
+         <VehicleLicStateCode>PA</VehicleLicStateCode>
+         <VehicleLicNumber>KFL1103</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Black</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Yocum</LastName>
+            <FirstName>Andrew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,136 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>01/04/2024 05:03:00</ReportDate>
+   <StartDate>01/04/2024 05:02:00</StartDate>
+   <Summary>Firearm Investigation.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>FIREARM</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>624509</AddressId>
+      <Address>
+         <AddressId>624509</AddressId>
+         <StreetNumber>5821</StreetNumber>
+         <StreetName>Bartonsville</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Frederick</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21704</Zip5>
+         <Zip4>6897</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.3514428</Longitude>
+         <Latitude>39.3909971</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Jackson</LastName>
+            <FirstName>Marcus</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Feltman</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Feltman</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Hegedus</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>26</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>327798</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>COLEHOUSE</LastName>
+               <FirstName>ZACHARY</FirstName>
+               <MiddleName>DANIEL</MiddleName>
+               <DOB>11/15/1997 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>COLEHOUSE</LastName>
+               <FirstName>ZACHARY</FirstName>
+               <MiddleName>DANIEL</MiddleName>
+               <DOB>11/15/1997 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>5821</StreetNumber>
+               <StreetName>Bartonsville</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Frederick</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21704</Zip5>
+               <Zip4>6897</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.3514428</Longitude>
+               <Latitude>39.3909971</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>244</PhonePrefix>
+               <PhoneSuffix>0483</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>244</PhonePrefix>
+               <PhoneSuffix>0483</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240017311</BusinessNumber>
+         <BusinessName>State of MAryland</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>558300</AddressId>
+            <StreetNumber>1532</StreetNumber>
+            <StreetName>Signature</StreetName>
+            <StreetTypeCode>Drive</StreetTypeCode>
+            <City>Hanover</City>
+            <StateCode>Maryland</StateCode>
+            <Zip5>21076</Zip5>
+            <CountryCode>United States of America</CountryCode>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <PropertyTypeCode>GUN - HANDGUN</PropertyTypeCode>
+         <SerialNumber>CSU601US</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>258082</Property_ID>
+         <Make>Glock</Make>
+         <Model>22</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

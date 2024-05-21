@@ -1,0 +1,242 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5400</ORINum>
+   <ReportDate>10/06/2023 18:40:00</ReportDate>
+   <StartDate>10/06/2023 18:21:00</StartDate>
+   <Summary>The victims bicycle was stolen during an armed robbery.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Robbery</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>709208</AddressId>
+      <Address>
+         <AddressId>709208</AddressId>
+         <StreetName>MD 237</StreetName>
+         <StreetTypeCode>Route</StreetTypeCode>
+         <City>Great Mills</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20634</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>WAY</CrossStreetTypeCode>
+         <Longitude>-76.48918</Longitude>
+         <Latitude>38.25002</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Walters</LastName>
+            <FirstName>Andrue</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Powis</LastName>
+            <FirstName>Jonathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pope</LastName>
+            <FirstName>Jeremy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0621 6F</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0621 6F</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>2 0705</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 0705</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <Person>
+            <PersonId>389752</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>15</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>389753</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Knott</LastName>
+               <FirstName>Jordan</FirstName>
+               <DOB>03/13/2008 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Knott</LastName>
+               <FirstName>Jordan</FirstName>
+               <DOB>03/13/2008 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>22513</StreetNumber>
+               <StreetName>Castle Pollard</StreetName>
+               <StreetTypeCode>Way</StreetTypeCode>
+               <City>Great Mills</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20634</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.502007</Longitude>
+               <Latitude>38.286677</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>42</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>242374</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Knott</LastName>
+               <FirstName>Crystal</FirstName>
+               <MiddleName>Dawn</MiddleName>
+               <DOB>12/31/1980 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Knott</LastName>
+               <FirstName>Crystal</FirstName>
+               <MiddleName>Dawn</MiddleName>
+               <DOB>12/31/1980 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>22531</StreetNumber>
+               <StreetName>Castle Pollard</StreetName>
+               <StreetTypeCode>Way</StreetTypeCode>
+               <City>Great Mills</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20634</Zip5>
+               <Zip4>2457</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.5015261</Longitude>
+               <Latitude>38.2875598</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>561</PhonePrefix>
+               <PhoneSuffix>6447</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>51</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>242372</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Gorman</LastName>
+               <FirstName>Dexter</FirstName>
+               <MiddleName>Antonio</MiddleName>
+               <DOB>04/08/1972 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Gorman</LastName>
+               <FirstName>Dexter</FirstName>
+               <MiddleName>Antonio</MiddleName>
+               <DOB>04/08/1972 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>22531</StreetNumber>
+               <StreetName>Castle Pollard</StreetName>
+               <StreetTypeCode>Way</StreetTypeCode>
+               <City>Great Mills</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20634</Zip5>
+               <Zip4>2457</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.5015261</Longitude>
+               <Latitude>38.2875598</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>One pink/silver Next bicycle. </Description>
+         <PropertyTypeCode>BICYCLE</PropertyTypeCode>
+         <PropertyValue>100</PropertyValue>
+         <Value>100</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254971</Property_ID>
+         <PrimaryColor>PNK</PrimaryColor>
+         <SecondaryColor>SIL</SecondaryColor>
+         <Make>Next</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>One pink/silver Next bicycle. </Description>
+         <PropertyTypeCode>BICYCLE</PropertyTypeCode>
+         <PropertyValue>100</PropertyValue>
+         <Value>100</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254971</Property_ID>
+         <PrimaryColor>PNK</PrimaryColor>
+         <SecondaryColor>SIL</SecondaryColor>
+         <Make>Next</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

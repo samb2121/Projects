@@ -1,0 +1,116 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>03/21/2023 15:43:00</ReportDate>
+   <StartDate>03/21/2023 15:40:00</StartDate>
+   <Summary>No license</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>NEW WASHINGTON RD/ POOLE RD</IncAddrComment>
+      <AddressId>558005</AddressId>
+      <City>MDC249</City>
+      <Address>
+         <AddressId>558005</AddressId>
+         <StreetName>New Washington</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Westminster</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-76.98258</Longitude>
+         <Latitude>39.55595</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>3316-3349 NEW WASHINGTON RD / 686-724 POOLE RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>3380-3477 NEW WASHINGTON RD / 686-724 POOLE RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>3317-3349 NEW WASHINGTON RD / 676-728 POOLE RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Snedeker</LastName>
+            <FirstName>Jordan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Poff</LastName>
+            <FirstName>Mitchell</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>19731</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>19731</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>41</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>192274</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Soto</LastName>
+               <FirstName>Rebecca</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>09/05/1981 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Soto</LastName>
+               <FirstName>Rebecca</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>09/05/1981 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1746</StreetNumber>
+               <StreetName>Tank</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Finksburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21048</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.88456</Longitude>
+               <Latitude>39.528982</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>151162</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VehicleYear>2022</VehicleYear>
+         <VehicleMakeCode>TOYOTA(TOYT)</VehicleMakeCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>4FA9143</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

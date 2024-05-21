@@ -1,0 +1,134 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0400</ORINum>
+   <ReportDate>10/22/2023 04:48:00</ReportDate>
+   <StartDate>10/22/2023 04:29:00</StartDate>
+   <Summary>DUI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>S 270 TO ROCKLEDGE RAMP / ROCKLEDGE BLVD</IncAddrComment>
+      <AddressId>711414</AddressId>
+      <Address>
+         <AddressId>711414</AddressId>
+         <StreetNumber>10904</StreetNumber>
+         <StreetName>Earlsgate</StreetName>
+         <StreetTypeCode>Lane</StreetTypeCode>
+         <City>Rockville</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20852</Zip5>
+         <Zip4>4552</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.140384</Longitude>
+         <Latitude>39.032646</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Cosgrove</LastName>
+            <FirstName>Brooke</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Norman</LastName>
+            <FirstName>Nathanael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>19739</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>19739</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>31</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>391566</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Rivas</LastName>
+               <FirstName>Maricela</FirstName>
+               <DOB>12/28/1991 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Rivas</LastName>
+               <FirstName>Maricela</FirstName>
+               <DOB>12/28/1991 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1703</StreetNumber>
+               <StreetName>Mount Pisgah</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>21</SubNumber>
+               <City>Silver Spring</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.97609</Longitude>
+               <Latitude>39.01478</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>158489</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>3MZBN1U74HM101183</VIN>
+         <VehicleYear>2017</VehicleYear>
+         <VehicleMakeCode>MAZDA</VehicleMakeCode>
+         <VehicleModelCode>MAZDA 3 (THREE)</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>5EN7215</VehicleLicNumber>
+         <VehicleLicYear>2025</VehicleLicYear>
+         <VehicleLicMonth>3</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Gaines</LastName>
+            <FirstName>Kyle</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Norman</LastName>
+            <FirstName>Nathanael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

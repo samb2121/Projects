@@ -1,0 +1,134 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>09/16/2023 14:24:00</ReportDate>
+   <StartDate>09/01/2023 02:45:00</StartDate>
+   <Summary>Vehicle-pedestrian collision</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>451833</AddressId>
+      <Address>
+         <AddressId>451833</AddressId>
+         <StreetName>Central</StreetName>
+         <StreetTypeCode>Avenue</StreetTypeCode>
+         <City>Hyattsville</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Distance>0</Distance>
+         <Longitude>-76.83929000000015</Longitude>
+         <Latitude>38.89472003813933</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>9200-9782 CENTRAL AVE / 2-499 N HARRY S TRUMAN DR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Manziano</LastName>
+            <FirstName>Nicole</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Murray</LastName>
+            <FirstName>Niall</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Oleyar</LastName>
+            <FirstName>Adam</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Lebga</LastName>
+            <FirstName>Eric</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>43</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>229684</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Gardner</LastName>
+               <FirstName>Damion</FirstName>
+               <MiddleName>Leo</MiddleName>
+               <DOB>02/18/1980 00:00:00</DOB>
+               <TitleCode>Senior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Gardner</LastName>
+               <FirstName>Damion</FirstName>
+               <MiddleName>Leo</MiddleName>
+               <DOB>02/18/1980 00:00:00</DOB>
+               <TitleCode>Senior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3539</StreetNumber>
+               <StreetName>Edwards</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Springdale</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20774</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.852434</Longitude>
+               <Latitude>38.93358</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>215</StreetNumber>
+               <StreetName>Yorknolls</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Capitol Heights</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20743</Zip5>
+               <Zip4>2640</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.8791899</Longitude>
+               <Latitude>38.8935989</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>1302</StreetNumber>
+               <StreetName>Dillon</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Capitol Heights</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20743</Zip5>
+               <Zip4>4455</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.8908994</Longitude>
+               <Latitude>38.873023</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>758</PhonePrefix>
+               <PhoneSuffix>2640</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>PE</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

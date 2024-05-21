@@ -1,0 +1,151 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>09/29/2023 19:45:00</ReportDate>
+   <StartDate>09/29/2023 19:03:00</StartDate>
+   <Summary>Assault</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>1758</AddressId>
+      <Address>
+         <AddressId>1758</AddressId>
+         <StreetNumber>405</StreetNumber>
+         <StreetName>Naylor Mill</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Salisbury</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21801</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.581593</Longitude>
+         <Latitude>38.410222</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>LOWER EASTERN SHORE CHILDREN CENTER</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>LOWER EASTERN SHORE CHILDRENS CTR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Eckrich</LastName>
+            <FirstName>Patrick</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mareck</LastName>
+            <FirstName>Keven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Eckrich</LastName>
+            <FirstName>Patrick</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Eckrich</LastName>
+            <FirstName>Patrick</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed-Juvenile Petition</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Jail/Prison</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>17</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>338091</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Maynard</LastName>
+               <FirstName>Adam</FirstName>
+               <DOB>08/04/2006 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Maynard</LastName>
+               <FirstName>Adam</FirstName>
+               <DOB>08/04/2006 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>824</StreetNumber>
+               <StreetName>Shad Point</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21801</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.632073</Longitude>
+               <Latitude>38.336721</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>18</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>85043</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Dailey</LastName>
+               <FirstName>Damien</FirstName>
+               <MiddleName>Eugene</MiddleName>
+               <DOB>08/18/2005 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Dailey</LastName>
+               <FirstName>Damien</FirstName>
+               <MiddleName>Eugene</MiddleName>
+               <DOB>08/18/2005 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>710</StreetNumber>
+               <StreetDirCode>E</StreetDirCode>
+               <StreetName>College</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21804</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.584964</Longitude>
+               <Latitude>38.347356</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,226 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3500</ORINum>
+   <ReportDate>03/04/2023 00:09:00</ReportDate>
+   <StartDate>03/03/2023 23:41:00</StartDate>
+   <Summary>Collision Reconstruction</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>ACR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>686218</AddressId>
+      <Address>
+         <AddressId>686218</AddressId>
+         <StreetNumber>107.7</StreetNumber>
+         <StreetName>Mm I95 Sb</StreetName>
+         <City>Elkton</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.814615</Longitude>
+         <Latitude>39.642443</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Reid</LastName>
+            <FirstName>Jordan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Scaffidi</LastName>
+            <FirstName>Nathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Menchey</LastName>
+            <FirstName>Ronald</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rumaker</LastName>
+            <FirstName>Daniel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>MSP1004</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>14583</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>4382</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>43</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>379001</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Pokhan</LastName>
+               <FirstName>Savitri</FirstName>
+               <DOB>02/29/1980 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Pokhan</LastName>
+               <FirstName>Savitri</FirstName>
+               <DOB>02/29/1980 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetName>222nd</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Queens</City>
+               <StateCode>New York</StateCode>
+               <Zip5>11428</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-73.732511</Longitude>
+               <Latitude>40.720415</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>D</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>28</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>379002</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Smith</LastName>
+               <FirstName>Renaldo</FirstName>
+               <DOB>09/29/1994 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Smith</LastName>
+               <FirstName>Renaldo</FirstName>
+               <DOB>09/29/1994 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>361</StreetNumber>
+               <StreetName>Airport </StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <City>Henrico</City>
+               <StateCode>Virginia</StateCode>
+               <Zip5>23075</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.315176</Longitude>
+               <Latitude>37.539028</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>D</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>PA</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>20</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>379003</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Nazim</LastName>
+               <FirstName>Michael</FirstName>
+               <DOB>11/29/2002 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Nazim</LastName>
+               <FirstName>Michael</FirstName>
+               <DOB>11/29/2002 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>361</StreetNumber>
+               <StreetName>Airport </StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <City>Henrico</City>
+               <StateCode>Virginia</StateCode>
+               <Zip5>23075</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.315176</Longitude>
+               <Latitude>37.539028</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>D</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>PA</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>150512</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>5FRYD4H30HB038661</VIN>
+         <VehicleYear>2017</VehicleYear>
+         <VehicleMakeCode>ACURA</VehicleMakeCode>
+         <VehicleModelCode>MDX</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleLicStateCode>NY</VehicleLicStateCode>
+         <VehicleLicNumber>KJC6492</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

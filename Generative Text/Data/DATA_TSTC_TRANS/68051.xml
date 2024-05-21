@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2022D4210404</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>07/14/2022 13:26:00</ReportDate>
+   <ReportTime>07/14/2022 13:26:00</ReportTime>
+   <StartDate>07/14/2022 13:26:00</StartDate>
+   <StartTime>07/14/2022 13:26:00</StartTime>
+   <Summary>abc</Summary>
+   <InternalIncident>N</InternalIncident>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>07/14/2022 13:27:34</CreatorDate>
+   <UpdatorId>STATE_OFFICER11</UpdatorId>
+   <UpdatorDate>07/10/2023 18:30:49</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CAB</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>1337</AddressId>
+      <City>7</City>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>07/14/2022 13:27:36</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>07/14/2022 13:27:36</UpdatorDate>
+      <Address>
+         <AddressId>1337</AddressId>
+         <StreetNumber>400</StreetNumber>
+         <StreetDirCode>E</StreetDirCode>
+         <StreetName>High</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>Fortville</City>
+         <StateCode>IN</StateCode>
+         <Zip5>46040</Zip5>
+         <CountryCode>US</CountryCode>
+         <Longitude>-85.84414318288013</Longitude>
+         <Latitude>39.93208598796304</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>07/14/2022 13:27:34</SuppReportDate>
+      <SuppReportTime>07/14/2022 13:27:34</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>07/10/2023 18:31:01</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>07/14/2022 13:27:34</CreatorDate>
+      <UpdatorId>STATE_OFFICER11</UpdatorId>
+      <UpdatorDate>07/10/2023 18:31:01</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>sasdasdads</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>07/14/2022 13:27:39</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>07/14/2022 13:27:39</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Simpson</LastName>
+            <FirstName>Homer</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>3408</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-2-1  B04</OffenseCode>
+         <PlaceCode>40</PlaceCode>
+         <BiasCode>31</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>07/14/2022 13:26:00</OffenseStatusDate>
+         <ForcedEntryCode>N</ForcedEntryCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>07/14/2022 13:27:38</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>07/14/2022 13:27:38</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>23</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>07/14/2022 13:27:35</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:24</UpdatorDate>
+         <Person>
+            <PersonId>1193</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Manlow</LastName>
+               <FirstName>Tom</FirstName>
+               <DOB>06/05/1999 00:00:00</DOB>
+               <DateOfInfo>07/14/2022 13:13:29</DateOfInfo>
+               <SLastName>M540</SLastName>
+               <SFirstName>T500</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Manlow</LastName>
+               <FirstName>Tom</FirstName>
+               <DOB>06/05/1999 00:00:00</DOB>
+               <SLastName>M540</SLastName>
+               <SFirstName>T500</SFirstName>
+               <DateOfInfo>07/14/2022 13:13:29</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>07/14/2022 13:27:35</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>07/14/2022 13:27:35</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:24</UpdatorDate>
+         <Person>
+            <PersonId>1194</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>F</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Jasper</LastName>
+               <FirstName>Nancy</FirstName>
+               <DateOfInfo>07/14/2022 13:14:14</DateOfInfo>
+               <SLastName>J216</SLastName>
+               <SFirstName>N520</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Jasper</LastName>
+               <FirstName>Nancy</FirstName>
+               <SLastName>J216</SLastName>
+               <SFirstName>N520</SFirstName>
+               <DateOfInfo>07/14/2022 13:14:14</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>07/14/2022 13:27:35</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>07/14/2022 13:27:35</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/10/2023 18:28:45</UpdatorDate>
+         <Person>
+            <PersonId>211</PersonId>
+            <RaceCode>H</RaceCode>
+            <SexCode>F</SexCode>
+            <EthnicityCode>N</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>ALEXANDER</LastName>
+               <FirstName>KAREN</FirstName>
+               <MiddleName>A</MiddleName>
+               <DateOfInfo>06/06/2012 14:19:04</DateOfInfo>
+               <SLastName>A425</SLastName>
+               <SFirstName>K650</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Alexandria</LastName>
+               <FirstName>Shirley</FirstName>
+               <MiddleName>Lina</MiddleName>
+               <DOB>12/12/1985 00:00:00</DOB>
+               <SSN>7.84641359E8</SSN>
+               <TitleCode>SR</TitleCode>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+               <SLastName>A425</SLastName>
+               <SFirstName>S640</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <SSN>3.33445566E8</SSN>
+               <TitleCode>III</TitleCode>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>ALEXANDER</LastName>
+               <FirstName>KAREN</FirstName>
+               <MiddleName>A</MiddleName>
+               <SLastName>A425</SLastName>
+               <SFirstName>K650</SFirstName>
+               <DateOfInfo>06/06/2012 14:19:04</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Alexandria</LastName>
+               <FirstName>Shirley</FirstName>
+               <MiddleName>Lina</MiddleName>
+               <DOB>12/12/1985 00:00:00</DOB>
+               <SSN>7.84641359E8</SSN>
+               <TitleCode>SR</TitleCode>
+               <SLastName>A425</SLastName>
+               <SFirstName>S640</SFirstName>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <SSN>3.33445566E8</SSN>
+               <TitleCode>III</TitleCode>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>RES</PhoneTypeCode>
+               <PhoneArea>765</PhoneArea>
+               <PhonePrefix>555</PhonePrefix>
+               <PhoneSuffix>5555</PhoneSuffix>
+               <DateOfInfo>04/08/2014 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>07/10/2023 18:28:45</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>07/14/2022 13:27:35</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/10/2023 18:29:51</UpdatorDate>
+         <Person>
+            <PersonId>835</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>H</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Prim</LastName>
+               <FirstName>Harry</FirstName>
+               <DateOfInfo>08/08/2016 13:50:14</DateOfInfo>
+               <SLastName>P650</SLastName>
+               <SFirstName>H600</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Ali</LastName>
+               <FirstName>Harry</FirstName>
+               <DateOfInfo>08/08/2016 00:00:00</DateOfInfo>
+               <SLastName>A400</SLastName>
+               <SFirstName>H600</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Prim</LastName>
+               <FirstName>Harry</FirstName>
+               <SLastName>P650</SLastName>
+               <SFirstName>H600</SFirstName>
+               <DateOfInfo>08/08/2016 13:50:14</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Ali</LastName>
+               <FirstName>Harry</FirstName>
+               <SLastName>A400</SLastName>
+               <SFirstName>H600</SFirstName>
+               <DateOfInfo>08/08/2016 00:00:00</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>07/10/2023 18:29:51</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:25</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>07/21/2022 17:26:42</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>09/13/2022 11:21:45</UpdatorDate>
+         <DateOfInfo>07/21/2022 00:00:00</DateOfInfo>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>470</PropertyTypeCode>
+         <PropertyValue>23</PropertyValue>
+         <Value>23</Value>
+         <Evidence>Y</Evidence>
+         <EvidenceFlag>Y</EvidenceFlag>
+         <ExternalEvidenceId>853</ExternalEvidenceId>
+         <Property_ID>2103</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>11/28/2022 13:35:56</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>10/19/2023 09:14:38</UpdatorDate>
+         <DateOfInfo>11/28/2022 00:00:00</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>793</PropertyTypeCode>
+         <PropertyValue>100</PropertyValue>
+         <Value>100</Value>
+         <Evidence>Y</Evidence>
+         <EvidenceFlag>Y</EvidenceFlag>
+         <ExternalEvidenceId>857</ExternalEvidenceId>
+         <Property_ID>2127</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

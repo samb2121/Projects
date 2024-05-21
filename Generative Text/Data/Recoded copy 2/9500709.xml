@@ -1,0 +1,131 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5000</ORINum>
+   <ReportDate>04/19/2023 19:48:00</ReportDate>
+   <StartDate>04/19/2023 19:39:00</StartDate>
+   <Summary>The vehicle was stopped for an inoperative brake light. A Probable Cause Search of the vehicle was conducted and revealed suspected Cannabis less than 1.5 ounces.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>CRAIN HIGH / MATTAWOMAN DR</IncAddrComment>
+      <AddressId>625286</AddressId>
+      <Address>
+         <AddressId>625286</AddressId>
+         <StreetName>Mattawoman</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Waldorf</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20601</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>HWY</CrossStreetTypeCode>
+         <Longitude>-76.8768</Longitude>
+         <Latitude>38.655563</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Burroughs</LastName>
+            <FirstName>Kyle</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Sabock</LastName>
+            <FirstName>Ashley </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>CIVIL 5-601</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>23</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>374786</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Flucas</LastName>
+               <FirstName>Zamira</FirstName>
+               <MiddleName>Arien Zoey</MiddleName>
+               <DOB>01/10/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Flucas</LastName>
+               <FirstName>Zamira</FirstName>
+               <MiddleName>Arien Zoey</MiddleName>
+               <DOB>01/10/2000 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>6801</StreetNumber>
+               <StreetName>ATWOOD</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>District Heights</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20747</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.890156</Longitude>
+               <Latitude>38.861158</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>202</PhoneArea>
+               <PhonePrefix>615</PhonePrefix>
+               <PhoneSuffix>5413</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>152159</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>KNDJP3A53H7478976</VIN>
+         <VehicleYear>2017</VehicleYear>
+         <VehicleMakeCode>KIA MOTORS CORPORATION</VehicleMakeCode>
+         <VehicleModelCode>SOUL</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>2EW6938</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>11</VehicleLicMonth>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>One mylar bag containing suspected Cannabis</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247463</Property_ID>
+         <DrugTypeCode>SUSPECTED MARIJUANA</DrugTypeCode>
+         <Quantity>2.8</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

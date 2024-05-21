@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-026944</IncidentReportNum>
+   <AgencyCode>96</AgencyCode>
+   <ORINum>MDMSP4800</ORINum>
+   <ReportDate>07/29/2023 23:59:00</ReportDate>
+   <ReportTime>07/29/2023 23:59:00</ReportTime>
+   <StartDate>07/29/2023 23:29:00</StartDate>
+   <StartTime>07/29/2023 23:29:00</StartTime>
+   <Summary>ACCIDENT</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>07/29/2023 23:59:29</CreatorDate>
+   <UpdatorId>MSP6191</UpdatorId>
+   <UpdatorDate>08/08/2023 06:50:28</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>WORCESTER HWY/ JARVIS RD</IncAddrComment>
+      <AddressId>86920</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>07/29/2023 23:59:30</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>07/31/2023 03:56:34</UpdatorDate>
+      <Address>
+         <AddressId>86920</AddressId>
+         <StreetName>Worcester</StreetName>
+         <StreetTypeCode>HWY</StreetTypeCode>
+         <City>Bishopville</City>
+         <StateCode>MD</StateCode>
+         <Zip5>21813</Zip5>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-75.212466</Longitude>
+         <Latitude>38.415066</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>SB 113 S/O OF JARVIS</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>113 S/B N/O JARVIS RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>11938-12150 WORCESTER HWY / 12100-12204 JARVIS RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>12152-12540 WORCESTER HWY / 12100-12204 JARVIS RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>07/29/2023 23:59:24</SuppReportDate>
+      <SuppReportTime>07/29/2023 23:59:24</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>96</SuppAgencyCode>
+      <DsIcrDate>08/08/2023 06:50:28</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>07/29/2023 23:59:29</CreatorDate>
+      <UpdatorId>MSP6191</UpdatorId>
+      <UpdatorDate>08/08/2023 06:50:28</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>ACRS completed in Delta Plus.</NarrativeText>
+         <CreatorId>MSP6296</CreatorId>
+         <CreatorDate>07/31/2023 03:56:59</CreatorDate>
+         <UpdatorId>MSP6296</UpdatorId>
+         <UpdatorDate>07/31/2023 03:56:59</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>96</AgencyCode>
+            <ORINumber>MDMSP4800</ORINumber>
+            <LastName>Snell</LastName>
+            <FirstName>Christopher</FirstName>
+            <InternalID>6191</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>96</AgencyCode>
+            <ORINumber>MDMSP4800</ORINumber>
+            <LastName>Mitchell</LastName>
+            <FirstName>Matthew</FirstName>
+            <InternalID>6296</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentVehicle>
+         <VEHICLE_ID>155585</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <CreatorId>MSP</CreatorId>
+         <CreatorDate>07/29/2023 23:59:30</CreatorDate>
+         <UpdatorId>MSP</UpdatorId>
+         <UpdatorDate>07/29/2023 23:59:30</UpdatorDate>
+         <StatusCode>8</StatusCode>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>155586</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <CreatorId>MSP</CreatorId>
+         <CreatorDate>07/29/2023 23:59:31</CreatorDate>
+         <UpdatorId>MSP</UpdatorId>
+         <UpdatorDate>07/29/2023 23:59:31</UpdatorDate>
+         <StatusCode>8</StatusCode>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

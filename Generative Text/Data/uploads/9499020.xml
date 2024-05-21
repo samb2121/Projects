@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-022116</IncidentReportNum>
+   <AgencyCode>83</AgencyCode>
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>06/20/2023 15:13:00</ReportDate>
+   <ReportTime>06/20/2023 15:13:00</ReportTime>
+   <StartDate>06/20/2023 14:59:00</StartDate>
+   <StartTime>06/20/2023 14:59:00</StartTime>
+   <Summary>Traffic stop with a probable cause search that yielded negative results.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>06/20/2023 15:13:08</CreatorDate>
+   <UpdatorId>MSP4319</UpdatorId>
+   <UpdatorDate>07/15/2023 16:21:00</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>PCS</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>S SOLOMONS ISLAND RD/ LANCASTER DR</IncAddrComment>
+      <AddressId>614389</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/20/2023 15:13:10</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>06/20/2023 15:13:10</UpdatorDate>
+      <Address>
+         <AddressId>614389</AddressId>
+         <StreetDirCode>S</StreetDirCode>
+         <StreetName>Solomons Island</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Saint Leonard</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>DR</CrossStreetTypeCode>
+         <Longitude>-76.511806</Longitude>
+         <Latitude>38.479421</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>4500-5398 S SOLOMONS ISLAND RD / 0-0 LANCASTER DR</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 S SOLOMONS ISLAND RD / 4370-4374 LANCASTER DR</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>4000-4498 S SOLOMONS ISLAND RD / 0-0 LANCASTER DR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/20/2023 15:13:05</SuppReportDate>
+      <SuppReportTime>06/20/2023 15:13:05</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>83</SuppAgencyCode>
+      <DsIcrDate>07/15/2023 16:21:00</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/20/2023 15:13:09</CreatorDate>
+      <UpdatorId>MSP4319</UpdatorId>
+      <UpdatorDate>07/15/2023 16:21:00</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Vehicle search report completed in delta.</NarrativeText>
+         <CreatorId>MSP6850</CreatorId>
+         <CreatorDate>06/20/2023 21:21:25</CreatorDate>
+         <UpdatorId>MSP6850</UpdatorId>
+         <UpdatorDate>06/20/2023 21:21:25</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>83</AgencyCode>
+            <ORINumber>MDMSP5500</ORINumber>
+            <LastName>Custis</LastName>
+            <FirstName>Justin</FirstName>
+            <InternalID>7502</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>83</AgencyCode>
+            <ORINumber>MDMSP5500</ORINumber>
+            <LastName>Pilkerton</LastName>
+            <FirstName>John</FirstName>
+            <InternalID>4319</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>83</AgencyCode>
+            <ORINumber>MDMSP5500</ORINumber>
+            <LastName>Marsch</LastName>
+            <FirstName>Richard</FirstName>
+            <InternalID>6850</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

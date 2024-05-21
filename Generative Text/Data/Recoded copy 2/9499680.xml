@@ -1,0 +1,91 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>08/08/2023 13:02:00</ReportDate>
+   <StartDate>08/08/2023 13:01:00</StartDate>
+   <EndDate>08/08/2023 13:12:00</EndDate>
+   <Summary>Assist motor vehicle collision with usage of tourniquet</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>703293</AddressId>
+      <Address>
+         <AddressId>703293</AddressId>
+         <StreetNumber>140</StreetNumber>
+         <StreetName>Fairground</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Prince Frederick</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20678</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.584248</Longitude>
+         <Latitude>38.546521</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Hunt</LastName>
+            <FirstName>Kemery</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Crook</LastName>
+            <FirstName>William</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>56</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>219855</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Chew</LastName>
+               <FirstName>Marsha</FirstName>
+               <MiddleName>Arvita</MiddleName>
+               <DOB>09/23/1966 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Chew</LastName>
+               <FirstName>Marsha</FirstName>
+               <MiddleName>Arvita</MiddleName>
+               <DOB>09/23/1966 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3134</StreetNumber>
+               <StreetName>Dalrymple</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Chesapeake Beach</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20732</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.546218</Longitude>
+               <Latitude>38.651383</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>983</PhonePrefix>
+               <PhoneSuffix>2013</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>E</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

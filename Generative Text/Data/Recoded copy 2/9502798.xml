@@ -1,0 +1,148 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>01/06/2023 17:47:00</ReportDate>
+   <StartDate>01/06/2023 17:46:00</StartDate>
+   <Summary>Driving without insurance.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>LIBERTY RD/ CATOCTIN MOUNTAIN HWY</IncAddrComment>
+      <AddressId>600050</AddressId>
+      <City>MDC151</City>
+      <Address>
+         <AddressId>600050</AddressId>
+         <StreetName>Liberty</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Frederick</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>HWY</CrossStreetTypeCode>
+         <Longitude>-77.404086</Longitude>
+         <Latitude>39.441314</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>LIBERTY RD WB RAMP CATOCTIN MOUNTAIN HWY NB</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>LIBERTY RD WB  AT CATOCTIN MOUNTAIN HWY</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>LIBERTY RD RAMP TO CATOCTIN MOUNTAIN HWY</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>LIBERTY RD WB / CATOCTIN MOUNTAIN HWY SB</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>7501-7597 LIBERTY RD / 0-0 CATOCTIN MOUNTAIN HWY</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>LIBERTY RD EB  / CATOCTIN MOUNTAIN HWY</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>7500-7500 LIBERTY RD / 0-0 CATOCTIN MOUNTAIN HWY</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 LIBERTY RD / 0-0 CATOCTIN MOUNTAIN HWY</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>WB</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Hill</LastName>
+            <FirstName>Todd</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Oyola</LastName>
+            <FirstName>Cristian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>15648</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>15648</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>19733</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>19733</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>23</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>97003</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Medina</LastName>
+               <FirstName>David</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>12/21/1999 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Medina</LastName>
+               <FirstName>David</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>12/21/1999 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>6125</StreetNumber>
+               <StreetName>Samuel</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>New Market</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21774</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.297552</Longitude>
+               <Latitude>39.398515</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>752</PhonePrefix>
+               <PhoneSuffix>8830</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>148307</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>WDBJF82H2XX022263</VIN>
+         <VehicleYear>1999</VehicleYear>
+         <VehicleMakeCode>MERCEDES BENZ</VehicleMakeCode>
+         <VehicleModelCode>E320</VehicleModelCode>
+         <VehicleStyleCode>4D</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>2Z5528</VehicleLicNumber>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

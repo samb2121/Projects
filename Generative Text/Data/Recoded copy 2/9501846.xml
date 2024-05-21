@@ -1,0 +1,118 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>11/30/2023 13:09:00</ReportDate>
+   <StartDate>11/30/2023 12:11:00</StartDate>
+   <EndDate>11/30/2023 13:22:00</EndDate>
+   <Summary>Warrant service conducted on JOSHUA ALEX NAZARIO 2/M DOB:12/13/1992 from the Essex MVA.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Warrant Service</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>7649</AddressId>
+      <SubBeat>670</SubBeat>
+      <Address>
+         <AddressId>7649</AddressId>
+         <StreetNumber>1338</StreetNumber>
+         <StreetName>EASTERN</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>ESSEX</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>670</SubBeat>
+         <Longitude>-76.460483384889</Longitude>
+         <Latitude>39.31586484508168</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>MVA ESSEX</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>ESSEX MVA</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Zinn</LastName>
+            <FirstName>Tyler</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Sampson</LastName>
+            <FirstName>Aaron</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1475</OffenseCode>
+         <PlaceCode>Government/Public Building</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1475</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>30</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>394212</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>NAZARIO</LastName>
+               <FirstName>JOSHUA</FirstName>
+               <MiddleName>ALEX</MiddleName>
+               <DOB>12/13/1992 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>NAZARIO</LastName>
+               <FirstName>JOSHUA</FirstName>
+               <MiddleName>ALEX</MiddleName>
+               <DOB>12/13/1992 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1319</StreetNumber>
+               <StreetName>Sugarwood</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <City>Essex</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21221</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.453278</Longitude>
+               <Latitude>39.301441</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>9150</StreetNumber>
+               <StreetName>FRANKLIN SQUARE</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>ROSEDALE</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21237</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.472992</Longitude>
+               <Latitude>39.355013</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240010642</BusinessNumber>
+         <BusinessName> State Of Maryland</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

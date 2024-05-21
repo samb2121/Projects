@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2015ROOT0108</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>03/26/2015 17:19:00</ReportDate>
+   <ReportTime>03/26/2015 17:19:00</ReportTime>
+   <StartDate>03/26/2015 17:19:00</StartDate>
+   <StartTime>03/01/2015 17:19:00</StartTime>
+   <Summary>test</Summary>
+   <CreatorId>JPICKETT@GLOBALSOFTWARECORP.COM</CreatorId>
+   <CreatorDate>03/26/2015 17:19:00</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:36</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>B/B</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>513</AddressId>
+      <City>3</City>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>03/26/2015 17:19:15</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>03/26/2015 17:19:17</UpdatorDate>
+      <Address>
+         <AddressId>513</AddressId>
+         <StreetNumber>1936</StreetNumber>
+         <StreetName>Buchanan</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>San Francisco</City>
+         <StateCode>CA</StateCode>
+         <Zip5>94115</Zip5>
+         <CountryCode>US</CountryCode>
+         <Longitude>-122.430241</Longitude>
+         <Latitude>37.787967</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>03/26/2015 17:19:00</SuppReportDate>
+      <SuppReportTime>03/26/2015 17:19:00</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>03/26/2015 17:27:29</DsIcrDate>
+      <DsIcrSubmissionStatus>PROCESS COMPLETE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>03/26/2015 17:19:00</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:24</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>test</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/26/2015 17:25:37</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>03/26/2015 17:25:37</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>2269</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-4-2  T05</OffenseCode>
+         <PlaceCode>40</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>03/26/2015 17:19:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>STATE_DET7</CreatorId>
+         <CreatorDate>03/26/2015 17:19:39</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/13/2017 10:34:13</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>39</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/26/2015 17:25:12</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:20</UpdatorDate>
+         <Person>
+            <PersonId>469</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Aaberg</LastName>
+               <FirstName>Ken</FirstName>
+               <DOB>07/09/1975 00:00:00</DOB>
+               <SSN>1.23456789E8</SSN>
+               <DateOfInfo>07/09/2013 15:43:42</DateOfInfo>
+               <SLastName>A162</SLastName>
+               <SFirstName>K500</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Free</LastName>
+               <FirstName>Fredd</FirstName>
+               <DateOfInfo>10/22/2018 00:00:00</DateOfInfo>
+               <SLastName>F600</SLastName>
+               <SFirstName>F630</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Aaberg</LastName>
+               <FirstName>Ken</FirstName>
+               <DOB>07/09/1975 00:00:00</DOB>
+               <SSN>1.23456789E8</SSN>
+               <SLastName>A162</SLastName>
+               <SFirstName>K500</SFirstName>
+               <DateOfInfo>07/09/2013 15:43:42</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>M</NameTypeCode>
+               <LastName>Free</LastName>
+               <FirstName>Fredd</FirstName>
+               <SLastName>F600</SLastName>
+               <SFirstName>F630</SFirstName>
+               <DateOfInfo>10/22/2018 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>86</StreetNumber>
+               <StreetDirCode>NE</StreetDirCode>
+               <StreetName>ASHWOOD</StreetName>
+               <StreetTypeCode>LN</StreetTypeCode>
+               <StreetSuffixCode>N</StreetSuffixCode>
+               <City>DILLON</City>
+               <CountryCode>US</CountryCode>
+               <Beat>Test</Beat>
+               <SubBeat>Area</SubBeat>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>1770</StreetNumber>
+               <StreetDirCode>BLK</StreetDirCode>
+               <StreetName>Lincoln</StreetName>
+               <City>Denver</City>
+               <StateCode>CO</StateCode>
+               <Zip5>80104</Zip5>
+               <CountryCode>US</CountryCode>
+               <CountyCode>30</CountyCode>
+               <Longitude>-104.999408</Longitude>
+               <Latitude>39.739577</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>400</StreetNumber>
+               <StreetName>Elm</StreetName>
+               <StreetTypeCode>ST</StreetTypeCode>
+               <City>Fortville</City>
+               <StateCode>IN</StateCode>
+               <Zip5>46040</Zip5>
+               <CountryCode>US</CountryCode>
+               <CountyCode>30</CountyCode>
+               <Longitude>-85.84358784985562</Longitude>
+               <Latitude>39.93291330899494</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>556</StreetNumber>
+               <StreetName>Howard</StreetName>
+               <City>Denver</City>
+               <StateCode>CO</StateCode>
+               <Zip5>80111</Zip5>
+               <CountryCode>US</CountryCode>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>877</StreetNumber>
+               <StreetName>Harbor</StreetName>
+               <City>INDIANAPOLIS</City>
+               <StateCode>IN</StateCode>
+               <Zip5>A6221</Zip5>
+               <CountyCode>30</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>RES</PhoneTypeCode>
+               <PhoneArea>987</PhoneArea>
+               <PhonePrefix>987</PhonePrefix>
+               <PhoneSuffix>9876</PhoneSuffix>
+               <DateOfInfo>11/18/2014 00:00:00</DateOfInfo>
+            </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>123</PhoneArea>
+               <PhonePrefix>123</PhonePrefix>
+               <PhoneSuffix>1234</PhoneSuffix>
+               <DateOfInfo>11/18/2014 00:00:00</DateOfInfo>
+            </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>111</PhoneArea>
+               <PhonePrefix>111</PhonePrefix>
+               <PhoneSuffix>1111</PhoneSuffix>
+               <PhoneExt>111</PhoneExt>
+               <DateOfInfo>10/22/2018 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>03/26/2015 17:25:12</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:19</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>31</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/26/2015 17:25:26</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:20</UpdatorDate>
+         <Person>
+            <PersonId>348</PersonId>
+            <RaceCode>H</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Argueta</LastName>
+               <FirstName>Ricardo</FirstName>
+               <MiddleName>PICTEST</MiddleName>
+               <DOB>12/17/1983 00:00:00</DOB>
+               <DateOfInfo>08/29/2012 12:45:28</DateOfInfo>
+               <SLastName>A623</SLastName>
+               <SFirstName>R263</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Ricardo</LastName>
+               <FirstName>Riki</FirstName>
+               <DateOfInfo>01/02/2013 00:00:00</DateOfInfo>
+               <SLastName>R263</SLastName>
+               <SFirstName>R200</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Argueta</LastName>
+               <FirstName>Ricardo</FirstName>
+               <MiddleName>PICTEST</MiddleName>
+               <DOB>12/17/1983 00:00:00</DOB>
+               <SLastName>A623</SLastName>
+               <SFirstName>R263</SFirstName>
+               <DateOfInfo>08/29/2012 12:45:28</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Ricardo</LastName>
+               <FirstName>Riki</FirstName>
+               <SLastName>R263</SLastName>
+               <SFirstName>R200</SFirstName>
+               <DateOfInfo>01/02/2013 00:00:00</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>03/26/2015 17:25:26</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:19</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/26/2015 17:24:38</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/10/2017 23:00:44</UpdatorDate>
+         <DateOfInfo>03/26/2015 00:00:00</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Test</Description>
+         <PropertyTypeCode>427</PropertyTypeCode>
+         <PropertyValue>1234</PropertyValue>
+         <Value>1234</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>1273</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

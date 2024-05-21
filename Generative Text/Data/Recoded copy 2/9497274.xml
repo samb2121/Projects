@@ -1,0 +1,163 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>03/26/2023 02:15:00</ReportDate>
+   <StartDate>03/26/2023 01:31:00</StartDate>
+   <Summary>DUI 23-58-060</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>415269</AddressId>
+      <City>MDC139</City>
+      <Address>
+         <AddressId>415269</AddressId>
+         <StreetNumber>11379</StreetNumber>
+         <StreetName>Greensboro</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Denton</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.81965154703893</Longitude>
+         <Latitude>38.91987787219994</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Smith</LastName>
+            <FirstName>Walker</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Del Vecchio</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Smith</LastName>
+            <FirstName>Walker</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Smith</LastName>
+            <FirstName>Walker</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>38</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>8158</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Lambert</LastName>
+               <FirstName>Heather</FirstName>
+               <MiddleName>Nicole</MiddleName>
+               <DOB>05/03/1984 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Lambert</LastName>
+               <FirstName>Heather</FirstName>
+               <MiddleName>Nicole</MiddleName>
+               <DOB>05/03/1984 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>512</StreetNumber>
+               <StreetName>Cannon</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Chestertown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21620</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.071826</Longitude>
+               <Latitude>39.210574</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>24731</StreetNumber>
+               <StreetName>Langford</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>B</SubNumber>
+               <City>Chestertown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21620</Zip5>
+               <Zip4>2162</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.113072</Longitude>
+               <Latitude>39.186095</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>101</StreetNumber>
+               <StreetDirCode>W</StreetDirCode>
+               <StreetName>Sunset</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Greensboro</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21639</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.805795</Longitude>
+               <Latitude>38.973802</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>222</StreetNumber>
+               <StreetDirCode>E</StreetDirCode>
+               <StreetName>Main</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Sudlersville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21668</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.852752</Longitude>
+               <Latitude>39.187793</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>739</PhonePrefix>
+               <PhoneSuffix>7778</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>743</PhonePrefix>
+               <PhoneSuffix>0838</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

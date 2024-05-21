@@ -1,0 +1,173 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2100</ORINum>
+   <ReportDate>07/20/2023 23:05:00</ReportDate>
+   <StartDate>07/20/2023 22:50:00</StartDate>
+   <Summary>Domestic Assault</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>588870</AddressId>
+      <Address>
+         <AddressId>588870</AddressId>
+         <StreetNumber>12310</StreetNumber>
+         <StreetName>Winchester</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <StreetSuffixCode>SW</StreetSuffixCode>
+         <City>Cumberland</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-78.838603</Longitude>
+         <Latitude>39.628104</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>RODEWAY INN</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>MOTEL 6 ON WINCHESTER RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bennett</LastName>
+            <FirstName>Shawn</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Buskirk</LastName>
+            <FirstName>Justin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bennett</LastName>
+            <FirstName>Darwin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Toey</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Hotel/Motel/Etc.</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>31</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>383240</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>CRUZ JIMENEZ</LastName>
+               <FirstName>Iseim</FirstName>
+               <MiddleName>Jose</MiddleName>
+               <DOB>10/21/1991 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>CRUZ JIMENEZ</LastName>
+               <FirstName>Iseim</FirstName>
+               <MiddleName>Jose</MiddleName>
+               <DOB>10/21/1991 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>5781</StreetNumber>
+               <StreetName>Five Flags</StreetName>
+               <StreetTypeCode>Boulevard</StreetTypeCode>
+               <City>Orlando</City>
+               <StateCode>Florida</StateCode>
+               <Zip5>32822</Zip5>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>651</PhoneArea>
+               <PhonePrefix>417</PhonePrefix>
+               <PhoneSuffix>0910</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>40</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>383243</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>BAZAN</LastName>
+               <FirstName>Yesenia</FirstName>
+               <MiddleName>NMN</MiddleName>
+               <DOB>06/11/1983 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>BAZAN</LastName>
+               <FirstName>Yesenia</FirstName>
+               <MiddleName>NMN</MiddleName>
+               <DOB>06/11/1983 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>85</StreetNumber>
+               <StreetName>Thompson</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>West Saint Paul</City>
+               <StateCode>Minnesota</StateCode>
+               <Zip5>55118</Zip5>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>651</PhoneArea>
+               <PhonePrefix>500</PhonePrefix>
+               <PhoneSuffix>3123</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Stern</LastName>
+            <FirstName>Jordan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Shrout</LastName>
+            <FirstName>Timothy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

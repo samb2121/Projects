@@ -1,0 +1,345 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>09/05/2023 17:54:00</ReportDate>
+   <StartDate>09/05/2023 16:56:00</StartDate>
+   <Summary>The suspect, Charles Wilson, trespassed on the property and broke into a shed. He then resisted arrest.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>BRG</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Criminal Trespass</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Resisting Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>706178</AddressId>
+      <Address>
+         <AddressId>706178</AddressId>
+         <StreetNumber>27692</StreetNumber>
+         <StreetName>Sandtown</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Goldsboro</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21636</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.742804</Longitude>
+         <Latitude>39.032876</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Ortiz</LastName>
+            <FirstName>Javier</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Tassone</LastName>
+            <FirstName>Scott</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Capranica</LastName>
+            <FirstName>Christina</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 0600</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0600</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>2 2210</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 2210</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1130</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <ForcedEntryCode>N</ForcedEntryCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1130</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>46</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>60150</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Wilson</LastName>
+               <FirstName>Charles</FirstName>
+               <MiddleName>Dallas</MiddleName>
+               <DOB>12/07/1976 00:00:00</DOB>
+               <TitleCode>III</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Wilson</LastName>
+               <FirstName>Charles</FirstName>
+               <MiddleName>Dallas</MiddleName>
+               <DOB>12/07/1976 00:00:00</DOB>
+               <TitleCode>III</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>15733</StreetNumber>
+               <StreetName>WHARTON</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>GOLDSBORO</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.80603282740043</Longitude>
+               <Latitude>39.03880212252316</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>26481</StreetNumber>
+               <StreetName>Bee Tree</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Henderson</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.78234</Longitude>
+               <Latitude>39.075724</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>239</PhonePrefix>
+               <PhoneSuffix>4765</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>28</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>188500</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Killen</LastName>
+               <FirstName>Tabitha</FirstName>
+               <MiddleName>Enzie</MiddleName>
+               <DOB>02/04/1995 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Killen</LastName>
+               <FirstName>Tabitha</FirstName>
+               <MiddleName>Enzie</MiddleName>
+               <DOB>02/04/1995 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>27692</StreetNumber>
+               <StreetName>Sandtown</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Goldsboro</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.74296271971497</Longitude>
+               <Latitude>39.029276126335574</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>783</PhonePrefix>
+               <PhoneSuffix>5965</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>32</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>118177</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Husfelt</LastName>
+               <FirstName>Jay</FirstName>
+               <MiddleName>Brice</MiddleName>
+               <DOB>01/30/1991 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Husfelt</LastName>
+               <FirstName>Jay</FirstName>
+               <MiddleName>Brice</MiddleName>
+               <DOB>01/30/1991 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>27692</StreetNumber>
+               <StreetName>Sandtown</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Goldsboro</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21636</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.742804</Longitude>
+               <Latitude>39.032876</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>30</StreetNumber>
+               <StreetName>Nicole</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Hartly</City>
+               <StateCode>Delaware</StateCode>
+               <Zip5>19953</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.714971</Longitude>
+               <Latitude>39.177584</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>739</PhonePrefix>
+               <PhoneSuffix>3930</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <ResidentStatusCode>Unknown</ResidentStatusCode>
+         <Person>
+            <PersonId>387190</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Brown</LastName>
+               <FirstName>DFC</FirstName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Brown</LastName>
+               <FirstName>DFC</FirstName>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>9305</StreetNumber>
+               <StreetName>Double Hills</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Denton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21629</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.820983</Longitude>
+               <Latitude>38.862642</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>PO</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>VPO</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>67</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>387193</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Killen</LastName>
+               <FirstName>Glenn</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>01/23/1956 00:00:00</DOB>
+               <TitleCode>Senior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Killen</LastName>
+               <FirstName>Glenn</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>01/23/1956 00:00:00</DOB>
+               <TitleCode>Senior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>27692</StreetNumber>
+               <StreetName>Sandtown</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Goldsboro</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21636</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.742804</Longitude>
+               <Latitude>39.032876</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <StatusCode>1</StatusCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

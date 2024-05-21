@@ -1,0 +1,145 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>04/23/2023 00:21:00</ReportDate>
+   <StartDate>04/22/2023 23:48:00</StartDate>
+   <Summary>2nd Degree Assault</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>531643</AddressId>
+      <Address>
+         <AddressId>531643</AddressId>
+         <StreetNumber>1805</StreetNumber>
+         <StreetName>McGinnes</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Chestertown</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21620</Zip5>
+         <Zip4>1853</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.9614055</Longitude>
+         <Latitude>39.2175113</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Sheldon</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Curley</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Carroll</LastName>
+            <FirstName>Branden</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>44</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>293100</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Wood</LastName>
+               <FirstName>Monica</FirstName>
+               <MiddleName>Margaret</MiddleName>
+               <DOB>02/26/1979 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Wood</LastName>
+               <FirstName>Monica</FirstName>
+               <MiddleName>Margaret</MiddleName>
+               <DOB>02/26/1979 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1805</StreetNumber>
+               <StreetName>McGinnes</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Chestertown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21620</Zip5>
+               <Zip4>1853</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.9614055</Longitude>
+               <Latitude>39.2175113</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>272213</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Wood</LastName>
+               <FirstName>Jodie</FirstName>
+               <MiddleName>Beth</MiddleName>
+               <DOB>08/28/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Wood</LastName>
+               <FirstName>Jodie</FirstName>
+               <MiddleName>Beth</MiddleName>
+               <DOB>08/28/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1805</StreetNumber>
+               <StreetName>McGinnes</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Chestertown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21620</Zip5>
+               <Zip4>1853</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.9614055</Longitude>
+               <Latitude>39.2175113</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>282</PhonePrefix>
+               <PhoneSuffix>8122</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

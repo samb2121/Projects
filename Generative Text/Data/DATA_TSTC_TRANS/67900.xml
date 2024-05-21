@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2020D4210238</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>03/16/2020 09:38:00</ReportDate>
+   <ReportTime>03/16/2020 09:38:00</ReportTime>
+   <StartDate>03/16/2020 09:38:00</StartDate>
+   <StartTime>03/16/2020 09:38:00</StartTime>
+   <Summary>notification test</Summary>
+   <CreatorId>STATE_OFFICER14</CreatorId>
+   <CreatorDate>03/16/2020 09:38:19</CreatorDate>
+   <UpdatorId>STATE_OFFICER14</UpdatorId>
+   <UpdatorDate>08/03/2023 10:27:38</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ARIES</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>698</AddressId>
+      <City>18</City>
+      <CreatorId>STATE_OFFICER14</CreatorId>
+      <CreatorDate>03/16/2020 09:38:59</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/03/2023 10:26:38</UpdatorDate>
+      <Address>
+         <AddressId>698</AddressId>
+         <StreetNumber>5</StreetNumber>
+         <StreetName>Main</StreetName>
+         <SubNumber>123</SubNumber>
+         <City>Denver</City>
+         <StateCode>CE</StateCode>
+         <Zip5>12345</Zip5>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>03/16/2020 09:38:20</SuppReportDate>
+      <SuppReportTime>03/16/2020 09:38:20</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>990</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>08/03/2023 10:27:44</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER14</CreatorId>
+      <CreatorDate>03/16/2020 09:38:20</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/03/2023 10:27:44</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>testing of notification</NarrativeText>
+         <CreatorId>STATE_OFFICER14</CreatorId>
+         <CreatorDate>03/16/2020 09:40:27</CreatorDate>
+         <UpdatorId>STATE_OFFICER14</UpdatorId>
+         <UpdatorDate>08/03/2023 10:25:07</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Smith</LastName>
+            <FirstName>Charles</FirstName>
+            <InternalID>2014</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Smith</LastName>
+            <FirstName>Charles</FirstName>
+            <InternalID>2014</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>3228</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>16-42-19-16</OffenseCode>
+         <PlaceCode>10</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>03/16/2020 09:38:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>STATE_OFFICER14</CreatorId>
+         <CreatorDate>03/16/2020 09:39:45</CreatorDate>
+         <UpdatorId>STATE_OFFICER14</UpdatorId>
+         <UpdatorDate>03/16/2020 09:39:45</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>49</ApproxAge>
+         <CreatorId>STATE_OFFICER14</CreatorId>
+         <CreatorDate>08/03/2023 10:27:20</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>09/12/2023 11:20:40</UpdatorDate>
+         <Person>
+            <PersonId>897</PersonId>
+            <RaceCode>I</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Black</LastName>
+               <FirstName>Bob</FirstName>
+               <DOB>06/01/1970 00:00:00</DOB>
+               <SSN>1.11111111E8</SSN>
+               <DateOfInfo>06/13/2017 09:48:35</DateOfInfo>
+               <SLastName>B420</SLastName>
+               <SFirstName>B100</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>King</LastName>
+               <FirstName>BB</FirstName>
+               <DOB>06/01/1970 00:00:00</DOB>
+               <SSN>1.11111111E8</SSN>
+               <DateOfInfo>06/13/2017 00:00:00</DateOfInfo>
+               <SLastName>K520</SLastName>
+               <SFirstName>B000</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Black</LastName>
+               <FirstName>Bob</FirstName>
+               <DOB>06/01/1970 00:00:00</DOB>
+               <SSN>1.11111111E8</SSN>
+               <SLastName>B420</SLastName>
+               <SFirstName>B100</SFirstName>
+               <DateOfInfo>06/13/2017 09:48:35</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>King</LastName>
+               <FirstName>BB</FirstName>
+               <DOB>06/01/1970 00:00:00</DOB>
+               <SSN>1.11111111E8</SSN>
+               <SLastName>K520</SLastName>
+               <SFirstName>B000</SFirstName>
+               <DateOfInfo>06/13/2017 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>300</StreetNumber>
+               <StreetDirCode>E</StreetDirCode>
+               <StreetName>200</StreetName>
+               <StreetSuffixCode>E</StreetSuffixCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <City>Lebanon</City>
+               <StateCode>IN</StateCode>
+               <Zip5>46052</Zip5>
+               <CountryCode>US</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-86.36852515301796</Longitude>
+               <Latitude>39.73382972861548</Latitude>
+               <Beat>Test</Beat>
+               <SubBeat>Area</SubBeat>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>PAG</PhoneTypeCode>
+               <PhoneArea>767</PhoneArea>
+               <PhonePrefix>666</PhonePrefix>
+               <PhoneSuffix>6677</PhoneSuffix>
+               <DateOfInfo>06/28/2017 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER14</CreatorId>
+            <CreatorDate>08/03/2023 10:27:21</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:25</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

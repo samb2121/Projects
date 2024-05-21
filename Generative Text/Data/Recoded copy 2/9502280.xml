@@ -1,0 +1,48 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>10/07/2023 19:09:00</ReportDate>
+   <StartDate>10/07/2023 19:09:00</StartDate>
+   <Summary>MVC / Firearm Discharge</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>FD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>ST MICHAELS RD/ LEE HAVEN RD</IncAddrComment>
+      <AddressId>595723</AddressId>
+      <Address>
+         <AddressId>595723</AddressId>
+         <StreetName>St Michaels</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Easton</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-76.103155</Longitude>
+         <Latitude>38.781298</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>27701-27999 ST MICHAELS RD / 8162-8440 LEE HAVEN RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Del Vecchio</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Glover</LastName>
+            <FirstName>Eric</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

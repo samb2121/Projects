@@ -1,0 +1,87 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>03/15/2023 11:40:00</ReportDate>
+   <StartDate>03/15/2023 11:38:00</StartDate>
+   <Summary>RAPID electronic audit of Pawn and Precious Metal Dealer Thomas' Fine Jewelry</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>Business district</IncAddrComment>
+      <AddressId>673698</AddressId>
+      <City>MDC119</City>
+      <Address>
+         <AddressId>673698</AddressId>
+         <StreetNumber>525</StreetNumber>
+         <StreetName>Poplar</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Cambridge</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.077358</Longitude>
+         <Latitude>38.570288</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Haas</LastName>
+            <FirstName>Jesse</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Davenport</LastName>
+            <FirstName>Jean</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>361093</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Robinson</LastName>
+               <FirstName>Thomas</FirstName>
+               <MiddleName>Coleman</MiddleName>
+               <DOB>04/30/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Robinson</LastName>
+               <FirstName>Thomas</FirstName>
+               <MiddleName>Coleman</MiddleName>
+               <DOB>04/30/1989 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1414</StreetNumber>
+               <StreetName>Town Point</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Cambridge</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21613</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.204873</Longitude>
+               <Latitude>38.550412</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>228</PhonePrefix>
+               <PhoneSuffix>0921</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

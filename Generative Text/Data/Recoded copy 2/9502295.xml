@@ -1,0 +1,112 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3000</ORINum>
+   <ReportDate>12/10/2023 20:54:00</ReportDate>
+   <StartDate>12/10/2023 20:08:00</StartDate>
+   <Summary>-Theft.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>510547</AddressId>
+      <Address>
+         <AddressId>510547</AddressId>
+         <StreetNumber>2000</StreetNumber>
+         <StreetName>Rock Spring</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Forest Hill</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.38333</Longitude>
+         <Latitude>39.57224</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Dudek</LastName>
+            <FirstName>Anthony</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rowe</LastName>
+            <FirstName>Jason</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0621 23D</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0621 23D</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>17</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>396158</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Paige</LastName>
+               <FirstName>Sabrina</FirstName>
+               <MiddleName>Antionette</MiddleName>
+               <DOB>11/22/2006 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Paige</LastName>
+               <FirstName>Sabrina</FirstName>
+               <MiddleName>Antionette</MiddleName>
+               <DOB>11/22/2006 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>707</StreetNumber>
+               <StreetName>Foot Hill</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Bel Air</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21014</Zip5>
+               <Zip4>5352</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.351887</Longitude>
+               <Latitude>39.514498</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>619</PhonePrefix>
+               <PhoneSuffix>3723</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Black and white Nike shoes</Description>
+         <PropertyTypeCode>SHOES/BOOTS</PropertyTypeCode>
+         <PropertyValue>130</PropertyValue>
+         <Value>130</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>257854</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>WHI</SecondaryColor>
+         <Make>Nike</Make>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

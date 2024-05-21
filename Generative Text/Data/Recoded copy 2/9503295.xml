@@ -1,0 +1,241 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2200</ORINum>
+   <ReportDate>02/23/2023 01:21:00</ReportDate>
+   <StartDate>02/23/2023 00:41:00</StartDate>
+   <Summary>Domestic/ Theft</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>118415</AddressId>
+      <City>MDC112</City>
+      <Address>
+         <AddressId>118415</AddressId>
+         <StreetNumber>7218</StreetNumber>
+         <StreetName>SHARPSBURG</StreetName>
+         <StreetTypeCode>Pike</StreetTypeCode>
+         <City>BOONSBORO</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.74592331318672</Longitude>
+         <Latitude>39.51226145622598</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Koontz</LastName>
+            <FirstName>Sean </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Ward</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Daniels</LastName>
+            <FirstName>Jared</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Warrant Request</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1137_AOL</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1137_AOL</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>369887</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Sokolovskiy</LastName>
+               <FirstName>Brittany-Danielle</FirstName>
+               <DOB>10/25/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Sokolovskiy</LastName>
+               <FirstName>Brittany-Danielle</FirstName>
+               <DOB>10/25/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>7218</StreetNumber>
+               <StreetName>SHARPSBURG</StreetName>
+               <StreetTypeCode>Pike</StreetTypeCode>
+               <City>BOONSBORO</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.74592331318672</Longitude>
+               <Latitude>39.51226145622598</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetName>No fixed address</StreetName>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>711</StreetNumber>
+               <StreetDirCode>N</StreetDirCode>
+               <StreetName>Hollywood</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Surfside Beach</City>
+               <StateCode>South Carolina</StateCode>
+               <Zip5>29575</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-78.970342</Longitude>
+               <Latitude>33.613775</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>524</PhonePrefix>
+               <PhoneSuffix>0449</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>38</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>320885</PersonId>
+            <RaceCode>Middle Eastern</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Other Ethnicity/National Origin</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>KHAN</LastName>
+               <FirstName>NIGEL</FirstName>
+               <MiddleName>S</MiddleName>
+               <DOB>09/15/1984 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>KHAN</LastName>
+               <FirstName>NIGEL</FirstName>
+               <MiddleName>S</MiddleName>
+               <DOB>09/15/1984 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>7218</StreetNumber>
+               <StreetName>SHARPSBURG</StreetName>
+               <StreetTypeCode>Pike</StreetTypeCode>
+               <City>BOONSBORO</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.74592331318672</Longitude>
+               <Latitude>39.51226145622598</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>12508</StreetNumber>
+               <StreetName>Blue Ponds</StreetName>
+               <StreetTypeCode>Terrace</StreetTypeCode>
+               <City>Beltsville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20705</Zip5>
+               <Zip4>6300</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.8731545</Longitude>
+               <Latitude>39.0611524</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>472</PhonePrefix>
+               <PhoneSuffix>2944</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240013189</BusinessNumber>
+         <BusinessName>NIH</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>COMPUTER</PropertyTypeCode>
+         <PropertyValue>800</PropertyValue>
+         <Value>800</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>244198</Property_ID>
+         <Make>Dell</Make>
+         <Model>Lattitude</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Ward</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Daniels</LastName>
+            <FirstName>Jared</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>COMPUTER</PropertyTypeCode>
+         <PropertyValue>800</PropertyValue>
+         <Value>800</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>244198</Property_ID>
+         <Make>Dell</Make>
+         <Model>Lattitude</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

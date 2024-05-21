@@ -1,0 +1,179 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4800</ORINum>
+   <ReportDate>10/15/2023 02:58:00</ReportDate>
+   <StartDate>10/15/2023 02:32:00</StartDate>
+   <Summary>Physical Domestic</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>709963</AddressId>
+      <Address>
+         <AddressId>709963</AddressId>
+         <StreetNumber>12747</StreetNumber>
+         <StreetName>Old Bridge</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <SubTypeCode>APT</SubTypeCode>
+         <SubNumber>5</SubNumber>
+         <City>Ocean City</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.106981</Longitude>
+         <Latitude>38.332189</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>DIAKONIA</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Snell</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Gordy</LastName>
+            <FirstName>Kendrick</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Woo</LastName>
+            <FirstName>Johnathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Odonald</LastName>
+            <FirstName>Jameson</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Snell</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Odonald</LastName>
+            <FirstName>Jameson</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Odonald</LastName>
+            <FirstName>Jameson</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1415 4D</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4d</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>30</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>390394</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Timmons</LastName>
+               <FirstName>Summer</FirstName>
+               <MiddleName>Brooke</MiddleName>
+               <DOB>08/09/1993 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Timmons</LastName>
+               <FirstName>Summer</FirstName>
+               <MiddleName>Brooke</MiddleName>
+               <DOB>08/09/1993 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>7791</StreetNumber>
+               <StreetName>Jones Hastings</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Parsonsburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21849</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.456114</Longitude>
+               <Latitude>38.405217</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>397</PhonePrefix>
+               <PhoneSuffix>4550</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>390393</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Church</LastName>
+               <FirstName>Darrin</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>09/14/1990 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Church</LastName>
+               <FirstName>Darrin</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>09/14/1990 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>7791</StreetNumber>
+               <StreetName>Jones Hastings</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Parsonsburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21849</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.456114</Longitude>
+               <Latitude>38.405217</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

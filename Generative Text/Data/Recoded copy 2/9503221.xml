@@ -1,0 +1,111 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>02/10/2023 07:51:00</ReportDate>
+   <StartDate>02/10/2023 07:29:00</StartDate>
+   <Summary>suspended driver</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>I795 NB,OWINGS MILLS</IncAddrComment>
+      <AddressId>683767</AddressId>
+      <City>MDC497</City>
+      <Address>
+         <AddressId>683767</AddressId>
+         <StreetName>I795 Nb Owings</StreetName>
+         <StreetTypeCode>Mills</StreetTypeCode>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.7632220166667</Longitude>
+         <Latitude>39.3981649</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bunger</LastName>
+            <FirstName>Gregory</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Twardowski</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bukoski</LastName>
+            <FirstName>Conrad</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>3096</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>25</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>368777</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>PETTIS</LastName>
+               <FirstName>LAWRENCE</FirstName>
+               <MiddleName>ANTHONY R</MiddleName>
+               <DOB>04/23/1997 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>PETTIS</LastName>
+               <FirstName>LAWRENCE</FirstName>
+               <MiddleName>ANTHONY R</MiddleName>
+               <DOB>04/23/1997 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>4315</StreetNumber>
+               <StreetName>MISPILLION</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>NOTTINGHAM</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21236</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>149716</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>19UUA9F58EA002782</VIN>
+         <VehicleYear>2014</VehicleYear>
+         <VehicleMakeCode>ACURA</VehicleMakeCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>12660CK</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

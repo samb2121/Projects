@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-012703</IncidentReportNum>
+   <AgencyCode>57</AgencyCode>
+   <ORINum>MDMSP5000</ORINum>
+   <ReportDate>04/10/2023 10:18:00</ReportDate>
+   <ReportTime>04/10/2023 10:18:00</ReportTime>
+   <StartDate>04/10/2023 09:40:00</StartDate>
+   <StartTime>04/10/2023 09:40:00</StartTime>
+   <Summary>Single-vehicle PD ACRS.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>04/10/2023 10:18:38</CreatorDate>
+   <UpdatorId>MSP0104</UpdatorId>
+   <UpdatorDate>04/12/2023 13:30:18</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>LEONARDTOWN RD/ OLIVER SHOP RD</IncAddrComment>
+      <AddressId>588387</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>04/10/2023 10:18:40</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>04/12/2023 06:14:19</UpdatorDate>
+      <Address>
+         <AddressId>588387</AddressId>
+         <StreetName>Leonardtown</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Bryantown</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-76.84218</Longitude>
+         <Latitude>38.55538</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>6381-6457 LEONARDTOWN RD / 0-0 OLIVER SHOP RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>6459-6799 LEONARDTOWN RD / 5700-5710 OLIVER SHOP RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>04/10/2023 10:18:33</SuppReportDate>
+      <SuppReportTime>04/10/2023 10:18:33</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>57</SuppAgencyCode>
+      <DsIcrDate>04/12/2023 13:30:18</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>04/10/2023 10:18:38</CreatorDate>
+      <UpdatorId>MSP0104</UpdatorId>
+      <UpdatorDate>04/12/2023 13:30:18</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Report completed in ACRS.</NarrativeText>
+         <CreatorId>MSP7065</CreatorId>
+         <CreatorDate>04/12/2023 06:14:52</CreatorDate>
+         <UpdatorId>MSP7065</UpdatorId>
+         <UpdatorDate>04/12/2023 06:14:52</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>CT</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Zimmerman</LastName>
+            <FirstName>Justin</FirstName>
+            <InternalID>3901</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>57</AgencyCode>
+            <ORINumber>MDMSP5000</ORINumber>
+            <LastName>Barth</LastName>
+            <FirstName>James</FirstName>
+            <InternalID>0104</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>57</AgencyCode>
+            <ORINumber>MDMSP5000</ORINumber>
+            <LastName>Barth</LastName>
+            <FirstName>James</FirstName>
+            <InternalID>0104</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>57</AgencyCode>
+            <ORINumber>MDMSP5000</ORINumber>
+            <LastName>Thomas II</LastName>
+            <FirstName>Ronald</FirstName>
+            <InternalID>7065</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

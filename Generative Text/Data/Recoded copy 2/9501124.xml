@@ -1,0 +1,130 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>10/14/2023 04:05:00</ReportDate>
+   <StartDate>10/14/2023 03:50:00</StartDate>
+   <Summary>MSP Barrack G DUI 23-162, TA 21-902(A)(1) DUI (SCOTTY WILLIAM BAILEY)</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>BALTIMORE BLVD/ MALCOLM DR</IncAddrComment>
+      <AddressId>7450</AddressId>
+      <Address>
+         <AddressId>7450</AddressId>
+         <StreetNumber>576</StreetNumber>
+         <StreetName>JERMOR</StreetName>
+         <StreetTypeCode>Lane</StreetTypeCode>
+         <City>WESTMINSTER</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>565</SubBeat>
+         <Longitude>-76.97631548950504</Longitude>
+         <Latitude>39.56438274852493</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>DUNKIN DOUGHNUTS PARKING LOT</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>OLD CACTUS WILLIES PARKING LOT</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Gibson</LastName>
+            <FirstName>Cameron</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>FAIR</LastName>
+            <FirstName>JOHN</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>52</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>391046</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>BAILEY</LastName>
+               <FirstName>SCOTTY</FirstName>
+               <MiddleName>WILLIAM</MiddleName>
+               <DOB>06/21/1971 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>BAILEY</LastName>
+               <FirstName>SCOTTY</FirstName>
+               <MiddleName>WILLIAM</MiddleName>
+               <DOB>06/21/1971 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>37</StreetNumber>
+               <StreetName>Webster</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>A</SubNumber>
+               <City>Westminster</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21157</Zip5>
+               <Zip4>6782</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.984715</Longitude>
+               <Latitude>39.566059</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>158311</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>JF1SG65647H725719</VIN>
+         <VehicleYear>2007</VehicleYear>
+         <VehicleMakeCode>SUBARU</VehicleMakeCode>
+         <VehicleStyleCode>LL</VehicleStyleCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehSecColorCode>GRY</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>1ES0700</VehicleLicNumber>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

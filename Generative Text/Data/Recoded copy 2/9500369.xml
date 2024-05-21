@@ -1,0 +1,165 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>09/05/2023 10:08:00</ReportDate>
+   <StartDate>09/02/2023 08:19:00</StartDate>
+   <Summary>Forgery and counterfeit of a check/Theft.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>706029</AddressId>
+      <Address>
+         <AddressId>706029</AddressId>
+         <StreetNumber>135</StreetNumber>
+         <StreetName>Horseshoe</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <SubTypeCode>APT</SubTypeCode>
+         <SubNumber>B</SubNumber>
+         <City>Rising Sun</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.104781</Longitude>
+         <Latitude>39.698031</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Davis</LastName>
+            <FirstName>James</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Reeves</LastName>
+            <FirstName>Jared</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 2502</OffenseCode>
+         <PlaceCode>Bank/Savings And Loan</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 2502</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>55</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>387160</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Byrd</LastName>
+               <FirstName>Cathryn</FirstName>
+               <MiddleName>E</MiddleName>
+               <DOB>08/22/1968 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Byrd</LastName>
+               <FirstName>Cathryn</FirstName>
+               <MiddleName>E</MiddleName>
+               <DOB>08/22/1968 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>135</StreetNumber>
+               <StreetName>Horseshoe</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>B</SubNumber>
+               <City>Rising Sun</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.104781</Longitude>
+               <Latitude>39.698031</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>484</PhoneArea>
+               <PhonePrefix>667</PhonePrefix>
+               <PhoneSuffix>5635</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>387064</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Miller</LastName>
+               <FirstName>Nathan</FirstName>
+               <DOB>12/31/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Miller</LastName>
+               <FirstName>Nathan</FirstName>
+               <DOB>12/31/2000 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>717</PhoneArea>
+               <PhonePrefix>945</PhonePrefix>
+               <PhoneSuffix>4102</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>3</RoleCode>
+         <StatusCode>3</StatusCode>
+         <DocumentTypeCode>O</DocumentTypeCode>
+         <PropertyTypeCode>CHECK/BOND NEGOT</PropertyTypeCode>
+         <PropertyValue>700</PropertyValue>
+         <Value>700</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>253775</Property_ID>
+         <AccountNumber>9.582727E6</AccountNumber>
+         <Amount>700</Amount>
+         <Bank>Fulton</Bank>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Parisan</LastName>
+            <FirstName>Steven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Roberts</LastName>
+            <FirstName>Sandra</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

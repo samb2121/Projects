@@ -1,0 +1,226 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>09/06/2023 18:17:00</ReportDate>
+   <StartDate>09/06/2023 18:00:00</StartDate>
+   <Summary>ASSAULT - DOMESTIC DISPUTE</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>N MAIN ST/ MILL ST</IncAddrComment>
+      <AddressId>706183</AddressId>
+      <Address>
+         <AddressId>706183</AddressId>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>Main</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Port Deposit</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>ST</CrossStreetTypeCode>
+         <Longitude>-76.12656</Longitude>
+         <Latitude>39.614301</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>290-309 N MAIN ST / 1-25 MILL ST</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mott</LastName>
+            <FirstName>Kenneth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Kim</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Tereman</LastName>
+            <FirstName>Connor</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>37</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>387188</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>TRABERT</LastName>
+               <FirstName>REBECACA</FirstName>
+               <MiddleName>JOANNE</MiddleName>
+               <DOB>07/26/1986 00:00:00</DOB>
+               </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>TRABERT</LastName>
+               <FirstName>REBECA</FirstName>
+               <MiddleName>JOANNE</MiddleName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Alias</NameTypeCode>
+               <LastName>TRABERT</LastName>
+               <FirstName>REBECACA</FirstName>
+               <MiddleName>JOANNE</MiddleName>
+               <DOB>07/26/1986 00:00:00</DOB>
+               </Alias>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>TRABERT</LastName>
+               <FirstName>REBECA</FirstName>
+               <MiddleName>JOANNE</MiddleName>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1890</StreetNumber>
+               <StreetName>Frenchtown</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Port Deposit</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21904</Zip5>
+               <Zip4>1906</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.081798</Longitude>
+               <Latitude>39.591397</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>864</PhonePrefix>
+               <PhoneSuffix>1488</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>27</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>387189</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>TRABERT</LastName>
+               <FirstName>CHRISTIAN</FirstName>
+               <MiddleName>PAUL</MiddleName>
+               <DOB>09/03/1996 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>TRABERT</LastName>
+               <FirstName>CHRISTIAN</FirstName>
+               <MiddleName>PAUL</MiddleName>
+               <DOB>09/03/1996 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>701</StreetNumber>
+               <StreetName>Erie</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Havre De Grace</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21078</Zip5>
+               <Zip4>2711</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.095622</Longitude>
+               <Latitude>39.555326</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>903</PhonePrefix>
+               <PhoneSuffix>4975</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Parisan</LastName>
+            <FirstName>Steven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Quirk</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Parisan</LastName>
+            <FirstName>Steven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Roberts</LastName>
+            <FirstName>Sandra</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Parisan</LastName>
+            <FirstName>Steven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Roberts</LastName>
+            <FirstName>Sandra</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

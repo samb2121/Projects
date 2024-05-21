@@ -1,0 +1,90 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>01/11/2023 21:05:00</ReportDate>
+   <StartDate>01/11/2023 20:13:00</StartDate>
+   <Summary>Motor Vehicle Collision, Driving on a Suspended Maryland Driver's License</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>TUSCARORA RD/ NEW DESIGN RD</IncAddrComment>
+      <AddressId>553369</AddressId>
+      <City>MDC566</City>
+      <Address>
+         <AddressId>553369</AddressId>
+         <StreetName>Tuscarora</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Tuscarora</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-77.477294</Longitude>
+         <Latitude>39.259821</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>5100-5499 TUSCARORA RD / 730-851 NEW DESIGN RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>5602-5699 TUSCARORA RD / 730-899 NEW DESIGN RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bell</LastName>
+            <FirstName>Scott</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Silver</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>27</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>175050</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Brinkley</LastName>
+               <FirstName>Erina</FirstName>
+               <MiddleName>Elizabeth</MiddleName>
+               <DOB>04/20/1995 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Brinkley</LastName>
+               <FirstName>Erina</FirstName>
+               <MiddleName>Elizabeth</MiddleName>
+               <DOB>04/20/1995 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>9818</StreetNumber>
+               <StreetName>Greenbrier</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Walkersville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21793</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.322734</Longitude>
+               <Latitude>39.482582</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

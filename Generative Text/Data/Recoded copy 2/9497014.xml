@@ -1,0 +1,133 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>04/04/2023 12:28:00</ReportDate>
+   <StartDate>04/04/2023 12:14:00</StartDate>
+   <Summary>Theft</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>689605</AddressId>
+      <Address>
+         <AddressId>689605</AddressId>
+         <StreetNumber>206</StreetNumber>
+         <StreetName>Chesapeake Ridge</StreetName>
+         <StreetTypeCode>Lane</StreetTypeCode>
+         <SubNumber>1b</SubNumber>
+         <City>North East</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21901</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.959454</Longitude>
+         <Latitude>39.629149</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Kim</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mott</LastName>
+            <FirstName>Kenneth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1137_AOL</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>42</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>350787</PersonId>
+            <RaceCode>Asian</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Mcgowan</LastName>
+               <FirstName>Ofelia</FirstName>
+               <DOB>04/03/1981 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Mcgowan</LastName>
+               <FirstName>Ofelia</FirstName>
+               <DOB>04/03/1981 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>206</StreetNumber>
+               <StreetName>Chesapeake Ridge</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <SubNumber>1b</SubNumber>
+               <City>North East</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21901</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.959454</Longitude>
+               <Latitude>39.629149</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>300</StreetNumber>
+               <StreetName>Pettinaro</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>B4</SubNumber>
+               <City>Elkton</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.795605</Longitude>
+               <Latitude>39.659757</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <Person>
+            <PersonId>374006</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>C</DocumentTypeCode>
+         <PropertyTypeCode>CASH</PropertyTypeCode>
+         <PropertyValue>250</PropertyValue>
+         <Value>250</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>247060</Property_ID>
+         <Quantity>0</Quantity>
+         <Amount>250</Amount>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,103 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>12/01/2023 09:07:00</ReportDate>
+   <StartDate>12/01/2023 09:05:00</StartDate>
+   <Summary>Driving without a license.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>TANEYTOWN PIKE/ MEADOW CREEK DR</IncAddrComment>
+      <AddressId>531934</AddressId>
+      <Address>
+         <AddressId>531934</AddressId>
+         <StreetName>Taneytown</StreetName>
+         <StreetTypeCode>Pike</StreetTypeCode>
+         <City>Westminster</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>DR</CrossStreetTypeCode>
+         <Longitude>-77.01198</Longitude>
+         <Latitude>39.58742</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>525-600 TANEYTOWN PIKE / 400-500 MEADOW CREEK DR</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>100-600 TANEYTOWN PKE / 413-424 MEADOW CREEK DR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Smith</LastName>
+            <FirstName>Dale</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Reilly</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>19731</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>19731</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>40</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>394441</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Sandoval Lucero</LastName>
+               <FirstName>Rony</FirstName>
+               <MiddleName>Estuardo</MiddleName>
+               <DOB>10/11/1983 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Sandoval Lucero</LastName>
+               <FirstName>Rony</FirstName>
+               <MiddleName>Estuardo</MiddleName>
+               <DOB>10/11/1983 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>17</StreetNumber>
+               <StreetName>court pleasant</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>3</SubNumber>
+               <City>Dundalk</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21222</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.525768</Longitude>
+               <Latitude>39.281593</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

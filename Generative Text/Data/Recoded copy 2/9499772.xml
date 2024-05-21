@@ -1,0 +1,167 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4800</ORINum>
+   <ReportDate>07/08/2023 21:18:00</ReportDate>
+   <StartDate>07/08/2023 21:10:00</StartDate>
+   <Summary>DUI/DWI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>OCEAN GTWY/ RIDDLE LN</IncAddrComment>
+      <AddressId>587051</AddressId>
+      <Address>
+         <AddressId>587051</AddressId>
+         <StreetName>Ocean</StreetName>
+         <StreetTypeCode>Gateway</StreetTypeCode>
+         <City>Berlin</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>LN</CrossStreetTypeCode>
+         <Longitude>-75.154957</Longitude>
+         <Latitude>38.340754</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>WB 50 E/O GLEN RIDDLE</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>WB 50 /  RIDDLE</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>50 WB/ RIDDLE LN</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>WB 50 / RIDDLE LN</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>11317-11541 OCEAN GTWY / 10001-10003 RIDDLE LN</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>11316-11542 OCEAN GTWY / 10001-10003 RIDDLE LN</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>11317-11541 OCEAN GTWY / 10005-10015 RIDDLE LN</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Shubert</LastName>
+            <FirstName>Seth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Sweitzer</LastName>
+            <FirstName>Colin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Shubert</LastName>
+            <FirstName>Seth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Shubert</LastName>
+            <FirstName>Seth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>42</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>282876</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Usilton</LastName>
+               <FirstName>Jason</FirstName>
+               <MiddleName>Robert</MiddleName>
+               <DOB>03/03/1981 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Usilton</LastName>
+               <FirstName>Jason</FirstName>
+               <MiddleName>Robert</MiddleName>
+               <DOB>03/03/1981 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>20872</StreetNumber>
+               <StreetName>Nanticoke</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Bivalve</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21814</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.893338</Longitude>
+               <Latitude>38.292778</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>506</StreetNumber>
+               <StreetName>Forest</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Fruitland</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21826</Zip5>
+               <Zip4>1308</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.6296511</Longitude>
+               <Latitude>38.3291664</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>302</PhoneArea>
+               <PhonePrefix>519</PhonePrefix>
+               <PhoneSuffix>7173</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>155122</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VehicleYear>2003</VehicleYear>
+         <VehicleMakeCode>GENERAL MOTORS CORP.</VehicleMakeCode>
+         <VehicleModelCode>SIERRA</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>GLD</VehPriColorCode>
+         <VehSecColorCode>GLD</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>803Z91</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

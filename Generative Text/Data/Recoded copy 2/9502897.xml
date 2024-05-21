@@ -1,0 +1,307 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>04/03/2023 01:19:00</ReportDate>
+   <StartDate>04/03/2023 00:45:00</StartDate>
+   <Summary>1st Degree Assault / MDOP</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>FIREARM</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>FD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>MDOP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>689436</AddressId>
+      <City>MDC146</City>
+      <Address>
+         <AddressId>689436</AddressId>
+         <StreetNumber>180</StreetNumber>
+         <StreetName>Delancy</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Elkton</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.791782</Longitude>
+         <Latitude>39.610738</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Eby</LastName>
+            <FirstName>Kyle </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rafer</LastName>
+            <FirstName>Luke</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Nagovich</LastName>
+            <FirstName>Valentine</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Black</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Jones</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1420</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1420</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>CO193</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>CO193</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>138875</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Dileonardi</LastName>
+               <FirstName>Antonio</FirstName>
+               <DOB>10/14/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Dileonardi</LastName>
+               <FirstName>Antonio</FirstName>
+               <DOB>10/14/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1007</StreetNumber>
+               <StreetName>Foxwood</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21221</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.45283</Longitude>
+               <Latitude>39.297169</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>180</StreetNumber>
+               <StreetName>Delancy</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Elkton</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.791782</Longitude>
+               <Latitude>39.610738</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>925</PhonePrefix>
+               <PhoneSuffix>7506</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>798</PhonePrefix>
+               <PhoneSuffix>0788</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>R</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>373270</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Miller</LastName>
+               <FirstName>Katelyn</FirstName>
+               <MiddleName>Marie</MiddleName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Miller</LastName>
+               <FirstName>Katelyn</FirstName>
+               <MiddleName>Marie</MiddleName>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1879</StreetNumber>
+               <StreetName>Arthurs</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Shiloh</City>
+               <StateCode>Pennsylvania</StateCode>
+               <Zip5>17408</Zip5>
+               <Zip4>6343</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.784708</Longitude>
+               <Latitude>39.986476</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>151584</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>1C4RJFN91JC284057</VIN>
+         <VehicleYear>2018</VehicleYear>
+         <VehicleMakeCode>JEEP FOR MODEL YEARS 1989 THROUGH PRESENT PART OF FCA US LLC</VehicleMakeCode>
+         <VehicleStyleCode>4T</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>GRN</VehPriColorCode>
+         <VehSecColorCode>GRN</VehSecColorCode>
+         <VehicleLicStateCode>PA</VehicleLicStateCode>
+         <VehicleLicNumber>KRP1693</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>4</VehicleLicMonth>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehicleValue>4000</VehicleValue>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>4</RoleCode>
+         <StatusCode>4</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Wooden steps and railings to victims deck attached to residence.</Description>
+         <PropertyTypeCode>OTHER PROP-MISC</PropertyTypeCode>
+         <PropertyValue>500</PropertyValue>
+         <Value>500</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246561</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>4</RoleCode>
+         <StatusCode>4</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Right rear bumper and passenger window damaged from suspects.</Description>
+         <PropertyTypeCode>AUTO</PropertyTypeCode>
+         <PropertyValue>4000</PropertyValue>
+         <Value>4000</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246562</Property_ID>
+         <PrimaryColor>GRN</PrimaryColor>
+         <Make>Jeep</Make>
+         <Model>Track Hawk</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>4</RoleCode>
+         <StatusCode>4</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>One 9mm shell casing from unknown make and model pistol</Description>
+         <PropertyTypeCode>MISC/NO CODE</PropertyTypeCode>
+         <PropertyValue>1</PropertyValue>
+         <Value>1</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246563</Property_ID>
+         <PrimaryColor>GLD</PrimaryColor>
+         <SecondaryColor>BRZ</SecondaryColor>
+         <Make>Blazer</Make>
+         <Model>Brass</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>4</RoleCode>
+         <StatusCode>4</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Black and red flathead screwdriver</Description>
+         <PropertyTypeCode>TOOL</PropertyTypeCode>
+         <PropertyValue>10</PropertyValue>
+         <Value>10</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246564</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>RED</SecondaryColor>
+         <Make>unknown</Make>
+         <Model>unknown</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Black and gray utility glove</Description>
+         <PropertyTypeCode>CLOTHING</PropertyTypeCode>
+         <PropertyValue>10</PropertyValue>
+         <Value>10</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246565</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <SecondaryColor>GRY</SecondaryColor>
+         <Make>unknown</Make>
+         <Model>unknown</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Black</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Nagovich</LastName>
+            <FirstName>Valentine</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

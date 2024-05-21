@@ -1,0 +1,102 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>01/23/2023 19:01:00</ReportDate>
+   <StartDate>01/23/2023 18:55:00</StartDate>
+   <Summary>Driver was stopped for an inoperative brake light.  A routine check through the MVA revealed that the driver's privilege to drive was suspended.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>BALTIMORE BLVD/ S CRANBERRY RD</IncAddrComment>
+      <AddressId>583287</AddressId>
+      <City>MDC249</City>
+      <Address>
+         <AddressId>583287</AddressId>
+         <StreetName>Baltimore</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>Westminster</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetDirCode>S</CrossStreetDirCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-76.983347</Longitude>
+         <Latitude>39.572366</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>382-400 BALTIMORE BLVD / 100-103 S CRANBERRY RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>480-518 BALTIMORE BLVD / 100-103 S CRANBERRY RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Karas</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Spencer</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>19760</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>18</ApproxAge>
+         <ResidentStatusCode>Unknown</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>367024</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hagan</LastName>
+               <FirstName>Wyatt</FirstName>
+               <MiddleName>Jacob</MiddleName>
+               <DOB>04/27/2004 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hagan</LastName>
+               <FirstName>Wyatt</FirstName>
+               <MiddleName>Jacob</MiddleName>
+               <DOB>04/27/2004 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3600</StreetNumber>
+               <StreetName>Becka</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>New Windsor</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21776</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.127101</Longitude>
+               <Latitude>39.565408</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

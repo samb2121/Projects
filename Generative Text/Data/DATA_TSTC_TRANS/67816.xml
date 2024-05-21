@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2020D4210280</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>07/25/2020 15:00:00</ReportDate>
+   <ReportTime>07/25/2020 15:00:00</ReportTime>
+   <StartDate>07/25/2020 15:00:00</StartDate>
+   <StartTime>07/25/2020 15:00:00</StartTime>
+   <Summary>xxxxxxxxxxxxxxx</Summary>
+   <CreatorId>CSAUR</CreatorId>
+   <CreatorDate>07/25/2020 15:00:05</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:43</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>STP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>1695</AddressId>
+      <City>1</City>
+      <CreatorId>CSAUR</CreatorId>
+      <CreatorDate>07/25/2020 15:01:42</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>07/25/2020 15:02:02</UpdatorDate>
+      <Address>
+         <AddressId>1695</AddressId>
+         <StreetNumber>123</StreetNumber>
+         <StreetDirCode>E</StreetDirCode>
+         <StreetName>Main</StreetName>
+         <StreetTypeCode>AVE</StreetTypeCode>
+         <StreetSuffixCode>N</StreetSuffixCode>
+         <City>denver</City>
+         <StateCode>CO</StateCode>
+         <Zip5>80401</Zip5>
+         <Distance>0</Distance>
+         <Beat>D2</Beat>
+         <SubBeat>Sub D2</SubBeat>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>07/25/2020 15:00:06</SuppReportDate>
+      <SuppReportTime>07/25/2020 15:00:06</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>04/07/2021 16:07:18</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>CSAUR</CreatorId>
+      <CreatorDate>07/25/2020 15:00:06</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:29</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>This is a test narrative.</NarrativeText>
+         <CreatorId>CSAUR</CreatorId>
+         <CreatorDate>12/01/2020 12:33:01</CreatorDate>
+         <UpdatorId>CSAUR</UpdatorId>
+         <UpdatorDate>04/07/2021 16:05:58</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Saur</LastName>
+            <FirstName>Christine</FirstName>
+            <InternalID>SAUR111</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Saur</LastName>
+            <FirstName>Christine</FirstName>
+            <InternalID>SAUR111</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>3272</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-4-2  T68</OffenseCode>
+         <PlaceCode>03</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>07/25/2020 15:00:00</OffenseStatusDate>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <CreatorId>CSAUR</CreatorId>
+         <CreatorDate>07/25/2020 15:07:58</CreatorDate>
+         <UpdatorId>CSAUR</UpdatorId>
+         <UpdatorDate>04/07/2021 16:01:25</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>39</ApproxAge>
+         <CreatorId>CSAUR</CreatorId>
+         <CreatorDate>07/25/2020 15:03:36</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:22</UpdatorDate>
+         <Person>
+            <PersonId>112</PersonId>
+            <RaceCode>A</RaceCode>
+            <SexCode>F</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Stone</LastName>
+               <FirstName>Holly</FirstName>
+               <DOB>09/25/1980 00:00:00</DOB>
+               <SSN>5.55555555E8</SSN>
+               <DateOfInfo>04/22/2012 19:02:16</DateOfInfo>
+               <SLastName>S350</SLastName>
+               <SFirstName>H400</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Stone</LastName>
+               <FirstName>Holly</FirstName>
+               <DOB>09/25/1980 00:00:00</DOB>
+               <SSN>5.55555555E8</SSN>
+               <SLastName>S350</SLastName>
+               <SFirstName>H400</SFirstName>
+               <DateOfInfo>04/22/2012 19:02:16</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>CSAUR</CreatorId>
+            <CreatorDate>07/25/2020 15:03:37</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:25</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>45</ApproxAge>
+         <ResidentStatusCode>O</ResidentStatusCode>
+         <CreatorId>CSAUR</CreatorId>
+         <CreatorDate>07/25/2020 15:04:14</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:22</UpdatorDate>
+         <Person>
+            <PersonId>469</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Aaberg</LastName>
+               <FirstName>Ken</FirstName>
+               <DOB>07/09/1975 00:00:00</DOB>
+               <SSN>1.23456789E8</SSN>
+               <DateOfInfo>07/09/2013 15:43:42</DateOfInfo>
+               <SLastName>A162</SLastName>
+               <SFirstName>K500</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Free</LastName>
+               <FirstName>Fredd</FirstName>
+               <DateOfInfo>10/22/2018 00:00:00</DateOfInfo>
+               <SLastName>F600</SLastName>
+               <SFirstName>F630</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Aaberg</LastName>
+               <FirstName>Ken</FirstName>
+               <DOB>07/09/1975 00:00:00</DOB>
+               <SSN>1.23456789E8</SSN>
+               <SLastName>A162</SLastName>
+               <SFirstName>K500</SFirstName>
+               <DateOfInfo>07/09/2013 15:43:42</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>M</NameTypeCode>
+               <LastName>Free</LastName>
+               <FirstName>Fredd</FirstName>
+               <SLastName>F600</SLastName>
+               <SFirstName>F630</SFirstName>
+               <DateOfInfo>10/22/2018 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>86</StreetNumber>
+               <StreetDirCode>NE</StreetDirCode>
+               <StreetName>ASHWOOD</StreetName>
+               <StreetTypeCode>LN</StreetTypeCode>
+               <StreetSuffixCode>N</StreetSuffixCode>
+               <City>DILLON</City>
+               <CountryCode>US</CountryCode>
+               <Beat>Test</Beat>
+               <SubBeat>Area</SubBeat>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>1770</StreetNumber>
+               <StreetDirCode>BLK</StreetDirCode>
+               <StreetName>Lincoln</StreetName>
+               <City>Denver</City>
+               <StateCode>CO</StateCode>
+               <Zip5>80104</Zip5>
+               <CountryCode>US</CountryCode>
+               <CountyCode>30</CountyCode>
+               <Longitude>-104.999408</Longitude>
+               <Latitude>39.739577</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>400</StreetNumber>
+               <StreetName>Elm</StreetName>
+               <StreetTypeCode>ST</StreetTypeCode>
+               <City>Fortville</City>
+               <StateCode>IN</StateCode>
+               <Zip5>46040</Zip5>
+               <CountryCode>US</CountryCode>
+               <CountyCode>30</CountyCode>
+               <Longitude>-85.84358784985562</Longitude>
+               <Latitude>39.93291330899494</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>556</StreetNumber>
+               <StreetName>Howard</StreetName>
+               <City>Denver</City>
+               <StateCode>CO</StateCode>
+               <Zip5>80111</Zip5>
+               <CountryCode>US</CountryCode>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>877</StreetNumber>
+               <StreetName>Harbor</StreetName>
+               <City>INDIANAPOLIS</City>
+               <StateCode>IN</StateCode>
+               <Zip5>A6221</Zip5>
+               <CountyCode>30</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>RES</PhoneTypeCode>
+               <PhoneArea>987</PhoneArea>
+               <PhonePrefix>987</PhonePrefix>
+               <PhoneSuffix>9876</PhoneSuffix>
+               <DateOfInfo>11/18/2014 00:00:00</DateOfInfo>
+            </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>123</PhoneArea>
+               <PhonePrefix>123</PhonePrefix>
+               <PhoneSuffix>1234</PhoneSuffix>
+               <DateOfInfo>11/18/2014 00:00:00</DateOfInfo>
+            </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>111</PhoneArea>
+               <PhonePrefix>111</PhonePrefix>
+               <PhoneSuffix>1111</PhoneSuffix>
+               <PhoneExt>111</PhoneExt>
+               <DateOfInfo>10/22/2018 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>CSAUR</CreatorId>
+            <CreatorDate>07/25/2020 15:08:20</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <CreatorId>CSAUR</CreatorId>
+         <CreatorDate>04/07/2021 16:03:09</CreatorDate>
+         <UpdatorId>CSAUR</UpdatorId>
+         <UpdatorDate>04/07/2021 16:05:13</UpdatorDate>
+         <DateOfInfo>02/21/2019 00:00:00</DateOfInfo>
+         <StatusCode>1</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>489</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <SerialNumber>23465675454</SerialNumber>
+         <Evidence>Y</Evidence>
+         <EvidenceFlag>Y</EvidenceFlag>
+         <ExternalEvidenceId>839</ExternalEvidenceId>
+         <Property_ID>1852</Property_ID>
+         <PrimaryColor>BRO</PrimaryColor>
+         <Make>Samsung</Make>
+         <Model>S5</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,202 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2100</ORINum>
+   <ReportDate>08/29/2023 16:03:00</ReportDate>
+   <StartDate>08/29/2023 15:23:00</StartDate>
+   <Summary>Assualt</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Disorderly Conduct</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>338323</AddressId>
+      <Address>
+         <AddressId>338323</AddressId>
+         <StreetNumber>18622</StreetNumber>
+         <StreetName>Cherry</StreetName>
+         <StreetTypeCode>Lane</StreetTypeCode>
+         <StreetSuffixCode>SW</StreetSuffixCode>
+         <City>Frostburg</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-78.92858000000025</Longitude>
+         <Latitude>39.63627003875949</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Divelbiss</LastName>
+            <FirstName>James</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Preston</LastName>
+            <FirstName>Keith</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Inactive</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>42</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>386443</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>HOWSARE</LastName>
+               <FirstName>JEREMIAH</FirstName>
+               <MiddleName>Louis</MiddleName>
+               <DOB>06/24/1981 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>HOWSARE</LastName>
+               <FirstName>JEREMIAH</FirstName>
+               <MiddleName>Louis</MiddleName>
+               <DOB>06/24/1981 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>18632</StreetNumber>
+               <StreetName>Cherry</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <StreetSuffixCode>SW</StreetSuffixCode>
+               <City>Frostburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21532</Zip5>
+               <Zip4>3707</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.929156</Longitude>
+               <Latitude>39.637326</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>268</PhonePrefix>
+               <PhoneSuffix>1733</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>48</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>386445</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Howsare</LastName>
+               <FirstName>William</FirstName>
+               <MiddleName>Bruce</MiddleName>
+               <DOB>10/08/1974 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Howsare</LastName>
+               <FirstName>William</FirstName>
+               <MiddleName>Bruce</MiddleName>
+               <DOB>10/08/1974 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>18622</StreetNumber>
+               <StreetName>Cherry</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <StreetSuffixCode>SW</StreetSuffixCode>
+               <City>Frostburg</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.92858000000025</Longitude>
+               <Latitude>39.63627003875949</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>704</PhoneArea>
+               <PhonePrefix>430</PhonePrefix>
+               <PhoneSuffix>8989</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>87</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>386446</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Howsare</LastName>
+               <FirstName>Leonard</FirstName>
+               <MiddleName>Eugene</MiddleName>
+               <DOB>08/21/1936 00:00:00</DOB>
+               <TitleCode>Senior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Howsare</LastName>
+               <FirstName>Leonard</FirstName>
+               <MiddleName>Eugene</MiddleName>
+               <DOB>08/21/1936 00:00:00</DOB>
+               <TitleCode>Senior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>18622</StreetNumber>
+               <StreetName>Cherry</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <StreetSuffixCode>SW</StreetSuffixCode>
+               <City>Frostburg</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.92858000000025</Longitude>
+               <Latitude>39.63627003875949</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>689</PhonePrefix>
+               <PhoneSuffix>9551</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

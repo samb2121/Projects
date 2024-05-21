@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2013ISP0000123</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>07/23/2013 11:51:00</ReportDate>
+   <ReportTime>07/23/2013 11:51:00</ReportTime>
+   <StartDate>07/23/2013 11:51:00</StartDate>
+   <StartTime>07/01/2013 11:51:00</StartTime>
+   <CreatorId>STATE_OFFICER13</CreatorId>
+   <CreatorDate>07/23/2013 11:51:04</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:25</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>B/H</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>259</AddressId>
+      <City>5</City>
+      <CreatorId>STATE_OFFICER13</CreatorId>
+      <CreatorDate>07/23/2013 11:51:19</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>07/23/2013 11:56:44</UpdatorDate>
+      <Address>
+         <AddressId>259</AddressId>
+         <StreetNumber>1133</StreetNumber>
+         <StreetName>CONGRESS</StreetName>
+         <StreetTypeCode>AVE</StreetTypeCode>
+         <City>SOUTH BEND</City>
+         <StateCode>IN</StateCode>
+         <Zip5>46615</Zip5>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>07/23/2013 11:51:04</SuppReportDate>
+      <SuppReportTime>07/23/2013 11:51:04</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>07/23/2013 12:01:09</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER13</CreatorId>
+      <CreatorDate>07/23/2013 11:51:04</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:18</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>test</NarrativeText>
+         <CreatorId>STATE_OFFICER13</CreatorId>
+         <CreatorDate>07/23/2013 11:57:15</CreatorDate>
+         <UpdatorId>STATE_OFFICER13</UpdatorId>
+         <UpdatorDate>07/23/2013 11:57:15</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Livangood</LastName>
+            <FirstName>Derek</FirstName>
+            <InternalID>1007</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Livangood</LastName>
+            <FirstName>Derek</FirstName>
+            <InternalID>1007</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,421 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>07/21/2023 09:41:00</ReportDate>
+   <StartDate>07/21/2023 07:10:00</StartDate>
+   <Summary>MDOP Theft</Summary>
+   <IncidentType>
+      <IncidentTypeCode>MDOP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>701594</AddressId>
+      <Address>
+         <AddressId>701594</AddressId>
+         <StreetNumber>105</StreetNumber>
+         <StreetName>Sandstone</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <SubTypeCode>APT</SubTypeCode>
+         <SubNumber>125</SubNumber>
+         <City>Walkersville</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.3421706679</Longitude>
+         <Latitude>39.4859817062</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>VICTORIA PARK AT WALKERSVILLE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Cain</LastName>
+            <FirstName>Kenneth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Conklin</LastName>
+            <FirstName>Gary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>3 4030</OffenseCode>
+         <PlaceCode>Parking Lot/Garage</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>3 4030</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>49</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>383143</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Jackson</LastName>
+               <FirstName>Brice</FirstName>
+               <MiddleName>Dennis</MiddleName>
+               <DOB>03/31/1974 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Jackson</LastName>
+               <FirstName>Brice</FirstName>
+               <MiddleName>Dennis</MiddleName>
+               <DOB>03/31/1974 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>117</StreetNumber>
+               <StreetName>Smithfield</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Walkersville</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.344906</Longitude>
+               <Latitude>39.486259</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>994</PhonePrefix>
+               <PhoneSuffix>3748</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>73</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>384254</PersonId>
+            <RaceCode>Unknown</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Palmer</LastName>
+               <FirstName>Jon</FirstName>
+               <MiddleName>Gregory</MiddleName>
+               <DOB>04/30/1950 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Palmer</LastName>
+               <FirstName>Jon</FirstName>
+               <MiddleName>Gregory</MiddleName>
+               <DOB>04/30/1950 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>917</PhoneArea>
+               <PhonePrefix>657</PhonePrefix>
+               <PhoneSuffix>5043</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>75</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>384255</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Page</LastName>
+               <FirstName>Sandra</FirstName>
+               <MiddleName>Paulette</MiddleName>
+               <DOB>09/15/1947 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Page</LastName>
+               <FirstName>Sandra</FirstName>
+               <MiddleName>Paulette</MiddleName>
+               <DOB>09/15/1947 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>80</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>384256</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Mchale</LastName>
+               <FirstName>Francis</FirstName>
+               <MiddleName>Leo</MiddleName>
+               <DOB>04/23/1943 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Mchale</LastName>
+               <FirstName>Francis</FirstName>
+               <MiddleName>Leo</MiddleName>
+               <DOB>04/23/1943 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>105</StreetNumber>
+               <StreetName>Sandstone</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <SubNumber>121</SubNumber>
+               <City>Walkersville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21793</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.343165</Longitude>
+               <Latitude>39.486244</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>717</PhoneArea>
+               <PhonePrefix>446</PhonePrefix>
+               <PhoneSuffix>6545</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <Person>
+            <PersonId>384257</PersonId>
+            <RaceCode>Unknown</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>60</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>384258</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Young</LastName>
+               <FirstName>Charles</FirstName>
+               <MiddleName>Everett</MiddleName>
+               <DOB>12/03/1962 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Young</LastName>
+               <FirstName>Charles</FirstName>
+               <MiddleName>Everett</MiddleName>
+               <DOB>12/03/1962 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>528</PhonePrefix>
+               <PhoneSuffix>3911</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240007168</BusinessNumber>
+         <BusinessName>Town of Walkersville</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>42227</AddressId>
+            <StreetNumber>21</StreetNumber>
+            <StreetDirCode>W</StreetDirCode>
+            <StreetName>FREDERICK</StreetName>
+            <StreetTypeCode>Street</StreetTypeCode>
+            <City>WALKERSVILLE</City>
+            <StateCode>Maryland</StateCode>
+            <CountryCode>United States of America</CountryCode>
+            <CountyCode>NaN</CountyCode>
+            <Longitude>-77.35051546228753</Longitude>
+            <Latitude>39.48160731520575</Latitude>
+            <SubBeat>512</SubBeat>
+            <AddressCommonName>
+               <CommonPlaceName>WALKERSVILLE TOWN OFFICE</CommonPlaceName>
+            </AddressCommonName>
+            <BusinessPhone>
+               <PhoneTypeCode>Business</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>898</PhonePrefix>
+               <PhoneSuffix>0200</PhoneSuffix>
+               </BusinessPhone>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>155728</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>2N1AB7AP4GL682965</VIN>
+         <VehicleYear>2016</VehicleYear>
+         <VehicleMakeCode>NISSAN</VehicleMakeCode>
+         <VehicleModelCode>SENECA</VehicleModelCode>
+         <VehicleStyleCode>4T</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehicleLicStateCode>GA</VehicleLicStateCode>
+         <VehicleLicNumber>CFV7230</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>12</VehicleLicMonth>
+         <VehicleValue>1000</VehicleValue>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>155729</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>KNDMB233166074417</VIN>
+         <VehicleYear>2006</VehicleYear>
+         <VehicleMakeCode>KIA MOTORS CORPORATION</VehicleMakeCode>
+         <VehicleModelCode>SEDONA</VehicleModelCode>
+         <VehicleStyleCode>VT</VehicleStyleCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>8EH1168</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>8</VehicleLicMonth>
+         <VehicleValue>1000</VehicleValue>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>155730</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>3FA6P0LU1JR102838</VIN>
+         <VehicleYear>2018</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>FUSION</VehicleModelCode>
+         <VehicleStyleCode>4T</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>52561CH</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>11</VehicleLicMonth>
+         <VehicleValue>1000</VehicleValue>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>155731</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>2HGEJ6615YH597788</VIN>
+         <VehicleYear>2000</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>CIVIC (AND CRX), CIVIC DEL SOL</VehicleModelCode>
+         <VehicleStyleCode>4T</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>1DB7021</VehicleLicNumber>
+         <VehicleLicYear>2025</VehicleLicYear>
+         <VehicleLicMonth>9</VehicleLicMonth>
+         <VehicleValue>500</VehicleValue>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>155340</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>2MEFM75W3YX678497</VIN>
+         <VehicleYear>2000</VehicleYear>
+         <VehicleMakeCode>MERCURY% AUTOMOBILES</VehicleMakeCode>
+         <VehicleModelCode>GRAND MARQUIS</VehicleModelCode>
+         <VehicleStyleCode>4T</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehSecColorCode>GRY</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>3Z7138</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleValue>100</VehicleValue>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Rear registration plate MD/ 3Z7138</Description>
+         <PropertyTypeCode>996</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>252042</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>4</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Dog waste deposal sign with attached trash can</Description>
+         <PropertyTypeCode>SIGN</PropertyTypeCode>
+         <PropertyValue>249</PropertyValue>
+         <Value>249</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>252597</Property_ID>
+         <PrimaryColor>GRN</PrimaryColor>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Cain</LastName>
+            <FirstName>Kenneth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Conklin</LastName>
+            <FirstName>Gary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

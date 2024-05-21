@@ -1,0 +1,89 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2300</ORINum>
+   <ReportDate>01/20/2023 17:08:00</ReportDate>
+   <StartDate>01/20/2023 15:40:00</StartDate>
+   <Summary>Police information</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>463761</AddressId>
+      <City>MDC304</City>
+      <Address>
+         <AddressId>463761</AddressId>
+         <StreetNumber>335</StreetNumber>
+         <StreetName>Mount Zion</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Swanton</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-79.17297210147198</Longitude>
+         <Latitude>39.44290322342071</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Zais</LastName>
+            <FirstName>Nathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bittinger</LastName>
+            <FirstName>Blair</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Shrout</LastName>
+            <FirstName>Timothy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>57</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>43063</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Johnson</LastName>
+               <FirstName>Robert</FirstName>
+               <MiddleName>Eugene</MiddleName>
+               <DOB>03/24/1965 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Johnson</LastName>
+               <FirstName>Robert</FirstName>
+               <MiddleName>Eugene</MiddleName>
+               <DOB>03/24/1965 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>335</StreetNumber>
+               <StreetName>Mt Zion</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Swanton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21561</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-79.20133</Longitude>
+               <Latitude>39.45404</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

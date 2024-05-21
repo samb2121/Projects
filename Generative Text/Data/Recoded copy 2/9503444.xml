@@ -1,0 +1,258 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>01/27/2023 08:17:00</ReportDate>
+   <StartDate>01/27/2023 07:03:00</StartDate>
+   <Summary>Second Degree Assault and Trespassing</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Criminal Trespass</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>363910</AddressId>
+      <City>MDC249</City>
+      <Address>
+         <AddressId>363910</AddressId>
+         <StreetNumber>720</StreetNumber>
+         <StreetName>Littlestown</StreetName>
+         <StreetTypeCode>Pike</StreetTypeCode>
+         <SubTypeCode>APT</SubTypeCode>
+         <SubNumber>B</SubNumber>
+         <City>Westminster</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.999204</Longitude>
+         <Latitude>39.594482</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bandy</LastName>
+            <FirstName>Ryan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Shipley</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>McCarty</LastName>
+            <FirstName>Cade</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Woodworth</LastName>
+            <FirstName>Kurt</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>2 2220</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 2220</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>44</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>363737</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Cook</LastName>
+               <FirstName>Gina</FirstName>
+               <MiddleName>Maria</MiddleName>
+               <DOB>11/23/1978 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Cook</LastName>
+               <FirstName>Gina</FirstName>
+               <MiddleName>Maria</MiddleName>
+               <DOB>11/23/1978 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>720</StreetNumber>
+               <StreetName>Littlestown</StreetName>
+               <StreetTypeCode>Pike</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>B</SubNumber>
+               <City>Westminster</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.999204</Longitude>
+               <Latitude>39.594482</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>3300</StreetNumber>
+               <StreetName>Black Steer</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>B</SubNumber>
+               <City>Finksburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21048</Zip5>
+               <Zip4>2044</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.938897</Longitude>
+               <Latitude>39.485583</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>289</PhonePrefix>
+               <PhoneSuffix>1544</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>72</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>367340</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Ogan</LastName>
+               <FirstName>Larry</FirstName>
+               <MiddleName>Ray</MiddleName>
+               <DOB>04/02/1950 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Ogan</LastName>
+               <FirstName>Larry</FirstName>
+               <MiddleName>Ray</MiddleName>
+               <DOB>04/02/1950 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3323</StreetNumber>
+               <StreetName>Niner</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Finksburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21048</Zip5>
+               <Zip4>2110</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.929713</Longitude>
+               <Latitude>39.481731</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>381</PhonePrefix>
+               <PhoneSuffix>4748</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>66</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>149222</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>FIORANI</LastName>
+               <FirstName>JOSEPH</FirstName>
+               <MiddleName>JAY</MiddleName>
+               <DOB>03/22/1956 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>FIORANI</LastName>
+               <FirstName>JOSEPH</FirstName>
+               <MiddleName>JAY</MiddleName>
+               <DOB>03/22/1956 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>607</StreetNumber>
+               <StreetName>Sherry</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Sykesville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21784</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.97187</Longitude>
+               <Latitude>39.447502</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>979</PhonePrefix>
+               <PhoneSuffix>7132</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>149126</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>5NPET46C78H340976</VIN>
+         <VehicleYear>2008</VehicleYear>
+         <VehicleMakeCode>HYUNDAI</VehicleMakeCode>
+         <VehicleModelCode>SONIC</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>5DHR79</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>11</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

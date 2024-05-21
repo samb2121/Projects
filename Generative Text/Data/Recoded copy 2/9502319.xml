@@ -1,0 +1,186 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5400</ORINum>
+   <ReportDate>10/29/2023 00:10:00</ReportDate>
+   <StartDate>10/28/2023 23:45:00</StartDate>
+   <Summary>Three females were in a physical altercation in Plaza Tolteca.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>391340</AddressId>
+      <Address>
+         <AddressId>391340</AddressId>
+         <StreetNumber>22767</StreetNumber>
+         <StreetName>Three Notch</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>California</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20619</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.496656</Longitude>
+         <Latitude>38.292297</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Ruel</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Oles</LastName>
+            <FirstName>Justin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Baden</LastName>
+            <FirstName>Craig</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Restaurant</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>24</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>391621</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Cambara Gonzalez</LastName>
+               <FirstName>Darlyn</FirstName>
+               <MiddleName>Amarela</MiddleName>
+               <DOB>05/17/1999 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Cambara Gonzalez</LastName>
+               <FirstName>Darlyn</FirstName>
+               <MiddleName>Amarela</MiddleName>
+               <DOB>05/17/1999 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>21491</StreetNumber>
+               <StreetName>Exquisite</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Lexington Park</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20653</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.480629</Longitude>
+               <Latitude>38.257788</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>19</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>391623</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Torres</LastName>
+               <FirstName>Debbie</FirstName>
+               <MiddleName>Bahena</MiddleName>
+               <DOB>03/02/2004 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Torres</LastName>
+               <FirstName>Debbie</FirstName>
+               <MiddleName>Bahena</MiddleName>
+               <DOB>03/02/2004 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>11501</StreetNumber>
+               <StreetDirCode>SW</StreetDirCode>
+               <StreetName>47th</StreetName>
+               <StreetTypeCode>Terrace</StreetTypeCode>
+               <City>Miami</City>
+               <StateCode>Florida</StateCode>
+               <Zip5>33165</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-80.381414</Longitude>
+               <Latitude>25.723154</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>23</ApproxAge>
+         <Person>
+            <PersonId>391687</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Manuel</LastName>
+               <FirstName>Aidee</FirstName>
+               <DOB>04/16/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Manuel</LastName>
+               <FirstName>Aidee</FirstName>
+               <DOB>04/16/2000 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <Person>
+            <PersonId>391620</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Sanchez</LastName>
+               <FirstName>Lizbeth</FirstName>
+               <MiddleName>Ponce</MiddleName>
+               <DOB>12/18/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Sanchez</LastName>
+               <FirstName>Lizbeth</FirstName>
+               <MiddleName>Ponce</MiddleName>
+               <DOB>12/18/2000 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

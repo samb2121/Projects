@@ -1,0 +1,158 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3000</ORINum>
+   <ReportDate>04/06/2023 08:43:00</ReportDate>
+   <StartDate>04/06/2023 00:20:00</StartDate>
+   <Summary>Reached over the counter and stole 2 packs of cigarettes</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>17113</AddressId>
+      <SubBeat>533</SubBeat>
+      <Address>
+         <AddressId>17113</AddressId>
+         <StreetNumber>630</StreetNumber>
+         <StreetName>EDGEWOOD</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>EDGEWOOD</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>533</SubBeat>
+         <Longitude>-76.29735340393458</Longitude>
+         <Latitude>39.425240975363536</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>@ROYAL FARMS</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>ROYAL FARM STORE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Skrodinsky</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Workman</LastName>
+            <FirstName>Alex</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Skrodinsky</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Skrodinsky</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 0521</OffenseCode>
+         <PlaceCode>Convenience Store</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0521</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>35</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>373573</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Turner</LastName>
+               <FirstName>Trayvon</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>07/29/1987 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Turner</LastName>
+               <FirstName>Trayvon</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>07/29/1987 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>311</StreetNumber>
+               <StreetName>Mayberry</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Aberdeen</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21001</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.201864</Longitude>
+               <Latitude>39.478947</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>512</PhonePrefix>
+               <PhoneSuffix>4594</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240017043</BusinessNumber>
+         <BusinessName>ROYAL FARMS</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>325544</AddressId>
+            <StreetNumber>630</StreetNumber>
+            <StreetName>Edgewood</StreetName>
+            <StreetTypeCode>Road</StreetTypeCode>
+            <City>Edgewood</City>
+            <StateCode>Maryland</StateCode>
+            <Zip5>21040</Zip5>
+            <CountryCode>United States of America</CountryCode>
+            <Longitude>-76.298896</Longitude>
+            <Latitude>39.425987</Latitude>
+            <BusinessPhone>
+               <PhoneTypeCode>Business</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>922</PhonePrefix>
+               <PhoneSuffix>2133</PhoneSuffix>
+               </BusinessPhone>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>2 Packs of Cigarettes </Description>
+         <PropertyTypeCode>TOBACCO</PropertyTypeCode>
+         <PropertyValue>23</PropertyValue>
+         <Value>23</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246813</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

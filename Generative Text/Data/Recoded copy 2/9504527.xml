@@ -1,0 +1,126 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>09/16/2023 09:52:00</ReportDate>
+   <StartDate>09/16/2023 08:11:00</StartDate>
+   <Summary>CHECK THE WELFARE RESULTING IN DUI ARREST</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Welfare Check</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>N/B I-495 @ CENTRAL AVE</IncAddrComment>
+      <AddressId>707094</AddressId>
+      <Address>
+         <AddressId>707094</AddressId>
+         <StreetNumber>15</StreetNumber>
+         <StreetName>Mm Capital Beltway Nb</StreetName>
+         <City>Hyattsville</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20774</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.84739</Longitude>
+         <Latitude>38.89338</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>NB 495 @ CENTRAL AVE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Smalls</LastName>
+            <FirstName>Samuel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>York</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Harr</LastName>
+            <FirstName>Jeremy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>14587</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14587</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>41</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>388558</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>BURNETT</LastName>
+               <FirstName>MICHAEL</FirstName>
+               <DOB>03/08/1982 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>BURNETT</LastName>
+               <FirstName>MICHAEL</FirstName>
+               <DOB>03/08/1982 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>4211</StreetNumber>
+               <StreetName>28th</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Mt Rainier</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20712</Zip5>
+               <Zip4>1760</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.968312</Longitude>
+               <Latitude>38.941921</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>157376</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>JNKCV54E76M706979</VIN>
+         <VehicleYear>2006</VehicleYear>
+         <VehicleMakeCode>INFINITI</VehicleMakeCode>
+         <VehicleModelCode>GL350, GLS350D, GLE350, GLE350 4MATIC</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>LBL</VehPriColorCode>
+         <VehicleLicStateCode>VA</VehicleLicStateCode>
+         <VehicleLicNumber>TSN8884</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,140 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>09/10/2023 21:45:00</ReportDate>
+   <StartDate>09/10/2023 19:40:00</StartDate>
+   <Summary>2ND DEGREE ASSAULT</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>614158</AddressId>
+      <Address>
+         <AddressId>614158</AddressId>
+         <StreetNumber>605</StreetNumber>
+         <StreetDirCode>S</StreetDirCode>
+         <StreetName>Chapelgate</StreetName>
+         <StreetTypeCode>Lane</StreetTypeCode>
+         <City>Baltimore City</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.700167</Longitude>
+         <Latitude>39.276329</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>RICA</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Fike</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Carpenter</LastName>
+            <FirstName>Zachary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1A1415</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1A1415</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>15</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>251527</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>DAVIS</LastName>
+               <FirstName>DREW</FirstName>
+               <MiddleName>KORAZE</MiddleName>
+               <DOB>01/01/2008 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>DAVIS</LastName>
+               <FirstName>DREW</FirstName>
+               <MiddleName>KORAZE</MiddleName>
+               <DOB>01/01/2008 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>10922</StreetNumber>
+               <StreetTypeCode>Way</StreetTypeCode>
+               <City>Columbia</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21044</Zip5>
+               <Zip4>2816</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.889364</Longitude>
+               <Latitude>39.213332</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>525</PhonePrefix>
+               <PhoneSuffix>1574</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>44</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>387493</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>FRITH</LastName>
+               <FirstName>HILDA</FirstName>
+               <DOB>10/20/1978 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>FRITH</LastName>
+               <FirstName>HILDA</FirstName>
+               <DOB>10/20/1978 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>605</StreetNumber>
+               <StreetDirCode>S</StreetDirCode>
+               <StreetName>Chapelgate</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Baltimore City</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.700167</Longitude>
+               <Latitude>39.276329</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>718</PhoneArea>
+               <PhonePrefix>772</PhonePrefix>
+               <PhoneSuffix>2202</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

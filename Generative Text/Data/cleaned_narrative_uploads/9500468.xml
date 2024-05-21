@@ -1,0 +1,80 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-020544</IncidentReportNum>
+   <AgencyCode>58</AgencyCode>
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>06/08/2023 15:00:00</ReportDate>
+   <ReportTime>06/08/2023 15:00:00</ReportTime>
+   <StartDate>06/08/2023 14:49:00</StartDate>
+   <StartTime>06/08/2023 14:49:00</StartTime>
+   <Summary>VSR completed in delta plus.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>06/08/2023 15:00:59</CreatorDate>
+   <UpdatorId>MSP5551</UpdatorId>
+   <UpdatorDate>06/13/2023 05:54:31</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>SR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>340074</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/08/2023 15:01:01</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>06/08/2023 15:01:01</UpdatorDate>
+      <Address>
+         <AddressId>340074</AddressId>
+         <StreetNumber>800</StreetNumber>
+         <StreetName>Woods</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Cambridge</City>
+         <StateCode>MD</StateCode>
+         <Zip5>21613</Zip5>
+         <CountryCode>US</CountryCode>
+         <Longitude>-76.060646</Longitude>
+         <Latitude>38.557874</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/08/2023 15:00:55</SuppReportDate>
+      <SuppReportTime>06/08/2023 15:00:55</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>58</SuppAgencyCode>
+      <DsIcrDate>06/13/2023 05:54:31</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/08/2023 15:01:00</CreatorDate>
+      <UpdatorId>MSP5551</UpdatorId>
+      <UpdatorDate>06/13/2023 05:54:31</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>VSR completed via delta plus.</NarrativeText>
+         <CreatorId>MSP7010</CreatorId>
+         <CreatorDate>06/13/2023 02:49:09</CreatorDate>
+         <UpdatorId>MSP7010</UpdatorId>
+         <UpdatorDate>06/13/2023 02:49:09</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>58</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Dadds</LastName>
+            <FirstName>Brian</FirstName>
+            <InternalID>5551</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>58</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Walker</LastName>
+            <FirstName>Drew</FirstName>
+            <InternalID>7010</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

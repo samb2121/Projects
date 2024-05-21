@@ -1,0 +1,137 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>02/28/2023 10:19:00</ReportDate>
+   <StartDate>02/28/2023 10:19:00</StartDate>
+   <Summary>The victims voluntarily transferred money to the suspect</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>686132</AddressId>
+      <SubBeat>610</SubBeat>
+      <City>MDC140</City>
+      <Address>
+         <AddressId>686132</AddressId>
+         <StreetNumber>6439</StreetNumber>
+         <StreetName>Marlboro</StreetName>
+         <StreetTypeCode>Pike</StreetTypeCode>
+         <City>District Heights</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20747</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.896979</Longitude>
+         <Latitude>38.851774</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Estrin</LastName>
+            <FirstName>Scott</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Alvarado</LastName>
+            <FirstName>Alexander</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>69</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>370624</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Richardson</LastName>
+               <FirstName>Ray</FirstName>
+               <MiddleName>Steven</MiddleName>
+               <DOB>07/21/1953 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Richardson</LastName>
+               <FirstName>Ray</FirstName>
+               <MiddleName>Steven</MiddleName>
+               <DOB>07/21/1953 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>8706</StreetNumber>
+               <StreetName>ritchboro</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>District Heights</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20747</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.856705</Longitude>
+               <Latitude>38.864249</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>69</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>370625</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Richardson</LastName>
+               <FirstName>Regina</FirstName>
+               <MiddleName>Naomi</MiddleName>
+               <DOB>01/05/1954 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Richardson</LastName>
+               <FirstName>Regina</FirstName>
+               <MiddleName>Naomi</MiddleName>
+               <DOB>01/05/1954 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>8706</StreetNumber>
+               <StreetName>ritchboro</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>District Heights</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20747</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.856705</Longitude>
+               <Latitude>38.864249</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>C</DocumentTypeCode>
+         <PropertyTypeCode>CASH</PropertyTypeCode>
+         <PropertyValue>10000</PropertyValue>
+         <Value>10000</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>244752</Property_ID>
+         <Quantity>10000</Quantity>
+         <Amount>10000</Amount>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

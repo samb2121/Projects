@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2013ISP0000124</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>07/24/2013 13:05:00</ReportDate>
+   <ReportTime>07/24/2013 13:05:00</ReportTime>
+   <StartDate>07/24/2013 13:05:00</StartDate>
+   <StartTime>07/01/2013 13:05:00</StartTime>
+   <Summary>test</Summary>
+   <CreatorId>STATE_OFFICER13</CreatorId>
+   <CreatorDate>07/24/2013 13:05:03</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:26</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CAB</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>269</AddressId>
+      <Beat>104</Beat>
+      <SubBeat>West Patrol</SubBeat>
+      <City>6</City>
+      <CreatorId>STATE_OFFICER13</CreatorId>
+      <CreatorDate>07/24/2013 13:09:51</CreatorDate>
+      <UpdatorId>STATE_OFFICER11</UpdatorId>
+      <UpdatorDate>11/27/2013 13:16:33</UpdatorDate>
+      <Address>
+         <AddressId>269</AddressId>
+         <StreetNumber>11215</StreetNumber>
+         <StreetName>DEER VALLEY</StreetName>
+         <StreetTypeCode>DR</StreetTypeCode>
+         <City>INDIANAPOLIS</City>
+         <StateCode>IN</StateCode>
+         <Zip5>46229</Zip5>
+         <Beat>104</Beat>
+         <SubBeat>West Patrol</SubBeat>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>07/24/2013 13:05:04</SuppReportDate>
+      <SuppReportTime>07/24/2013 13:05:04</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>11/27/2013 13:54:09</DsIcrDate>
+      <DsIcrSubmissionStatus>FAILED VALIDATION</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER13</CreatorId>
+      <CreatorDate>07/24/2013 13:05:04</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:18</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>test</NarrativeText>
+         <CreatorId>STATE_OFFICER13</CreatorId>
+         <CreatorDate>07/24/2013 13:17:36</CreatorDate>
+         <UpdatorId>STATE_OFFICER13</UpdatorId>
+         <UpdatorDate>07/24/2013 13:17:36</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Livangood</LastName>
+            <FirstName>Derek</FirstName>
+            <InternalID>1007</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Livangood</LastName>
+            <FirstName>Derek</FirstName>
+            <InternalID>1007</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>1259</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>02</OffenseStatusCode>
+         <OffenseCode>35-42-1-1  M01        </OffenseCode>
+         <PlaceCode>40</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>07/24/2013 13:12:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>STATE_OFFICER13</CreatorId>
+         <CreatorDate>07/24/2013 13:12:12</CreatorDate>
+         <UpdatorId>STATE_OFFICER13</UpdatorId>
+         <UpdatorDate>07/24/2013 13:12:15</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>29</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER13</CreatorId>
+         <CreatorDate>07/24/2013 13:15:04</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:15</UpdatorDate>
+         <Person>
+            <PersonId>151</PersonId>
+            <RaceCode>U</RaceCode>
+            <SexCode>F</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>FEDEROWICZ</LastName>
+               <FirstName>KIMBERLY</FirstName>
+               <MiddleName>J</MiddleName>
+               <DOB>03/02/1984 00:00:00</DOB>
+               <DateOfInfo>06/06/2012 13:56:11</DateOfInfo>
+               <SLastName>F362</SLastName>
+               <SFirstName>K516</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>FEDEROWICZ</LastName>
+               <FirstName>KIMBERLY</FirstName>
+               <MiddleName>J</MiddleName>
+               <DOB>03/02/1984 00:00:00</DOB>
+               <SLastName>F362</SLastName>
+               <SFirstName>K516</SFirstName>
+               <DateOfInfo>06/06/2012 13:56:11</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>6523</StreetNumber>
+               <StreetName>Anystreet</StreetName>
+               <City>Anytown</City>
+               <StateCode>NJ</StateCode>
+               <Zip5>45623</Zip5>
+               <Zip4>123</Zip4>
+               <CountryCode>US</CountryCode>
+               <Longitude>-75</Longitude>
+               <Latitude>40</Latitude>
+               <Beat>104</Beat>
+               <SubBeat>West Patrol</SubBeat>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER13</CreatorId>
+            <CreatorDate>07/24/2013 13:15:04</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:18</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>37</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>TRAINING</CreatorId>
+         <CreatorDate>07/24/2013 13:16:28</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:15</UpdatorDate>
+         <Person>
+            <PersonId>420</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Boes</LastName>
+               <FirstName>Donald</FirstName>
+               <MiddleName>Christopher</MiddleName>
+               <DOB>07/14/1976 00:00:00</DOB>
+               <DateOfInfo>03/20/2013 11:35:47</DateOfInfo>
+               <SLastName>B200</SLastName>
+               <SFirstName>D543</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Boes</LastName>
+               <FirstName>Donald</FirstName>
+               <MiddleName>Christopher</MiddleName>
+               <DOB>07/14/1976 00:00:00</DOB>
+               <SLastName>B200</SLastName>
+               <SFirstName>D543</SFirstName>
+               <DateOfInfo>03/20/2013 11:35:47</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>STATE_OFFICER13</CreatorId>
+            <CreatorDate>07/24/2013 13:16:28</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:18</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>1</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>07/24/2013 13:19:20</SuppReportDate>
+      <SuppReportTime>07/24/2013 13:19:20</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>11/27/2013 13:54:09</DsIcrDate>
+      <DsIcrSubmissionStatus>FAILED VALIDATION</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER13</CreatorId>
+      <CreatorDate>07/24/2013 13:19:20</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:18</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement#1 - Narrative</NarrativeTitle>
+         <NarrativeText>test</NarrativeText>
+         <CreatorId>STATE_OFFICER13</CreatorId>
+         <CreatorDate>07/24/2013 13:21:34</CreatorDate>
+         <UpdatorId>STATE_OFFICER13</UpdatorId>
+         <UpdatorDate>07/24/2013 13:21:34</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Livangood</LastName>
+            <FirstName>Derek</FirstName>
+            <InternalID>1007</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Livangood</LastName>
+            <FirstName>Derek</FirstName>
+            <InternalID>1007</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>1259</IncidentId>
+         <OffenseNumber>2</OffenseNumber>
+         <OffenseStatusCode>29</OffenseStatusCode>
+         <OffenseCode>35-43-4-2.5 V02</OffenseCode>
+         <PlaceCode>40</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>1</SupplementSeq>
+         <UCRNumber>2</UCRNumber>
+         <OffenseStatusDate>07/24/2013 13:21:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>35-43-4-2.5 V02</ArrestChargeCode>
+         <CreatorId>STATE_OFFICER13</CreatorId>
+         <CreatorDate>07/24/2013 13:21:21</CreatorDate>
+         <UpdatorId>STATE_OFFICER13</UpdatorId>
+         <UpdatorDate>07/24/2013 13:21:24</UpdatorDate>
+      </IncidentOffense>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>2</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>11/27/2013 13:14:48</SuppReportDate>
+      <SuppReportTime>11/27/2013 13:14:48</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>11/27/2013 13:36:10</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>11/27/2013 13:14:48</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:18</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement#2 - Narrative</NarrativeTitle>
+         <NarrativeText>test</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>11/27/2013 13:28:47</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>11/27/2013 13:30:18</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>29</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>11/27/2013 13:20:07</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:15</UpdatorDate>
+         <Person>
+            <PersonId>466</PersonId>
+            <RaceCode>B</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>ANDERSON</LastName>
+               <FirstName>NATHANIEL</FirstName>
+               <MiddleName>NMN</MiddleName>
+               <DOB>12/06/1983 00:00:00</DOB>
+               <SSN>4.21179205E8</SSN>
+               <DateOfInfo>06/19/2013 12:05:17</DateOfInfo>
+               <SLastName>A536</SLastName>
+               <SFirstName>N354</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>ANDERSON</LastName>
+               <FirstName>NATHANIEL</FirstName>
+               <MiddleName>NMN</MiddleName>
+               <DOB>12/06/1983 00:00:00</DOB>
+               <SSN>4.21179205E8</SSN>
+               <SLastName>A536</SLastName>
+               <SFirstName>N354</SFirstName>
+               <DateOfInfo>06/19/2013 12:05:17</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>6523</StreetNumber>
+               <StreetName>Anystreet</StreetName>
+               <City>Anytown</City>
+               <StateCode>NJ</StateCode>
+               <Zip5>45623</Zip5>
+               <Zip4>123</Zip4>
+               <CountryCode>US</CountryCode>
+               <Longitude>-75</Longitude>
+               <Latitude>40</Latitude>
+               <Beat>104</Beat>
+               <SubBeat>West Patrol</SubBeat>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>123</PhoneArea>
+               <PhonePrefix>456</PhonePrefix>
+               <PhoneSuffix>7890</PhoneSuffix>
+               <DateOfInfo>03/03/2014 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>11/27/2013 13:20:07</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:18</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>11/27/2013 13:20:07</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:18</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>3</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>11/27/2013 13:51:51</SuppReportDate>
+      <SuppReportTime>11/27/2013 13:51:51</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>11/27/2013 13:53:58</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>11/27/2013 13:51:51</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:18</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement#3 - Narrative</NarrativeTitle>
+         <NarrativeText>test</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>11/27/2013 13:53:29</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>11/27/2013 13:53:29</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

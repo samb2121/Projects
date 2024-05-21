@@ -1,0 +1,142 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>03/16/2023 21:45:00</ReportDate>
+   <StartDate>03/16/2023 21:28:00</StartDate>
+   <Summary>Car stop. Search.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>SR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>MANCHESTER RD/ BALTIMORE BLVD</IncAddrComment>
+      <AddressId>564832</AddressId>
+      <City>MDC249</City>
+      <Address>
+         <AddressId>564832</AddressId>
+         <StreetName>Manchester</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Westminster</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>BLVD</CrossStreetTypeCode>
+         <Longitude>-76.987541</Longitude>
+         <Latitude>39.580898</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>314-326 MANCHESTER RD / 200-200 BALTIMORE BLVD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>314-326 MANCHESTER RD / 322-334 BALTIMORE BLVD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 MANCHESTER RD / 261-299 BALTIMORE BLVD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 MANCHESTER RD / 0-0 BALTIMORE BLVD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Morrison</LastName>
+            <FirstName>Kyle</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>PEZOLD</LastName>
+            <FirstName>JONATHAN</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Smith</LastName>
+            <FirstName>Dale</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Phelps</LastName>
+            <FirstName>William</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>55</ApproxAge>
+         <Person>
+            <PersonId>189411</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Lee</LastName>
+               <FirstName>Mark</FirstName>
+               <DOB>01/25/1968 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Lee</LastName>
+               <FirstName>Mark</FirstName>
+               <DOB>01/25/1968 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>4004</StreetNumber>
+               <StreetName>Gill</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Hampstead</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21074</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.854449</Longitude>
+               <Latitude>39.605882</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>53</ApproxAge>
+         <Person>
+            <PersonId>289314</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Livesay</LastName>
+               <FirstName>Charles</FirstName>
+               <MiddleName>William</MiddleName>
+               <DOB>06/10/1969 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Livesay</LastName>
+               <FirstName>Charles</FirstName>
+               <MiddleName>William</MiddleName>
+               <DOB>06/10/1969 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>PA</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>151234</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VehicleYear>2013</VehicleYear>
+         <VehicleMakeCode>TOYOTA(TOYT)</VehicleMakeCode>
+         <VehicleModelCode>HIGHLANDER (BEGINNING VEHICLE YEAR 2001)</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>5EN7474</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

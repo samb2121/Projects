@@ -1,0 +1,116 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>04/08/2023 10:03:00</ReportDate>
+   <StartDate>04/08/2023 09:52:00</StartDate>
+   <Summary>Traffic Arrest</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>8569 US-15,FREDERICK</IncAddrComment>
+      <AddressId>690042</AddressId>
+      <Address>
+         <AddressId>690042</AddressId>
+         <StreetNumber>8569</StreetNumber>
+         <StreetName>Us-15 Frederick</StreetName>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.4001575</Longitude>
+         <Latitude>39.4728833333333</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Marlatt</LastName>
+            <FirstName>Justin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bonneville</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Sweckard</LastName>
+            <FirstName>Adam</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>19731</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>19731</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>31</ApproxAge>
+         <Person>
+            <PersonId>373753</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Shoemaker</LastName>
+               <FirstName>Dustin</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>08/15/1991 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Shoemaker</LastName>
+               <FirstName>Dustin</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>08/15/1991 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>10840</StreetNumber>
+               <StreetName>Powell</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <SubNumber>D</SubNumber>
+               <City>Thurmont</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21788</Zip5>
+               <Zip4>2835</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.4245883</Longitude>
+               <Latitude>39.5317209</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>440</PhonePrefix>
+               <PhoneSuffix>3649</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>151753</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>8</StatusCode>
+         <VehicleYear>2005</VehicleYear>
+         <VehicleMakeCode>HARLEY-DAVIDSON</VehicleMakeCode>
+         <VehicleModelCode>FLHR</VehicleModelCode>
+         <VehicleStyleCode>MC</VehicleStyleCode>
+         <VehicleTypeCode>Motorcycle</VehicleTypeCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehSecColorCode>GRY</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>2597Y7</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,225 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5400</ORINum>
+   <ReportDate>12/23/2023 10:50:00</ReportDate>
+   <StartDate>12/23/2023 10:30:00</StartDate>
+   <Summary>Subject threatened someone with a knife, later was found to be trespassing on the property.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Criminal Trespass</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>390924</AddressId>
+      <Address>
+         <AddressId>390924</AddressId>
+         <StreetNumber>21600</StreetNumber>
+         <StreetName>Great Mills</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Lexington Park</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20653</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.465375</Longitude>
+         <Latitude>38.259575</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>WEIS</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Hersh</LastName>
+            <FirstName>Taylor</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Barlow</LastName>
+            <FirstName>Sean</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Clopper</LastName>
+            <FirstName>Ryan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Olivaflores</LastName>
+            <FirstName>Denis</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>2 2220</OffenseCode>
+         <PlaceCode>Grocery/Supermarket</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 2220</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Grocery/Supermarket</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>38</ApproxAge>
+         <ResidentStatusCode>Unknown</ResidentStatusCode>
+         <Person>
+            <PersonId>374610</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Other Ethnicity/National Origin</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Taylor</LastName>
+               <FirstName>Charles</FirstName>
+               <MiddleName>Edward</MiddleName>
+               <DOB>11/13/1985 00:00:00</DOB>
+               <TitleCode>III</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Taylor</LastName>
+               <FirstName>Charles</FirstName>
+               <MiddleName>Edward</MiddleName>
+               <DOB>11/13/1985 00:00:00</DOB>
+               <TitleCode>III</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3004</StreetNumber>
+               <StreetName>Pilgrims</StreetName>
+               <StreetTypeCode>Square</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>A</SubNumber>
+               <City>Saint Charles</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20602</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.907833</Longitude>
+               <Latitude>38.602532</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>787</PhonePrefix>
+               <PhoneSuffix>6696</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>40</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>395936</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Doores</LastName>
+               <FirstName>Leslie</FirstName>
+               <MiddleName>Denise</MiddleName>
+               <DOB>01/21/1983 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Doores</LastName>
+               <FirstName>Leslie</FirstName>
+               <MiddleName>Denise</MiddleName>
+               <DOB>01/21/1983 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1</StreetNumber>
+               <StreetName>Hickory</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <SubNumber>201</SubNumber>
+               <City>La Plata</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20646</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.9618306</Longitude>
+               <Latitude>38.5329108</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>299</PhonePrefix>
+               <PhoneSuffix>3309</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>55</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>395937</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Courtney</LastName>
+               <FirstName>Sherlene</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>07/20/1968 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Courtney</LastName>
+               <FirstName>Sherlene</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>07/20/1968 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>21982</StreetNumber>
+               <StreetName>Brigantine</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Great Mills</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20634</Zip5>
+               <Zip4>2238</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.494646</Longitude>
+               <Latitude>38.271453</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>997</PhonePrefix>
+               <PhoneSuffix>4637</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

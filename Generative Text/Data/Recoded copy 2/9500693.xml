@@ -1,0 +1,137 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4800</ORINum>
+   <ReportDate>07/04/2023 13:04:00</ReportDate>
+   <StartDate>07/04/2023 12:24:00</StartDate>
+   <Summary>Verbal Domestic-Smith.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>562235</AddressId>
+      <Address>
+         <AddressId>562235</AddressId>
+         <StreetNumber>12712</StreetNumber>
+         <StreetName>Old Bridge</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Ocean City</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21842</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.111114</Longitude>
+         <Latitude>38.332134</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Ruiz</LastName>
+            <FirstName>Francisco</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Gibbons</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Jonischek</LastName>
+            <FirstName>Todd</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Jenkins</LastName>
+            <FirstName>Thomas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <Person>
+            <PersonId>381710</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Smith</LastName>
+               <FirstName>Brittany</FirstName>
+               <MiddleName>Nicole</MiddleName>
+               <DOB>10/18/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Smith</LastName>
+               <FirstName>Brittany</FirstName>
+               <MiddleName>Nicole</MiddleName>
+               <DOB>10/18/1988 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>754</PhonePrefix>
+               <PhoneSuffix>5254</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>38</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>48785</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Smith</LastName>
+               <FirstName>David</FirstName>
+               <MiddleName>Alan</MiddleName>
+               <DOB>01/11/1985 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Smith</LastName>
+               <FirstName>David</FirstName>
+               <MiddleName>Alan</MiddleName>
+               <DOB>01/11/1985 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>36245</StreetNumber>
+               <StreetName>Richland</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Willards</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21874</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.354668</Longitude>
+               <Latitude>38.395367</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <SubTypeCode>UNIT</SubTypeCode>
+               <SubNumber>1</SubNumber>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>754</PhonePrefix>
+               <PhoneSuffix>5075</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

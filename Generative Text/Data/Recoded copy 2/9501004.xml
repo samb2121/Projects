@@ -1,0 +1,136 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>01/11/2024 07:19:00</ReportDate>
+   <StartDate>01/11/2024 07:16:00</StartDate>
+   <Summary>Traffic/Warrant arrest</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Warrant Service</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>E SOUTH ST/ MONOCACY BLVD</IncAddrComment>
+      <AddressId>631661</AddressId>
+      <Address>
+         <AddressId>631661</AddressId>
+         <StreetDirCode>E</StreetDirCode>
+         <StreetName>South</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Frederick</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>BLVD</CrossStreetTypeCode>
+         <Longitude>-77.393961</Longitude>
+         <Latitude>39.404412</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>800-1002 E SOUTH ST / 0-0 MONOCACY BLVD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Berger</LastName>
+            <FirstName>Gabriel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Cain</LastName>
+            <FirstName>Kenneth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Berger</LastName>
+            <FirstName>Gabriel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Berger</LastName>
+            <FirstName>Gabriel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>3096</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>3096</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>384130</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Desrosiers</LastName>
+               <FirstName>Rodney</FirstName>
+               <MiddleName>Serge</MiddleName>
+               <DOB>04/21/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Desrosiers</LastName>
+               <FirstName>Rodney</FirstName>
+               <MiddleName>Serge</MiddleName>
+               <DOB>04/21/1989 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>10205</StreetNumber>
+               <StreetName>Rustic</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Silver Spring</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20903</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.969909</Longitude>
+               <Latitude>39.022149</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>24</StreetNumber>
+               <StreetName>Broadway</StreetName>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>4</SubNumber>
+               <City>Hagerstown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21740</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>467</PhonePrefix>
+               <PhoneSuffix>3241</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

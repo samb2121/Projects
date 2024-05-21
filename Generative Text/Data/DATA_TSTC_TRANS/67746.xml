@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2021D4210347</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>06/22/2021 17:00:00</ReportDate>
+   <ReportTime>06/22/2021 17:00:00</ReportTime>
+   <StartDate>06/22/2021 17:00:00</StartDate>
+   <StartTime>06/22/2021 17:00:00</StartTime>
+   <Summary>testing</Summary>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>06/22/2021 17:00:49</CreatorDate>
+   <UpdatorId>STATE_OFFICER11</UpdatorId>
+   <UpdatorDate>06/08/2022 16:49:49</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CAB</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>1735</AddressId>
+      <City>19</City>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>06/22/2021 17:03:15</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>06/22/2021 17:03:56</UpdatorDate>
+      <Address>
+         <AddressId>1735</AddressId>
+         <StreetNumber>54</StreetNumber>
+         <StreetDirCode>S</StreetDirCode>
+         <StreetName>Hancock</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>Denver</City>
+         <StateCode>CO</StateCode>
+         <Zip5>12345</Zip5>
+         <CountryCode>US</CountryCode>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/22/2021 17:00:50</SuppReportDate>
+      <SuppReportTime>06/22/2021 17:00:50</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>06/22/2021 17:13:53</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>06/22/2021 17:00:50</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:29</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>testing</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/22/2021 17:12:40</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>06/22/2021 17:12:40</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Simpson</LastName>
+            <FirstName>Homer</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Simpson</LastName>
+            <FirstName>Homer</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>3351</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-2-1  B05</OffenseCode>
+         <PlaceCode>25</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>06/22/2021 17:00:00</OffenseStatusDate>
+         <ForcedEntryCode>N</ForcedEntryCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/22/2021 17:04:32</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>06/22/2021 17:04:32</UpdatorDate>
+      </IncidentOffense>
+      <IncidentOffense>
+         <IncidentId>3351</IncidentId>
+         <OffenseNumber>2</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-2-2  C03</OffenseCode>
+         <PlaceCode>25</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>2</UCRNumber>
+         <OffenseStatusDate>06/22/2021 17:00:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/22/2021 17:05:05</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>06/22/2021 17:05:05</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/22/2021 17:06:10</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:24</UpdatorDate>
+         <Person>
+            <PersonId>1120</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Smith</LastName>
+               <FirstName>Harold</FirstName>
+               <DOB>03/02/1999 00:00:00</DOB>
+               <DateOfInfo>06/22/2021 17:05:39</DateOfInfo>
+               <SLastName>S530</SLastName>
+               <SFirstName>H643</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Smith</LastName>
+               <FirstName>Harold</FirstName>
+               <DOB>03/02/1999 00:00:00</DOB>
+               <SLastName>S530</SLastName>
+               <SFirstName>H643</SFirstName>
+               <DateOfInfo>06/22/2021 17:05:39</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>06/22/2021 17:06:10</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>06/23/2021 14:18:06</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/22/2021 17:06:53</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:24</UpdatorDate>
+         <Person>
+            <PersonId>1121</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>THomas</LastName>
+               <FirstName>Jim</FirstName>
+               <DOB>04/03/1999 00:00:00</DOB>
+               <DateOfInfo>06/22/2021 17:06:38</DateOfInfo>
+               <SLastName>T520</SLastName>
+               <SFirstName>J500</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>THomas</LastName>
+               <FirstName>Jim</FirstName>
+               <DOB>04/03/1999 00:00:00</DOB>
+               <SLastName>T520</SLastName>
+               <SFirstName>J500</SFirstName>
+               <DateOfInfo>06/22/2021 17:06:38</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>06/22/2021 17:09:28</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>06/22/2021 17:09:28</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>46</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/22/2021 17:08:05</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:26</UpdatorDate>
+         <Person>
+            <PersonId>630</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>F</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Kid</LastName>
+               <FirstName>Jane</FirstName>
+               <DOB>11/06/1974 00:00:00</DOB>
+               <DateOfInfo>11/06/2014 12:26:02</DateOfInfo>
+               <SLastName>K300</SLastName>
+               <SFirstName>J500</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Kid</LastName>
+               <FirstName>Jane</FirstName>
+               <DOB>11/06/1974 00:00:00</DOB>
+               <SLastName>K300</SLastName>
+               <SFirstName>J500</SFirstName>
+               <DateOfInfo>11/06/2014 12:26:02</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>06/22/2021 17:08:06</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>24</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/22/2021 17:08:36</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:26</UpdatorDate>
+         <Person>
+            <PersonId>636</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Boss</LastName>
+               <FirstName>Man</FirstName>
+               <DOB>11/10/1996 00:00:00</DOB>
+               <TitleCode>VI</TitleCode>
+               <DateOfInfo>11/07/2014 09:21:38</DateOfInfo>
+               <SLastName>B200</SLastName>
+               <SFirstName>M500</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Boss</LastName>
+               <FirstName>Man</FirstName>
+               <DOB>11/10/1996 00:00:00</DOB>
+               <TitleCode>VI</TitleCode>
+               <SLastName>B200</SLastName>
+               <SFirstName>M500</SFirstName>
+               <DateOfInfo>11/07/2014 09:21:38</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>456</StreetNumber>
+               <StreetDirCode>W</StreetDirCode>
+               <StreetName>Automation</StreetName>
+               <StreetTypeCode>WAY</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <City>Greensboro</City>
+               <StateCode>NC</StateCode>
+               <Zip5>27401</Zip5>
+               <CountryCode>US</CountryCode>
+               <Longitude>-79.75681</Longitude>
+               <Latitude>36.067604</Latitude>
+               <Beat>104</Beat>
+               <SubBeat>West Patrol</SubBeat>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>06/22/2021 17:08:36</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>66</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/22/2021 17:09:00</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:26</UpdatorDate>
+         <Person>
+            <PersonId>871</PersonId>
+            <RaceCode>U</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>N</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Buschemy</LastName>
+               <FirstName>Steve</FirstName>
+               <MiddleName>J</MiddleName>
+               <DateOfInfo>05/17/2017 16:35:16</DateOfInfo>
+               <SLastName>B250</SLastName>
+               <SFirstName>S310</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Buschemy</LastName>
+               <FirstName>Steve</FirstName>
+               <MiddleName>J</MiddleName>
+               <SLastName>B250</SLastName>
+               <SFirstName>S310</SFirstName>
+               <DateOfInfo>05/17/2017 16:35:16</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>06/22/2021 17:09:00</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>786</VEHICLE_ID>
+         <RoleCode>AB</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/22/2021 17:11:48</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>06/22/2021 17:11:48</UpdatorDate>
+         <DateOfInfo>06/22/2021 00:00:00</DateOfInfo>
+         <StatusCode>1</StatusCode>
+         <VIN>23098732LKJ234</VIN>
+         <VehicleYear>2019</VehicleYear>
+         <VehicleMakeCode>BMW</VehicleMakeCode>
+         <VehicleModelCode>330CI</VehicleModelCode>
+         <VehicleTypeCode>AT</VehicleTypeCode>
+         <VehicleLicStateCode>CO</VehicleLicStateCode>
+         <VehicleLicNumber>XYZ123</VehicleLicNumber>
+         <VehicleLicYear>2021</VehicleLicYear>
+         <VehicleLicMonth>1</VehicleLicMonth>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/22/2021 17:12:28</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>06/22/2021 17:12:28</UpdatorDate>
+         <DateOfInfo>06/22/2021 00:00:00</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>546</PropertyTypeCode>
+         <PropertyValue>50</PropertyValue>
+         <Value>50</Value>
+         <SerialNumber>123</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>2085</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,228 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>05/31/2023 11:51:00</ReportDate>
+   <StartDate>05/31/2023 11:11:00</StartDate>
+   <Summary>Fraud</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>14251</AddressId>
+      <SubBeat>564</SubBeat>
+      <Address>
+         <AddressId>14251</AddressId>
+         <StreetNumber>3226</StreetNumber>
+         <StreetName>BALTIMORE</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>FINKSBURG</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>564</SubBeat>
+         <Longitude>-76.87852419342661</Longitude>
+         <Latitude>39.49036340478083</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>GARCIA BROTHERS</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>SHEPARD SERVICE CENTER</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>MD - VZW - VERIFY PD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>McCarty</LastName>
+            <FirstName>Cade</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Woodworth</LastName>
+            <FirstName>Kurt</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1136_AOL</OffenseCode>
+         <PlaceCode>Service/Gas Station</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1136_AOL</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>61</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>379395</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>AZIAKU</LastName>
+               <FirstName>VICTOR</FirstName>
+               <DOB>02/26/1962 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>AZIAKU</LastName>
+               <FirstName>VICTOR</FirstName>
+               <DOB>02/26/1962 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3112</StreetNumber>
+               <StreetName>Murray</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Finksburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21048</Zip5>
+               <Zip4>2400</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.887605</Longitude>
+               <Latitude>39.490437</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>623</PhoneArea>
+               <PhonePrefix>760</PhonePrefix>
+               <PhoneSuffix>6937</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>30</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>379397</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>LEMUS</LastName>
+               <FirstName>YARITZA</FirstName>
+               <MiddleName>GRACIELA</MiddleName>
+               <DOB>05/15/1993 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>LEMUS</LastName>
+               <FirstName>YARITZA</FirstName>
+               <MiddleName>GRACIELA</MiddleName>
+               <DOB>05/15/1993 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3226</StreetNumber>
+               <StreetName>BALTIMORE</StreetName>
+               <StreetTypeCode>Boulevard</StreetTypeCode>
+               <City>FINKSBURG</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.87852419342661</Longitude>
+               <Latitude>39.49036340478083</Latitude>
+               <SubBeat>564</SubBeat>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240019830</BusinessNumber>
+         <BusinessName>Garcia's Brothers</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>38176</AddressId>
+            <StreetNumber>3226</StreetNumber>
+            <StreetName>BALTIMORE</StreetName>
+            <StreetTypeCode>Boulevard</StreetTypeCode>
+            <City>Finksburg</City>
+            <StateCode>Maryland</StateCode>
+            <Zip5>21048</Zip5>
+            <CountryCode>United States of America</CountryCode>
+            <CountyCode>NaN</CountyCode>
+            <Longitude>-76.880436</Longitude>
+            <Latitude>39.490678</Latitude>
+            <AddressCommonName>
+               <CommonPlaceName>CLASSIC MOTORS</CommonPlaceName>
+            </AddressCommonName>
+            <AddressCommonName>
+               <CommonPlaceName>MD - VZW - VERIFY PD</CommonPlaceName>
+            </AddressCommonName>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>153950</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>5UXFE83577LZ38179</VIN>
+         <VehicleYear>2007</VehicleYear>
+         <VehicleMakeCode>BMW</VehicleMakeCode>
+         <VehicleModelCode>X5 SERIES</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>GLD</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>3DN4645</VehicleLicNumber>
+         <VehicleLicYear>2025</VehicleLicYear>
+         <VehicleLicMonth>1</VehicleLicMonth>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Disputed Transaction</Description>
+         <PropertyTypeCode>OTHER PROP-MISC</PropertyTypeCode>
+         <PropertyValue>307</PropertyValue>
+         <Value>307</Value>
+         <SerialNumber>CB531370167701</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>250669</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Disputed Transaction</Description>
+         <PropertyTypeCode>OTHER PROP-MISC</PropertyTypeCode>
+         <PropertyValue>2014</PropertyValue>
+         <Value>2014</Value>
+         <SerialNumber>CB531370165701</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>250670</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Disputed Transaction</Description>
+         <PropertyTypeCode>OTHER PROP-MISC</PropertyTypeCode>
+         <PropertyValue>2500</PropertyValue>
+         <Value>2500</Value>
+         <SerialNumber>CB531450122901</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>250671</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-003306</IncidentReportNum>
+   <AgencyCode>83</AgencyCode>
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>01/26/2023 22:00:00</ReportDate>
+   <ReportTime>01/26/2023 22:00:00</ReportTime>
+   <StartDate>01/26/2023 21:50:00</StartDate>
+   <StartTime>01/26/2023 21:50:00</StartTime>
+   <Summary>VSR</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>01/26/2023 22:00:06</CreatorDate>
+   <UpdatorId>MSP3029</UpdatorId>
+   <UpdatorDate>01/26/2023 22:57:39</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>SR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>147 BALL,SAINT LEONARD</IncAddrComment>
+      <AddressId>681918</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>01/26/2023 22:00:08</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>01/26/2023 22:26:33</UpdatorDate>
+      <Address>
+         <AddressId>681918</AddressId>
+         <StreetNumber>147</StreetNumber>
+         <StreetName>Ball Saint Leonard</StreetName>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-76.5124816333333</Longitude>
+         <Latitude>38.4696368333333</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>01/26/2023 22:00:04</SuppReportDate>
+      <SuppReportTime>01/26/2023 22:00:04</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>83</SuppAgencyCode>
+      <DsIcrDate>01/26/2023 22:57:38</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>01/26/2023 22:00:06</CreatorDate>
+      <UpdatorId>MSP3029</UpdatorId>
+      <UpdatorDate>01/26/2023 22:57:39</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>VSR completed in ETIX</NarrativeText>
+         <CreatorId>MSP7524</CreatorId>
+         <CreatorDate>01/26/2023 22:20:46</CreatorDate>
+         <UpdatorId>MSP7524</UpdatorId>
+         <UpdatorDate>01/26/2023 22:20:46</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>83</AgencyCode>
+            <ORINumber>MDMSP5500</ORINumber>
+            <LastName>Newman</LastName>
+            <FirstName>Matthew</FirstName>
+            <InternalID>3029</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>83</AgencyCode>
+            <ORINumber>MDMSP5500</ORINumber>
+            <LastName>Koehler</LastName>
+            <FirstName>Justin</FirstName>
+            <InternalID>7524</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

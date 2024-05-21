@@ -1,0 +1,98 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>11/08/2023 12:06:00</ReportDate>
+   <StartDate>11/08/2023 11:49:00</StartDate>
+   <Summary>Suspended license for at-fault driver in vehicle collision</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>WOODSBORO PIKE/ LEGORE RD</IncAddrComment>
+      <AddressId>712482</AddressId>
+      <Address>
+         <AddressId>712482</AddressId>
+         <StreetName>Woodsboro</StreetName>
+         <StreetTypeCode>Pike</StreetTypeCode>
+         <City>Keymar</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-77.291078</Longitude>
+         <Latitude>39.567101</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>12142-12202 WOODSBORO PIKE / 12200-12399 LEGORE RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Dodson</LastName>
+            <FirstName>Travis</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <Person>
+            <PersonId>45329</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>LOOKINGBILL</LastName>
+               <FirstName>CASSIE</FirstName>
+               <MiddleName>MARIE</MiddleName>
+               <DOB>11/25/1986 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>LOOKINGBILL</LastName>
+               <FirstName>CASSIE</FirstName>
+               <MiddleName>MARIE</MiddleName>
+               <DOB>11/25/1986 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1290 </StreetNumber>
+               <StreetName>BRUCEVILLE</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>KEYMAR</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21757</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.23518</Longitude>
+               <Latitude>39.609248</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>895</StreetNumber>
+               <StreetName>Francis Scott Key</StreetName>
+               <StreetTypeCode>Highway</StreetTypeCode>
+               <City>Keymar</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21757</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.237057</Longitude>
+               <Latitude>39.599161</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>626</PhonePrefix>
+               <PhoneSuffix>8573</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>289</PhonePrefix>
+               <PhoneSuffix>4214</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

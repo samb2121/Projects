@@ -1,0 +1,87 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>03/10/2023 10:13:00</ReportDate>
+   <StartDate>03/10/2023 09:39:00</StartDate>
+   <Summary>Industrial Accident at Dynamic Auto</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>563063</AddressId>
+      <City>MDC151</City>
+      <Address>
+         <AddressId>563063</AddressId>
+         <StreetNumber>11931</StreetNumber>
+         <StreetName>Main</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Frederick</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21701</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.2482945</Longitude>
+         <Latitude>39.4844113</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>DYNAMIC AUTO</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Freysz</LastName>
+            <FirstName>Richard</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Coss</LastName>
+            <FirstName>Timothy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>371210</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Wine</LastName>
+               <FirstName>Dalton</FirstName>
+               <MiddleName>William</MiddleName>
+               <DOB>01/10/2001 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Wine</LastName>
+               <FirstName>Dalton</FirstName>
+               <MiddleName>William</MiddleName>
+               <DOB>01/10/2001 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>15611</StreetNumber>
+               <StreetName>kelbaugh</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Thurmont</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>818</PhonePrefix>
+               <PhoneSuffix>8649</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

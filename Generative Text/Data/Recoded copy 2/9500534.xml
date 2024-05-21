@@ -1,0 +1,403 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5100</ORINum>
+   <ReportDate>06/25/2023 12:22:00</ReportDate>
+   <StartDate>06/25/2023 11:37:00</StartDate>
+   <Summary>Fatal motor vehicle collision.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>ACR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Death Investigation</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>698974</AddressId>
+      <Address>
+         <AddressId>698974</AddressId>
+         <StreetDirCode>W</StreetDirCode>
+         <StreetName>US-50</StreetName>
+         <City>Annapolis</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21409</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>DR</CrossStreetTypeCode>
+         <Longitude>-76.479887</Longitude>
+         <Latitude>39.01947</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Lowe</LastName>
+            <FirstName>Erin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>61</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>380839</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Angell</LastName>
+               <FirstName>Dale</FirstName>
+               <MiddleName>A</MiddleName>
+               <DOB>06/09/1962 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Angell</LastName>
+               <FirstName>Dale</FirstName>
+               <MiddleName>A</MiddleName>
+               <DOB>06/09/1962 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>583</StreetNumber>
+               <StreetName>Holly</StreetName>
+               <StreetTypeCode>Way</StreetTypeCode>
+               <City>Colonial Beach</City>
+               <StateCode>Virginia</StateCode>
+               <Zip5>22443</Zip5>
+               <Zip4>3320</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.978971</Longitude>
+               <Latitude>38.19499</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>804</PhoneArea>
+               <PhonePrefix>456</PhonePrefix>
+               <PhoneSuffix>7361</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>D</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>28</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>380893</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Angell</LastName>
+               <FirstName>Kaitlin</FirstName>
+               <MiddleName>Alice</MiddleName>
+               <DOB>04/14/1995 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Angell</LastName>
+               <FirstName>Kaitlin</FirstName>
+               <MiddleName>Alice</MiddleName>
+               <DOB>04/14/1995 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3684</StreetNumber>
+               <StreetName>Paradise</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>C1033</SubNumber>
+               <City>Las Vegas</City>
+               <StateCode>Nevada</StateCode>
+               <Zip5>89169</Zip5>
+               <Zip4>3635</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-115.153042</Longitude>
+               <Latitude>36.122643</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>702</PhoneArea>
+               <PhonePrefix>724</PhonePrefix>
+               <PhoneSuffix>6401</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>NOK</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>51</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>171511</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Lawder</LastName>
+               <FirstName>Diane</FirstName>
+               <DOB>06/17/1972 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Lawder</LastName>
+               <FirstName>Diane</FirstName>
+               <DOB>06/17/1972 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>221</StreetNumber>
+               <StreetName>Milford Mill</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Pikesville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21208</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.71926</Longitude>
+               <Latitude>39.365901</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>900</StreetNumber>
+               <StreetDirCode>W</StreetDirCode>
+               <StreetName>Baltimore</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21223</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.63264</Longitude>
+               <Latitude>39.289104</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>357</PhonePrefix>
+               <PhoneSuffix>1395</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>807</PhonePrefix>
+               <PhoneSuffix>9246</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>ME</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>46</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>380895</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Fehr</LastName>
+               <FirstName>Jason</FirstName>
+               <MiddleName>T</MiddleName>
+               <DOB>04/27/1977 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Fehr</LastName>
+               <FirstName>Jason</FirstName>
+               <MiddleName>T</MiddleName>
+               <DOB>04/27/1977 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1915</StreetNumber>
+               <StreetName>Calvert</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <StreetSuffixCode>NW</StreetSuffixCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>102</SubNumber>
+               <City>Washington</City>
+               <StateCode>District of Columbia</StateCode>
+               <Zip5>20009</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.045158</Longitude>
+               <Latitude>38.923555</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>202</PhoneArea>
+               <PhonePrefix>567</PhonePrefix>
+               <PhoneSuffix>1086</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>45</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>380896</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Freeman</LastName>
+               <FirstName>Lucinda</FirstName>
+               <MiddleName>Anne</MiddleName>
+               <DOB>10/29/1977 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Freeman</LastName>
+               <FirstName>Lucinda</FirstName>
+               <MiddleName>Anne</MiddleName>
+               <DOB>10/29/1977 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>12</StreetNumber>
+               <StreetName>Columbia</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Colonial Beach</City>
+               <StateCode>Virginia</StateCode>
+               <Zip5>22443</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.965409</Longitude>
+               <Latitude>38.199862</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>988</PhonePrefix>
+               <PhoneSuffix>6986</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>53</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>53177</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>WARD</LastName>
+               <FirstName>RODNEY</FirstName>
+               <MiddleName>ORLANDO</MiddleName>
+               <DOB>05/14/1970 00:00:00</DOB>
+               <TitleCode>Senior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>WARD</LastName>
+               <FirstName>RODNEY</FirstName>
+               <MiddleName>ORLANDO</MiddleName>
+               <DOB>05/14/1970 00:00:00</DOB>
+               <TitleCode>Senior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>520</StreetNumber>
+               <StreetDirCode>N</StreetDirCode>
+               <StreetName>Belnord</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21205</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.578841</Longitude>
+               <Latitude>39.297502</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Business</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>542</PhonePrefix>
+               <PhoneSuffix>4440</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>154519</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>1HD1FR418AB623851</VIN>
+         <VehicleYear>2010</VehicleYear>
+         <VehicleMakeCode>HARLEY-DAVIDSON</VehicleMakeCode>
+         <VehicleTypeCode>Motorcycle</VehicleTypeCode>
+         <VehPriColorCode>RED</VehPriColorCode>
+         <VehPriColorCode>RED</VehPriColorCode>
+         <VehSecColorCode>RED</VehSecColorCode>
+         <VehSecColorCode>RED</VehSecColorCode>
+         <VehicleLicStateCode>VA</VehicleLicStateCode>
+         <VehicleLicStateCode>VA</VehicleLicStateCode>
+         <VehicleLicNumber>Z405</VehicleLicNumber>
+         <VehicleLicNumber>Z405</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>11</VehicleLicMonth>
+         <VehConditionCode>P</VehConditionCode>
+         <VehDamageCode>11</VehDamageCode>
+         <VehDamageDesc>All around damage</VehDamageDesc>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Anderson</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Lowe</LastName>
+            <FirstName>Erin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Menchey</LastName>
+            <FirstName>Ronald</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Baldi</LastName>
+            <FirstName>Adam</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>MSP1004</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+   </IncidentSupplement>
+</Incident>

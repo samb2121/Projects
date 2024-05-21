@@ -1,0 +1,189 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>04/01/2023 14:11:00</ReportDate>
+   <StartDate>04/01/2023 14:07:00</StartDate>
+   <Summary>Theft of computer</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>689326</AddressId>
+      <City>MDC206</City>
+      <Address>
+         <AddressId>689326</AddressId>
+         <StreetNumber>105</StreetNumber>
+         <StreetName>Elk River</StreetName>
+         <StreetTypeCode>Lane</StreetTypeCode>
+         <City>North East</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.946365</Longitude>
+         <Latitude>39.509758</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Spayd</LastName>
+            <FirstName>Samuel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bachu</LastName>
+            <FirstName>Farhan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Warrant Request</OffenseStatusCode>
+         <OffenseCode>1 1137_AOL</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1137_AOL</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>373175</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Macdonald</LastName>
+               <FirstName>Paige</FirstName>
+               <MiddleName>Chandler</MiddleName>
+               <DOB>07/18/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Macdonald</LastName>
+               <FirstName>Paige</FirstName>
+               <MiddleName>Chandler</MiddleName>
+               <DOB>07/18/2000 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>105</StreetNumber>
+               <StreetName>Elk River Manor</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>North East</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21901</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.939976</Longitude>
+               <Latitude>39.594598</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>610</PhoneArea>
+               <PhonePrefix>806</PhonePrefix>
+               <PhoneSuffix>2726</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>24</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>373176</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Reedy</LastName>
+               <FirstName>Daniel</FirstName>
+               <MiddleName>Eric</MiddleName>
+               <DOB>12/21/1998 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Reedy</LastName>
+               <FirstName>Daniel</FirstName>
+               <MiddleName>Eric</MiddleName>
+               <DOB>12/21/1998 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>632</StreetNumber>
+               <StreetName>Hillendale</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Avondale</City>
+               <StateCode>Pennsylvania</StateCode>
+               <Zip5>19311</Zip5>
+               <Zip4>9779</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.745771</Longitude>
+               <Latitude>39.826123</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>566</PhonePrefix>
+               <PhoneSuffix>6162</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>MSI i5-10400F Gaming Computer </Description>
+         <PropertyTypeCode>COMPUTER</PropertyTypeCode>
+         <PropertyValue>1175.71</PropertyValue>
+         <Value>1175.71</Value>
+         <SerialNumber>CA9T011100805</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>246493</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <Make>MSI</Make>
+         <Model>AEG1084MONH</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Spayd</LastName>
+            <FirstName>Samuel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bachu</LastName>
+            <FirstName>Farhan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

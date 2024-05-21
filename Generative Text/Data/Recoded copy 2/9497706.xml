@@ -1,0 +1,135 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>01/13/2023 18:25:00</ReportDate>
+   <StartDate>01/13/2023 18:19:00</StartDate>
+   <Summary>I initiated a traffic stop on the vehicle for suspended registration. While speaking with the driver, I detected the odor of burnt Cannabis emitting from the vehicle. A probable cause search was conducted and CDS: Cannabis- Personal Use was located in the vehicle.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>681641</AddressId>
+      <City>MDC496</City>
+      <Address>
+         <AddressId>681641</AddressId>
+         <StreetDirCode>E</StreetDirCode>
+         <StreetName>Chesapeake Beach</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Owings</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20736</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>LN</CrossStreetTypeCode>
+         <Longitude>-76.6330156</Longitude>
+         <Latitude>38.7414669</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Evans</LastName>
+            <FirstName>Charles</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rutkoski</LastName>
+            <FirstName>Joseph </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>2 1635</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>47</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>367071</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Reid</LastName>
+               <FirstName>Tien</FirstName>
+               <MiddleName>Shermise</MiddleName>
+               <DOB>01/16/1975 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Reid</LastName>
+               <FirstName>Tien</FirstName>
+               <MiddleName>Shermise</MiddleName>
+               <DOB>01/16/1975 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>6014</StreetNumber>
+               <StreetName>Belwood</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>District Heights</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20747</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>204</PhonePrefix>
+               <PhoneSuffix>1128</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>149029</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>1FAHP2J80FG175697</VIN>
+         <VehicleYear>2015</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>TAURUS,TAURUS X</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>2ES8948</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>9</VehicleLicMonth>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>One (1) hand-rolled cigarette containing suspected Cannabis. Weight: 5.0 grams (Including bag)</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>242135</Property_ID>
+         <DrugTypeCode>SUSPECTED MARIJUANA</DrugTypeCode>
+         <Quantity>5</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

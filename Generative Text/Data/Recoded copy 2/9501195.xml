@@ -1,0 +1,157 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2200</ORINum>
+   <ReportDate>01/03/2024 05:18:00</ReportDate>
+   <StartDate>01/03/2024 04:35:00</StartDate>
+   <Summary>Burglary (4th) / MDOP</Summary>
+   <IncidentType>
+      <IncidentTypeCode>BRG</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>MDOP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>54394</AddressId>
+      <Address>
+         <AddressId>54394</AddressId>
+         <StreetNumber>20927</StreetNumber>
+         <StreetName>LEITERSBURG</StreetName>
+         <StreetTypeCode>Pike</StreetTypeCode>
+         <City>HAGERSTOWN</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21740</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.643126</Longitude>
+         <Latitude>39.687354</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>ANTIETAM TRACTOR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Miller</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Farioli</LastName>
+            <FirstName>Nicholas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Matthai</LastName>
+            <FirstName>Adam</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Marquis</LastName>
+            <FirstName>Brock</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>2 3040</OffenseCode>
+         <PlaceCode>Specialty Store</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <ForcedEntryCode>F</ForcedEntryCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 3040</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>CO193</OffenseCode>
+         <PlaceCode>Specialty Store</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>CO193</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>67</ApproxAge>
+         <Person>
+            <PersonId>29264</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Reed</LastName>
+               <FirstName>James</FirstName>
+               <MiddleName>Carl</MiddleName>
+               <DOB>04/01/1956 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Reed</LastName>
+               <FirstName>James</FirstName>
+               <MiddleName>Carl</MiddleName>
+               <DOB>04/01/1956 00:00:00</DOB>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>791</PhonePrefix>
+               <PhoneSuffix>1200</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>988</PhonePrefix>
+               <PhoneSuffix>1200</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240009227</BusinessNumber>
+         <BusinessName>Antietam Tractor and Equipment</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>194056</AddressId>
+            <StreetNumber>20927</StreetNumber>
+            <StreetName>Leitersburg</StreetName>
+            <StreetTypeCode>Pike</StreetTypeCode>
+            <City>Hagerstown</City>
+            <StateCode>Maryland</StateCode>
+            <Zip5>21742</Zip5>
+            <CountryCode>United States of America</CountryCode>
+            <Longitude>-77.643653</Longitude>
+            <Latitude>39.687079</Latitude>
+            <AddressCommonName>
+               <CommonPlaceName>ANTIETAM TRACTOR</CommonPlaceName>
+            </AddressCommonName>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <StatusCode>1</StatusCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>4</RoleCode>
+         <StatusCode>4</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Cut fence on perimeter</Description>
+         <PropertyTypeCode>FENCE</PropertyTypeCode>
+         <PropertyValue>300</PropertyValue>
+         <Value>300</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>258055</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

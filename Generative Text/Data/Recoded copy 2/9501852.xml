@@ -1,0 +1,143 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>11/30/2023 17:02:00</ReportDate>
+   <StartDate>11/30/2023 17:02:00</StartDate>
+   <Summary>2nd Degree Assault</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>1758</AddressId>
+      <Address>
+         <AddressId>1758</AddressId>
+         <StreetNumber>405</StreetNumber>
+         <StreetName>Naylor Mill</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Salisbury</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21801</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.581593</Longitude>
+         <Latitude>38.410222</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>LOWER EASTERN SHORE CHILDREN CENTER</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>LOWER EASTERN SHORE CHILDRENS CTR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Oborokumo</LastName>
+            <FirstName>Tamarapreye</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Todd</LastName>
+            <FirstName>Bradley</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Jail/Prison</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>16</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>394361</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Sanders</LastName>
+               <FirstName>Antwon</FirstName>
+               <MiddleName>Dandre</MiddleName>
+               <DOB>06/15/2007 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Sanders</LastName>
+               <FirstName>Antwon</FirstName>
+               <MiddleName>Dandre</MiddleName>
+               <DOB>06/15/2007 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>394596</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Terry</LastName>
+               <FirstName>Nakazi</FirstName>
+               <MiddleName>Akir</MiddleName>
+               <DOB>12/28/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Terry</LastName>
+               <FirstName>Nakazi</FirstName>
+               <MiddleName>Akir</MiddleName>
+               <DOB>12/28/2000 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>545</StreetNumber>
+               <StreetName>Prescott</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>4</SubNumber>
+               <City>Scranton</City>
+               <StateCode>Pennsylvania</StateCode>
+               <Zip5>18510</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.647411</Longitude>
+               <Latitude>41.405533</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>206</StreetNumber>
+               <StreetName>Donegal</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21804</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.592832</Longitude>
+               <Latitude>38.332792</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>862</PhoneArea>
+               <PhonePrefix>414</PhonePrefix>
+               <PhoneSuffix>7944</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

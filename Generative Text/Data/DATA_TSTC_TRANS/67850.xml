@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2014ISP0000356</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>05/01/2014 15:05:00</ReportDate>
+   <ReportTime>05/01/2014 15:05:00</ReportTime>
+   <StartDate>05/01/2014 15:05:00</StartDate>
+   <StartTime>05/01/2014 15:05:00</StartTime>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>05/01/2014 15:05:54</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:30</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>MP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>33</AddressId>
+      <City>8</City>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>05/01/2014 15:07:40</CreatorDate>
+      <UpdatorId>STATE_OFFICER11</UpdatorId>
+      <UpdatorDate>05/01/2014 15:09:41</UpdatorDate>
+      <Address>
+         <AddressId>33</AddressId>
+         <StreetNumber>1106</StreetNumber>
+         <StreetName>Downing</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>Denver</City>
+         <StateCode>CO</StateCode>
+         <Zip5>80218</Zip5>
+         <CountryCode>US</CountryCode>
+         <Longitude>-104.972968</Longitude>
+         <Latitude>39.733844</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>05/01/2014 15:05:54</SuppReportDate>
+      <SuppReportTime>05/01/2014 15:05:54</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>05/01/2014 15:09:58</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE SENT</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>05/01/2014 15:05:54</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:20</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>test</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>05/01/2014 15:09:26</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>05/01/2014 15:09:26</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>1657</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-42-1-1  M01        </OffenseCode>
+         <PlaceCode>40</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>05/01/2014 15:07:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>35-42-1-1  M01        </ArrestChargeCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>05/01/2014 15:08:07</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>05/01/2014 15:08:07</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>38</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>05/01/2014 15:08:26</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:14</UpdatorDate>
+         <Person>
+            <PersonId>469</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Aaberg</LastName>
+               <FirstName>Ken</FirstName>
+               <DOB>07/09/1975 00:00:00</DOB>
+               <SSN>1.23456789E8</SSN>
+               <DateOfInfo>07/09/2013 15:43:42</DateOfInfo>
+               <SLastName>A162</SLastName>
+               <SFirstName>K500</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Free</LastName>
+               <FirstName>Fredd</FirstName>
+               <DateOfInfo>10/22/2018 00:00:00</DateOfInfo>
+               <SLastName>F600</SLastName>
+               <SFirstName>F630</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Aaberg</LastName>
+               <FirstName>Ken</FirstName>
+               <DOB>07/09/1975 00:00:00</DOB>
+               <SSN>1.23456789E8</SSN>
+               <SLastName>A162</SLastName>
+               <SFirstName>K500</SFirstName>
+               <DateOfInfo>07/09/2013 15:43:42</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>M</NameTypeCode>
+               <LastName>Free</LastName>
+               <FirstName>Fredd</FirstName>
+               <SLastName>F600</SLastName>
+               <SFirstName>F630</SFirstName>
+               <DateOfInfo>10/22/2018 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>86</StreetNumber>
+               <StreetDirCode>NE</StreetDirCode>
+               <StreetName>ASHWOOD</StreetName>
+               <StreetTypeCode>LN</StreetTypeCode>
+               <StreetSuffixCode>N</StreetSuffixCode>
+               <City>DILLON</City>
+               <CountryCode>US</CountryCode>
+               <Beat>Test</Beat>
+               <SubBeat>Area</SubBeat>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>1770</StreetNumber>
+               <StreetDirCode>BLK</StreetDirCode>
+               <StreetName>Lincoln</StreetName>
+               <City>Denver</City>
+               <StateCode>CO</StateCode>
+               <Zip5>80104</Zip5>
+               <CountryCode>US</CountryCode>
+               <CountyCode>30</CountyCode>
+               <Longitude>-104.999408</Longitude>
+               <Latitude>39.739577</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>400</StreetNumber>
+               <StreetName>Elm</StreetName>
+               <StreetTypeCode>ST</StreetTypeCode>
+               <City>Fortville</City>
+               <StateCode>IN</StateCode>
+               <Zip5>46040</Zip5>
+               <CountryCode>US</CountryCode>
+               <CountyCode>30</CountyCode>
+               <Longitude>-85.84358784985562</Longitude>
+               <Latitude>39.93291330899494</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>556</StreetNumber>
+               <StreetName>Howard</StreetName>
+               <City>Denver</City>
+               <StateCode>CO</StateCode>
+               <Zip5>80111</Zip5>
+               <CountryCode>US</CountryCode>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>877</StreetNumber>
+               <StreetName>Harbor</StreetName>
+               <City>INDIANAPOLIS</City>
+               <StateCode>IN</StateCode>
+               <Zip5>A6221</Zip5>
+               <CountyCode>30</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>RES</PhoneTypeCode>
+               <PhoneArea>987</PhoneArea>
+               <PhonePrefix>987</PhonePrefix>
+               <PhoneSuffix>9876</PhoneSuffix>
+               <DateOfInfo>11/18/2014 00:00:00</DateOfInfo>
+            </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>123</PhoneArea>
+               <PhonePrefix>123</PhonePrefix>
+               <PhoneSuffix>1234</PhoneSuffix>
+               <DateOfInfo>11/18/2014 00:00:00</DateOfInfo>
+            </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>111</PhoneArea>
+               <PhonePrefix>111</PhonePrefix>
+               <PhoneSuffix>1111</PhoneSuffix>
+               <PhoneExt>111</PhoneExt>
+               <DateOfInfo>10/22/2018 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>05/01/2014 15:08:26</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:18</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>28</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>05/01/2014 15:09:12</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:14</UpdatorDate>
+         <Person>
+            <PersonId>211</PersonId>
+            <RaceCode>H</RaceCode>
+            <SexCode>F</SexCode>
+            <EthnicityCode>N</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>ALEXANDER</LastName>
+               <FirstName>KAREN</FirstName>
+               <MiddleName>A</MiddleName>
+               <DateOfInfo>06/06/2012 14:19:04</DateOfInfo>
+               <SLastName>A425</SLastName>
+               <SFirstName>K650</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Alexandria</LastName>
+               <FirstName>Shirley</FirstName>
+               <MiddleName>Lina</MiddleName>
+               <DOB>12/12/1985 00:00:00</DOB>
+               <SSN>7.84641359E8</SSN>
+               <TitleCode>SR</TitleCode>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+               <SLastName>A425</SLastName>
+               <SFirstName>S640</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <SSN>3.33445566E8</SSN>
+               <TitleCode>III</TitleCode>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>ALEXANDER</LastName>
+               <FirstName>KAREN</FirstName>
+               <MiddleName>A</MiddleName>
+               <SLastName>A425</SLastName>
+               <SFirstName>K650</SFirstName>
+               <DateOfInfo>06/06/2012 14:19:04</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Alexandria</LastName>
+               <FirstName>Shirley</FirstName>
+               <MiddleName>Lina</MiddleName>
+               <DOB>12/12/1985 00:00:00</DOB>
+               <SSN>7.84641359E8</SSN>
+               <TitleCode>SR</TitleCode>
+               <SLastName>A425</SLastName>
+               <SFirstName>S640</SFirstName>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <SSN>3.33445566E8</SSN>
+               <TitleCode>III</TitleCode>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>RES</PhoneTypeCode>
+               <PhoneArea>765</PhoneArea>
+               <PhonePrefix>555</PhonePrefix>
+               <PhoneSuffix>5555</PhoneSuffix>
+               <DateOfInfo>04/08/2014 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>05/01/2014 15:09:12</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:19</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

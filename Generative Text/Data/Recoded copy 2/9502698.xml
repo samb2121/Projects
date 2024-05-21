@@ -1,0 +1,193 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>02/27/2023 17:47:00</ReportDate>
+   <StartDate>02/27/2023 17:17:00</StartDate>
+   <Summary>Accident</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>685750</AddressId>
+      <City>MDC447</City>
+      <Address>
+         <AddressId>685750</AddressId>
+         <StreetName>MD-291</StreetName>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21620</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-76.010794</Longitude>
+         <Latitude>39.250143</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Winiarski</LastName>
+            <FirstName>Corey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Curley</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Maranto</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>35</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>100774</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Thompson</LastName>
+               <FirstName>David</FirstName>
+               <MiddleName>Earl</MiddleName>
+               <DOB>12/11/1987 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Thompson</LastName>
+               <FirstName>David</FirstName>
+               <MiddleName>Earl</MiddleName>
+               <DOB>12/11/1987 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>326</StreetNumber>
+               <StreetName>3rd</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Crumpton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21628</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.926934</Longitude>
+               <Latitude>39.238402</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>6202</StreetNumber>
+               <StreetName>Dorlon </StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Rock Hall</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21661</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.203749</Longitude>
+               <Latitude>39.148732</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>480</PhonePrefix>
+               <PhoneSuffix>4124</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>49</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>370315</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Carr</LastName>
+               <FirstName>Amy</FirstName>
+               <MiddleName>Jean</MiddleName>
+               <DOB>09/03/1973 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Carr</LastName>
+               <FirstName>Amy</FirstName>
+               <MiddleName>Jean</MiddleName>
+               <DOB>09/03/1973 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>109</StreetNumber>
+               <StreetName>Lakeside</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Millington</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21651</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.892395</Longitude>
+               <Latitude>39.235786</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>845</PhoneArea>
+               <PhonePrefix>235</PhonePrefix>
+               <PhoneSuffix>4807</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>150351</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>19UYA42421A002093</VIN>
+         <VehicleYear>2001</VehicleYear>
+         <VehicleMakeCode>ACURA</VehicleMakeCode>
+         <VehicleModelCode>CL (SPORT COUPE)</VehicleModelCode>
+         <VehicleStyleCode>2T</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>4Z6063</VehicleLicNumber>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>One dark blue plastic prescription bottle with the label removed, containing an unknown white powdery substance. Weight: Trace Amounts.</Description>
+         <PropertyTypeCode>DRUG PARAPHERNALIA</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>244491</Property_ID>
+         <PrimaryColor>DBL</PrimaryColor>
+         <SecondaryColor>DBL</SecondaryColor>
+         <Make>Plastic</Make>
+         <Model>Bottle</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

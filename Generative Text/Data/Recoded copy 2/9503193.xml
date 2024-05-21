@@ -1,0 +1,106 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>01/17/2023 05:31:00</ReportDate>
+   <StartDate>01/17/2023 04:52:00</StartDate>
+   <Summary>WORKPLACE INJURY</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>647660</AddressId>
+      <City>MDC122</City>
+      <Address>
+         <AddressId>647660</AddressId>
+         <StreetNumber>300</StreetNumber>
+         <StreetName>Tidewater</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Centreville</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21617</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Distance>0</Distance>
+         <Longitude>-76.0287</Longitude>
+         <Latitude>39.02805</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Curley</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Winiarski</LastName>
+            <FirstName>Corey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>366976</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Butler</LastName>
+               <FirstName>Joshua</FirstName>
+               <MiddleName>Monroe</MiddleName>
+               <DOB>10/02/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Butler</LastName>
+               <FirstName>Joshua</FirstName>
+               <MiddleName>Monroe</MiddleName>
+               <DOB>10/02/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1882</StreetNumber>
+               <StreetName>Ocean</StreetName>
+               <StreetTypeCode>Gateway</StreetTypeCode>
+               <City>Trappe</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21673</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.042624</Longitude>
+               <Latitude>38.601632</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240019445</BusinessNumber>
+         <BusinessName>Tidewater Direct</BusinessName>
+         <IncBusinessRoleCode>Incident Location</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>647660</AddressId>
+            <StreetNumber>300</StreetNumber>
+            <StreetName>Tidewater</StreetName>
+            <StreetTypeCode>Drive</StreetTypeCode>
+            <City>Centreville</City>
+            <StateCode>Maryland</StateCode>
+            <Zip5>21617</Zip5>
+            <CountryCode>United States of America</CountryCode>
+            <CountyCode>NaN</CountyCode>
+            <Longitude>-76.0287</Longitude>
+            <Latitude>39.02805</Latitude>
+            <BusinessPhone>
+               <PhoneTypeCode>Business</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>758</PhonePrefix>
+               <PhoneSuffix>1500</PhoneSuffix>
+               </BusinessPhone>
+         </BusinessAddress>
+      </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

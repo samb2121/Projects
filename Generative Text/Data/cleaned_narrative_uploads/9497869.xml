@@ -1,0 +1,85 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-006052</IncidentReportNum>
+   <AgencyCode>64</AgencyCode>
+   <ORINum>MDMSP2200</ORINum>
+   <ReportDate>02/16/2023 14:01:00</ReportDate>
+   <ReportTime>02/16/2023 14:01:00</ReportTime>
+   <StartDate>02/16/2023 13:36:00</StartDate>
+   <StartTime>02/16/2023 13:36:00</StartTime>
+   <Summary>Single vehicle property damage accident.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>02/16/2023 14:01:40</CreatorDate>
+   <UpdatorId>MSP4151</UpdatorId>
+   <UpdatorDate>02/17/2023 06:45:52</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>JEFFERSON BLVD/ S MAIN ST</IncAddrComment>
+      <AddressId>684498</AddressId>
+      <City>MDC231</City>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>02/16/2023 14:01:43</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>02/16/2023 15:19:35</UpdatorDate>
+      <Address>
+         <AddressId>684498</AddressId>
+         <StreetName>Jefferson</StreetName>
+         <StreetTypeCode>BLVD</StreetTypeCode>
+         <City>Smithsburg</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetDirCode>S</CrossStreetDirCode>
+         <CrossStreetTypeCode>ST</CrossStreetTypeCode>
+         <Longitude>-77.56833</Longitude>
+         <Latitude>39.64896</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>22901-22999 JEFFERSON BLVD / 100-199 S MAIN ST</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>02/16/2023 14:01:37</SuppReportDate>
+      <SuppReportTime>02/16/2023 14:01:37</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>64</SuppAgencyCode>
+      <DsIcrDate>02/17/2023 06:45:52</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>02/16/2023 14:01:40</CreatorDate>
+      <UpdatorId>MSP4151</UpdatorId>
+      <UpdatorDate>02/17/2023 06:45:52</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Single vehicle property damage accident completed in ACRS.</NarrativeText>
+         <CreatorId>MSP1926</CreatorId>
+         <CreatorDate>02/16/2023 15:20:13</CreatorDate>
+         <UpdatorId>MSP1926</UpdatorId>
+         <UpdatorDate>02/16/2023 15:20:13</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>64</AgencyCode>
+            <ORINumber>MDMSP2200</ORINumber>
+            <LastName>Brown</LastName>
+            <FirstName>Travis</FirstName>
+            <InternalID>4151</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>64</AgencyCode>
+            <ORINumber>MDMSP2200</ORINumber>
+            <LastName>Kocevar</LastName>
+            <FirstName>Timothy</FirstName>
+            <InternalID>1926</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

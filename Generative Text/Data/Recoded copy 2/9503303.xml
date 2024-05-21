@@ -1,0 +1,183 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>02/23/2023 16:16:00</ReportDate>
+   <StartDate>02/23/2023 15:51:00</StartDate>
+   <Summary>Assault involving juveniles</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>42227</AddressId>
+      <SubBeat>512</SubBeat>
+      <City>MDC246</City>
+      <Address>
+         <AddressId>42227</AddressId>
+         <StreetNumber>21</StreetNumber>
+         <StreetDirCode>W</StreetDirCode>
+         <StreetName>FREDERICK</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>WALKERSVILLE</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>512</SubBeat>
+         <Longitude>-77.35051546228753</Longitude>
+         <Latitude>39.48160731520575</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>WALKERSVILLE TOWN OFFICE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Conklin</LastName>
+            <FirstName>Gary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Ingram</LastName>
+            <FirstName>Jasmine </FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>15</ApproxAge>
+         <Person>
+            <PersonId>370346</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>13</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>355089</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Mills</LastName>
+               <FirstName>Vincent</FirstName>
+               <DOB>05/19/2009 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Mills</LastName>
+               <FirstName>Vincent</FirstName>
+               <DOB>05/19/2009 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>112</StreetNumber>
+               <StreetName>Greenwich</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Walkersville</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.344869</Longitude>
+               <Latitude>39.487606</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>571</PhoneArea>
+               <PhonePrefix>408</PhonePrefix>
+               <PhoneSuffix>3635</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>12</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>355090</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Mills</LastName>
+               <FirstName>Clair</FirstName>
+               <DOB>11/04/2010 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Mills</LastName>
+               <FirstName>Clair</FirstName>
+               <DOB>11/04/2010 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>112</StreetNumber>
+               <StreetName>Greenwich</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Walkersville</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.344869</Longitude>
+               <Latitude>39.487606</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>571</PhoneArea>
+               <PhonePrefix>408</PhonePrefix>
+               <PhoneSuffix>3635</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>14</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>370347</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>MURRELL</LastName>
+               <FirstName>GABRIEL</FirstName>
+               <MiddleName>JAMES</MiddleName>
+               <DOB>06/23/2008 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>MURRELL</LastName>
+               <FirstName>GABRIEL</FirstName>
+               <MiddleName>JAMES</MiddleName>
+               <DOB>06/23/2008 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

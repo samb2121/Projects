@@ -1,0 +1,81 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-023211</IncidentReportNum>
+   <AgencyCode>40J</AgencyCode>
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>06/28/2023 11:33:00</ReportDate>
+   <ReportTime>06/28/2023 11:33:00</ReportTime>
+   <StartDate>06/28/2023 11:23:00</StartDate>
+   <StartTime>06/28/2023 11:23:00</StartTime>
+   <Summary>K9 Scan</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>06/28/2023 11:33:30</CreatorDate>
+   <UpdatorId>MSP4780</UpdatorId>
+   <UpdatorDate>07/21/2023 09:26:44</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>DSM</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>699248</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/28/2023 11:33:31</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>06/29/2023 12:18:48</UpdatorDate>
+      <Address>
+         <AddressId>699248</AddressId>
+         <StreetName>Baker</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>Cumberland</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-78.75674</Longitude>
+         <Latitude>39.64449</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>707-799</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/28/2023 11:33:28</SuppReportDate>
+      <SuppReportTime>06/28/2023 11:33:28</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>40J</SuppAgencyCode>
+      <DsIcrDate>07/21/2023 09:26:44</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/28/2023 11:33:30</CreatorDate>
+      <UpdatorId>MSP4780</UpdatorId>
+      <UpdatorDate>07/21/2023 09:26:45</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>K9 Scan. See K9 report.</NarrativeText>
+         <CreatorId>MSP5830</CreatorId>
+         <CreatorDate>06/29/2023 12:19:13</CreatorDate>
+         <UpdatorId>MSP5830</UpdatorId>
+         <UpdatorDate>06/29/2023 12:19:13</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>40J</AgencyCode>
+            <ORINumber>MDMSP9800</ORINumber>
+            <LastName>Smith</LastName>
+            <FirstName>Jeremy</FirstName>
+            <InternalID>4780</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>40J</AgencyCode>
+            <ORINumber>MDMSP9800</ORINumber>
+            <LastName>Deaner</LastName>
+            <FirstName>Douglas</FirstName>
+            <InternalID>5830</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

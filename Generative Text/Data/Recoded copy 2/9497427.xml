@@ -1,0 +1,119 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>02/03/2023 05:39:00</ReportDate>
+   <StartDate>02/03/2023 05:36:00</StartDate>
+   <Summary>TA 16-303(C) : PERSON DRIVING MOTOR VEH. ON HWY. ON SUSPENDED LIC. AND PRIVILEGE</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>401 BROWN PRIVATE,WESTMINSTER</IncAddrComment>
+      <AddressId>197280</AddressId>
+      <City>MDC249</City>
+      <Address>
+         <AddressId>197280</AddressId>
+         <StreetNumber>835</StreetNumber>
+         <StreetName>Market</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Westminster</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21157</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.967817</Longitude>
+         <Latitude>39.563583</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>Home Depot</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Gibson</LastName>
+            <FirstName>Cameron</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>FAIR</LastName>
+            <FirstName>JOHN</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>3096</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>3096</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>58</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>368006</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>SAMOSUK</LastName>
+               <FirstName>LEE</FirstName>
+               <MiddleName>ANTHONY</MiddleName>
+               <DOB>12/29/1964 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>SAMOSUK</LastName>
+               <FirstName>LEE</FirstName>
+               <MiddleName>ANTHONY</MiddleName>
+               <DOB>12/29/1964 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2120</StreetNumber>
+               <StreetName>Don</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Westminster</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21157</Zip5>
+               <Zip4>7331</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.9718</Longitude>
+               <Latitude>39.514899</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>149432</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>1C6RR7FT6DS710531</VIN>
+         <VehicleYear>2013</VehicleYear>
+         <VehicleMakeCode>DODGE(DODG)</VehicleMakeCode>
+         <VehicleStyleCode>PK</VehicleStyleCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehSecColorCode>GRY</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>8BD2500</VehicleLicNumber>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

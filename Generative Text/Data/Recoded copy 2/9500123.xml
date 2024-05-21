@@ -1,0 +1,294 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>05/02/2023 07:43:00</ReportDate>
+   <StartDate>05/02/2023 07:43:00</StartDate>
+   <EndDate>05/07/2023 20:32:00</EndDate>
+   <Summary>Suspect(s) did steal a motor vehicle to be sold to an unwitting buyer.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>STV</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>359869</AddressId>
+      <Address>
+         <AddressId>359869</AddressId>
+         <StreetNumber>3900</StreetNumber>
+         <StreetName>Frederick</StreetName>
+         <StreetTypeCode>Avenue</StreetTypeCode>
+         <City>Baltimore</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21229</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.68139</Longitude>
+         <Latitude>39.282021</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Sawa</LastName>
+            <FirstName>Jon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Easley</LastName>
+            <FirstName>Marcus</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Active Warrant</OffenseStatusCode>
+         <OffenseCode>2 0480</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 0480</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Active Warrant</OffenseStatusCode>
+         <OffenseCode>1 1466</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1466</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>383987</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Edwards</LastName>
+               <FirstName>Bernard</FirstName>
+               <DOB>12/23/1986 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Edwards</LastName>
+               <FirstName>Bernard</FirstName>
+               <DOB>12/23/1986 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1401</StreetNumber>
+               <StreetName>Meridene</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21239</Zip5>
+               <Zip4>2028</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.587368</Longitude>
+               <Latitude>39.368039</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>978</PhonePrefix>
+               <PhoneSuffix>1556</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>R</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>383988</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Tindong</LastName>
+               <FirstName>Divine</FirstName>
+               <DOB>06/29/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Tindong</LastName>
+               <FirstName>Divine</FirstName>
+               <DOB>06/29/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>7800</StreetNumber>
+               <StreetName>Doe Ridge</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21244</Zip5>
+               <Zip4>2015</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.77249</Longitude>
+               <Latitude>39.349319</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>388</PhonePrefix>
+               <PhoneSuffix>7613</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>R</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>383990</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Koumou Djouba</LastName>
+               <FirstName>Christiane</FirstName>
+               <MiddleName>Lena</MiddleName>
+               <DOB>05/10/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Koumou Djouba</LastName>
+               <FirstName>Christiane</FirstName>
+               <MiddleName>Lena</MiddleName>
+               <DOB>05/10/2000 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>4909</StreetNumber>
+               <StreetName>Old Court</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Randallstown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21133</Zip5>
+               <Zip4>4628</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.768565</Longitude>
+               <Latitude>39.366591</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>667</PhoneArea>
+               <PhonePrefix>305</PhonePrefix>
+               <PhoneSuffix>4605</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>338227</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Basit-Fitzgerald</LastName>
+               <FirstName>Malik</FirstName>
+               <MiddleName>Quran</MiddleName>
+               <DOB>11/04/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Basit-Fitzgerald</LastName>
+               <FirstName>Malik</FirstName>
+               <MiddleName>Quran</MiddleName>
+               <DOB>11/04/1989 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>5</StreetNumber>
+               <StreetName>Harness</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <SubNumber>201</SubNumber>
+               <City>Pikesville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21208</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.7318099</Longitude>
+               <Latitude>39.3892742</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>8902</StreetNumber>
+               <StreetName>Maplebrook</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Randallstown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21133</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.788899</Longitude>
+               <Latitude>39.372034</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>374</PhonePrefix>
+               <PhoneSuffix>8432</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>155640</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>5</StatusCode>
+         <VIN>1N4AL3AP6GN342063</VIN>
+         <VehicleYear>2016</VehicleYear>
+         <VehicleMakeCode>NISSAN</VehicleMakeCode>
+         <VehicleModelCode>ALTIMA</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>RED</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>4ER4951</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>6</VehicleLicMonth>
+         <VehicleValue>17989</VehicleValue>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>155640</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>5</StatusCode>
+         <VIN>1N4AL3AP6GN342063</VIN>
+         <VehicleYear>2016</VehicleYear>
+         <VehicleMakeCode>NISSAN</VehicleMakeCode>
+         <VehicleModelCode>ALTIMA</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>RED</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>4ER4951</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>6</VehicleLicMonth>
+         <VehicleValue>17989</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,171 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>11/05/2023 01:21:00</ReportDate>
+   <StartDate>11/05/2023 00:37:00</StartDate>
+   <Summary>Burglary, Vehicle theft</Summary>
+   <IncidentType>
+      <IncidentTypeCode>BRG</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>STV</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>712129</AddressId>
+      <Address>
+         <AddressId>712129</AddressId>
+         <StreetNumber>9</StreetNumber>
+         <StreetName>Blythedale</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Perryville</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21903</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.063719</Longitude>
+         <Latitude>39.588196</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Kim</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mott</LastName>
+            <FirstName>Kenneth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>2 3040</OffenseCode>
+         <PlaceCode>Auto Dealership New/Used</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <ForcedEntryCode>F</ForcedEntryCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 3040</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>46</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>173398</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Garcia</LastName>
+               <FirstName>Alexander</FirstName>
+               <MiddleName>Mercado</MiddleName>
+               <DOB>09/25/1977 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Garcia</LastName>
+               <FirstName>Alexander</FirstName>
+               <MiddleName>Mercado</MiddleName>
+               <DOB>09/25/1977 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1429</StreetNumber>
+               <StreetName>Trappe</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Street</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21154</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.260199</Longitude>
+               <Latitude>39.617999</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>722</PhonePrefix>
+               <PhoneSuffix>6149</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>158854</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>7</StatusCode>
+         <VIN>WMWSU3C57CT186402</VIN>
+         <VehicleYear>2012</VehicleYear>
+         <VehicleMakeCode>MINI DIVISION OF BMW MAKER OF COOPER AND COOPER S</VehicleMakeCode>
+         <VehicleModelCode>Cooper</VehicleModelCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehSecColorCode>BLU</VehSecColorCode>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>158856</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>7</StatusCode>
+         <VIN>5UXFE43568L025651</VIN>
+         <VehicleYear>2008</VehicleYear>
+         <VehicleMakeCode>BMW</VehicleMakeCode>
+         <VehicleModelCode>X5 SERIES</VehicleModelCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>158857</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>2GTEK19T921409849</VIN>
+         <VehicleMakeCode>GENERAL MOTORS CORP.</VehicleMakeCode>
+         <VehicleModelCode>SIERRA</VehicleModelCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehSecColorCode>WHI</VehSecColorCode>
+         <VehicleValue>100</VehicleValue>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>40 Keys for various vehicles</Description>
+         <PropertyTypeCode>KEYS</PropertyTypeCode>
+         <PropertyValue>40</PropertyValue>
+         <Value>40</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>256380</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Video surveillance hard drive </Description>
+         <PropertyTypeCode>VIDEO EQUIPMENT</PropertyTypeCode>
+         <PropertyValue>100</PropertyValue>
+         <Value>100</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>256381</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>unknown make and model Leaf blower</Description>
+         <PropertyTypeCode>TOOL</PropertyTypeCode>
+         <PropertyValue>100</PropertyValue>
+         <Value>100</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>256382</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

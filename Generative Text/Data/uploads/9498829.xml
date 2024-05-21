@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-014380</IncidentReportNum>
+   <AgencyCode>55</AgencyCode>
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>04/23/2023 02:34:00</ReportDate>
+   <ReportTime>04/23/2023 02:34:00</ReportTime>
+   <StartDate>04/23/2023 02:14:00</StartDate>
+   <StartTime>04/23/2023 02:14:00</StartTime>
+   <Summary>DUI arrest involving a departmental.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>04/23/2023 02:34:24</CreatorDate>
+   <UpdatorId>MSP4976</UpdatorId>
+   <UpdatorDate>04/25/2023 00:42:16</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>PULASKI HWY/ MECHANICS VALLEY RD</IncAddrComment>
+      <AddressId>532839</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>04/23/2023 02:34:25</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>04/24/2023 01:05:31</UpdatorDate>
+      <Address>
+         <AddressId>532839</AddressId>
+         <StreetName>Pulaski</StreetName>
+         <StreetTypeCode>HWY</StreetTypeCode>
+         <City>North East</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-75.932129</Longitude>
+         <Latitude>39.612302</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>2050-2350 PULASKI HWY / 536-539 MECHANICS VALLEY RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>2051-2075 PULASKI HWY / 540-556 MECHANICS VALLEY RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>2050-2350 PULASKI HWY / 481-535 MECHANICS VALLEY RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>2000-2030 PULASKI HWY / 0-0 MECHANICS VALLEY RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>04/23/2023 02:34:21</SuppReportDate>
+      <SuppReportTime>04/23/2023 02:34:21</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>55</SuppAgencyCode>
+      <DsIcrDate>04/25/2023 00:42:16</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>04/23/2023 02:34:24</CreatorDate>
+      <UpdatorId>MSP4976</UpdatorId>
+      <UpdatorDate>04/25/2023 00:42:16</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Duplicate case number, see case number 23MSP014377.</NarrativeText>
+         <CreatorId>MSP7111</CreatorId>
+         <CreatorDate>04/24/2023 01:04:38</CreatorDate>
+         <UpdatorId>MSP7111</UpdatorId>
+         <UpdatorDate>04/24/2023 01:04:38</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>55</AgencyCode>
+            <ORINumber>MDMSP3100</ORINumber>
+            <LastName>Billstone</LastName>
+            <FirstName>Seth</FirstName>
+            <InternalID>7270</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>55</AgencyCode>
+            <ORINumber>MDMSP3100</ORINumber>
+            <LastName>Standish</LastName>
+            <FirstName>Alexandra</FirstName>
+            <InternalID>7516</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>55</AgencyCode>
+            <ORINumber>MDMSP3100</ORINumber>
+            <LastName>Davis</LastName>
+            <FirstName>James</FirstName>
+            <InternalID>4976</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>55</AgencyCode>
+            <ORINumber>MDMSP3100</ORINumber>
+            <LastName>Hughes</LastName>
+            <FirstName>Matthew</FirstName>
+            <InternalID>7111</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

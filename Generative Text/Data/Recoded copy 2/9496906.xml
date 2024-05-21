@@ -1,0 +1,281 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2100</ORINum>
+   <ReportDate>03/15/2023 18:04:00</ReportDate>
+   <StartDate>03/15/2023 17:05:00</StartDate>
+   <Summary>Assault was reported.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>566889</AddressId>
+      <City>MDC193</City>
+      <Address>
+         <AddressId>566889</AddressId>
+         <StreetNumber>15321</StreetNumber>
+         <StreetName>Lower Georges Creek</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <StreetSuffixCode>SW</StreetSuffixCode>
+         <SubTypeCode>APT</SubTypeCode>
+         <SubNumber>E</SubNumber>
+         <City>Frostburg</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Miller</LastName>
+            <FirstName>Barry</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Divelbiss</LastName>
+            <FirstName>James</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>McCue</LastName>
+            <FirstName>Hunter</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1420</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1420</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1415 4D</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4d</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>2 0050</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>50</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>154996</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Frenzel</LastName>
+               <FirstName>Theresa</FirstName>
+               <MiddleName>Ann</MiddleName>
+               <DOB>05/21/1972 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Frenzel</LastName>
+               <FirstName>Theresa</FirstName>
+               <MiddleName>Ann</MiddleName>
+               <DOB>05/21/1972 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>14801</StreetNumber>
+               <StreetName>Railroad</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <SubNumber>1</SubNumber>
+               <City>Midland</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21532</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-78.952424</Longitude>
+               <Latitude>39.58947</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>18901</StreetNumber>
+               <StreetName>High</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Barton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21521</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-79.017617</Longitude>
+               <Latitude>39.534308</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>15321</StreetNumber>
+               <StreetName>Lower Georges Creek</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>C</SubNumber>
+               <City>Midland</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21542</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-78.95166</Longitude>
+               <Latitude>39.582968</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>727</PhonePrefix>
+               <PhoneSuffix>0355</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>202544</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Thorn</LastName>
+               <FirstName>Lisa</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>09/26/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Thorn</LastName>
+               <FirstName>Lisa</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>09/26/1989 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>404 </StreetNumber>
+               <StreetName>Maryland </StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Westernport </City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21562</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-79.042593</Longitude>
+               <Latitude>39.481083</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>15321</StreetNumber>
+               <StreetName>Lower Georges Creek</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <StreetSuffixCode>SW</StreetSuffixCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>E</SubNumber>
+               <City>Frostburg</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>19811</StreetNumber>
+               <StreetName>Big</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <StreetSuffixCode>SW</StreetSuffixCode>
+               <City>Frostburg</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>803</PhonePrefix>
+               <PhoneSuffix>7414</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>803</PhonePrefix>
+               <PhoneSuffix>9841</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>580</PhonePrefix>
+               <PhoneSuffix>6288</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <Person>
+            <PersonId>22036</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Robinette</LastName>
+               <FirstName>James</FirstName>
+               <MiddleName>Edward</MiddleName>
+               <DOB>08/25/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Robinette</LastName>
+               <FirstName>James</FirstName>
+               <MiddleName>Edward</MiddleName>
+               <DOB>08/25/1989 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>15321</StreetNumber>
+               <StreetName>Lower Georges Creek</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <StreetSuffixCode>SW</StreetSuffixCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>E</SubNumber>
+               <City>Frostburg</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>14917</StreetNumber>
+               <StreetName>Paradise</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <StreetSuffixCode>SW</StreetSuffixCode>
+               <City>Midland</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21542</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-78.94511</Longitude>
+               <Latitude>39.589759</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

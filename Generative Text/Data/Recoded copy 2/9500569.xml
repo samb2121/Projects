@@ -1,0 +1,212 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>06/10/2023 03:44:00</ReportDate>
+   <StartDate>06/10/2023 03:28:00</StartDate>
+   <Summary>A two vehicle collision led to DUI/DWI arrest</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>CAP BELT OL A HWY/ SAINT BARNABAS RD</IncAddrComment>
+      <AddressId>697354</AddressId>
+      <Address>
+         <AddressId>697354</AddressId>
+         <StreetName>N/B Capital Beltway S/O St.barnabas Rd</StreetName>
+         <City>Oxon Hill</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20745</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.986534167</Longitude>
+         <Latitude>38.8064815</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Arioso</LastName>
+            <FirstName>Zachary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Sorenson</LastName>
+            <FirstName>Bryan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Thienhom</LastName>
+            <FirstName>Bryce</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>14583</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14583</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>24</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>379549</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Ramirez Marroquin</LastName>
+               <FirstName>Pedro</FirstName>
+               <MiddleName>Antonio</MiddleName>
+               <DOB>08/22/1998 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Ramirez Marroquin</LastName>
+               <FirstName>Pedro</FirstName>
+               <MiddleName>Antonio</MiddleName>
+               <DOB>08/22/1998 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2127</StreetNumber>
+               <StreetName>Rolander</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Hyattsville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20783</Zip5>
+               <Zip4>2158</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.969729</Longitude>
+               <Latitude>38.996693</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>242</PhonePrefix>
+               <PhoneSuffix>1648</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>56</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>379551</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Roland</LastName>
+               <FirstName>Steven</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>09/13/1966 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Roland</LastName>
+               <FirstName>Steven</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>09/13/1966 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1701</StreetNumber>
+               <StreetName>Bonita Bluff</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Ruskin</City>
+               <StateCode>Florida</StateCode>
+               <Zip5>33570</Zip5>
+               <Zip4>3218</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-82.457632</Longitude>
+               <Latitude>27.72736</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>813</PhoneArea>
+               <PhonePrefix>629</PhonePrefix>
+               <PhoneSuffix>7791</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>154017</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>2HGFC2F53GH577628</VIN>
+         <VehicleYear>2016</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>CIVIC (AND CRX), CIVIC DEL SOL</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>4FB7339</VehicleLicNumber>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>154019</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>1C4HJXFNXNW123157</VIN>
+         <VehicleYear>2022</VehicleYear>
+         <VehicleMakeCode>JEEP FOR MODEL YEARS 1989 THROUGH PRESENT PART OF FCA US LLC</VehicleMakeCode>
+         <VehicleModelCode>WRANGLER WRANGLER PHEV</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehicleLicStateCode>FL</VehicleLicStateCode>
+         <VehicleLicNumber>T95EK</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

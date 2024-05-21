@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-030903</IncidentReportNum>
+   <AgencyCode>58</AgencyCode>
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>09/02/2023 06:13:00</ReportDate>
+   <ReportTime>09/02/2023 06:13:00</ReportTime>
+   <StartDate>09/02/2023 05:55:00</StartDate>
+   <StartTime>09/02/2023 05:55:00</StartTime>
+   <Summary>Motor Vehicle Accident</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>09/02/2023 06:13:10</CreatorDate>
+   <UpdatorId>MSP5204</UpdatorId>
+   <UpdatorDate>09/11/2023 15:51:34</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>E NEW MARKET HURLOCK RD/ LORDS CROSSING RD</IncAddrComment>
+      <AddressId>686655</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>09/02/2023 06:13:12</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>09/07/2023 09:29:08</UpdatorDate>
+      <Address>
+         <AddressId>686655</AddressId>
+         <StreetDirCode>E</StreetDirCode>
+         <StreetName>New Market Hurlock</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Hurlock</City>
+         <StateCode>MD</StateCode>
+         <Zip5>21643</Zip5>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-75.89464</Longitude>
+         <Latitude>38.61237</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>4200-4299 E NEW MARKET HURLOCK RD / 6200-6224 LORDS CROSSING RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>09/02/2023 06:13:06</SuppReportDate>
+      <SuppReportTime>09/02/2023 06:13:06</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>58</SuppAgencyCode>
+      <DsIcrDate>09/11/2023 15:51:33</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>09/02/2023 06:13:10</CreatorDate>
+      <UpdatorId>MSP5204</UpdatorId>
+      <UpdatorDate>09/11/2023 15:51:34</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>ACRS report submitted through Delta Plus.&amp;nbsp;&amp;nbsp;</NarrativeText>
+         <CreatorId>MSP6827</CreatorId>
+         <CreatorDate>09/07/2023 09:29:33</CreatorDate>
+         <UpdatorId>MSP6827</UpdatorId>
+         <UpdatorDate>09/07/2023 09:29:33</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>58</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Bringman</LastName>
+            <FirstName>William</FirstName>
+            <InternalID>5204</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>58</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Angeli</LastName>
+            <FirstName>Robert</FirstName>
+            <InternalID>6827</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

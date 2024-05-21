@@ -1,0 +1,102 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>11/21/2023 10:12:00</ReportDate>
+   <StartDate>11/21/2023 10:12:00</StartDate>
+   <Summary>Threat of Mass Violence/Hate Crime</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Hate Crime</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>713832</AddressId>
+      <Address>
+         <AddressId>713832</AddressId>
+         <StreetNumber>1700</StreetNumber>
+         <StreetName>Ashton</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Ashton-Sandy Spring</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20861</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.977199</Longitude>
+         <Latitude>39.161147</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Zeller</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mueller</LastName>
+            <FirstName>Austin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>TOT- Turned Over to Other Agency</OffenseStatusCode>
+         <OffenseCode>1 1335</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>Anti-Black or African American</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1335</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>31</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>393605</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Willson</LastName>
+               <FirstName>Frank</FirstName>
+               <MiddleName>Forsyth</MiddleName>
+               <DOB>02/12/1992 00:00:00</DOB>
+               <TitleCode>IV</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Willson</LastName>
+               <FirstName>Frank</FirstName>
+               <MiddleName>Forsyth</MiddleName>
+               <DOB>02/12/1992 00:00:00</DOB>
+               <TitleCode>IV</TitleCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <ResidentStatusCode>Unknown</ResidentStatusCode>
+         <Person>
+            <PersonId>116227</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Doe</LastName>
+               <FirstName>John</FirstName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Doe</LastName>
+               <FirstName>John</FirstName>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

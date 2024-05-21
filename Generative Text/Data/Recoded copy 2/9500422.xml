@@ -1,0 +1,202 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2100</ORINum>
+   <ReportDate>09/07/2023 19:20:00</ReportDate>
+   <StartDate>09/07/2023 16:31:00</StartDate>
+   <Summary>Possible assault occurred at 14 Castle Hill ST</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>706285</AddressId>
+      <Address>
+         <AddressId>706285</AddressId>
+         <StreetNumber>14</StreetNumber>
+         <StreetName>Castle Hill</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Lonaconing</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Diehl</LastName>
+            <FirstName>Dwight</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>McCue</LastName>
+            <FirstName>Hunter</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>23</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>387264</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Barclay</LastName>
+               <FirstName>Colby</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>07/21/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Barclay</LastName>
+               <FirstName>Colby</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>07/21/2000 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>17403</StreetNumber>
+               <StreetName>Lower Georges Creek</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <StreetSuffixCode>SW</StreetSuffixCode>
+               <City>Lonaconing</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>727</PhonePrefix>
+               <PhoneSuffix>3516</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>64</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>387265</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Miller</LastName>
+               <FirstName>Lisa</FirstName>
+               <MiddleName>Ann</MiddleName>
+               <DOB>02/12/1959 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Miller</LastName>
+               <FirstName>Lisa</FirstName>
+               <MiddleName>Ann</MiddleName>
+               <DOB>02/12/1959 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>17202</StreetNumber>
+               <StreetName>Old National</StreetName>
+               <StreetTypeCode>Pike</StreetTypeCode>
+               <StreetSuffixCode>SW</StreetSuffixCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <City>Frostburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21532</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.903931</Longitude>
+               <Latitude>39.64914</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>463</PhonePrefix>
+               <PhoneSuffix>5698</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>62</ApproxAge>
+         <Person>
+            <PersonId>387266</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Barclay</LastName>
+               <FirstName>William</FirstName>
+               <MiddleName>Bryan</MiddleName>
+               <DOB>01/27/1961 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Barclay</LastName>
+               <FirstName>William</FirstName>
+               <MiddleName>Bryan</MiddleName>
+               <DOB>01/27/1961 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>19310</StreetNumber>
+               <StreetName>Lower Consol</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <StreetSuffixCode>NW</StreetSuffixCode>
+               <City>Frostburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>215322</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Miller</LastName>
+            <FirstName>Barry</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>McCue</LastName>
+            <FirstName>Hunter</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+   </IncidentSupplement>
+</Incident>

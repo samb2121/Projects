@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-044530</IncidentReportNum>
+   <AgencyCode>54</AgencyCode>
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>12/17/2023 00:02:00</ReportDate>
+   <ReportTime>12/17/2023 00:02:00</ReportTime>
+   <StartDate>12/16/2023 23:55:00</StartDate>
+   <StartTime>12/16/2023 23:55:00</StartTime>
+   <Summary>ACRS completed in Delta Plus</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>12/17/2023 00:02:45</CreatorDate>
+   <UpdatorId>MSP5869</UpdatorId>
+   <UpdatorDate>12/19/2023 04:53:15</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>716251</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>12/17/2023 00:02:46</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>12/18/2023 00:08:10</UpdatorDate>
+      <Address>
+         <AddressId>716251</AddressId>
+         <StreetName>Salisbury</StreetName>
+         <StreetTypeCode>BYP</StreetTypeCode>
+         <City>Salisbury</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-75.539813</Longitude>
+         <Latitude>38.357253</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>0-0</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>12/17/2023 00:02:41</SuppReportDate>
+      <SuppReportTime>12/17/2023 00:02:41</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>54</SuppAgencyCode>
+      <DsIcrDate>12/19/2023 04:53:15</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>12/17/2023 00:02:45</CreatorDate>
+      <UpdatorId>MSP5869</UpdatorId>
+      <UpdatorDate>12/19/2023 04:53:15</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>ACRS completed in Delta Plus</NarrativeText>
+         <CreatorId>MSP5979</CreatorId>
+         <CreatorDate>12/18/2023 00:08:26</CreatorDate>
+         <UpdatorId>MSP5979</UpdatorId>
+         <UpdatorDate>12/18/2023 00:08:26</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>54</AgencyCode>
+            <ORINumber>MDMSP4100</ORINumber>
+            <LastName>Weber</LastName>
+            <FirstName>Timothy</FirstName>
+            <InternalID>5869</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>54</AgencyCode>
+            <ORINumber>MDMSP4100</ORINumber>
+            <LastName>Shelter</LastName>
+            <FirstName>William</FirstName>
+            <InternalID>5979</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

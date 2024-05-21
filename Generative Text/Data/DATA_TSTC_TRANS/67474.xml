@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2016D4210018</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>02/29/2016 14:35:00</ReportDate>
+   <ReportTime>02/29/2016 14:35:00</ReportTime>
+   <StartDate>02/29/2016 14:35:00</StartDate>
+   <StartTime>02/01/2016 14:35:00</StartTime>
+   <Summary>notification test</Summary>
+   <CreatorId>D_OFFICER</CreatorId>
+   <CreatorDate>02/29/2016 14:35:10</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:37</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CAD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>204</AddressId>
+      <City>20</City>
+      <CreatorId>D_OFFICER</CreatorId>
+      <CreatorDate>02/29/2016 14:35:31</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>02/29/2016 14:35:41</UpdatorDate>
+      <Address>
+         <AddressId>204</AddressId>
+         <StreetNumber>456</StreetNumber>
+         <StreetDirCode>W</StreetDirCode>
+         <StreetName>Livingwell</StreetName>
+         <StreetTypeCode>WAY</StreetTypeCode>
+         <City>Denver</City>
+         <StateCode>CO</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetSuffixCode>W</CrossStreetSuffixCode>
+         <Distance>5</Distance>
+         <DistanceUnits>M</DistanceUnits>
+         <Longitude>-104.984717</Longitude>
+         <Latitude>39.737567</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>Dead strip</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>02/29/2016 14:35:10</SuppReportDate>
+      <SuppReportTime>02/29/2016 14:35:10</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>400</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>02/29/2016 14:48:12</DsIcrDate>
+      <DsIcrSubmissionStatus>SENT WAITING FOR RESPONSE</DsIcrSubmissionStatus>
+      <CreatorId>D13OFFICER</CreatorId>
+      <CreatorDate>02/29/2016 14:35:10</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:24</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>&amp;nbsp;testing notification</NarrativeText>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>02/29/2016 14:41:47</CreatorDate>
+         <UpdatorId>D_OFFICER</UpdatorId>
+         <UpdatorDate>02/29/2016 14:41:47</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Smith</LastName>
+            <FirstName>Charles</FirstName>
+            <InternalID>2014</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>2447</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-4-2  T05</OffenseCode>
+         <PlaceCode>07</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>02/29/2016 14:35:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>35-43-4-2  T05</ArrestChargeCode>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>02/29/2016 14:36:28</CreatorDate>
+         <UpdatorId>D_OFFICER</UpdatorId>
+         <UpdatorDate>02/29/2016 14:36:28</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>35</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>02/29/2016 14:36:55</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:23</UpdatorDate>
+         <Person>
+            <PersonId>741</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>T1</LastName>
+               <FirstName>Person</FirstName>
+               <DateOfInfo>08/14/2015 11:23:51</DateOfInfo>
+               <SLastName>T000</SLastName>
+               <SFirstName>P625</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>T1</LastName>
+               <FirstName>Person</FirstName>
+               <SLastName>T000</SLastName>
+               <SFirstName>P625</SFirstName>
+               <DateOfInfo>08/14/2015 11:23:51</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>D_OFFICER</CreatorId>
+            <CreatorDate>02/29/2016 14:36:55</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:23</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>02/29/2016 14:37:23</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:23</UpdatorDate>
+         <Person>
+            <PersonId>662</PersonId>
+            <RaceCode>A</RaceCode>
+            <SexCode>F</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Gift</LastName>
+               <FirstName>Person</FirstName>
+               <TitleCode>SR</TitleCode>
+               <DateOfInfo>12/12/2014 16:07:38</DateOfInfo>
+               <SLastName>G130</SLastName>
+               <SFirstName>P625</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Gift</LastName>
+               <FirstName>Person</FirstName>
+               <TitleCode>SR</TitleCode>
+               <SLastName>G130</SLastName>
+               <SFirstName>P625</SFirstName>
+               <DateOfInfo>12/12/2014 16:07:38</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>D_OFFICER</CreatorId>
+            <CreatorDate>02/29/2016 14:37:23</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:22</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>02/29/2016 14:40:52</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/10/2017 23:00:50</UpdatorDate>
+         <DateOfInfo>02/29/2016 00:00:00</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Painting</Description>
+         <PropertyTypeCode>427</PropertyTypeCode>
+         <PropertyValue>10000</PropertyValue>
+         <Value>10000</Value>
+         <SerialNumber>43LK2J3</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>1462</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>1</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>02/29/2016 14:44:48</SuppReportDate>
+      <SuppReportTime>02/29/2016 14:44:48</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>02/29/2016 14:48:12</DsIcrDate>
+      <DsIcrSubmissionStatus>SENT WAITING FOR RESPONSE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>02/29/2016 14:44:48</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:24</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement#1 - Narrative</NarrativeTitle>
+         <NarrativeText>adding only narrative on sup 2- no copy of theft offense</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>02/29/2016 14:45:10</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>02/29/2016 14:45:10</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>2</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>02/29/2016 14:47:27</SuppReportDate>
+      <SuppReportTime>02/29/2016 14:47:27</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>02/29/2016 14:48:12</DsIcrDate>
+      <DsIcrSubmissionStatus>SENT WAITING FOR RESPONSE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>02/29/2016 14:47:27</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:25</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement#2 - Narrative</NarrativeTitle>
+         <NarrativeText>adding narrative -- but removed routing flag to apply to all so there should be NO notfication</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>02/29/2016 14:47:55</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>02/29/2016 14:47:55</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

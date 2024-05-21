@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2014ISP0000543</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>10/07/2014 16:52:00</ReportDate>
+   <ReportTime>10/07/2014 16:52:00</ReportTime>
+   <StartDate>10/07/2014 16:52:00</StartDate>
+   <StartTime>10/01/2014 16:52:00</StartTime>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>10/07/2014 16:52:58</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:32</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>B/V</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>384</AddressId>
+      <CreatorId>TSTC</CreatorId>
+      <CreatorDate>11/03/2014 12:45:26</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>11/03/2014 12:45:26</UpdatorDate>
+      <Address>
+         <AddressId>384</AddressId>
+         <StreetNumber>123</StreetNumber>
+         <StreetName>Fake</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>Chicago</City>
+         <StateCode>IL</StateCode>
+         <Zip5>60607</Zip5>
+         <AddressCommonName>
+            <CommonPlaceName>sidewalk</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>10/07/2014 16:52:58</SuppReportDate>
+      <SuppReportTime>10/07/2014 16:52:58</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>10/07/2014 16:54:47</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>10/07/2014 16:52:58</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:22</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>test</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>10/07/2014 16:54:38</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>10/07/2014 16:54:38</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>25</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>10/07/2014 16:53:44</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:21</UpdatorDate>
+         <Person>
+            <PersonId>602</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Dude</LastName>
+               <FirstName>Original</FirstName>
+               <DateOfInfo>10/07/2014 16:53:44</DateOfInfo>
+               <SLastName>D300</SLastName>
+               <SFirstName>O625</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Dude</LastName>
+               <FirstName>Original</FirstName>
+               <SLastName>D300</SLastName>
+               <SFirstName>O625</SFirstName>
+               <DateOfInfo>10/07/2014 16:53:44</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>10/07/2014 16:53:44</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:21</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>26</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>10/07/2014 16:53:44</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:21</UpdatorDate>
+         <Person>
+            <PersonId>603</PersonId>
+            <RaceCode>B</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Man</LastName>
+               <FirstName>Unoriginal</FirstName>
+               <DateOfInfo>10/07/2014 16:53:44</DateOfInfo>
+               <SLastName>M500</SLastName>
+               <SFirstName>U562</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Man</LastName>
+               <FirstName>Unoriginal</FirstName>
+               <SLastName>M500</SLastName>
+               <SFirstName>U562</SFirstName>
+               <DateOfInfo>10/07/2014 16:53:44</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>10/07/2014 16:53:44</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:21</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

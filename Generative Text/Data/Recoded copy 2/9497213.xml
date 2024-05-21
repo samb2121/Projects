@@ -1,0 +1,191 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5100</ORINum>
+   <ReportDate>01/21/2023 02:25:00</ReportDate>
+   <StartDate>01/21/2023 02:04:00</StartDate>
+   <Summary>DUI/DWI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>ROWE,ANNAPOLIS</IncAddrComment>
+      <AddressId>681269</AddressId>
+      <City>MDC102</City>
+      <Address>
+         <AddressId>681269</AddressId>
+         <StreetName>Rowe Blvd at Weems Creek</StreetName>
+         <City>Annapolis</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21401</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.509829</Longitude>
+         <Latitude>38.991696</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Hitch</LastName>
+            <FirstName>Nathaniel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Gerber</LastName>
+            <FirstName>Elix</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Fuller</LastName>
+            <FirstName>Edward</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>19739</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <ArrestChargeCode>19739</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>24</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>366759</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>KITTLESON</LastName>
+               <FirstName>ZACHARY</FirstName>
+               <MiddleName>ALEXANDER</MiddleName>
+               <DOB>08/02/1998 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>KITTLESON</LastName>
+               <FirstName>ZACHARY</FirstName>
+               <MiddleName>ALEXANDER</MiddleName>
+               <DOB>08/02/1998 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1541</StreetNumber>
+               <StreetName>Grays Ford</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Odenton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21113</Zip5>
+               <Zip4>2300</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.712751</Longitude>
+               <Latitude>39.004475</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>300</StreetNumber>
+               <StreetName>St Paul</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>1013</SubNumber>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21202</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.614348</Longitude>
+               <Latitude>39.292746</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>59</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>366769</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>KITTLESON</LastName>
+               <FirstName>MELISSA</FirstName>
+               <MiddleName>MOORE</MiddleName>
+               <DOB>02/09/1963 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>KITTLESON</LastName>
+               <FirstName>MELISSA</FirstName>
+               <MiddleName>MOORE</MiddleName>
+               <DOB>02/09/1963 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1541</StreetNumber>
+               <StreetName>Grays Ford</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Odenton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21113</Zip5>
+               <Zip4>2300</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.712751</Longitude>
+               <Latitude>39.004475</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>148892</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>1ZVBP8AM2E5315426</VIN>
+         <VehicleYear>2014</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>MUSTANG</VehicleModelCode>
+         <VehicleStyleCode>2T</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>2BR3319</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>9</VehicleLicMonth>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

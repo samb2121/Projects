@@ -1,0 +1,179 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>05/30/2023 12:13:00</ReportDate>
+   <StartDate>05/30/2023 12:13:00</StartDate>
+   <Summary>Theft Fraud</Summary>
+   <IncidentType>
+      <IncidentTypeCode>FRD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>4086 CARROLLTON RD</IncAddrComment>
+      <AddressId>701385</AddressId>
+      <Address>
+         <AddressId>701385</AddressId>
+         <StreetNumber>4086</StreetNumber>
+         <StreetName>Carrollton</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Hampstead</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21074</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.848723</Longitude>
+         <Latitude>39.555762</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>McCarty</LastName>
+            <FirstName>Cade</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Meekins</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0067</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0067</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>38</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>379156</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Gray</LastName>
+               <FirstName>Jeffrey</FirstName>
+               <MiddleName>Edward</MiddleName>
+               <DOB>05/11/1985 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Gray</LastName>
+               <FirstName>Jeffrey</FirstName>
+               <MiddleName>Edward</MiddleName>
+               <DOB>05/11/1985 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>4086</StreetNumber>
+               <StreetName>Carrollton</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <Person>
+            <PersonId>379157</PersonId>
+            <RaceCode>Unknown</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240019818</BusinessNumber>
+         <BusinessName>Gray Electric LLC</BusinessName>
+         <IncBusinessRoleCode>Complainant</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <StatusCode>3</StatusCode>
+         <DocumentTypeCode>O</DocumentTypeCode>
+         <Description>Check</Description>
+         <PropertyTypeCode>CHECK/BOND NEGOT</PropertyTypeCode>
+         <PropertyValue>1200</PropertyValue>
+         <Value>1200</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>250012</Property_ID>
+         <AccountName>Gray Electric LLC</AccountName>
+         <AccountNumber>5.252338413E9</AccountNumber>
+         <Amount>1200</Amount>
+         <Bank>Truist</Bank>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>3</StatusCode>
+         <DocumentTypeCode>O</DocumentTypeCode>
+         <Description>Check</Description>
+         <PropertyTypeCode>CHECK/BOND NEGOT</PropertyTypeCode>
+         <PropertyValue>1875</PropertyValue>
+         <Value>1875</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>250013</Property_ID>
+         <AccountName>Gray Electric LLC</AccountName>
+         <AccountNumber>5.252338413E9</AccountNumber>
+         <Amount>0</Amount>
+         <Bank>Truist</Bank>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <StatusCode>1</StatusCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>McCarty</LastName>
+            <FirstName>Cade</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Meekins</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Inactive</OffenseStatusCode>
+         <OffenseCode>1 0067</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0067</ArrestChargeCode>
+         </IncidentOffense>
+   </IncidentSupplement>
+</Incident>

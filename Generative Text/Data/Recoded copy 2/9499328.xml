@@ -1,0 +1,110 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>10/04/2023 21:10:00</ReportDate>
+   <StartDate>10/04/2023 21:07:00</StartDate>
+   <Summary>Driving without a required license, switched tags on motor vehicle, suspended and expired registration.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>708987</AddressId>
+      <Address>
+         <AddressId>708987</AddressId>
+         <StreetNumber>42</StreetNumber>
+         <StreetName>Mm I70 Wb</StreetName>
+         <City>Myersville</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.5665</Longitude>
+         <Latitude>39.49532</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mattingly</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Coss</LastName>
+            <FirstName>Timothy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>35</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>103693</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Anderson</LastName>
+               <FirstName>Dion</FirstName>
+               <MiddleName>Derek</MiddleName>
+               <DOB>12/17/1987 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Anderson</LastName>
+               <FirstName>Dion</FirstName>
+               <MiddleName>Derek</MiddleName>
+               <DOB>12/17/1987 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>9509</StreetNumber>
+               <StreetName>White Pilar</StreetName>
+               <StreetTypeCode>Terrace</StreetTypeCode>
+               <City>Gaithersburg</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20882</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.195832</Longitude>
+               <Latitude>39.248309</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>1608</StreetNumber>
+               <StreetName>Dyrham Park</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <SubTypeCode>DEPT</SubTypeCode>
+               <City>Frederick</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21702</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-77.457469</Longitude>
+               <Latitude>39.425677</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>806</PhonePrefix>
+               <PhoneSuffix>7545</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>157770</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>KMHDH4AE5GU544231</VIN>
+         <VehicleMakeCode>HYUNDAI</VehicleMakeCode>
+         <VehicleModelCode>ELANTRA</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>7FA6393</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

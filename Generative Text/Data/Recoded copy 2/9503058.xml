@@ -1,0 +1,132 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>04/15/2023 17:49:00</ReportDate>
+   <StartDate>04/15/2023 16:08:00</StartDate>
+   <Summary>Warrant Service</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Warrant Service</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>928</AddressId>
+      <Address>
+         <AddressId>928</AddressId>
+         <StreetNumber>100</StreetNumber>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>COURT</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>WESTMINSTER</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21157</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.986967</Longitude>
+         <Latitude>39.572008</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>CCSO LOBBY</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>CENTRAL BOOKING</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Proctor</LastName>
+            <FirstName>Paul</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Fike</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Proctor</LastName>
+            <FirstName>Paul</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Proctor</LastName>
+            <FirstName>Paul</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>15408</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>15408</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>29</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>62942</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Scott</LastName>
+               <FirstName>Christian</FirstName>
+               <MiddleName>Nathaniel</MiddleName>
+               <DOB>01/07/1994 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Scott</LastName>
+               <FirstName>Christian</FirstName>
+               <MiddleName>Nathaniel</MiddleName>
+               <DOB>01/07/1994 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2649</StreetNumber>
+               <StreetName>Cletus</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Manchester</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21102</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.89225</Longitude>
+               <Latitude>39.676308</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>833 </StreetNumber>
+               <StreetName>Belgian</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21218</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.604007</Longitude>
+               <Latitude>39.340286</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>323</PhonePrefix>
+               <PhoneSuffix>8292</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

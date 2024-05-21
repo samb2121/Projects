@@ -1,0 +1,148 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>11/15/2023 11:56:00</ReportDate>
+   <StartDate>11/15/2023 11:03:00</StartDate>
+   <Summary>2nd Degree Assault Reported</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>719292</AddressId>
+      <Address>
+         <AddressId>719292</AddressId>
+         <StreetNumber>9700</StreetNumber>
+         <StreetName>Old Harford</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Parkville</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21234</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.51905</Longitude>
+         <Latitude>39.423395</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Crump</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Fike</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Johnson</LastName>
+            <FirstName>Hasim</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Jail/Prison</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>15</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>357675</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Rich</LastName>
+               <FirstName>Amir</FirstName>
+               <MiddleName>Rashad</MiddleName>
+               <DOB>03/25/2008 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Rich</LastName>
+               <FirstName>Amir</FirstName>
+               <MiddleName>Rashad</MiddleName>
+               <DOB>03/25/2008 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>46357</StreetNumber>
+               <StreetName>Columbus</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>605</SubNumber>
+               <City>Lexington Park</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20653</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>9700</StreetNumber>
+               <StreetName>Old Harford</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Parkville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21234</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.52149</Longitude>
+               <Latitude>39.418921</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>60</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>396332</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>BUBA</LastName>
+               <FirstName>KENNAH</FirstName>
+               <DOB>08/27/1963 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>BUBA</LastName>
+               <FirstName>KENNAH</FirstName>
+               <DOB>08/27/1963 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>9700</StreetNumber>
+               <StreetName>OLD HARFORD</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>PARKVILLE</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.519898</Longitude>
+               <Latitude>39.41992</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

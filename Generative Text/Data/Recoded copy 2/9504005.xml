@@ -1,0 +1,126 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>02/26/2023 02:09:00</ReportDate>
+   <StartDate>02/26/2023 02:09:00</StartDate>
+   <Summary>TRAFFIC STOP</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>YORK RD/ TERRACE DL</IncAddrComment>
+      <AddressId>685532</AddressId>
+      <City>MDC103</City>
+      <Address>
+         <AddressId>685532</AddressId>
+         <StreetName>York</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Towson</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>DL</CrossStreetTypeCode>
+         <Longitude>-76.60533</Longitude>
+         <Latitude>39.39</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 YORK RD / 1-5 TERRACE DL</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Twardowski</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Thoren</LastName>
+            <FirstName>Ashley</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>19</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>370338</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>FOSTER</LastName>
+               <FirstName>DAVON</FirstName>
+               <MiddleName>JAMES</MiddleName>
+               <DOB>12/23/2003 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>FOSTER</LastName>
+               <FirstName>DAVON</FirstName>
+               <MiddleName>JAMES</MiddleName>
+               <DOB>12/23/2003 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3</StreetNumber>
+               <StreetName>Silerton</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <SubNumber>3d</SubNumber>
+               <City>Lansdowne</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21227</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.653947</Longitude>
+               <Latitude>39.25086</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>19</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>370341</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>HUNT</LastName>
+               <FirstName>DALTON</FirstName>
+               <MiddleName>GLENDALE</MiddleName>
+               <DOB>04/06/2003 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>HUNT</LastName>
+               <FirstName>DALTON</FirstName>
+               <MiddleName>GLENDALE</MiddleName>
+               <DOB>04/06/2003 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>150365</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>2HGFC2F78HH568541</VIN>
+         <VehicleYear>2017</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>CIVIC (AND CRX), CIVIC DEL SOL</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>6FC4676</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

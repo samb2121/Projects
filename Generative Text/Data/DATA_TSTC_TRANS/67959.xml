@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2017-0096</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>04/13/2017 13:56:00</ReportDate>
+   <ReportTime>04/13/2017 13:56:00</ReportTime>
+   <StartDate>04/13/2017 13:54:00</StartDate>
+   <StartTime>06/01/2017 13:54:00</StartTime>
+   <Summary>test</Summary>
+   <CreatorId>TSTC</CreatorId>
+   <CreatorDate>04/13/2017 13:56:31</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:40</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CAD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>696</AddressId>
+      <City>7</City>
+      <CreatorId>TSTC</CreatorId>
+      <CreatorDate>04/13/2017 13:56:31</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>06/19/2017 09:25:58</UpdatorDate>
+      <Address>
+         <AddressId>696</AddressId>
+         <StreetNumber>900</StreetNumber>
+         <StreetName>Oak Ridge</StreetName>
+         <StreetTypeCode>LN</StreetTypeCode>
+         <City>Saltlick</City>
+         <StateCode>IN</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-79.38658008180646</Longitude>
+         <Latitude>40.04011057467931</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>04/13/2017 13:56:29</SuppReportDate>
+      <SuppReportTime>04/13/2017 13:56:29</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <DsIcrDate>06/19/2017 09:26:44</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>TSTC</CreatorId>
+      <CreatorDate>04/13/2017 13:56:31</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:25</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Combined narratives from CAD</NarrativeTitle>
+         <NarrativeText>04/13/2017 13:55:24 SUPERUSER2: Remarks&lt;br /&gt;  04/13/2017 13:55:31 SUPERUSER2: NArrative #1&lt;br /&gt;  &lt;br /&gt;  added more comments</NarrativeText>
+         <CreatorId>TSTC</CreatorId>
+         <CreatorDate>04/13/2017 13:57:23</CreatorDate>
+         <UpdatorId>OFFICER_DMM</UpdatorId>
+         <UpdatorDate>06/19/2017 09:26:19</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>2</NarrativeNumber>
+         <NarrativeTitle>Original Narrative test</NarrativeTitle>
+         <NarrativeText>test asdfasdf</NarrativeText>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>06/19/2017 09:26:31</CreatorDate>
+         <UpdatorId>OFFICER_DMM</UpdatorId>
+         <UpdatorDate>06/19/2017 09:26:31</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D34</AgencyCode>
+            <ORINumber>852963741</ORINumber>
+            <LastName>McMillan</LastName>
+            <FirstName>Dana</FirstName>
+            <InternalID>DMM12345</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>McMillan</LastName>
+            <FirstName>Dana</FirstName>
+            <InternalID>DMM12345</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentVehicle>
+         <VEHICLE_ID>349</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <CreatorId>TSTC</CreatorId>
+         <CreatorDate>04/13/2017 13:56:31</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>04/13/2017 13:57:24</UpdatorDate>
+         <DateOfInfo>04/13/2017 13:56:08</DateOfInfo>
+         <StatusCode>8</StatusCode>
+         <VIN>WAND777SUBARU</VIN>
+         <VehicleYear>2017</VehicleYear>
+         <VehicleMakeCode>SUBA</VehicleMakeCode>
+         <VehicleModelCode>LEGACY</VehicleModelCode>
+         <VehPriColorCode>YEL</VehPriColorCode>
+         <VehicleLicStateCode>PA</VehicleLicStateCode>
+         <VehicleLicNumber>WAND777</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

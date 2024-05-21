@@ -1,0 +1,132 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>03/12/2023 06:16:00</ReportDate>
+   <StartDate>03/12/2023 05:56:00</StartDate>
+   <Summary>DUI arrest from traffic stop</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>11 MM CAPITAL BELTWAY NB, UPPER MARLBORO</IncAddrComment>
+      <AddressId>382499</AddressId>
+      <City>MDC140</City>
+      <Address>
+         <AddressId>382499</AddressId>
+         <StreetName>Capital Beltway</StreetName>
+         <City>Upper Marlboro</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>AVE</CrossStreetTypeCode>
+         <Longitude>-76.86665000000029</Longitude>
+         <Latitude>38.839650038090326</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 CAPITAL BELTWAY / 0-0 MD-4</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 CAPITAL BELTWAY / 0-0 PENNSYLVANIA AVE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Harris</LastName>
+            <FirstName>Kevin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Reid</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Landis</LastName>
+            <FirstName>Dwayne</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Stacey</LastName>
+            <FirstName>Brandon</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>40</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>371829</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Argueta Claros</LastName>
+               <FirstName>Cesar</FirstName>
+               <MiddleName>Leonel</MiddleName>
+               <DOB>01/30/1983 00:00:00</DOB>
+               </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Argueta Claros</LastName>
+               <FirstName>Cesar</FirstName>
+               <MiddleName>L</MiddleName>
+               <DOB>01/30/1983 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Argueta Claros</LastName>
+               <FirstName>Cesar</FirstName>
+               <MiddleName>Leonel</MiddleName>
+               <DOB>01/30/1983 00:00:00</DOB>
+               </Alias>
+            <Alias>
+               <NameTypeCode>Alias</NameTypeCode>
+               <LastName>Argueta Claros</LastName>
+               <FirstName>Cesar</FirstName>
+               <MiddleName>L</MiddleName>
+               <DOB>01/30/1983 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>7017</StreetNumber>
+               <StreetName>Taylor</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Hyattsville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20784</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

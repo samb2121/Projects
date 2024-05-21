@@ -1,0 +1,87 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3500</ORINum>
+   <ReportDate>02/16/2023 12:12:00</ReportDate>
+   <StartDate>02/16/2023 11:47:00</StartDate>
+   <Summary>Stolen skid steer from construction cite project</Summary>
+   <IncidentType>
+      <IncidentTypeCode>STV</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>684476</AddressId>
+      <City>MDC308</City>
+      <Address>
+         <AddressId>684476</AddressId>
+         <StreetNumber>1311</StreetNumber>
+         <StreetName>Continental</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Abingdon</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.295122</Longitude>
+         <Latitude>39.447266</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>SUITE C</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Reid</LastName>
+            <FirstName>Jordan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Phillips</LastName>
+            <FirstName>Billy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Johnson</LastName>
+            <FirstName>Cory</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1135_AOL</OffenseCode>
+         <PlaceCode>Construction Site</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1135_AOL</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentBusiness>
+         <BusinessNumber>240019514</BusinessNumber>
+         <BusinessName>United Rentals</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>2017 Takeuchi TL10V2 skid steer, Red/White in color, no GPS</Description>
+         <PropertyTypeCode>CONST. EQUIPMENT</PropertyTypeCode>
+         <PropertyValue>60000</PropertyValue>
+         <Value>60000</Value>
+         <SerialNumber>410000377</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>243846</Property_ID>
+         <PrimaryColor>RED</PrimaryColor>
+         <SecondaryColor>WHI</SecondaryColor>
+         <Make>Takeuchi</Make>
+         <Model>TL10V2</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,96 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3500</ORINum>
+   <ReportDate>10/26/2023 18:31:00</ReportDate>
+   <StartDate>10/26/2023 18:03:00</StartDate>
+   <Summary>Tractor Trailer leaking diesel fuel on Highway.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>711109</AddressId>
+      <Address>
+         <AddressId>711109</AddressId>
+         <StreetNumber>77</StreetNumber>
+         <StreetName>Mm I95 Nb</StreetName>
+         <City>Abingdon</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.302322</Longitude>
+         <Latitude>39.460313</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Keane</LastName>
+            <FirstName>Ryan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Sawyer</LastName>
+            <FirstName>Duke</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Behringer</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Henry</LastName>
+            <FirstName>Kurtis</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>27</ApproxAge>
+         <Person>
+            <PersonId>392797</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Brooks</LastName>
+               <FirstName>James</FirstName>
+               <MiddleName>Alexander</MiddleName>
+               <DOB>03/05/1996 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Brooks</LastName>
+               <FirstName>James</FirstName>
+               <MiddleName>Alexander</MiddleName>
+               <DOB>03/05/1996 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>158897</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VehicleMakeCode>KENWORTH MOTOR TRUCK CO.DIV. OF PACCAR, INC. ALSO INCLUDESKENWORTH GLIDER.</VehicleMakeCode>
+         <VehicleModelCode>T680</VehicleModelCode>
+         <VehicleTypeCode>Other Misc. vehicles</VehicleTypeCode>
+         <VehicleLicStateCode>IN</VehicleLicStateCode>
+         <VehicleLicNumber>3353176</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

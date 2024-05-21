@@ -1,0 +1,190 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0400</ORINum>
+   <ReportDate>01/29/2023 06:32:00</ReportDate>
+   <StartDate>01/29/2023 06:10:00</StartDate>
+   <Summary>Investigation leads to Domestic Assault charges.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>N 270 X1 TO X4 HWY/ MONTROSE RD</IncAddrComment>
+      <AddressId>661415</AddressId>
+      <City>MDC224</City>
+      <Address>
+         <AddressId>661415</AddressId>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>I-270</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <City>Rockville</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20850</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetDirCode>N</CrossStreetDirCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-77.166003</Longitude>
+         <Latitude>39.075515</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Capezuto</LastName>
+            <FirstName>Travis</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>John</LastName>
+            <FirstName>Patrick</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Emerick</LastName>
+            <FirstName>Seth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Butler</LastName>
+            <FirstName>Andre</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Emerick</LastName>
+            <FirstName>Seth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Emerick</LastName>
+            <FirstName>Seth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>19</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>367493</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Chavarria-Flores</LastName>
+               <FirstName>Jennifer</FirstName>
+               <MiddleName>Gabriela</MiddleName>
+               <DOB>12/17/2003 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Chavarria-Flores</LastName>
+               <FirstName>Jennifer</FirstName>
+               <MiddleName>Gabriela</MiddleName>
+               <DOB>12/17/2003 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>6103</StreetNumber>
+               <StreetName>Brandon</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Springfield</City>
+               <StateCode>Virginia</StateCode>
+               <Zip5>22150</Zip5>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>367494</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Quiroga</LastName>
+               <FirstName>Wilson</FirstName>
+               <MiddleName>Jordan</MiddleName>
+               <DOB>11/19/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Quiroga</LastName>
+               <FirstName>Wilson</FirstName>
+               <MiddleName>Jordan</MiddleName>
+               <DOB>11/19/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>6914</StreetNumber>
+               <StreetName>Edgebrook</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Springfield</City>
+               <StateCode>Virginia</StateCode>
+               <Zip5>22150</Zip5>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>9710</StreetNumber>
+               <StreetName>Sudley Manor</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Manassas</City>
+               <StateCode>Virginia</StateCode>
+               <Zip5>20109</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.490295</Longitude>
+               <Latitude>38.791776</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>PA</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>149204</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>19XFB2F52FE236250</VIN>
+         <VehicleYear>2015</VehicleYear>
+         <VehicleMakeCode>HONDA(HOND)</VehicleMakeCode>
+         <VehicleModelCode>CIVIC (AND CRX), CIVIC DEL SOL</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehicleLicStateCode>VA</VehicleLicStateCode>
+         <VehicleLicNumber>T1158073</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>1</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

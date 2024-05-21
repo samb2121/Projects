@@ -1,0 +1,281 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2100</ORINum>
+   <ReportDate>07/02/2023 22:26:00</ReportDate>
+   <StartDate>07/02/2023 22:22:00</StartDate>
+   <Summary>Burglary, Attempted theft</Summary>
+   <IncidentType>
+      <IncidentTypeCode>BRG</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>551129</AddressId>
+      <Address>
+         <AddressId>551129</AddressId>
+         <StreetNumber>18</StreetNumber>
+         <StreetName>Island</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Lonaconing</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-78.981511</Longitude>
+         <Latitude>39.56495</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Schoenadel</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>DeMoss</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>2 3030</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <ForcedEntryCode>F</ForcedEntryCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 3030</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>25</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>114464</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Michell</LastName>
+               <FirstName>Gavin</FirstName>
+               <MiddleName>Matthew</MiddleName>
+               <DOB>04/21/1998 00:00:00</DOB>
+               </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Mitchell</LastName>
+               <FirstName>Gavin</FirstName>
+               <DOB>04/21/1998 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Michell</LastName>
+               <FirstName>Gavin</FirstName>
+               <MiddleName>Matthew</MiddleName>
+               <DOB>04/21/1998 00:00:00</DOB>
+               </Alias>
+            <Alias>
+               <NameTypeCode>Alias</NameTypeCode>
+               <LastName>Mitchell</LastName>
+               <FirstName>Gavin</FirstName>
+               <DOB>04/21/1998 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>20704</StreetNumber>
+               <StreetName>Charlestown</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <StreetSuffixCode>SW</StreetSuffixCode>
+               <City>Lonaconing</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21539</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.962751</Longitude>
+               <Latitude>39.55389</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>14801</StreetNumber>
+               <StreetName>Railroad</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>L</SubNumber>
+               <City>Midland</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21532</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.949904</Longitude>
+               <Latitude>39.591583</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>19801</StreetNumber>
+               <StreetName>Railroad</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>L</SubNumber>
+               <City>Lonaconing</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21539</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.95217</Longitude>
+               <Latitude>39.587978</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>28</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>98403</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Covington</LastName>
+               <FirstName>Steven</FirstName>
+               <MiddleName>Allan</MiddleName>
+               <DOB>02/13/1995 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Covington</LastName>
+               <FirstName>Steven</FirstName>
+               <MiddleName>Allan</MiddleName>
+               <DOB>02/13/1995 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>13104</StreetNumber>
+               <StreetName>Yellow Row</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Mt Savage</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21545</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.882295</Longitude>
+               <Latitude>39.70047</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>18</StreetNumber>
+               <StreetName>Island</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Lonaconing</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.981511</Longitude>
+               <Latitude>39.56495</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>264</PhonePrefix>
+               <PhoneSuffix>2151</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>28</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>381664</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Matthews</LastName>
+               <FirstName>Shyenne</FirstName>
+               <MiddleName>Dezarae</MiddleName>
+               <DOB>11/20/1994 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Matthews</LastName>
+               <FirstName>Shyenne</FirstName>
+               <MiddleName>Dezarae</MiddleName>
+               <DOB>11/20/1994 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>19801</StreetNumber>
+               <StreetName>Railroad</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>L</SubNumber>
+               <City>Lonaconing</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21539</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.95217</Longitude>
+               <Latitude>39.587978</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>249</PhonePrefix>
+               <PhoneSuffix>5112</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <StatusCode>1</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>One string lawn trimmer</Description>
+         <PropertyTypeCode>LAWN CARE EQUIP</PropertyTypeCode>
+         <PropertyValue>100</PropertyValue>
+         <Value>100</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>251393</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Schoenadel</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>DeMoss</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>2 3030</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <ForcedEntryCode>F</ForcedEntryCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 3030</ArrestChargeCode>
+         </IncidentOffense>
+   </IncidentSupplement>
+</Incident>

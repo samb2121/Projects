@@ -1,0 +1,92 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>05/07/2023 11:22:00</ReportDate>
+   <StartDate>05/07/2023 10:51:00</StartDate>
+   <Summary>5/7/23: Check welfare/traffic arrest/juvenile driving without license</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>SANDSTONE DR/ BEDROCK DR</IncAddrComment>
+      <AddressId>693164</AddressId>
+      <Address>
+         <AddressId>693164</AddressId>
+         <StreetName>Sandstone</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Walkersville</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>DR</CrossStreetTypeCode>
+         <Longitude>-77.34347</Longitude>
+         <Latitude>39.49101</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>210-217 SANDSTONE DR / 130-130 BEDROCK DR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Conklin</LastName>
+            <FirstName>Gary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Meyers</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed-Juvenile Petition</OffenseStatusCode>
+         <OffenseCode>19731</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>16</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>376300</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Burgamy</LastName>
+               <FirstName>Chandler</FirstName>
+               <MiddleName>Jackson</MiddleName>
+               <DOB>10/24/2006 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Burgamy</LastName>
+               <FirstName>Chandler</FirstName>
+               <MiddleName>Jackson</MiddleName>
+               <DOB>10/24/2006 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2149</StreetNumber>
+               <StreetName>Infantry</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Frederick</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21702</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.4429239</Longitude>
+               <Latitude>39.4691105</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,90 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>04/22/2023 21:53:00</ReportDate>
+   <StartDate>04/22/2023 20:58:00</StartDate>
+   <Summary>Emergency Petition</Summary>
+   <IncidentType>
+      <IncidentTypeCode>EP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>691827</AddressId>
+      <Address>
+         <AddressId>691827</AddressId>
+         <StreetNumber>115</StreetNumber>
+         <StreetName>Bell</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Henderson</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21640</Zip5>
+         <Zip4>1645</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.766735</Longitude>
+         <Latitude>39.071797</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Fisher</LastName>
+            <FirstName>Rodney</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bringman</LastName>
+            <FirstName>William</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Benson</LastName>
+            <FirstName>Tyler</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>16</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>375194</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Russell</LastName>
+               <FirstName>Calista</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>08/12/2006 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Russell</LastName>
+               <FirstName>Calista</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>08/12/2006 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>16646</StreetNumber>
+               <StreetName>Heritage Hills</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Henderson</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21640</Zip5>
+               <Zip4>1654</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.776779</Longitude>
+               <Latitude>39.063908</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

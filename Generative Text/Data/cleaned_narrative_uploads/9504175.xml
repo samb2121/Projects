@@ -1,0 +1,80 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-005655</IncidentReportNum>
+   <AgencyCode>55</AgencyCode>
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>02/13/2023 17:46:00</ReportDate>
+   <ReportTime>02/13/2023 17:46:00</ReportTime>
+   <StartDate>02/13/2023 17:35:00</StartDate>
+   <StartTime>02/13/2023 17:35:00</StartTime>
+   <Summary>Collision</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>02/13/2023 17:46:51</CreatorDate>
+   <UpdatorId>MSP5932</UpdatorId>
+   <UpdatorDate>02/21/2023 01:43:03</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>684155</AddressId>
+      <City>MDC146</City>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>02/13/2023 17:46:53</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>02/13/2023 18:27:04</UpdatorDate>
+      <Address>
+         <AddressId>684155</AddressId>
+         <StreetNumber>631</StreetNumber>
+         <StreetName>Blueball</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Elkton</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-75.854687</Longitude>
+         <Latitude>39.625449</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>02/13/2023 17:46:48</SuppReportDate>
+      <SuppReportTime>02/13/2023 17:46:48</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>55</SuppAgencyCode>
+      <DsIcrDate>02/21/2023 01:43:03</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>02/13/2023 17:46:51</CreatorDate>
+      <UpdatorId>MSP5932</UpdatorId>
+      <UpdatorDate>02/21/2023 01:43:04</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Report submitted in ACRS.</NarrativeText>
+         <CreatorId>MSP7381</CreatorId>
+         <CreatorDate>02/13/2023 18:27:33</CreatorDate>
+         <UpdatorId>MSP7381</UpdatorId>
+         <UpdatorDate>02/13/2023 18:27:44</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>55</AgencyCode>
+            <ORINumber>MDMSP3100</ORINumber>
+            <LastName>Kres</LastName>
+            <FirstName>Joshua</FirstName>
+            <InternalID>5932</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>55</AgencyCode>
+            <ORINumber>MDMSP3100</ORINumber>
+            <LastName>Williams</LastName>
+            <FirstName>Quran</FirstName>
+            <InternalID>7381</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

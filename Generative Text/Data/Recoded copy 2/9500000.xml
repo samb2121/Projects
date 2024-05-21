@@ -1,0 +1,124 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0300</ORINum>
+   <ReportDate>09/13/2023 01:09:00</ReportDate>
+   <StartDate>09/13/2023 01:01:00</StartDate>
+   <Summary>Pharmaceutical franchise is reporting various types of fraudulent activity including DEA records, operating licenses and purchase orders.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>FRD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>706782</AddressId>
+      <Address>
+         <AddressId>706782</AddressId>
+         <StreetNumber>9801</StreetNumber>
+         <StreetName>Rhode Island</StreetName>
+         <StreetTypeCode>Avenue</StreetTypeCode>
+         <City>College Park</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.921526</Longitude>
+         <Latitude>39.013414</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Parsons</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Heath</LastName>
+            <FirstName>William</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Duran</LastName>
+            <FirstName>Jaret</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0265</OffenseCode>
+         <PlaceCode>Grocery/Supermarket</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0265</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0268</OffenseCode>
+         <PlaceCode>Grocery/Supermarket</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0268</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentBusiness>
+         <BusinessNumber>240020073</BusinessNumber>
+         <BusinessName>Monument Pharmacy</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>706783</AddressId>
+            <StreetNumber>2760</StreetNumber>
+            <StreetName>Lighthouse</StreetName>
+            <StreetTypeCode>Point</StreetTypeCode>
+            <StreetSuffixCode>E</StreetSuffixCode>
+            <City>Baltimore</City>
+            <StateCode>Maryland</StateCode>
+            <Zip5>21224</Zip5>
+            <CountryCode>United States of America</CountryCode>
+            <CountyCode>NaN</CountyCode>
+            <BusinessPhone>
+               <PhoneTypeCode>Business</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>276</PhonePrefix>
+               <PhoneSuffix>7586</PhoneSuffix>
+               </BusinessPhone>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <StatusCode>1</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Eighty (80) bottles of Promethazine DM </Description>
+         <PropertyTypeCode>DRUGS - COMMON MEDICINE</PropertyTypeCode>
+         <PropertyValue>1597.6</PropertyValue>
+         <Value>1597.6</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254031</Property_ID>
+         <DrugTypeCode>SUSPECTED OTHER DRUGS</DrugTypeCode>
+         <Quantity>80</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <StatusCode>1</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Eighty (80) bottles of Promethazine DM</Description>
+         <PropertyTypeCode>PRESCRIPTION</PropertyTypeCode>
+         <PropertyValue>1597.6</PropertyValue>
+         <Value>1597.6</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254032</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

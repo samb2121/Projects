@@ -1,0 +1,243 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5400</ORINum>
+   <ReportDate>02/23/2023 11:37:00</ReportDate>
+   <StartDate>02/23/2023 11:37:00</StartDate>
+   <Summary>I responded to a domestic violence incident, where the victim and the suspect were involved in a verbal argument. The suspect assaulted the victim and made threats to harm himself. The suspect was transported to St. Mary's Hospital for an Emergency Petition, and an application for charges was completed.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>EP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>685236</AddressId>
+      <City>MDC525</City>
+      <Address>
+         <AddressId>685236</AddressId>
+         <StreetNumber>49830</StreetNumber>
+         <StreetName>Airedele</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Ridge</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20680</Zip5>
+         <Zip4>3350</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.352671</Longitude>
+         <Latitude>38.116499</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pope</LastName>
+            <FirstName>Jeremy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Crump</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Quinn-Edwards</LastName>
+            <FirstName>Kire</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Jackson</LastName>
+            <FirstName>Rhett</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Piscopo-Bann</LastName>
+            <FirstName>Anthony</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>51</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>301190</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Shumate</LastName>
+               <FirstName>Catherine</FirstName>
+               <MiddleName>Alicia</MiddleName>
+               <DOB>12/04/1971 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Shumate</LastName>
+               <FirstName>Catherine</FirstName>
+               <MiddleName>Alicia</MiddleName>
+               <DOB>12/04/1971 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>21347</StreetNumber>
+               <StreetName>Birdseye</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Lexington Park</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20653</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.41801</Longitude>
+               <Latitude>38.253985</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>49603</StreetNumber>
+               <StreetName>Airedele</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Ridge</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20680</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.358906</Longitude>
+               <Latitude>38.110411</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>574</PhoneArea>
+               <PhonePrefix>870</PhonePrefix>
+               <PhoneSuffix>0847</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>301191</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Jager</LastName>
+               <FirstName>Matthew</FirstName>
+               <MiddleName>Robert</MiddleName>
+               <DOB>06/19/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Jager</LastName>
+               <FirstName>Matthew</FirstName>
+               <MiddleName>Robert</MiddleName>
+               <DOB>06/19/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>23560</StreetNumber>
+               <StreetName>Hurry</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Chaptico</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20621</Zip5>
+               <Zip4>2319</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.7579766</Longitude>
+               <Latitude>38.3159008</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>904</PhonePrefix>
+               <PhoneSuffix>9662</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Jackson</LastName>
+            <FirstName>Rhett</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Piscopo-Bann</LastName>
+            <FirstName>Anthony</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Murphy</LastName>
+            <FirstName>Shawn</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Linger</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Murphy</LastName>
+            <FirstName>Shawn</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Linger</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

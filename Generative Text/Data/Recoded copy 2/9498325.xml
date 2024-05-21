@@ -1,0 +1,92 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>05/12/2023 14:27:00</ReportDate>
+   <StartDate>05/12/2023 14:09:00</StartDate>
+   <Summary>Male driving with a suspended Pennsylvania Driver's license in Point of Rocks, Maryland.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>168632</AddressId>
+      <Address>
+         <AddressId>168632</AddressId>
+         <StreetNumber>1</StreetNumber>
+         <StreetName>MM US-15</StreetName>
+         <City>POINT OF ROCKS</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.53621999999999</Longitude>
+         <Latitude>39.28230003847263</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Hill</LastName>
+            <FirstName>Todd</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Marlatt</LastName>
+            <FirstName>Justin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>19761</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>19761</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>21</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>376852</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Aljayzani</LastName>
+               <FirstName>Munthir</FirstName>
+               <MiddleName>Saad</MiddleName>
+               <DOB>10/01/2001 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Aljayzani</LastName>
+               <FirstName>Munthir</FirstName>
+               <MiddleName>Saad</MiddleName>
+               <DOB>10/01/2001 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>208</StreetNumber>
+               <StreetName>Springside</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <SubNumber>208D</SubNumber>
+               <City>Reading</City>
+               <StateCode>Pennsylvania</StateCode>
+               <Zip5>19608</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.989119</Longitude>
+               <Latitude>40.309295</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

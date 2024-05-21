@@ -1,0 +1,158 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>06/13/2023 01:03:00</ReportDate>
+   <StartDate>06/13/2023 00:36:00</StartDate>
+   <Summary>DUI</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>8112</AddressId>
+      <Address>
+         <AddressId>8112</AddressId>
+         <StreetNumber>18240</StreetNumber>
+         <StreetName>Lepore</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Marydel</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21649</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.756579</Longitude>
+         <Latitude>39.106938</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>WALKERS TRAILER PARK LOT 23</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>WALKERS TRAILER PARK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>WALKERS TRAILER PARK LOT 54</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>WALKERS TRAILER PARK LOT 17</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>WALKERS TRAILER PARK LOT 64</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Moore</LastName>
+            <FirstName>Scott</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Koehler</LastName>
+            <FirstName>Justin</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16357</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16357</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>21</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>379674</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Lopez Rivera</LastName>
+               <FirstName>Genry</FirstName>
+               <MiddleName>Alex</MiddleName>
+               <DOB>11/15/2001 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Lopez Rivera</LastName>
+               <FirstName>Genry</FirstName>
+               <MiddleName>Alex</MiddleName>
+               <DOB>11/15/2001 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>18240</StreetNumber>
+               <StreetName>Lepore</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Marydel</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21649</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.756168</Longitude>
+               <Latitude>39.107039</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>556</PhonePrefix>
+               <PhoneSuffix>7545</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>302</PhoneArea>
+               <PhonePrefix>399</PhonePrefix>
+               <PhoneSuffix>6170</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>154071</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>58CB1DC23KC005247</VIN>
+         <VehicleYear>2019</VehicleYear>
+         <VehicleMakeCode>BRI MAR MANUFACTURING%CHAMBERSBURG PA</VehicleMakeCode>
+         <VehicleTypeCode>Trailer/RVs</VehicleTypeCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehSecColorCode>GRY</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>392480X</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>8</VehicleLicMonth>
+         <VehicleLicTypeCode>TL</VehicleLicTypeCode>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>154072</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>3GCUKREH4FG437597</VIN>
+         <VehicleYear>2015</VehicleYear>
+         <VehicleMakeCode>CHEVROLET</VehicleMakeCode>
+         <VehicleModelCode>SILVERADO</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>50523CK</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>12</VehicleLicMonth>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

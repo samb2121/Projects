@@ -1,0 +1,135 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>11/01/2023 22:30:00</ReportDate>
+   <StartDate>11/01/2023 22:28:00</StartDate>
+   <Summary>Theft, Stolen license plate</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>711760</AddressId>
+      <Address>
+         <AddressId>711760</AddressId>
+         <StreetNumber>64</StreetNumber>
+         <StreetName>Kimberly</StreetName>
+         <StreetTypeCode>Circle</StreetTypeCode>
+         <City>Elkton</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21921</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.865582</Longitude>
+         <Latitude>39.562105</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Kim</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mott</LastName>
+            <FirstName>Kenneth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>50</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>391859</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hoffman</LastName>
+               <FirstName>Shannon</FirstName>
+               <MiddleName>Winnona</MiddleName>
+               <DOB>10/09/1973 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hoffman</LastName>
+               <FirstName>Shannon</FirstName>
+               <MiddleName>Winnona</MiddleName>
+               <DOB>10/09/1973 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>64</StreetNumber>
+               <StreetName>Kimberly</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <City>Elkton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21921</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.865582</Longitude>
+               <Latitude>39.562105</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>17</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>391861</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hoffman</LastName>
+               <FirstName>Emma</FirstName>
+               <DOB>03/29/2006 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hoffman</LastName>
+               <FirstName>Emma</FirstName>
+               <DOB>03/29/2006 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>64</StreetNumber>
+               <StreetName>Kimberly</StreetName>
+               <StreetTypeCode>Circle</StreetTypeCode>
+               <City>Elkton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21921</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.865582</Longitude>
+               <Latitude>39.562105</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Expiration date 09/30/2024, Front license plate</Description>
+         <PropertyTypeCode>LICENSE PLATE</PropertyTypeCode>
+         <PropertyValue>10</PropertyValue>
+         <Value>10</Value>
+         <SerialNumber>2FM7357</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>256012</Property_ID>
+         <PrimaryColor>LBL</PrimaryColor>
+         <SecondaryColor>LBL</SecondaryColor>
+         <Make>Chevrolet</Make>
+         <Model>Cruz</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

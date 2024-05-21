@@ -1,0 +1,217 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>02/08/2023 16:30:00</ReportDate>
+   <StartDate>02/08/2023 16:14:00</StartDate>
+   <Summary>Theft from a Motor Vehicle, MDOP</Summary>
+   <IncidentType>
+      <IncidentTypeCode>MDOP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>102171</AddressId>
+      <City>MDC146</City>
+      <Address>
+         <AddressId>102171</AddressId>
+         <StreetNumber>360</StreetNumber>
+         <StreetName>MALONEY</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>ELKTON</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21921</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.799678</Longitude>
+         <Latitude>39.59916</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>ELKTON INDOOR TENNIS</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Spayd</LastName>
+            <FirstName>Samuel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Steinmetz</LastName>
+            <FirstName>Kristopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>3 4025</OffenseCode>
+         <PlaceCode>Parking Lot/Garage</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>3 4025</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1136_23F</OffenseCode>
+         <PlaceCode>Parking Lot/Garage</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1136_23F</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>368579</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Nelson</LastName>
+               <FirstName>Toni</FirstName>
+               <DOB>05/06/2000 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Nelson</LastName>
+               <FirstName>Toni</FirstName>
+               <DOB>05/06/2000 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>121</StreetNumber>
+               <StreetName>Cobble Creek</StreetName>
+               <StreetTypeCode>Curve</StreetTypeCode>
+               <City>Newark</City>
+               <StateCode>Delaware</StateCode>
+               <Zip5>19702</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.740655</Longitude>
+               <Latitude>39.634209</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>602</PhoneArea>
+               <PhonePrefix>881</PhonePrefix>
+               <PhoneSuffix>3526</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>149656</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>4</StatusCode>
+         <VIN>WA1BNAFY2J2005861</VIN>
+         <VehicleYear>2018</VehicleYear>
+         <VehicleMakeCode>AUDI</VehicleMakeCode>
+         <VehicleModelCode>Q5 MODELS</VehicleModelCode>
+         <VehicleStyleCode>4T</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehSecColorCode>WHI</VehSecColorCode>
+         <VehicleLicStateCode>AZ</VehicleLicStateCode>
+         <VehicleLicNumber>8ZA4ZJ</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>7</VehicleLicMonth>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehicleValue>1000</VehicleValue>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Laptop</Description>
+         <PropertyTypeCode>COMPUTER</PropertyTypeCode>
+         <PropertyValue>2300</PropertyValue>
+         <Value>2300</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>243276</Property_ID>
+         <PrimaryColor>SIL</PrimaryColor>
+         <Make>Apple</Make>
+         <Model>Mac Pro</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>ELECTRONIC EQUIP</PropertyTypeCode>
+         <PropertyValue>800</PropertyValue>
+         <Value>800</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>243277</Property_ID>
+         <Make>Apple</Make>
+         <Model>Ipad</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>COMPUTER ACCESRY</PropertyTypeCode>
+         <PropertyValue>120</PropertyValue>
+         <Value>120</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>243278</Property_ID>
+         <PrimaryColor>BLK</PrimaryColor>
+         <Make>Apple</Make>
+         <Model>Chargers</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>JEWELRY</PropertyTypeCode>
+         <PropertyValue>450</PropertyValue>
+         <Value>450</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>243279</Property_ID>
+         <PrimaryColor>SIL</PrimaryColor>
+         <Make>Bracelet</Make>
+         <Model>Earrings</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>ELECTRONIC EQUIP</PropertyTypeCode>
+         <PropertyValue>19</PropertyValue>
+         <Value>19</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>243280</Property_ID>
+         <PrimaryColor>WHI</PrimaryColor>
+         <Make>Apple</Make>
+         <Model>Headphones</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>CASH</PropertyTypeCode>
+         <PropertyValue>70</PropertyValue>
+         <Value>70</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>243281</Property_ID>
+         <PrimaryColor>GRN</PrimaryColor>
+         <Make>US</Make>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

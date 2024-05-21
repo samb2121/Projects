@@ -1,0 +1,134 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2100</ORINum>
+   <ReportDate>07/29/2023 17:25:00</ReportDate>
+   <StartDate>07/29/2023 16:30:00</StartDate>
+   <Summary>Assault second degree</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>675021</AddressId>
+      <Address>
+         <AddressId>675021</AddressId>
+         <StreetNumber>121</StreetNumber>
+         <StreetName>Johnson</StreetName>
+         <StreetTypeCode>Street</StreetTypeCode>
+         <City>Westernport</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-79.047033</Longitude>
+         <Latitude>39.484853</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Spicer</LastName>
+            <FirstName>Phillip</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Langley</LastName>
+            <FirstName>Jason</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>DeMoss</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared Exceptionally - Prosecution Declined, No Complaint Filed</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>25</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>210091</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Eubank</LastName>
+               <FirstName>Austin</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>02/05/1998 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Eubank</LastName>
+               <FirstName>Austin</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>02/05/1998 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1176</StreetNumber>
+               <StreetName>Central</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Brunswick</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21716</Zip5>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>47</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>383789</PersonId>
+            <RaceCode>Unknown</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Allu</LastName>
+               <FirstName>Sai</FirstName>
+               <MiddleName>Laxman</MiddleName>
+               <DOB>07/04/1976 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Allu</LastName>
+               <FirstName>Sai</FirstName>
+               <MiddleName>Laxman</MiddleName>
+               <DOB>07/04/1976 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>8384</StreetNumber>
+               <StreetName>Tenbrook</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Gainesville</City>
+               <StateCode>Virginia</StateCode>
+               <Zip5>20155</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>703</PhoneArea>
+               <PhonePrefix>870</PhonePrefix>
+               <PhoneSuffix>9727</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

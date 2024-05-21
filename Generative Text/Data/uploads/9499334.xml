@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-031931</IncidentReportNum>
+   <AgencyCode>56</AgencyCode>
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>09/11/2023 13:26:00</ReportDate>
+   <ReportTime>09/11/2023 13:26:00</ReportTime>
+   <StartDate>09/11/2023 12:05:00</StartDate>
+   <StartTime>09/11/2023 12:05:00</StartTime>
+   <Summary>Random citizen found a wallet and turned it in.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>09/11/2023 13:26:28</CreatorDate>
+   <UpdatorId>MSP5367</UpdatorId>
+   <UpdatorDate>09/19/2023 19:20:38</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>LP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>3 SIX POINT CT,WINDSOR MILL</IncAddrComment>
+      <AddressId>706615</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>09/11/2023 13:26:30</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>09/14/2023 13:50:32</UpdatorDate>
+      <Address>
+         <AddressId>706615</AddressId>
+         <StreetNumber>3</StreetNumber>
+         <StreetName>Six Point Ct Windsor</StreetName>
+         <StreetTypeCode>ML</StreetTypeCode>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-76.9082658666667</Longitude>
+         <Latitude>39.3951701166667</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>09/11/2023 13:26:26</SuppReportDate>
+      <SuppReportTime>09/11/2023 13:26:26</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>56</SuppAgencyCode>
+      <DsIcrDate>09/19/2023 19:20:38</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>09/11/2023 13:26:28</CreatorDate>
+      <UpdatorId>MSP5367</UpdatorId>
+      <UpdatorDate>09/19/2023 19:20:38</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>This case number was created in error</NarrativeText>
+         <CreatorId>MSP5123</CreatorId>
+         <CreatorDate>09/14/2023 13:51:29</CreatorDate>
+         <UpdatorId>MSP5123</UpdatorId>
+         <UpdatorDate>09/14/2023 13:52:25</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>56</AgencyCode>
+            <ORINumber>MDMSP0200</ORINumber>
+            <LastName>Snedeker</LastName>
+            <FirstName>Jordan</FirstName>
+            <InternalID>5367</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>56</AgencyCode>
+            <ORINumber>MDMSP0200</ORINumber>
+            <LastName>Thompson</LastName>
+            <FirstName>Chymere</FirstName>
+            <InternalID>5123</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

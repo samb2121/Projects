@@ -1,0 +1,138 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2300</ORINum>
+   <ReportDate>05/19/2023 16:47:00</ReportDate>
+   <StartDate>05/16/2023 20:00:00</StartDate>
+   <Summary>Second Degree Assault</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>694530</AddressId>
+      <Address>
+         <AddressId>694530</AddressId>
+         <StreetNumber>129</StreetNumber>
+         <StreetName>Buck Crossing</StreetName>
+         <StreetTypeCode>Lane</StreetTypeCode>
+         <City>Accident</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-79.361777</Longitude>
+         <Latitude>39.637963</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Broadwater</LastName>
+            <FirstName>Lucas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Fitzwater</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared Exceptionally - Victim Refused To Cooperate</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>57</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>377485</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Kennedy</LastName>
+               <FirstName>Paula</FirstName>
+               <MiddleName>Jo</MiddleName>
+               <DOB>02/13/1966 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Kennedy</LastName>
+               <FirstName>Paula</FirstName>
+               <MiddleName>Jo</MiddleName>
+               <DOB>02/13/1966 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>129</StreetNumber>
+               <StreetName>Buck Crossing</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Accident</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-79.361777</Longitude>
+               <Latitude>39.637963</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>992</PhonePrefix>
+               <PhoneSuffix>7133</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>74</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>377486</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Dallman</LastName>
+               <FirstName>Rodger</FirstName>
+               <MiddleName>Howard</MiddleName>
+               <DOB>04/08/1949 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Dallman</LastName>
+               <FirstName>Rodger</FirstName>
+               <MiddleName>Howard</MiddleName>
+               <DOB>04/08/1949 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>129</StreetNumber>
+               <StreetName>Buck Crossing</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Accident</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-79.361777</Longitude>
+               <Latitude>39.637963</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>425</PhoneArea>
+               <PhonePrefix>301</PhonePrefix>
+               <PhoneSuffix>5089</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

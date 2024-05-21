@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2017-0095</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>04/13/2017 13:41:00</ReportDate>
+   <ReportTime>04/13/2017 13:41:00</ReportTime>
+   <StartDate>04/13/2017 13:30:00</StartDate>
+   <StartTime>06/01/2017 13:30:00</StartTime>
+   <Summary>test</Summary>
+   <CreatorId>TSTC</CreatorId>
+   <CreatorDate>04/13/2017 13:41:24</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:42</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CCD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>692</AddressId>
+      <City>8</City>
+      <CreatorId>TSTC</CreatorId>
+      <CreatorDate>04/13/2017 13:41:24</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>06/06/2017 12:26:16</UpdatorDate>
+      <Address>
+         <AddressId>692</AddressId>
+         <StreetNumber>555</StreetNumber>
+         <StreetName>Main</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>Belle Vernon</City>
+         <StateCode>IN</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-79.8664925757157</Longitude>
+         <Latitude>40.12481470388257</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>Health Center</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>04/13/2017 13:41:23</SuppReportDate>
+      <SuppReportTime>04/13/2017 13:41:23</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>07/13/2017 12:41:24</DsIcrDate>
+      <DsIcrSubmissionStatus>SENT WAITING FOR RESPONSE</DsIcrSubmissionStatus>
+      <CreatorId>TSTC</CreatorId>
+      <CreatorDate>04/13/2017 13:41:24</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:26</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Combined narratives from CAD</NarrativeTitle>
+         <NarrativeText>04/13/2017 13:31:11 SUPERUSER2: 2nd Incident Narrative #1&lt;br /&gt;</NarrativeText>
+         <CreatorId>TSTC</CreatorId>
+         <CreatorDate>04/13/2017 13:48:52</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>04/13/2017 13:48:52</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>McMillan</LastName>
+            <FirstName>Dana</FirstName>
+            <InternalID>DMM12345</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>McMillan</LastName>
+            <FirstName>Dana</FirstName>
+            <InternalID>DMM12345</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>2636</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-2-1  B03</OffenseCode>
+         <PlaceCode>47</PlaceCode>
+         <BiasCode>28</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>04/13/2017 13:30:00</OffenseStatusDate>
+         <ForcedEntryCode>N</ForcedEntryCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>35-43-2-1  B03</ArrestChargeCode>
+         <CreatorId>DLIVANGOOD</CreatorId>
+         <CreatorDate>06/06/2017 12:26:54</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/12/2017 13:33:44</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>19</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>06/06/2017 12:27:55</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:21</UpdatorDate>
+         <Person>
+            <PersonId>881</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Tomas</LastName>
+               <FirstName>Hank</FirstName>
+               <DOB>06/05/1997 00:00:00</DOB>
+               <DateOfInfo>06/06/2017 12:25:23</DateOfInfo>
+               <SLastName>T520</SLastName>
+               <SFirstName>H520</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Tomas</LastName>
+               <FirstName>Hank</FirstName>
+               <DOB>06/05/1997 00:00:00</DOB>
+               <SLastName>T520</SLastName>
+               <SFirstName>H520</SFirstName>
+               <DateOfInfo>06/06/2017 12:25:23</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>OFFICER_DMM</CreatorId>
+            <CreatorDate>06/06/2017 12:27:56</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:22</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>346</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <CreatorId>TSTC</CreatorId>
+         <CreatorDate>04/13/2017 13:48:52</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>04/13/2017 13:48:52</UpdatorDate>
+         <DateOfInfo>04/13/2017 13:31:37</DateOfInfo>
+         <StatusCode>8</StatusCode>
+         <VIN>ICE000FERRARI</VIN>
+         <VehicleYear>2017</VehicleYear>
+         <VehicleMakeCode>FERR</VehicleMakeCode>
+         <VehPriColorCode>RED</VehPriColorCode>
+         <VehicleLicStateCode>PA</VehicleLicStateCode>
+         <VehicleLicNumber>ICE000</VehicleLicNumber>
+         <VehicleValue>14</VehicleValue>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>06/06/2017 12:28:34</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/10/2017 23:00:18</UpdatorDate>
+         <DateOfInfo>06/06/2017 00:00:00</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>test</Description>
+         <PropertyTypeCode>105</PropertyTypeCode>
+         <PropertyValue>500</PropertyValue>
+         <Value>500</Value>
+         <Evidence>Y</Evidence>
+         <EvidenceFlag>Y</EvidenceFlag>
+         <ExternalEvidenceId>677</ExternalEvidenceId>
+         <Property_ID>1601</Property_ID>
+         <DrugTypeCode>E</DrugTypeCode>
+         <Quantity>1</Quantity>
+         <QuantityUnit>NP</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>1</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/06/2017 17:53:56</SuppReportDate>
+      <SuppReportTime>06/06/2017 17:53:56</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>07/13/2017 12:41:24</DsIcrDate>
+      <DsIcrSubmissionStatus>SENT WAITING FOR RESPONSE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>06/06/2017 17:53:56</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:26</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement#1 - Narrative</NarrativeTitle>
+         <NarrativeText>Name: Incident Person03 Sex: Female Race: Black or African American DOB: 06/01/1990</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/06/2017 17:56:33</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>06/06/2017 17:56:33</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>26</ApproxAge>
+         <CreatorId>PDPD8</CreatorId>
+         <CreatorDate>06/19/2017 10:11:14</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:23</UpdatorDate>
+         <Person>
+            <PersonId>885</PersonId>
+            <RaceCode>B</RaceCode>
+            <SexCode>F</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Person01</LastName>
+               <FirstName>Incident</FirstName>
+               <DOB>11/01/1970 00:00:00</DOB>
+               <SSN>1.11111111E8</SSN>
+               <DateOfInfo>06/06/2017 16:21:14</DateOfInfo>
+               <SLastName>P625</SLastName>
+               <SFirstName>I523</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Lawless</LastName>
+               <FirstName>Lucy</FirstName>
+               <DOB>06/01/2017 00:00:00</DOB>
+               <DateOfInfo>06/06/2017 00:00:00</DateOfInfo>
+               <SLastName>L420</SLastName>
+               <SFirstName>L200</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Person01</LastName>
+               <FirstName>Incident</FirstName>
+               <DOB>11/01/1970 00:00:00</DOB>
+               <SSN>1.11111111E8</SSN>
+               <SLastName>P625</SLastName>
+               <SFirstName>I523</SFirstName>
+               <DateOfInfo>06/06/2017 16:21:14</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>M</NameTypeCode>
+               <LastName>Lawless</LastName>
+               <FirstName>Lucy</FirstName>
+               <DOB>06/01/2017 00:00:00</DOB>
+               <SLastName>L420</SLastName>
+               <SFirstName>L200</SFirstName>
+               <DateOfInfo>06/06/2017 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>2740</StreetNumber>
+               <StreetDirCode>N</StreetDirCode>
+               <StreetName>ADDISON MEADOWS</StreetName>
+               <StreetTypeCode>LN</StreetTypeCode>
+               <SubTypeCode>BSMT</SubTypeCode>
+               <City>INDIANAPOLIS</City>
+               <StateCode>PA</StateCode>
+               <Zip5>46203</Zip5>
+               <Zip4>5555</Zip4>
+               <Longitude>-86.059884</Longitude>
+               <Latitude>39.728722</Latitude>
+               <Beat>Test</Beat>
+               <SubBeat>Area</SubBeat>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>06/19/2017 10:11:14</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:22</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>346</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <CreatorId>J_OFFICER</CreatorId>
+         <CreatorDate>06/06/2017 17:56:07</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/12/2017 13:33:54</UpdatorDate>
+         <DateOfInfo>04/13/2017 13:31:37</DateOfInfo>
+         <StatusCode>8</StatusCode>
+         <VIN>ICE000FERRARI</VIN>
+         <VehicleYear>2017</VehicleYear>
+         <VehicleMakeCode>FERR</VehicleMakeCode>
+         <VehPriColorCode>RED</VehPriColorCode>
+         <VehicleLicStateCode>PA</VehicleLicStateCode>
+         <VehicleLicNumber>ICE000</VehicleLicNumber>
+         <VehicleValue>14</VehicleValue>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/06/2017 17:54:21</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/10/2017 23:00:18</UpdatorDate>
+         <DateOfInfo>06/06/2017 00:00:00</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>test</Description>
+         <PropertyTypeCode>105</PropertyTypeCode>
+         <PropertyValue>500</PropertyValue>
+         <Value>500</Value>
+         <Evidence>Y</Evidence>
+         <EvidenceFlag>Y</EvidenceFlag>
+         <ExternalEvidenceId>677</ExternalEvidenceId>
+         <Property_ID>1601</Property_ID>
+         <DrugTypeCode>E</DrugTypeCode>
+         <Quantity>1</Quantity>
+         <QuantityUnit>NP</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>2</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/09/2017 13:03:40</SuppReportDate>
+      <SuppReportTime>06/09/2017 13:03:40</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>07/13/2017 12:41:24</DsIcrDate>
+      <DsIcrSubmissionStatus>SENT WAITING FOR RESPONSE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>06/09/2017 13:03:40</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:26</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement#2 - Narrative</NarrativeTitle>
+         <NarrativeText>test</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/09/2017 13:04:05</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>06/09/2017 13:04:05</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

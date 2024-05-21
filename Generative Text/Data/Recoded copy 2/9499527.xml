@@ -1,0 +1,295 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5400</ORINum>
+   <ReportDate>06/29/2023 17:01:00</ReportDate>
+   <StartDate>06/29/2023 16:05:00</StartDate>
+   <Summary>The suspect and the victim were involved in a fight.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>303218</AddressId>
+      <Address>
+         <AddressId>303218</AddressId>
+         <StreetNumber>21713</StreetNumber>
+         <StreetName>Cabot</StreetName>
+         <StreetTypeCode>Place</StreetTypeCode>
+         <City>Lexington Park</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20653</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.463374</Longitude>
+         <Latitude>38.263626</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Powis</LastName>
+            <FirstName>Jonathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pope</LastName>
+            <FirstName>Jeremy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Powis</LastName>
+            <FirstName>Jonathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Gibson</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Walker</LastName>
+            <FirstName>Jalen</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1415 4e</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>14</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>381279</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Adams</LastName>
+               <FirstName>Gabriella</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>01/13/2009 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Adams</LastName>
+               <FirstName>Gabriella</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>01/13/2009 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>21713</StreetNumber>
+               <StreetName>Cabot</StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <City>Lexington Park</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20653</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.463374</Longitude>
+               <Latitude>38.263626</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>16</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>381280</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Culpepper</LastName>
+               <FirstName>Zyaira</FirstName>
+               <DOB>09/06/2006 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Culpepper</LastName>
+               <FirstName>Zyaira</FirstName>
+               <DOB>09/06/2006 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>21704</StreetNumber>
+               <StreetName>Cabot</StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <City>Lexington Park</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.46306571533003</Longitude>
+               <Latitude>38.26349503973769</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>12</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>381325</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Adams</LastName>
+               <FirstName>Macenzie</FirstName>
+               <DOB>07/23/2010 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Adams</LastName>
+               <FirstName>Macenzie</FirstName>
+               <DOB>07/23/2010 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>21713</StreetNumber>
+               <StreetName>CABOT</StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <City>LEXINGTON PARK</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.46312357493993</Longitude>
+               <Latitude>38.26359629462624</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>240841</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Adams</LastName>
+               <FirstName>Danielle</FirstName>
+               <MiddleName>Samantha R</MiddleName>
+               <DOB>09/18/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Adams</LastName>
+               <FirstName>Danielle</FirstName>
+               <MiddleName>Samantha R</MiddleName>
+               <DOB>09/18/1989 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>21713</StreetNumber>
+               <StreetName>Cabot</StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <City>Lexington Park</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20653</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.463374</Longitude>
+               <Latitude>38.263626</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>44519</StreetNumber>
+               <StreetName>Reeder Sanders</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Hollywood</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20636</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.534833</Longitude>
+               <Latitude>38.314817</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>434</PhonePrefix>
+               <PhoneSuffix>1049</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>808</PhonePrefix>
+               <PhoneSuffix>4595</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>41</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>381326</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Staten</LastName>
+               <FirstName>Tor</FirstName>
+               <DOB>05/09/1982 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Staten</LastName>
+               <FirstName>Tor</FirstName>
+               <DOB>05/09/1982 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>21713</StreetNumber>
+               <StreetName>Cabot</StreetName>
+               <StreetTypeCode>Place</StreetTypeCode>
+               <City>Lexington Park</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20653</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.463374</Longitude>
+               <Latitude>38.263626</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

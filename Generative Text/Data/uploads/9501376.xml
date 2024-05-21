@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-038506</IncidentReportNum>
+   <AgencyCode>55</AgencyCode>
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>11/01/2023 11:06:00</ReportDate>
+   <ReportTime>11/01/2023 11:06:00</ReportTime>
+   <StartDate>11/01/2023 10:31:00</StartDate>
+   <StartTime>11/01/2023 10:31:00</StartTime>
+   <Summary>COLLISION</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>11/01/2023 11:06:21</CreatorDate>
+   <UpdatorId>MSP5369</UpdatorId>
+   <UpdatorDate>11/02/2023 12:38:09</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>247890</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>11/01/2023 11:06:22</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>11/02/2023 08:43:40</UpdatorDate>
+      <Address>
+         <AddressId>247890</AddressId>
+         <StreetNumber>177</StreetNumber>
+         <StreetName>Conowingo</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Conowingo</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-76.1666283921587</Longitude>
+         <Latitude>39.67355649265724</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>SUSQUEHANNA INN</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>11/01/2023 11:06:18</SuppReportDate>
+      <SuppReportTime>11/01/2023 11:06:18</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>55</SuppAgencyCode>
+      <DsIcrDate>11/02/2023 12:38:09</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>11/01/2023 11:06:21</CreatorDate>
+      <UpdatorId>MSP5369</UpdatorId>
+      <UpdatorDate>11/02/2023 12:38:09</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>REPORT SUBMITTED IN ACRS.</NarrativeText>
+         <CreatorId>MSP7248</CreatorId>
+         <CreatorDate>11/02/2023 08:46:05</CreatorDate>
+         <UpdatorId>MSP7248</UpdatorId>
+         <UpdatorDate>11/02/2023 08:46:05</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>55</AgencyCode>
+            <ORINumber>MDMSP3100</ORINumber>
+            <LastName>Spayd</LastName>
+            <FirstName>Samuel</FirstName>
+            <InternalID>5369</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>55</AgencyCode>
+            <ORINumber>MDMSP3100</ORINumber>
+            <LastName>Gernatt</LastName>
+            <FirstName>Ryan</FirstName>
+            <InternalID>7248</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

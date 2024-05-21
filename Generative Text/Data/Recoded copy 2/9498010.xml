@@ -1,0 +1,220 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>01/28/2023 00:18:00</ReportDate>
+   <StartDate>01/27/2023 23:43:00</StartDate>
+   <Summary>Responded to call for service for a driver passed out in his vehicle on Nanticoke Rd. Driver declined to perform field sobriety and was subsequently arrested.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>NANTICOKE RD/ QUANTICO RD</IncAddrComment>
+      <AddressId>597521</AddressId>
+      <City>MDC518</City>
+      <Address>
+         <AddressId>597521</AddressId>
+         <StreetName>Nanticoke</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Quantico</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-75.738123</Longitude>
+         <Latitude>38.355848</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>25270-25589 NANTICOKE RD / 5880-6089 QUANTICO RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>24383-25269 NANTICOKE RD / 5880-6089 QUANTICO RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Ramsay</LastName>
+            <FirstName>Lee</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wilkins</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Mareck</LastName>
+            <FirstName>Keven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pilchard</LastName>
+            <FirstName>Bailey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>31</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>2893</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Tyndall</LastName>
+               <FirstName>William</FirstName>
+               <MiddleName>Howard</MiddleName>
+               <DOB>07/10/1991 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Tyndall</LastName>
+               <FirstName>William</FirstName>
+               <MiddleName>Howard</MiddleName>
+               <DOB>07/10/1991 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>21831</StreetNumber>
+               <StreetName>Wetipquin</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Quantico</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21856</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.858604</Longitude>
+               <Latitude>38.335814</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>21831</StreetNumber>
+               <StreetName>Wetipquin</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Quantico</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21856</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.858604</Longitude>
+               <Latitude>38.335814</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>7595</StreetNumber>
+               <StreetName>LEVIN DASHIELL</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>HEBRON</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.68200495012925</Longitude>
+               <Latitude>38.402825098313585</Latitude>
+               <SubBeat>543</SubBeat>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>736</PhonePrefix>
+               <PhoneSuffix>0127</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>735</PhonePrefix>
+               <PhoneSuffix>2181</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>60</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>348450</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Ruark</LastName>
+               <FirstName>Maurice</FirstName>
+               <MiddleName>Lawrence</MiddleName>
+               <DOB>10/03/1962 00:00:00</DOB>
+               </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Ruarke</LastName>
+               <FirstName>Maurice</FirstName>
+               <MiddleName>Lawrence</MiddleName>
+               <DOB>10/03/1962 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Ruark</LastName>
+               <FirstName>Maurice</FirstName>
+               <MiddleName>Lawrence</MiddleName>
+               <DOB>10/03/1962 00:00:00</DOB>
+               </Alias>
+            <Alias>
+               <NameTypeCode>Typo</NameTypeCode>
+               <LastName>Ruarke</LastName>
+               <FirstName>Maurice</FirstName>
+               <MiddleName>Lawrence</MiddleName>
+               <DOB>10/03/1962 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>521</StreetNumber>
+               <StreetName>Naylor</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21804</Zip5>
+               <Zip4>3749</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.5908793</Longitude>
+               <Latitude>38.3760117</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>859</PhonePrefix>
+               <PhoneSuffix>1576</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

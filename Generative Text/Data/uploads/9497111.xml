@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-012939</IncidentReportNum>
+   <AgencyCode>83</AgencyCode>
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>04/12/2023 11:01:00</ReportDate>
+   <ReportTime>04/12/2023 11:01:00</ReportTime>
+   <StartDate>04/12/2023 10:49:00</StartDate>
+   <StartTime>04/12/2023 10:49:00</StartTime>
+   <Summary>Accident</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>04/12/2023 11:01:31</CreatorDate>
+   <UpdatorId>MSP5357</UpdatorId>
+   <UpdatorDate>04/29/2023 03:59:28</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>LOWER MARLBORO RD/ SOUTHERN MARYLAND BLVD</IncAddrComment>
+      <AddressId>659097</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>04/12/2023 11:01:32</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>04/25/2023 00:54:33</UpdatorDate>
+      <Address>
+         <AddressId>659097</AddressId>
+         <StreetName>Lower Marlboro</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <SubTypeCode>LOWR</SubTypeCode>
+         <SubNumber>MARLB</SubNumber>
+         <City>Huntingtown</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>BLVD</CrossStreetTypeCode>
+         <Longitude>-76.60871</Longitude>
+         <Latitude>38.662688</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>250-285 LOWER MARLBORO RD / 0-0 SOUTHERN MARYLAND BLVD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>04/12/2023 11:01:28</SuppReportDate>
+      <SuppReportTime>04/12/2023 11:01:28</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>83</SuppAgencyCode>
+      <DsIcrDate>04/29/2023 03:59:28</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>04/12/2023 11:01:31</CreatorDate>
+      <UpdatorId>MSP5357</UpdatorId>
+      <UpdatorDate>04/29/2023 03:59:28</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Submitted in ACRS.</NarrativeText>
+         <CreatorId>MSP6487</CreatorId>
+         <CreatorDate>04/25/2023 00:54:51</CreatorDate>
+         <UpdatorId>MSP6487</UpdatorId>
+         <UpdatorDate>04/25/2023 00:54:51</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>83</AgencyCode>
+            <ORINumber>MDMSP5500</ORINumber>
+            <LastName>Okafor</LastName>
+            <FirstName>Oliver</FirstName>
+            <InternalID>5357</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>83</AgencyCode>
+            <ORINumber>MDMSP5500</ORINumber>
+            <LastName>Kaitz</LastName>
+            <FirstName>Phillip</FirstName>
+            <InternalID>6487</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,132 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>02/12/2023 12:27:00</ReportDate>
+   <StartDate>02/12/2023 09:57:00</StartDate>
+   <Summary>Deceased Subject</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Death Investigation</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>655528</AddressId>
+      <City>MDC206</City>
+      <Address>
+         <AddressId>655528</AddressId>
+         <StreetNumber>39</StreetNumber>
+         <StreetName>Kings Way</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>North East</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21901</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.974443</Longitude>
+         <Latitude>39.615919</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rogers</LastName>
+            <FirstName>Samuel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bishop</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mott</LastName>
+            <FirstName>Kenneth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>62</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>55380</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Ellingsworth Jr</LastName>
+               <FirstName>Raymond</FirstName>
+               <MiddleName>Benjamin</MiddleName>
+               <DOB>02/26/1960 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Ellingsworth Jr</LastName>
+               <FirstName>Raymond</FirstName>
+               <MiddleName>Benjamin</MiddleName>
+               <DOB>02/26/1960 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>39</StreetNumber>
+               <StreetName>KINGS WAY</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>NORTH EAST</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.97460817793561</Longitude>
+               <Latitude>39.61535260497621</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>287</PhonePrefix>
+               <PhoneSuffix>7704</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>D</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>63</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>368888</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Ellingsworth</LastName>
+               <FirstName>Susan</FirstName>
+               <DOB>12/13/1959 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Ellingsworth</LastName>
+               <FirstName>Susan</FirstName>
+               <DOB>12/13/1959 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>39</StreetNumber>
+               <StreetName>Kings Way</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>North East</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21901</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.974443</Longitude>
+               <Latitude>39.615919</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

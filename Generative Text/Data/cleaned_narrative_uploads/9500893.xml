@@ -1,0 +1,102 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-021670</IncidentReportNum>
+   <AgencyCode>95</AgencyCode>
+   <ORINum>MDMSP4700</ORINum>
+   <ReportDate>06/16/2023 17:35:00</ReportDate>
+   <ReportTime>06/16/2023 17:35:00</ReportTime>
+   <StartDate>06/16/2023 17:19:00</StartDate>
+   <StartTime>06/16/2023 17:19:00</StartTime>
+   <Summary>Accident</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>06/16/2023 17:35:17</CreatorDate>
+   <UpdatorId>MSP4792</UpdatorId>
+   <UpdatorDate>06/20/2023 13:45:35</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>OCEAN HWY/ KING MILLER RD</IncAddrComment>
+      <AddressId>539514</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/16/2023 17:35:24</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>06/16/2023 21:37:18</UpdatorDate>
+      <Address>
+         <AddressId>539514</AddressId>
+         <StreetName>Ocean</StreetName>
+         <StreetTypeCode>HWY</StreetTypeCode>
+         <City>Princess Anne</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-75.689264</Longitude>
+         <Latitude>38.171242</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>10572-10816 OCEAN HWY / 30675-30810 KING MILLER RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>10455-10571 OCEAN HWY / 30675-30810 KING MILLER RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>10456-10570 OCEAN HWY / 30675-30810 KING MILLER RD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 OCEAN HWY / 0-0 KING MILLER RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/16/2023 17:35:14</SuppReportDate>
+      <SuppReportTime>06/16/2023 17:35:14</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>95</SuppAgencyCode>
+      <DsIcrDate>06/17/2023 20:01:53</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/16/2023 17:35:18</CreatorDate>
+      <UpdatorId>MSP5845</UpdatorId>
+      <UpdatorDate>06/17/2023 20:01:54</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Please refer to the ACRS report that will be submitted on Delta Plus.</NarrativeText>
+         <CreatorId>MSP7345</CreatorId>
+         <CreatorDate>06/16/2023 21:37:47</CreatorDate>
+         <UpdatorId>MSP7345</UpdatorId>
+         <UpdatorDate>06/16/2023 21:37:48</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>95</AgencyCode>
+            <ORINumber>MDMSP4700</ORINumber>
+            <LastName>Lloyd</LastName>
+            <FirstName>Harry</FirstName>
+            <InternalID>5845</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>95</AgencyCode>
+            <ORINumber>MDMSP4700</ORINumber>
+            <LastName>Lloyd</LastName>
+            <FirstName>Harry</FirstName>
+            <InternalID>5845</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>95</AgencyCode>
+            <ORINumber>MDMSP4700</ORINumber>
+            <LastName>Bynum</LastName>
+            <FirstName>Logan</FirstName>
+            <InternalID>7345</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-028922</IncidentReportNum>
+   <AgencyCode>96</AgencyCode>
+   <ORINum>MDMSP4800</ORINum>
+   <ReportDate>08/15/2023 20:06:00</ReportDate>
+   <ReportTime>08/15/2023 20:06:00</ReportTime>
+   <StartDate>08/15/2023 19:58:00</StartDate>
+   <StartTime>08/15/2023 19:58:00</StartTime>
+   <Summary>Single vehicle collision.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>08/15/2023 20:06:19</CreatorDate>
+   <UpdatorId>MSP6312</UpdatorId>
+   <UpdatorDate>08/16/2023 02:56:23</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>703992</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>08/15/2023 20:06:20</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>08/15/2023 20:06:20</UpdatorDate>
+      <Address>
+         <AddressId>703992</AddressId>
+         <StreetNumber>10845</StreetNumber>
+         <StreetName>Ocean</StreetName>
+         <StreetTypeCode>GTWY</StreetTypeCode>
+         <City>Berlin</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-75.183067</Longitude>
+         <Latitude>38.345338</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>08/15/2023 20:06:17</SuppReportDate>
+      <SuppReportTime>08/15/2023 20:06:17</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>96</SuppAgencyCode>
+      <DsIcrDate>08/16/2023 02:56:23</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>08/15/2023 20:06:19</CreatorDate>
+      <UpdatorId>MSP6312</UpdatorId>
+      <UpdatorDate>08/16/2023 02:56:23</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Refer to ACRS and Delta Plus.&amp;nbsp;</NarrativeText>
+         <CreatorId>MSP6944</CreatorId>
+         <CreatorDate>08/16/2023 02:20:14</CreatorDate>
+         <UpdatorId>MSP6944</UpdatorId>
+         <UpdatorDate>08/16/2023 02:20:14</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>96</AgencyCode>
+            <ORINumber>MDMSP4800</ORINumber>
+            <LastName>Ruiz</LastName>
+            <FirstName>Francisco</FirstName>
+            <InternalID>6312</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>96</AgencyCode>
+            <ORINumber>MDMSP4800</ORINumber>
+            <LastName>Shubert</LastName>
+            <FirstName>Seth</FirstName>
+            <InternalID>6944</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

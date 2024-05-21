@@ -1,0 +1,130 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>08/17/2023 14:29:00</ReportDate>
+   <StartDate>08/17/2023 14:08:00</StartDate>
+   <EndDate>08/17/2023 17:31:00</EndDate>
+   <Summary>A citizen found CDS in a vacant home that is being prepared for sale.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Found Property</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>79693</AddressId>
+      <SubBeat>554</SubBeat>
+      <Address>
+         <AddressId>79693</AddressId>
+         <StreetNumber>38</StreetNumber>
+         <StreetName>ZION ACRES</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>NORTH EAST</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>554</SubBeat>
+         <Longitude>-75.96852017929184</Longitude>
+         <Latitude>39.67556730192239</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Kim</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Parisan</LastName>
+            <FirstName>Steven</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>38</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>153534</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Lynch</LastName>
+               <FirstName>Jylbeth</FirstName>
+               <DOB>09/26/1984 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Lynch</LastName>
+               <FirstName>Jylbeth</FirstName>
+               <DOB>09/26/1984 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1514</StreetNumber>
+               <StreetDirCode>S</StreetDirCode>
+               <StreetName>PHILADELPHIA</StreetName>
+               <StreetTypeCode>Boulevard</StreetTypeCode>
+               <City>ABERDEEN</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.21257764422673</Longitude>
+               <Latitude>39.48205961857732</Latitude>
+               <SubBeat>534</SubBeat>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>4</StreetNumber>
+               <StreetName>Broad</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Perryville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21903</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>252</PhonePrefix>
+               <PhoneSuffix>4670</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>862</PhonePrefix>
+               <PhoneSuffix>1600</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <StatusCode>13</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Blue wax folds</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>253008</Property_ID>
+         <DrugTypeCode>SUSPECTED HEROIN</DrugTypeCode>
+         <Quantity>38</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <StatusCode>13</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>Glass smoking pipe</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>253009</Property_ID>
+         <DrugTypeCode>SUSPECTED COCAINE</DrugTypeCode>
+         <Quantity>1</Quantity>
+         <QuantityUnit>DU</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

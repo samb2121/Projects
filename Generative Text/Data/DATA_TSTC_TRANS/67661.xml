@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2018D4210169</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>05/30/2018 13:13:00</ReportDate>
+   <ReportTime>05/30/2018 13:13:00</ReportTime>
+   <StartDate>05/30/2018 13:13:00</StartDate>
+   <StartTime>05/01/2018 13:13:00</StartTime>
+   <Summary>DLW TESTING 65465 - WEAPON TYPES OF HANDS/NONE NOT ALLOWED FOR 520 OFFENSES</Summary>
+   <CreatorId>DEBBIE</CreatorId>
+   <CreatorDate>05/30/2018 13:13:01</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:42</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>SP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>681</AddressId>
+      <City>5</City>
+      <CreatorId>DEBBIE</CreatorId>
+      <CreatorDate>05/30/2018 13:14:38</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>05/30/2018 13:14:50</UpdatorDate>
+      <Address>
+         <AddressId>681</AddressId>
+         <StreetNumber>120</StreetNumber>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>Elmer</StreetName>
+         <StreetTypeCode>LN</StreetTypeCode>
+         <City>Masontown</City>
+         <StateCode>IN</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-79.8976936780569</Longitude>
+         <Latitude>39.8475348220746</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>05/30/2018 13:13:02</SuppReportDate>
+      <SuppReportTime>05/30/2018 13:13:02</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>400</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>05/30/2018 13:23:12</DsIcrDate>
+      <DsIcrSubmissionStatus>SENT WAITING FOR RESPONSE</DsIcrSubmissionStatus>
+      <CreatorId>DEBBIE</CreatorId>
+      <CreatorDate>05/30/2018 13:13:02</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:27</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>DLW 5/30/2018&lt;br /&gt; 520 OFFENSE WITH HANDS AS THE WEAPON&amp;nbsp; &lt;p&gt;Georgia NIBR certification for White County Sheriff has identified a few incidents with an unexpected value for Weapon Law Violations (NIBR code 520).&lt;/p&gt;  &lt;p&gt;The warning is: Data Value &amp;ldquo;40&amp;rdquo; (Personal Weapons) and/or &amp;ldquo;99&amp;rdquo; (None) are being reported in Data Element 13 (Type Weapon/Force Involved). These weapon types do not meet the criteria for this offense. Weapon Law Violations are defined as the violation of laws or ordinances prohibiting the manufacture, sale, purchase, transportation, possession, concealment or use of firearms, cutting instruments, explosives, incendiary devices or other deadly weapons.&lt;/p&gt;  &lt;p&gt;A new RMS Incident Warning should be created to warn users of this situation.&lt;/p&gt;  &lt;p&gt;Incidents with Warning in GA154:&lt;br /&gt; 17030036&lt;br /&gt; 17050213&lt;/p&gt;  &lt;p&gt;Testing: create incident with NIBRS offense 520 - possession of firearm or knife during commission of or attempt to commit felony.&lt;br /&gt; Select Personal Weapons or None for Type of Weapon/Force used by the offender in committing the offense.&lt;/p&gt; </NarrativeText>
+         <CreatorId>DEBBIE</CreatorId>
+         <CreatorDate>05/30/2018 13:19:35</CreatorDate>
+         <UpdatorId>DEBBIE</UpdatorId>
+         <UpdatorDate>05/30/2018 13:19:35</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>3152</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-47-2-23</OffenseCode>
+         <PlaceCode>05</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>05/30/2018 13:13:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>DEBBIE</CreatorId>
+         <CreatorDate>05/30/2018 13:17:17</CreatorDate>
+         <UpdatorId>DEBBIE</UpdatorId>
+         <UpdatorDate>05/30/2018 13:21:13</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>18</ApproxAge>
+         <CreatorId>DEBBIE</CreatorId>
+         <CreatorDate>05/30/2018 13:18:07</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:23</UpdatorDate>
+         <Person>
+            <PersonId>903</PersonId>
+            <RaceCode>A</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>OFFENDER</LastName>
+               <FirstName>ONE</FirstName>
+               <DOB>02/01/2000 00:00:00</DOB>
+               <DateOfInfo>06/16/2017 11:08:45</DateOfInfo>
+               <SLastName>O153</SLastName>
+               <SFirstName>O500</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>OFFENDER</LastName>
+               <FirstName>ONE</FirstName>
+               <DOB>02/01/2000 00:00:00</DOB>
+               <SLastName>O153</SLastName>
+               <SFirstName>O500</SFirstName>
+               <DateOfInfo>06/16/2017 11:08:45</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>DEBBIE</CreatorId>
+            <CreatorDate>05/30/2018 13:18:08</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:23</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>DEBBIE</CreatorId>
+         <CreatorDate>05/30/2018 13:17:18</CreatorDate>
+         <UpdatorId>DEBBIE</UpdatorId>
+         <UpdatorDate>05/30/2018 13:17:18</UpdatorDate>
+      </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

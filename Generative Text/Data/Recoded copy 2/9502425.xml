@@ -1,0 +1,142 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5400</ORINum>
+   <ReportDate>10/22/2023 00:37:00</ReportDate>
+   <StartDate>10/22/2023 00:37:00</StartDate>
+   <Summary>Single vehicle collision, vehicle left the roadway. The driver was arrested for DUI/DWI. The driver was released to the care of medical staff.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>710684</AddressId>
+      <Address>
+         <AddressId>710684</AddressId>
+         <StreetName>Mervell Dean</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <StreetSuffixCode>S</StreetSuffixCode>
+         <City>Hollywood</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20636</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>WAY</CrossStreetTypeCode>
+         <Longitude>-76.54206</Longitude>
+         <Latitude>38.319663</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Murphy</LastName>
+            <FirstName>Shawn</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Piscopo-Bann</LastName>
+            <FirstName>Anthony</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>14583</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14583</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>45</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>390959</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Quezada</LastName>
+               <FirstName>Francisco</FirstName>
+               <MiddleName>Rogelio</MiddleName>
+               <DOB>08/01/1978 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Quezada</LastName>
+               <FirstName>Francisco</FirstName>
+               <MiddleName>Rogelio</MiddleName>
+               <DOB>08/01/1978 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2512</StreetNumber>
+               <StreetName>Chestnut</StreetName>
+               <StreetTypeCode>Way</StreetTypeCode>
+               <City>Lexington Park</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20653</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.451303</Longitude>
+               <Latitude>38.25559</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>158280</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>1HD1EBL19KY119853</VIN>
+         <VehicleYear>1989</VehicleYear>
+         <VehicleMakeCode>HARLEY-DAVIDSON</VehicleMakeCode>
+         <VehicleStyleCode>MC</VehicleStyleCode>
+         <VehicleTypeCode>Motorcycle</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleLicStateCode>CA</VehicleLicStateCode>
+         <VehicleLicNumber>22Y2350</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>1</VehicleLicMonth>
+         <VehicleLicTypeCode>MC</VehicleLicTypeCode>
+         <VehConditionCode>TOTALED</VehConditionCode>
+         <VehDamageCode>11</VehDamageCode>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

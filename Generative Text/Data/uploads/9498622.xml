@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-021821</IncidentReportNum>
+   <AgencyCode>61</AgencyCode>
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>06/17/2023 22:30:00</ReportDate>
+   <ReportTime>06/17/2023 22:30:00</ReportTime>
+   <StartDate>06/17/2023 22:09:00</StartDate>
+   <StartTime>06/17/2023 22:09:00</StartTime>
+   <Summary>TWO VEHICLE COLLISION RESULTING IN DUI ARREST</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>06/17/2023 22:30:52</CreatorDate>
+   <UpdatorId>MSP6327</UpdatorId>
+   <UpdatorDate>07/01/2023 13:11:44</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>CAP BELT HWY NB TO ST BARNABAS RD / SAINT BARNABAS RD</IncAddrComment>
+      <AddressId>698143</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/17/2023 22:30:53</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>06/23/2023 00:21:13</UpdatorDate>
+      <Address>
+         <AddressId>698143</AddressId>
+         <StreetName>Cap Belt Hwy Nb To St Barnabas</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Suitland</City>
+         <StateCode>MD</StateCode>
+         <Zip5>20744</Zip5>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-76.97024</Longitude>
+         <Latitude>38.80857</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>0-0 CAP BELT HWY NB TO ST BARNABAS RD / 5902-5928 SAINT BARNABAS RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/17/2023 22:30:48</SuppReportDate>
+      <SuppReportTime>06/17/2023 22:30:48</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>61</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>07/01/2023 13:11:45</DsIcrDate>
+      <DsIcrSubmissionStatus>PROCESS COMPLETE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/17/2023 22:30:52</CreatorDate>
+      <UpdatorId>TAMI.ANDREASSEN@INTERACT911.COM</UpdatorId>
+      <UpdatorDate>07/21/2023 17:23:21</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <CreatorId>MSP7163</CreatorId>
+         <CreatorDate>06/23/2023 00:30:26</CreatorDate>
+         <UpdatorId>MSP7163</UpdatorId>
+         <UpdatorDate>06/23/2023 00:30:26</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>61</AgencyCode>
+            <ORINumber>MDMSP5600</ORINumber>
+            <LastName>Manziano</LastName>
+            <FirstName>Nicole</FirstName>
+            <InternalID>7363</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>61</AgencyCode>
+            <ORINumber>MDMSP5600</ORINumber>
+            <LastName>Harr</LastName>
+            <FirstName>Jeremy</FirstName>
+            <InternalID>7163</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>511257</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>02</OffenseStatusCode>
+         <OffenseCode>14583</OffenseCode>
+         <PlaceCode>13</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>06/17/2023 22:09:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14583</ArrestChargeCode>
+         <CreatorId>MSP7163</CreatorId>
+         <CreatorDate>06/23/2023 00:22:43</CreatorDate>
+         <UpdatorId>MSP7163</UpdatorId>
+         <UpdatorDate>06/23/2023 00:22:43</UpdatorDate>
+      </IncidentOffense>
+      <IncidentOffense>
+         <IncidentId>511257</IncidentId>
+         <OffenseNumber>2</OffenseNumber>
+         <OffenseStatusCode>02</OffenseStatusCode>
+         <OffenseCode>16356</OffenseCode>
+         <PlaceCode>13</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>2</UCRNumber>
+         <OffenseStatusDate>06/17/2023 22:09:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>16356</ArrestChargeCode>
+         <CreatorId>MSP7163</CreatorId>
+         <CreatorDate>06/23/2023 00:23:37</CreatorDate>
+         <UpdatorId>MSP7163</UpdatorId>
+         <UpdatorDate>06/23/2023 00:23:37</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>55</ApproxAge>
+         <ResidentStatusCode>C</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <CreatorId>MSP7163</CreatorId>
+         <CreatorDate>06/23/2023 00:28:19</CreatorDate>
+         <UpdatorId>MSP</UpdatorId>
+         <UpdatorDate>08/01/2023 01:57:23</UpdatorDate>
+         <Person>
+            <PersonId>380587</PersonId>
+            <RaceCode>B</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>WHITE</LastName>
+               <FirstName>KEVIN</FirstName>
+               <DOB>11/26/1967 00:00:00</DOB>
+               <DateOfInfo>06/23/2023 00:27:23</DateOfInfo>
+               <SLastName>W300</SLastName>
+               <SFirstName>K150</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>WHITE</LastName>
+               <FirstName>KEVIN</FirstName>
+               <DOB>11/26/1967 00:00:00</DOB>
+               <SLastName>W300</SLastName>
+               <SFirstName>K150</SFirstName>
+               <DateOfInfo>06/23/2023 00:27:23</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>1352</StreetNumber>
+               <StreetName>HOLTON</StreetName>
+               <StreetTypeCode>LN</StreetTypeCode>
+               <City>TAKOMA PARK</City>
+               <StateCode>MD</StateCode>
+               <Zip5>20912</Zip5>
+               <CountryCode>US</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            <CreatorId>MSP7163</CreatorId>
+            <CreatorDate>06/23/2023 00:28:20</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:49:15</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            <CreatorId>MSP7163</CreatorId>
+            <CreatorDate>06/23/2023 00:28:20</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:49:15</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            <CreatorId>MSP7163</CreatorId>
+            <CreatorDate>06/23/2023 00:28:20</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:49:15</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            <CreatorId>MSP7163</CreatorId>
+            <CreatorDate>06/23/2023 00:28:20</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:49:15</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>MSP7163</CreatorId>
+            <CreatorDate>06/23/2023 00:28:20</CreatorDate>
+            <UpdatorId>MSP</UpdatorId>
+            <UpdatorDate>12/05/2023 01:49:15</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>MSP7163</CreatorId>
+         <CreatorDate>06/23/2023 00:22:44</CreatorDate>
+         <UpdatorId>MSP7163</UpdatorId>
+         <UpdatorDate>06/23/2023 00:22:44</UpdatorDate>
+      </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>154433</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <CreatorId>MSP7163</CreatorId>
+         <CreatorDate>06/23/2023 00:28:50</CreatorDate>
+         <UpdatorId>MSP7163</UpdatorId>
+         <UpdatorDate>06/23/2023 00:28:50</UpdatorDate>
+         <DateOfInfo>06/23/2023 00:00:00</DateOfInfo>
+         <StatusCode>1</StatusCode>
+         <VIN>3N1AB8DV9MY267025</VIN>
+         <VehicleYear>2011</VehicleYear>
+         <VehicleMakeCode>NISS</VehicleMakeCode>
+         <VehicleModelCode>SEN</VehicleModelCode>
+         <VehicleTypeCode>AT</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehicleLicStateCode>VA</VehicleLicStateCode>
+         <VehicleLicNumber>UPD7198</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>1</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/30/2023 09:12:22</SuppReportDate>
+      <SuppReportTime>06/30/2023 09:12:22</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>61</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>07/01/2023 13:11:45</DsIcrDate>
+      <DsIcrSubmissionStatus>PROCESS COMPLETE</DsIcrSubmissionStatus>
+      <CreatorId>MSP6052</CreatorId>
+      <CreatorDate>06/30/2023 09:12:22</CreatorDate>
+      <UpdatorId>TAMI.ANDREASSEN@INTERACT911.COM</UpdatorId>
+      <UpdatorDate>07/21/2023 17:23:21</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement #1 Narrative</NarrativeTitle>
+         <NarrativeText>&lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;*********J-30 EQUIPPED WITH AUDIO/VIDEO EQUIPMENT*********&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;*********INCIDENT CAPTURED ON BODYCAM AND MVR*********&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; On 06/17/2023 at approximately 2209 hrs, I was dispatched to Northbound I-495 in the area of Route 414 for a two vehicle collision. Once on scene I observed two vehicles on the left shoulder and partially in lane 1. I observed a black Nissan Sentra (VA UPD7198) with front end damage and a white Toyota with rear end damage. A brief investigation revealed the Nissan struck the rear of the Toyota causing the Toyota to strike the guardrail.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The driver was identified as Kevin Sean White (DOB 11/26/1967) via his Virginia driver&amp;rsquo;s License (VA A67331543). Upon speaking with White, he was seated in the driver&amp;rsquo;s seat of his vehicle with the engine running. White immediately spoke to me with heavily slurred speech and an attitude. White stated the last time he had spoken to police &amp;ldquo;it was a bunch of bullshit and I don&amp;rsquo;t have any faith in you all&amp;rdquo;. White then began to play around on his phone, stating he was looking for his insurance, however White was browsing through his contacts. I detected the odor of an alcoholic beverage emanating from White&amp;rsquo;s vehicle. White eventually provided his insurance information.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; I requested White to participate in Standardized Field Sobriety Testing and he agreed. White stated he had neuropathy due to diabetes. White advised he was on medication for his diabetes. White was wearing glasses. White stated he was blind in his left eye. White stated he was not going to be able to pass the tests due to his neuropathy. I explained and then demonstrated each of the tests to White before he began. White did not have any questions about any of the tests and he advised that he understood all of the instructions given. The ground used was the asphalt surface of the roadway in front of my vehicle, which was level and reasonably free from debris.&lt;br /&gt; &lt;br /&gt; Horizontal Gaze Nystagmus &amp;ndash; 6 of 6 clues&lt;br /&gt; &lt;br /&gt; White&amp;rsquo;s eyes were bloodshot and watery. Both eyes tracked equally, and both pupils were equally sized. White exhibited the following clues:&lt;br /&gt; - Lack of smooth pursuit present in both eyes&lt;br /&gt; - Distinct and sustained nystagmus at maximum deviation present in both eyes&lt;br /&gt; - Onset of nystagmus prior to 45 degrees present in both eyes&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;Misc. &amp;ndash; White repeatedly did not follow the stimulus and would stop short or turn his head. I was able to gather the observed clues after checking for each clue multiple times in an attempt to get White to perform the test properly a minimum of twice in each eye for each clue.&lt;br /&gt; &amp;nbsp;&lt;br /&gt; &lt;br /&gt; Walk and Turn &amp;ndash; Refused&lt;br /&gt; &lt;br /&gt; One Leg Stand &amp;ndash; Refused&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &lt;br /&gt; &lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;White agreed to submit to a Preliminary Breath Test and provided a sample of .14 BrAC.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;Throughout instruction and administering the tests White was argumentative and standoffish.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;White was arrested at 2306 hrs on 06/17/2023 and transported to MSP Forestville for processing. Once at MSP Forestville, White elected to listen to an English audio recording of the DR15 advice of rights. White was provided with a blank copy of the DR15 to follow along. Once White was finished listening to the DR15 audio, he refused to take the Intoximeter breath test. White signed the Dr15 at approximately 2335 hrs on 06/17/2023.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;Throughout processing White&amp;rsquo;s demeanor drastically improved, and he became more cooperative.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &lt;br /&gt; &lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;White was provided with a copy of all pertinent paperwork and issued the appropriate charges.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &lt;br /&gt; &lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;White was released from MSP Forestville to a sober driver shortly after processing was complete.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &lt;br /&gt; &lt;span style="font-size:11pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span&gt;All events occurred in Prince George&amp;rsquo;s County, Maryland&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &amp;nbsp;</NarrativeText>
+         <CreatorId>MSP7163</CreatorId>
+         <CreatorDate>07/01/2023 07:41:36</CreatorDate>
+         <UpdatorId>MSP7163</UpdatorId>
+         <UpdatorDate>07/01/2023 08:43:45</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>61</AgencyCode>
+            <ORINumber>MDMSP5600</ORINumber>
+            <LastName>York</LastName>
+            <FirstName>Michael</FirstName>
+            <InternalID>6327</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>61</AgencyCode>
+            <ORINumber>MDMSP5600</ORINumber>
+            <LastName>Harr</LastName>
+            <FirstName>Jeremy</FirstName>
+            <InternalID>7163</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>61</AgencyCode>
+            <ORINumber>MDMSP5600</ORINumber>
+            <LastName>Estrin</LastName>
+            <FirstName>Scott</FirstName>
+            <InternalID>6052</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2021D4210374</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>12/07/2021 10:35:00</ReportDate>
+   <ReportTime>12/07/2021 10:35:00</ReportTime>
+   <StartDate>12/07/2021 10:35:00</StartDate>
+   <StartTime>12/07/2021 10:35:00</StartTime>
+   <Summary>testing for searching</Summary>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>12/07/2021 10:35:01</CreatorDate>
+   <UpdatorId>STATE_OFFICER11</UpdatorId>
+   <UpdatorDate>09/12/2023 15:55:09</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CAD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>1759</AddressId>
+      <City>4</City>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>03/07/2022 16:02:54</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>03/07/2022 16:03:20</UpdatorDate>
+      <Address>
+         <AddressId>1759</AddressId>
+         <StreetNumber>832</StreetNumber>
+         <StreetName>AMELIA</StreetName>
+         <StreetTypeCode>DR</StreetTypeCode>
+         <City>BRISTOL</City>
+         <StateCode>CT</StateCode>
+         <Zip5>06010</Zip5>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>12/07/2021 10:35:04</SuppReportDate>
+      <SuppReportTime>12/07/2021 10:35:04</SuppReportTime>
+      <AgencyOnly>Y</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>09/12/2023 15:55:08</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>12/07/2021 10:35:04</CreatorDate>
+      <UpdatorId>STATE_OFFICER11</UpdatorId>
+      <UpdatorDate>09/12/2023 15:55:09</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>asdfadfasdfasdfasdf</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>09/12/2023 15:51:19</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>09/12/2023 15:51:19</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Simpson</LastName>
+            <FirstName>Homer</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Simpson</LastName>
+            <FirstName>Homer</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>33</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>09/12/2023 15:44:11</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>09/12/2023 15:44:11</UpdatorDate>
+         <Person>
+            <PersonId>1203</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Abcott</LastName>
+               <FirstName>Norm</FirstName>
+               <DOB>06/05/1988 00:00:00</DOB>
+               <DateOfInfo>09/13/2022 10:19:58</DateOfInfo>
+               <SLastName>A123</SLastName>
+               <SFirstName>N650</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Abcott</LastName>
+               <FirstName>Norm</FirstName>
+               <DOB>06/05/1988 00:00:00</DOB>
+               <SLastName>A123</SLastName>
+               <SFirstName>N650</SFirstName>
+               <DateOfInfo>09/13/2022 10:19:58</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>09/12/2023 15:44:11</CreatorDate>
+            <UpdatorId>STATE_OFFICER11</UpdatorId>
+            <UpdatorDate>09/12/2023 15:44:11</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

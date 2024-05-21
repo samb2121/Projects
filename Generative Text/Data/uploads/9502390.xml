@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-036662</IncidentReportNum>
+   <AgencyCode>96</AgencyCode>
+   <ORINum>MDMSP4800</ORINum>
+   <ReportDate>10/19/2023 06:38:00</ReportDate>
+   <ReportTime>10/19/2023 06:38:00</ReportTime>
+   <StartDate>10/19/2023 05:50:00</StartDate>
+   <StartTime>10/19/2023 05:50:00</StartTime>
+   <Summary>Accident Report</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>10/19/2023 06:38:31</CreatorDate>
+   <UpdatorId>MSP3675</UpdatorId>
+   <UpdatorDate>10/19/2023 09:10:08</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>SNOW HILL RD/ GEORGE ISLAND LANDING RD</IncAddrComment>
+      <AddressId>710360</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>10/19/2023 06:38:32</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>10/19/2023 07:04:31</UpdatorDate>
+      <Address>
+         <AddressId>710360</AddressId>
+         <StreetName>Snow Hill</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Stockton</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-75.409905</Longitude>
+         <Latitude>38.053818</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>1490-2068 SNOW HILL RD / 5613-5801 GEORGE ISLAND LANDING RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>10/19/2023 06:38:27</SuppReportDate>
+      <SuppReportTime>10/19/2023 06:38:27</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>96</SuppAgencyCode>
+      <DsIcrDate>10/19/2023 09:10:07</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>10/19/2023 06:38:31</CreatorDate>
+      <UpdatorId>MSP3675</UpdatorId>
+      <UpdatorDate>10/19/2023 09:10:09</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Accident report submitted via Delta Plus.</NarrativeText>
+         <CreatorId>MSP6577</CreatorId>
+         <CreatorDate>10/19/2023 07:04:48</CreatorDate>
+         <UpdatorId>MSP6577</UpdatorId>
+         <UpdatorDate>10/19/2023 07:04:48</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>96</AgencyCode>
+            <ORINumber>MDMSP4800</ORINumber>
+            <LastName>Sweitzer</LastName>
+            <FirstName>Colin</FirstName>
+            <InternalID>3675</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>96</AgencyCode>
+            <ORINumber>MDMSP4800</ORINumber>
+            <LastName>Lane</LastName>
+            <FirstName>Kevin</FirstName>
+            <InternalID>6577</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

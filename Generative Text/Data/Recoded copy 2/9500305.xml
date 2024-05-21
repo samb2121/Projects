@@ -1,0 +1,282 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>07/11/2023 13:06:00</ReportDate>
+   <StartDate>07/11/2023 12:34:00</StartDate>
+   <Summary>Fatal Collision</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>677085</AddressId>
+      <Address>
+         <AddressId>677085</AddressId>
+         <StreetNumber>1273</StreetNumber>
+         <StreetName>Hudson</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Cambridge</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21613</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.212574</Longitude>
+         <Latitude>38.600636</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Myers</LastName>
+            <FirstName>Kenneth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Cambra</LastName>
+            <FirstName>Nicholas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Gore</LastName>
+            <FirstName>Charles</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mills</LastName>
+            <FirstName>Steve</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Tassone</LastName>
+            <FirstName>Scott</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Cambra</LastName>
+            <FirstName>Nicholas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>73</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>388369</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Riley</LastName>
+               <FirstName>Janet</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>06/03/1950 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Riley</LastName>
+               <FirstName>Janet</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>06/03/1950 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1273</StreetNumber>
+               <StreetName>Hudson</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Cambridge</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21613</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.212574</Longitude>
+               <Latitude>38.600636</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>228</PhonePrefix>
+               <PhoneSuffix>8226</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>32</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>382233</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Gambrill</LastName>
+               <FirstName>Michael</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>07/19/1990 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Gambrill</LastName>
+               <FirstName>Michael</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>07/19/1990 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>521</PhonePrefix>
+               <PhoneSuffix>5694</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>07</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>388370</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Gambrill</LastName>
+               <FirstName>Michaela</FirstName>
+               <DOB>07/15/2015 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Gambrill</LastName>
+               <FirstName>Michaela</FirstName>
+               <DOB>07/15/2015 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>100</StreetNumber>
+               <StreetName>Trinity</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>East new Market</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21631</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.918583</Longitude>
+               <Latitude>38.597991</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>66</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>388371</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Peek</LastName>
+               <FirstName>Gary</FirstName>
+               <MiddleName>Gordon</MiddleName>
+               <DOB>02/08/1957 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Peek</LastName>
+               <FirstName>Gary</FirstName>
+               <MiddleName>Gordon</MiddleName>
+               <DOB>02/08/1957 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1223</StreetNumber>
+               <StreetName>Old Madison</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Madison</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21648</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.219343</Longitude>
+               <Latitude>38.509623</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>D</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>155018</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>1FT7W2BT4GED09788</VIN>
+         <VehicleYear>2016</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>F250 Super Duty Crew Cab</VehicleModelCode>
+         <VehicleStyleCode>PK</VehicleStyleCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehSecColorCode>WHI</VehSecColorCode>
+         <VehSecColorCode>WHI</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>9DM5441</VehicleLicNumber>
+         <VehicleLicNumber>9DM5441</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>12</VehicleLicMonth>
+         <VehicleLicMonth>12</VehicleLicMonth>
+         <VehConditionCode>P</VehConditionCode>
+         <VehConditionCode>P</VehConditionCode>
+         <VehDamageCode>12</VehDamageCode>
+         <VehDamageCode>12</VehDamageCode>
+         <VehDamageDesc>Attached with trailer, both vehicles heavy damage</VehDamageDesc>
+         <VehDamageDesc>Front end and under carriage </VehDamageDesc>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>155021</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>1FDUF4GT2GEC33099</VIN>
+         <VehicleYear>2016</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleStyleCode>PK</VehicleStyleCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehSecColorCode>WHI</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>9CR5227</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>11</VehicleLicMonth>
+         <VehConditionCode>P</VehConditionCode>
+         <VehDamageCode>12</VehDamageCode>
+         <VehDamageDesc>Trailer and truck damaged and under carriage</VehDamageDesc>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

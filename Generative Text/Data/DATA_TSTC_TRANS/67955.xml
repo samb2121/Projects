@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2016D4210053</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>10/25/2016 12:09:00</ReportDate>
+   <ReportTime>10/25/2016 12:09:00</ReportTime>
+   <StartDate>10/25/2016 12:09:00</StartDate>
+   <StartTime>10/01/2016 12:09:00</StartTime>
+   <Summary>test</Summary>
+   <CreatorId>STATE_OSUPER4</CreatorId>
+   <CreatorDate>10/25/2016 12:09:14</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:38</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CCD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>230</AddressId>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>10/25/2016 12:09:40</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>10/25/2016 12:09:45</UpdatorDate>
+      <Address>
+         <AddressId>230</AddressId>
+         <StreetNumber>4637</StreetNumber>
+         <StreetName>HILTON</StreetName>
+         <StreetTypeCode>AVE</StreetTypeCode>
+         <SubTypeCode>APT</SubTypeCode>
+         <SubNumber>K</SubNumber>
+         <City>COLUMBUS</City>
+         <StateCode>OH</StateCode>
+         <Zip5>43228</Zip5>
+         <Beat>Test</Beat>
+         <SubBeat>Area</SubBeat>
+         <AddressCommonName>
+            <CommonPlaceName>Dead strip</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>10/25/2016 12:09:14</SuppReportDate>
+      <SuppReportTime>10/25/2016 12:09:14</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>10/25/2016 12:11:22</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>10/25/2016 12:09:14</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:26</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>&amp;nbsp;asdfasdfad</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>10/25/2016 12:11:05</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>10/25/2016 12:11:05</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>30</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>10/25/2016 12:10:09</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:21</UpdatorDate>
+         <Person>
+            <PersonId>841</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <FirstName>The chosen ONe</FirstName>
+               <DateOfInfo>10/27/2016 00:00:00</DateOfInfo>
+               <SFirstName>T225</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Potter</LastName>
+               <FirstName>Harry</FirstName>
+               <MiddleName>M</MiddleName>
+               <SSN>1.11111111E8</SSN>
+               <DateOfInfo>10/25/2016 12:05:08</DateOfInfo>
+               <SLastName>P360</SLastName>
+               <SFirstName>H600</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <FirstName>The chosen ONe</FirstName>
+               <SFirstName>T225</SFirstName>
+               <DateOfInfo>10/27/2016 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Potter</LastName>
+               <FirstName>Harry</FirstName>
+               <MiddleName>M</MiddleName>
+               <SSN>1.11111111E8</SSN>
+               <SLastName>P360</SLastName>
+               <SFirstName>H600</SFirstName>
+               <DateOfInfo>10/25/2016 12:05:08</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>126</StreetNumber>
+               <StreetDirCode>N</StreetDirCode>
+               <StreetName>750</StreetName>
+               <StreetSuffixCode>W</StreetSuffixCode>
+               <StateCode>IN</StateCode>
+               <CountryCode>US</CountryCode>
+               <Longitude>-85.39604</Longitude>
+               <Latitude>39.07748</Latitude>
+               <Beat>D2</Beat>
+               <SubBeat>Sub D2</SubBeat>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>2740</StreetNumber>
+               <StreetDirCode>N</StreetDirCode>
+               <StreetName>ADDISON MEADOWS</StreetName>
+               <StreetTypeCode>LN</StreetTypeCode>
+               <SubTypeCode>BSMT</SubTypeCode>
+               <City>INDIANAPOLIS</City>
+               <StateCode>PA</StateCode>
+               <Zip5>46203</Zip5>
+               <Zip4>5555</Zip4>
+               <Longitude>-86.059884</Longitude>
+               <Latitude>39.728722</Latitude>
+               <Beat>Test</Beat>
+               <SubBeat>Area</SubBeat>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>10/25/2016 12:10:09</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:22</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>28</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>10/25/2016 12:10:39</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:21</UpdatorDate>
+         <Person>
+            <PersonId>842</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Weasley</LastName>
+               <FirstName>Ron</FirstName>
+               <MiddleName>m</MiddleName>
+               <DateOfInfo>10/25/2016 12:06:18</DateOfInfo>
+               <SLastName>W240</SLastName>
+               <SFirstName>R500</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Weasley</LastName>
+               <FirstName>Ron</FirstName>
+               <MiddleName>m</MiddleName>
+               <SLastName>W240</SLastName>
+               <SFirstName>R500</SFirstName>
+               <DateOfInfo>10/25/2016 12:06:18</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>10/25/2016 12:10:39</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:22</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>28</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>10/25/2016 12:10:58</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:21</UpdatorDate>
+         <Person>
+            <PersonId>843</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Malfoy</LastName>
+               <FirstName>Draco</FirstName>
+               <MiddleName>m</MiddleName>
+               <SSN>3.33333333E8</SSN>
+               <DateOfInfo>10/25/2016 12:07:40</DateOfInfo>
+               <SLastName>M410</SLastName>
+               <SFirstName>D620</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Malfoy</LastName>
+               <FirstName>Draco</FirstName>
+               <MiddleName>m</MiddleName>
+               <SSN>3.33333333E8</SSN>
+               <SLastName>M410</SLastName>
+               <SFirstName>D620</SFirstName>
+               <DateOfInfo>10/25/2016 12:07:40</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>10/25/2016 12:10:58</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:22</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>1</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>10/31/2016 13:03:00</SuppReportDate>
+      <SuppReportTime>10/31/2016 13:03:00</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>10/31/2016 13:06:48</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>10/31/2016 13:03:00</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:25</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement#1 - Narrative</NarrativeTitle>
+         <NarrativeText>asdfasdfasdfafd</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>10/31/2016 13:04:43</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>10/31/2016 13:04:43</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>2</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>10/31/2016 17:56:20</SuppReportDate>
+      <SuppReportTime>10/31/2016 17:56:20</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>11/14/2016 15:29:16</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>10/31/2016 17:56:20</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:25</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement#2 - Narrative</NarrativeTitle>
+         <NarrativeText>fgjhgfhjghj</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>11/14/2016 15:28:52</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>11/14/2016 15:28:52</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

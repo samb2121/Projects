@@ -1,0 +1,88 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>06/30/2023 14:54:00</ReportDate>
+   <StartDate>06/30/2023 14:54:00</StartDate>
+   <Summary>RAPID Electronic Audit</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>590891</AddressId>
+      <Address>
+         <AddressId>590891</AddressId>
+         <StreetNumber>8226</StreetNumber>
+         <StreetName>Baltimore Annapolis</StreetName>
+         <StreetTypeCode>Boulevard</StreetTypeCode>
+         <City>Pasadena</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21122</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Distance>0</Distance>
+         <Longitude>-76.565368</Longitude>
+         <Latitude>39.119097</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Haas</LastName>
+            <FirstName>Jesse</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Tucker</LastName>
+            <FirstName>John</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>48</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>308465</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Wood</LastName>
+               <FirstName>Lisa</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>07/23/1974 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Wood</LastName>
+               <FirstName>Lisa</FirstName>
+               <MiddleName>Marie</MiddleName>
+               <DOB>07/23/1974 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1739</StreetNumber>
+               <StreetName>Marley</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Glen Burnie</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21060</Zip5>
+               <Zip4>6729</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.5817797</Longitude>
+               <Latitude>39.1844877</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>440</PhonePrefix>
+               <PhoneSuffix>4005</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

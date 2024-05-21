@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-002395</IncidentReportNum>
+   <AgencyCode>56</AgencyCode>
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>01/20/2023 07:25:00</ReportDate>
+   <ReportTime>01/20/2023 07:25:00</ReportTime>
+   <StartDate>01/20/2023 06:57:00</StartDate>
+   <StartTime>01/20/2023 06:57:00</StartTime>
+   <Summary>Traffic collision captured under this care number in DELTA.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>01/20/2023 07:25:06</CreatorDate>
+   <UpdatorId>MSP5039</UpdatorId>
+   <UpdatorDate>01/20/2023 09:21:54</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>GAMBER RD/ BALTIMORE BLVD</IncAddrComment>
+      <AddressId>539478</AddressId>
+      <City>MDC305</City>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>01/20/2023 07:25:06</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>01/20/2023 08:10:01</UpdatorDate>
+      <Address>
+         <AddressId>539478</AddressId>
+         <StreetName>Gamber</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Finksburg</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>BLVD</CrossStreetTypeCode>
+         <Longitude>-76.891598</Longitude>
+         <Latitude>39.495515</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>2991-3017 GAMBER RD / 2977-2977 BALTIMORE BLVD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>2991-3017 GAMBER RD / 2869-2893 BALTIMORE BLVD</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>2991-3017 GAMBER RD / 3001-3059 BALTIMORE BLVD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>01/20/2023 07:25:02</SuppReportDate>
+      <SuppReportTime>01/20/2023 07:25:02</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>56</SuppAgencyCode>
+      <DsIcrDate>01/20/2023 09:21:54</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>01/20/2023 07:25:06</CreatorDate>
+      <UpdatorId>MSP5039</UpdatorId>
+      <UpdatorDate>01/20/2023 09:21:54</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Traffic collision captured under this care number in DELTA.</NarrativeText>
+         <CreatorId>MSP5334</CreatorId>
+         <CreatorDate>01/20/2023 08:10:47</CreatorDate>
+         <UpdatorId>MSP5334</UpdatorId>
+         <UpdatorDate>01/20/2023 08:10:47</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>56</AgencyCode>
+            <ORINumber>MDMSP0200</ORINumber>
+            <LastName>Gibson</LastName>
+            <FirstName>Cameron</FirstName>
+            <InternalID>5039</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>56</AgencyCode>
+            <ORINumber>MDMSP0200</ORINumber>
+            <LastName>FAIR</LastName>
+            <FirstName>JOHN</FirstName>
+            <InternalID>5334</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

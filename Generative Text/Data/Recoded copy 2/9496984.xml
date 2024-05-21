@@ -1,0 +1,146 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0200</ORINum>
+   <ReportDate>02/18/2023 13:48:00</ReportDate>
+   <StartDate>02/18/2023 13:35:00</StartDate>
+   <Summary>Traffic stop with unlicensed driver.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>6153 SYKESVILLE,SYKESVILLE</IncAddrComment>
+      <AddressId>684724</AddressId>
+      <City>MDC236</City>
+      <Address>
+         <AddressId>684724</AddressId>
+         <StreetNumber>6153</StreetNumber>
+         <StreetName>Sykesville Sykesville</StreetName>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.94947305</Longitude>
+         <Latitude>39.4052125666667</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Shipley</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pettis</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>19731</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>19731</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>16824</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>16824</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>18613</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>18613</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>53</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>369474</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>DOMINGUEZ</LastName>
+               <FirstName>MARIO</FirstName>
+               <MiddleName>SUAZO</MiddleName>
+               <DOB>09/11/1969 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>DOMINGUEZ</LastName>
+               <FirstName>MARIO</FirstName>
+               <MiddleName>SUAZO</MiddleName>
+               <DOB>09/11/1969 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>6020</StreetNumber>
+               <StreetName>Emerald</StreetName>
+               <StreetTypeCode>Lane</StreetTypeCode>
+               <City>Sykesville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21784</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.983353</Longitude>
+               <Latitude>39.410714</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>647</PhonePrefix>
+               <PhoneSuffix>9167</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240009530</BusinessNumber>
+         <BusinessName>State Of Maryland</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>202733</AddressId>
+            <StreetNumber>1100</StreetNumber>
+            <StreetName>Baltimore</StreetName>
+            <StreetTypeCode>Boulevard</StreetTypeCode>
+            <City>Westminster</City>
+            <StateCode>Maryland</StateCode>
+            <Zip5>21157</Zip5>
+            <CountryCode>United States of America</CountryCode>
+            <CountyCode>NaN</CountyCode>
+            <Longitude>-76.957593</Longitude>
+            <Latitude>39.555051</Latitude>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>149960</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>8</StatusCode>
+         <VehicleYear>1997</VehicleYear>
+         <VehicleMakeCode>GEO(GEO)</VehicleMakeCode>
+         <VehicleModelCode>PRIUS</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>RED</VehPriColorCode>
+         <VehicleLicNumber>5BM4291</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

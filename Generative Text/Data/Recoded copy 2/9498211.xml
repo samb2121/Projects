@@ -1,0 +1,350 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2100</ORINum>
+   <ReportDate>02/25/2023 16:47:00</ReportDate>
+   <StartDate>02/17/2023 22:25:00</StartDate>
+   <Summary>Theft / MDOP</Summary>
+   <IncidentType>
+      <IncidentTypeCode>MDOP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>685478</AddressId>
+      <City>MDC136</City>
+      <Address>
+         <AddressId>685478</AddressId>
+         <StreetNumber>11710</StreetNumber>
+         <StreetName>Boardwalk</StreetName>
+         <StreetTypeCode>Avenue</StreetTypeCode>
+         <StreetSuffixCode>NE</StreetSuffixCode>
+         <City>Cumberland</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-78.746428</Longitude>
+         <Latitude>39.690499</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>BOWMANS ADDITION</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Schoenadel</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Divelbiss</LastName>
+            <FirstName>James</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Langley</LastName>
+            <FirstName>Jason</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 0621 23G</OffenseCode>
+         <PlaceCode>Government/Public Building</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0621 23G</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>3 4025</OffenseCode>
+         <PlaceCode>Government/Public Building</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>3 4025</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>18</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>370102</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hochard</LastName>
+               <FirstName>Tyler</FirstName>
+               <MiddleName>Christian</MiddleName>
+               <DOB>09/19/2004 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hochard</LastName>
+               <FirstName>Tyler</FirstName>
+               <MiddleName>Christian</MiddleName>
+               <DOB>09/19/2004 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>809</StreetNumber>
+               <StreetName>Memorial</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <City>Cumberland</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21502</Zip5>
+               <Zip4>3735</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.753865</Longitude>
+               <Latitude>39.64006</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>800</PhonePrefix>
+               <PhoneSuffix>5305</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>19</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>370103</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>King</LastName>
+               <FirstName>Gavin</FirstName>
+               <MiddleName>Joseph</MiddleName>
+               <DOB>10/20/2003 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>King</LastName>
+               <FirstName>Gavin</FirstName>
+               <MiddleName>Joseph</MiddleName>
+               <DOB>10/20/2003 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>512</StreetNumber>
+               <StreetName>Georges Creek</StreetName>
+               <StreetTypeCode>Boulevard</StreetTypeCode>
+               <City>La Vale</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21502</Zip5>
+               <Zip4>7026</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.805146</Longitude>
+               <Latitude>39.655811</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>876</PhonePrefix>
+               <PhoneSuffix>5377</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>18</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>370104</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Schultz</LastName>
+               <FirstName>Hailey</FirstName>
+               <MiddleName>Ann</MiddleName>
+               <DOB>04/15/2004 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Schultz</LastName>
+               <FirstName>Hailey</FirstName>
+               <MiddleName>Ann</MiddleName>
+               <DOB>04/15/2004 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>12501</StreetNumber>
+               <StreetName>Old Cumberland</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <StreetSuffixCode>NE</StreetSuffixCode>
+               <City>Flintstone</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21530</Zip5>
+               <Zip4>3136</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.509933</Longitude>
+               <Latitude>39.698185</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>28</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>246036</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Morral</LastName>
+               <FirstName>Brian</FirstName>
+               <MiddleName>Duane</MiddleName>
+               <DOB>04/22/1994 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Morral</LastName>
+               <FirstName>Brian</FirstName>
+               <MiddleName>Duane</MiddleName>
+               <DOB>04/22/1994 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>14008</StreetNumber>
+               <StreetName>Black Valley</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Flintstone</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21530</Zip5>
+               <Zip4>1126</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.553214</Longitude>
+               <Latitude>39.718631</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>362</PhonePrefix>
+               <PhoneSuffix>3440</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>920</PhonePrefix>
+               <PhoneSuffix>7248</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>27</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>370106</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Yost</LastName>
+               <FirstName>Brennan</FirstName>
+               <MiddleName>Aaron</MiddleName>
+               <DOB>06/02/1995 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Yost</LastName>
+               <FirstName>Brennan</FirstName>
+               <MiddleName>Aaron</MiddleName>
+               <DOB>06/02/1995 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>13725</StreetNumber>
+               <StreetName>Bedford</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <StreetSuffixCode>NE</StreetSuffixCode>
+               <City>Cumberland</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21502</Zip5>
+               <Zip4>6921</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.709301</Longitude>
+               <Latitude>39.712562</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>986</PropertyTypeCode>
+         <PropertyValue>185.5</PropertyValue>
+         <Value>185.5</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>244345</Property_ID>
+         <Make>MicTuning</Make>
+         <Model>C2 RGBW LED Rock Lights</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>4</RoleCode>
+         <StatusCode>4</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>986</PropertyTypeCode>
+         <PropertyValue>185.5</PropertyValue>
+         <Value>185.5</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>244345</Property_ID>
+         <Make>MicTuning</Make>
+         <Model>C2 RGBW LED Rock Lights</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Schoenadel</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Langley</LastName>
+            <FirstName>Jason</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

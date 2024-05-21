@@ -1,0 +1,130 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>06/22/2023 19:31:00</ReportDate>
+   <StartDate>06/22/2023 19:01:00</StartDate>
+   <Summary>Possession CDS</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>NOTTINGHAM RD/ CHURCH ST</IncAddrComment>
+      <AddressId>698592</AddressId>
+      <Address>
+         <AddressId>698592</AddressId>
+         <StreetName>Nottingham</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Hagerstown</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>ST</CrossStreetTypeCode>
+         <Longitude>-77.73648</Longitude>
+         <Latitude>39.65436</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>200-299 NOTTINGHAM RD / 1300-1399 CHURCH ST</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Thompson</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Roberts</LastName>
+            <FirstName>Richard</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Martin</LastName>
+            <FirstName>Phillip</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Hood</LastName>
+            <FirstName>Daryl</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>380606</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Freeman</LastName>
+               <FirstName>Bessie</FirstName>
+               <MiddleName>Catherine</MiddleName>
+               <DOB>11/25/1986 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Freeman</LastName>
+               <FirstName>Bessie</FirstName>
+               <MiddleName>Catherine</MiddleName>
+               <DOB>11/25/1986 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>44237</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Hensley</LastName>
+               <FirstName>Kenneth</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>01/27/1987 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Hensley</LastName>
+               <FirstName>Kenneth</FirstName>
+               <MiddleName>Michael</MiddleName>
+               <DOB>01/27/1987 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>151</StreetNumber>
+               <StreetName>Staley</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Shepherdstown</City>
+               <StateCode>West Virginia</StateCode>
+               <Zip5>25443</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.836506</Longitude>
+               <Latitude>39.462513</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>660</PhonePrefix>
+               <PhoneSuffix>0992</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

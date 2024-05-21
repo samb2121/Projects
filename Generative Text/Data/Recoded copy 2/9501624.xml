@@ -1,0 +1,143 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4700</ORINum>
+   <ReportDate>11/02/2023 18:35:00</ReportDate>
+   <StartDate>11/02/2023 18:08:00</StartDate>
+   <Summary>Theft of Milwaukee 18 volt impacts.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>643258</AddressId>
+      <Address>
+         <AddressId>643258</AddressId>
+         <StreetNumber>11311</StreetNumber>
+         <StreetName>Greenwood</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Princess Anne</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.690981</Longitude>
+         <Latitude>38.191811</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Schur</LastName>
+            <FirstName>Paul</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Brown</LastName>
+            <FirstName>Derek</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0621 23D</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0621 23D</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>42</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>35938</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Croswell</LastName>
+               <FirstName>Durrell</FirstName>
+               <MiddleName>Antonio</MiddleName>
+               <DOB>05/08/1981 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Croswell</LastName>
+               <FirstName>Durrell</FirstName>
+               <MiddleName>Antonio</MiddleName>
+               <DOB>05/08/1981 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>28780</StreetNumber>
+               <StreetName>LARRY LANKFORD</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>PRINCESS ANNE</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.75352551960607</Longitude>
+               <Latitude>38.260876238414696</Latitude>
+               <SubBeat>951</SubBeat>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>783</PhonePrefix>
+               <PhoneSuffix>6874</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>18 volt 1/2 inch Milwaukee impact</Description>
+         <PropertyTypeCode>TOOL - POWER</PropertyTypeCode>
+         <PropertyValue>270</PropertyValue>
+         <Value>270</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>256073</Property_ID>
+         <PrimaryColor>RED</PrimaryColor>
+         <Make>Milwaukee</Make>
+         <Model>18 volt 1/2 inch impact</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>18 volt 3/8 inch Milwaukee impact </Description>
+         <PropertyTypeCode>TOOL - POWER</PropertyTypeCode>
+         <PropertyValue>270</PropertyValue>
+         <Value>270</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>256074</Property_ID>
+         <PrimaryColor>RED</PrimaryColor>
+         <Make>Milwaukee</Make>
+         <Model>18 volt 3/8 inch impact</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Milwaukee 18 volt 4 amp battery </Description>
+         <PropertyTypeCode>BATTERY</PropertyTypeCode>
+         <PropertyValue>70</PropertyValue>
+         <Value>70</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>256075</Property_ID>
+         <Make>Milwaukee</Make>
+         <Model>18 volt 4 amp battery</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

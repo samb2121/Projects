@@ -1,0 +1,82 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-018723</IncidentReportNum>
+   <AgencyCode>58</AgencyCode>
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>05/26/2023 07:55:00</ReportDate>
+   <ReportTime>05/26/2023 07:55:00</ReportTime>
+   <StartDate>05/26/2023 07:35:00</StartDate>
+   <StartTime>05/26/2023 07:35:00</StartTime>
+   <Summary>Collision resulting in ACRS report.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>05/26/2023 07:55:19</CreatorDate>
+   <UpdatorId>MSP6047</UpdatorId>
+   <UpdatorDate>06/04/2023 16:36:17</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>144709</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>05/26/2023 07:55:20</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>05/27/2023 15:05:10</UpdatorDate>
+      <Address>
+         <AddressId>144709</AddressId>
+         <StreetNumber>104</StreetNumber>
+         <StreetName>MAIN</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>EAST NEW MARKET</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-75.92556971125374</Longitude>
+         <Latitude>38.599061709015636</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>HOMETOWN PRIDE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>05/26/2023 07:55:18</SuppReportDate>
+      <SuppReportTime>05/26/2023 07:55:18</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>58</SuppAgencyCode>
+      <DsIcrDate>06/04/2023 16:36:16</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>05/26/2023 07:55:19</CreatorDate>
+      <UpdatorId>MSP6047</UpdatorId>
+      <UpdatorDate>06/04/2023 16:36:17</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>ACRS report completed and submitted through Delta Plus.</NarrativeText>
+         <CreatorId>MSP6728</CreatorId>
+         <CreatorDate>05/27/2023 15:05:37</CreatorDate>
+         <UpdatorId>MSP6728</UpdatorId>
+         <UpdatorDate>05/27/2023 15:05:37</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>58</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Del Vecchio</LastName>
+            <FirstName>Christopher</FirstName>
+            <InternalID>6047</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>58</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Davis</LastName>
+            <FirstName>Colton</FirstName>
+            <InternalID>6728</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

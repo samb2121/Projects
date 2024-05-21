@@ -1,0 +1,100 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5200</ORINum>
+   <ReportDate>12/20/2023 22:49:00</ReportDate>
+   <StartDate>12/20/2023 22:49:00</StartDate>
+   <Summary>Traffic Stop</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>W/B 100 PRIOR TO I-97</IncAddrComment>
+      <AddressId>706496</AddressId>
+      <Address>
+         <AddressId>706496</AddressId>
+         <StreetName>Md-100</StreetName>
+         <City>Glen Burnie</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.64688</Longitude>
+         <Latitude>39.15273</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>MD 100 EB / SB I-97</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Logsdon</LastName>
+            <FirstName>Frank</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Cearfoss</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>24</ApproxAge>
+         <Person>
+            <PersonId>395760</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>BRUMBLE</LastName>
+               <FirstName>JADA</FirstName>
+               <MiddleName>REIGN</MiddleName>
+               <DOB>08/16/1999 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>BRUMBLE</LastName>
+               <FirstName>JADA</FirstName>
+               <MiddleName>REIGN</MiddleName>
+               <DOB>08/16/1999 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>90</StreetNumber>
+               <StreetName>Queen Anne</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Dover</City>
+               <StateCode>Delaware</StateCode>
+               <Zip5>19901</Zip5>
+               <Zip4>1510</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.556486</Longitude>
+               <Latitude>39.205538</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>160035</VEHICLE_ID>
+         <RoleCode>SU</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>KL4CJASB4GB693307</VIN>
+         <VehicleYear>2016</VehicleYear>
+         <VehicleMakeCode>BUICK</VehicleMakeCode>
+         <VehicleModelCode>ENCORE</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>BRZ</VehPriColorCode>
+         <VehicleLicStateCode>DE</VehicleLicStateCode>
+         <VehicleLicNumber>PC126861</VehicleLicNumber>
+         <VehicleLicYear>2025</VehicleLicYear>
+         <VehicleLicMonth>6</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

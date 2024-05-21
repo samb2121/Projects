@@ -1,0 +1,131 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4700</ORINum>
+   <ReportDate>07/19/2023 19:37:00</ReportDate>
+   <StartDate>07/19/2023 17:40:00</StartDate>
+   <Summary>POLICE INFORMATION / SUSPICIOUS CIRCUMSTANCES</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>701432</AddressId>
+      <Address>
+         <AddressId>701432</AddressId>
+         <StreetNumber>27160</StreetNumber>
+         <StreetName>Cash Corner</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Crisfield</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.814349</Longitude>
+         <Latitude>37.990795</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Carey</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Marshall</LastName>
+            <FirstName>Shadoe</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Peters</LastName>
+            <FirstName>John</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Carew</LastName>
+            <FirstName>Christian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>382990</PersonId>
+            <RaceCode>Asian</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Other Ethnicity/National Origin</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Koltuk</LastName>
+               <FirstName>Soner</FirstName>
+               <DOB>02/02/1989 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Koltuk</LastName>
+               <FirstName>Soner</FirstName>
+               <DOB>02/02/1989 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>10115</StreetNumber>
+               <StreetName>Friendship</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Berlin</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21811</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.192999</Longitude>
+               <Latitude>38.348938</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>32</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>382991</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Bradshaw</LastName>
+               <FirstName>Tyler</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>11/19/1990 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Bradshaw</LastName>
+               <FirstName>Tyler</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>11/19/1990 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>26708</StreetNumber>
+               <StreetName>Crackertown</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Crisfield</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21817</Zip5>
+               <Zip4>2126</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.830131</Longitude>
+               <Latitude>37.993407</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

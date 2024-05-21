@@ -1,0 +1,116 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0100</ORINum>
+   <ReportDate>01/02/2024 20:52:00</ReportDate>
+   <StartDate>01/02/2024 20:36:00</StartDate>
+   <Summary>A worker at Jersey Mike's sliced the tip of his thumb off, provided medical assistance and assisted EMS.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>Jersey Mike's</IncAddrComment>
+      <AddressId>717732</AddressId>
+      <Address>
+         <AddressId>717732</AddressId>
+         <StreetNumber>9338</StreetNumber>
+         <StreetName>Baltimore National</StreetName>
+         <StreetTypeCode>Pike</StreetTypeCode>
+         <City>Ellicott City</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.833413</Longitude>
+         <Latitude>39.277605</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>JERSEY MIKE'S SUB SHOP</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mohr</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>German</LastName>
+            <FirstName>Lyle</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Porta</LastName>
+            <FirstName>Tyler</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>20</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>396678</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Yarnevich</LastName>
+               <FirstName>Nicholas</FirstName>
+               <MiddleName>James</MiddleName>
+               <DOB>10/29/2003 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Yarnevich</LastName>
+               <FirstName>Nicholas</FirstName>
+               <MiddleName>James</MiddleName>
+               <DOB>10/29/2003 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3137</StreetNumber>
+               <StreetName>Elmmede</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Ellicott City</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21042</Zip5>
+               <Zip4>2319</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.851939</Longitude>
+               <Latitude>39.283014</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>832</PhonePrefix>
+               <PhoneSuffix>7888</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>E</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>German</LastName>
+            <FirstName>Lyle</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mohr</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

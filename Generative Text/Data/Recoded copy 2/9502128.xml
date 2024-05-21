@@ -1,0 +1,234 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2300</ORINum>
+   <ReportDate>11/28/2023 09:56:00</ReportDate>
+   <StartDate>11/28/2023 09:56:00</StartDate>
+   <Summary>Theft/Fraud</Summary>
+   <IncidentType>
+      <IncidentTypeCode>FRD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>89663</AddressId>
+      <Address>
+         <AddressId>89663</AddressId>
+         <StreetNumber>255</StreetNumber>
+         <StreetName>Pysell</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <SubTypeCode>APT</SubTypeCode>
+         <SubNumber>60</SubNumber>
+         <City>McHenry</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21541</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-79.354305</Longitude>
+         <Latitude>39.564368</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Wagoner</LastName>
+            <FirstName>David</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Fitzwater</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1S1161</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1S1161</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>58</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>121808</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>James</LastName>
+               <FirstName>Paul</FirstName>
+               <MiddleName>Bernard</MiddleName>
+               <DOB>01/22/1965 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>James</LastName>
+               <FirstName>Paul</FirstName>
+               <MiddleName>Bernard</MiddleName>
+               <DOB>01/22/1965 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>255</StreetNumber>
+               <StreetName>Pysell</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>60</SubNumber>
+               <City>McHenry</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21541</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-79.354305</Longitude>
+               <Latitude>39.564368</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>827</StreetNumber>
+               <StreetDirCode>E</StreetDirCode>
+               <StreetName>Oak</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Oakland</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21550</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-79.399957</Longitude>
+               <Latitude>39.404442</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>501</PhonePrefix>
+               <PhoneSuffix>8870</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>334</PhonePrefix>
+               <PhoneSuffix>5259</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>501</PhonePrefix>
+               <PhoneSuffix>1965</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>47</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>121807</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Gray</LastName>
+               <FirstName>Kelly</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>12/09/1975 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Gray</LastName>
+               <FirstName>Kelly</FirstName>
+               <MiddleName>Lynn</MiddleName>
+               <DOB>12/09/1975 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>243</StreetNumber>
+               <StreetDirCode>N</StreetDirCode>
+               <StreetName>3rd </StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>28</SubNumber>
+               <City>Oakland</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21550</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-79.403238</Longitude>
+               <Latitude>39.414246</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>827</StreetNumber>
+               <StreetDirCode>E</StreetDirCode>
+               <StreetName>Oak</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Oakland</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21550</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-79.399957</Longitude>
+               <Latitude>39.404442</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>501</PhonePrefix>
+               <PhoneSuffix>8870</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>334</PhonePrefix>
+               <PhoneSuffix>5259</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <DocumentTypeCode>O</DocumentTypeCode>
+         <PropertyTypeCode>CREDIT CARDS</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>256978</Property_ID>
+         <AccountNumber>4.158691004320931E15</AccountNumber>
+         <Amount>467.4</Amount>
+         <Bank>1st United </Bank>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Broadwater</LastName>
+            <FirstName>Lucas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Fitzwater</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared Exceptionally - Victim Refused To Cooperate</OffenseStatusCode>
+         <OffenseCode>1S1161</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1S1161</ArrestChargeCode>
+         </IncidentOffense>
+   </IncidentSupplement>
+</Incident>

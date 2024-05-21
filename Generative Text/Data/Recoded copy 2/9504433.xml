@@ -1,0 +1,187 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3000</ORINum>
+   <ReportDate>06/23/2023 16:52:00</ReportDate>
+   <StartDate>06/23/2023 16:48:00</StartDate>
+   <Summary>Insurance Fraud</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>5749</AddressId>
+      <SubBeat>531</SubBeat>
+      <Address>
+         <AddressId>5749</AddressId>
+         <StreetNumber>1401</StreetNumber>
+         <StreetName>BEL AIR</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>BEL AIR</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>531</SubBeat>
+         <Longitude>-76.38177706785434</Longitude>
+         <Latitude>39.505315450766766</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>MSP BEL AIR BARRACK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>BEL AIR BARRACK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>MSP BEL AIR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Sander</LastName>
+            <FirstName>Scott</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Neal</LastName>
+            <FirstName>Emily</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>20</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>382207</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Minks</LastName>
+               <FirstName>Sara</FirstName>
+               <DOB>06/01/2003 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Minks</LastName>
+               <FirstName>Sara</FirstName>
+               <DOB>06/01/2003 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>600</StreetNumber>
+               <StreetName>Aldino Stepney</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Aberdeen</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21001</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>365</PhonePrefix>
+               <PhoneSuffix>3246</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CD</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>22</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>164826</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Magliano</LastName>
+               <FirstName>Nicholas</FirstName>
+               <MiddleName>Andre</MiddleName>
+               <DOB>02/22/2001 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Magliano</LastName>
+               <FirstName>Nicholas</FirstName>
+               <MiddleName>Andre</MiddleName>
+               <DOB>02/22/2001 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>164</StreetNumber>
+               <StreetName>Cree</StreetName>
+               <StreetTypeCode>Terrace</StreetTypeCode>
+               <City>Rising Sun</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.11788306048251</Longitude>
+               <Latitude>39.70380262684368</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>207</PhonePrefix>
+               <PhoneSuffix>4018</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>658</PhonePrefix>
+               <PhoneSuffix>9749</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CD</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240012793</BusinessNumber>
+         <BusinessName>PROGRESSIVE</BusinessName>
+         <IncBusinessRoleCode>Other</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentBusiness>
+         <BusinessNumber>240014419</BusinessNumber>
+         <BusinessName>EZ Car Plus</BusinessName>
+         <IncBusinessRoleCode>Other</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>392517</AddressId>
+            <StreetNumber>2715</StreetNumber>
+            <StreetName>Pulaski</StreetName>
+            <StreetTypeCode>Highway</StreetTypeCode>
+            <City>Edgewood</City>
+            <StateCode>Maryland</StateCode>
+            <CountryCode>United States of America</CountryCode>
+            <CountyCode>NaN</CountyCode>
+            <Longitude>-76.29220714847769</Longitude>
+            <Latitude>39.441949735285846</Latitude>
+            <BusinessPhone>
+               <PhoneTypeCode>Business</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>650</PhonePrefix>
+               <PhoneSuffix>6500</PhoneSuffix>
+               </BusinessPhone>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentBusiness>
+         <BusinessNumber>240016277</BusinessNumber>
+         <BusinessName>Westlake Financial Services</BusinessName>
+         <IncBusinessRoleCode>Other</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

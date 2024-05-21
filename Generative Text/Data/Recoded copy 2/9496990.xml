@@ -1,0 +1,96 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>03/17/2023 21:56:00</ReportDate>
+   <StartDate>03/17/2023 21:22:00</StartDate>
+   <Summary>Vehicle Pursuit/Accident</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>PURSUIT</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>687661</AddressId>
+      <City>MDC146</City>
+      <Address>
+         <AddressId>687661</AddressId>
+         <StreetName>Delancy</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Elkton</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.79011</Longitude>
+         <Latitude>39.60696</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>300-315</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Kim</LastName>
+            <FirstName>Joshua</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rogers</LastName>
+            <FirstName>Samuel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared Exceptionally - Prosecution Declined, No Complaint Filed</OffenseStatusCode>
+         <OffenseCode>14589</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>14589</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>73</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>371858</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Sanchez</LastName>
+               <FirstName>Antonio</FirstName>
+               <MiddleName>Estrada</MiddleName>
+               <DOB>05/07/1949 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Sanchez</LastName>
+               <FirstName>Antonio</FirstName>
+               <MiddleName>Estrada</MiddleName>
+               <DOB>05/07/1949 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>8424</StreetNumber>
+               <StreetName>Society</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Claymont</City>
+               <StateCode>Delaware</StateCode>
+               <Zip5>19703</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.45769</Longitude>
+               <Latitude>39.82018</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

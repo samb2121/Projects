@@ -1,0 +1,118 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2300</ORINum>
+   <ReportDate>01/07/2023 16:42:00</ReportDate>
+   <StartDate>01/07/2023 12:00:00</StartDate>
+   <EndDate>01/07/2023 13:00:00</EndDate>
+   <Summary>Unknown suspect did take a snowboard from the Wisp.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>679692</AddressId>
+      <City>MDC304</City>
+      <Address>
+         <AddressId>679692</AddressId>
+         <StreetNumber>587</StreetNumber>
+         <StreetName>Waterfront Greens</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Swanton</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21561</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-79.280256</Longitude>
+         <Latitude>39.507907</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Broadwater</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Brennan</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Inactive</OffenseStatusCode>
+         <OffenseCode>1 1137_AOL</OffenseCode>
+         <PlaceCode>Other/Unknown</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1137_AOL</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>365697</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Benkovich</LastName>
+               <FirstName>Matthew</FirstName>
+               <MiddleName>Jay</MiddleName>
+               <DOB>02/18/1986 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Benkovich</LastName>
+               <FirstName>Matthew</FirstName>
+               <MiddleName>Jay</MiddleName>
+               <DOB>02/18/1986 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>11</StreetNumber>
+               <StreetDirCode>E</StreetDirCode>
+               <StreetName>13th</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Frederick</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21701</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>724</PhoneArea>
+               <PhonePrefix>396</PhonePrefix>
+               <PhoneSuffix>1491</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>154 cm long Snowboard with black bindings</Description>
+         <PropertyTypeCode>SKATES/BOARD</PropertyTypeCode>
+         <PropertyValue>800</PropertyValue>
+         <Value>800</Value>
+         <SerialNumber>N/A</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>241160</Property_ID>
+         <PrimaryColor>RED</PrimaryColor>
+         <SecondaryColor>WHI</SecondaryColor>
+         <Make>Burton</Make>
+         <Model>Deep Thinker</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

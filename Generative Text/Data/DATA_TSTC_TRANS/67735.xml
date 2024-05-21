@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2018-08-220-000015</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>08/08/2018 10:54:00</ReportDate>
+   <ReportTime>08/08/2018 10:54:00</ReportTime>
+   <StartDate>08/08/2018 10:46:00</StartDate>
+   <StartTime>08/08/2018 10:46:00</StartTime>
+   <Summary>test</Summary>
+   <CreatorId>TSTC</CreatorId>
+   <CreatorDate>08/08/2018 11:21:24</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:42</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>AIR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>1641</AddressId>
+      <City>9</City>
+      <CreatorId>TSTC</CreatorId>
+      <CreatorDate>08/08/2018 11:21:26</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>03/14/2019 11:21:06</UpdatorDate>
+      <Address>
+         <AddressId>1641</AddressId>
+         <StreetNumber>100</StreetNumber>
+         <StreetName>Oak Boulevard S</StreetName>
+         <StreetTypeCode>DR</StreetTypeCode>
+         <City>Greenfield</City>
+         <StateCode>IN</StateCode>
+         <Zip5>46140</Zip5>
+         <CountryCode>US</CountryCode>
+         <Longitude>-85.933504</Longitude>
+         <Latitude>39.783506</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>08/08/2018 10:54:34</SuppReportDate>
+      <SuppReportTime>08/08/2018 10:54:34</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>03/14/2019 11:38:57</DsIcrDate>
+      <DsIcrSubmissionStatus>SENT WAITING FOR RESPONSE</DsIcrSubmissionStatus>
+      <CreatorId>TSTC</CreatorId>
+      <CreatorDate>08/08/2018 11:21:24</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:27</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Combined narratives from CAD</NarrativeTitle>
+         <NarrativeText>08/08/2018 10:49:50 ANG: test&lt;br /&gt;</NarrativeText>
+         <CreatorId>TSTC</CreatorId>
+         <CreatorDate>08/08/2018 11:21:21</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/08/2018 11:21:28</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Wright</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Wright</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>3163</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-2-1  B04</OffenseCode>
+         <PlaceCode>10</PlaceCode>
+         <BiasCode>16</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>08/08/2018 10:46:00</OffenseStatusDate>
+         <ForcedEntryCode>F</ForcedEntryCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:21:45</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>03/14/2019 11:21:45</UpdatorDate>
+      </IncidentOffense>
+      <IncidentOffense>
+         <IncidentId>3163</IncidentId>
+         <OffenseNumber>2</OffenseNumber>
+         <OffenseStatusCode>02</OffenseStatusCode>
+         <OffenseCode>35-48-4-10B</OffenseCode>
+         <PlaceCode>47</PlaceCode>
+         <BiasCode>28</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>2</UCRNumber>
+         <OffenseStatusDate>08/08/2018 10:46:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:22:18</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>03/14/2019 11:22:18</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>15</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:23:13</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:22</UpdatorDate>
+         <Person>
+            <PersonId>975</PersonId>
+            <RaceCode>A</RaceCode>
+            <SexCode>F</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Bond</LastName>
+               <FirstName>James</FirstName>
+               <DateOfInfo>10/18/2018 16:45:20</DateOfInfo>
+               <SLastName>B530</SLastName>
+               <SFirstName>J520</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Bond</LastName>
+               <FirstName>James</FirstName>
+               <SLastName>B530</SLastName>
+               <SFirstName>J520</SFirstName>
+               <DateOfInfo>10/18/2018 16:45:20</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>222</StreetNumber>
+               <StreetDirCode>W</StreetDirCode>
+               <StreetName>Michigan</StreetName>
+               <StreetTypeCode>ST</StreetTypeCode>
+               <City>Indianapolis</City>
+               <StateCode>IN</StateCode>
+               <Zip5>46204</Zip5>
+               <CountryCode>US</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-86.16274</Longitude>
+               <Latitude>39.774416</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>03/14/2019 11:25:25</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:25</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:23:38</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:22</UpdatorDate>
+         <Person>
+            <PersonId>332</PersonId>
+            <RaceCode>B</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>O</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>COLEMAN</LastName>
+               <FirstName>FREDDIE</FirstName>
+               <MiddleName>LEE JR</MiddleName>
+               <DOB>02/27/1984 00:00:00</DOB>
+               <SSN>3.08928301E8</SSN>
+               <DateOfInfo>07/30/2012 23:42:21</DateOfInfo>
+               <SLastName>C455</SLastName>
+               <SFirstName>F630</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>COLEMAN</LastName>
+               <FirstName>FREDDIE</FirstName>
+               <MiddleName>LEE JR</MiddleName>
+               <DOB>02/27/1984 00:00:00</DOB>
+               <SSN>3.08928301E8</SSN>
+               <SLastName>C455</SLastName>
+               <SFirstName>F630</SFirstName>
+               <DateOfInfo>07/30/2012 23:42:21</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>03/14/2019 11:23:38</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>24</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:38:10</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:22</UpdatorDate>
+         <Person>
+            <PersonId>1010</PersonId>
+            <RaceCode>A</RaceCode>
+            <SexCode>F</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Kimball</LastName>
+               <FirstName>Person02</FirstName>
+               <DateOfInfo>03/13/2019 15:23:00</DateOfInfo>
+               <SLastName>K514</SLastName>
+               <SFirstName>P625</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Kimball</LastName>
+               <FirstName>Person02 Nickname</FirstName>
+               <DateOfInfo>03/13/2019 00:00:00</DateOfInfo>
+               <SLastName>K514</SLastName>
+               <SFirstName>P625</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Kimball</LastName>
+               <FirstName>Person02</FirstName>
+               <SLastName>K514</SLastName>
+               <SFirstName>P625</SFirstName>
+               <DateOfInfo>03/13/2019 15:23:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>N</NameTypeCode>
+               <LastName>Kimball</LastName>
+               <FirstName>Person02 Nickname</FirstName>
+               <SLastName>K514</SLastName>
+               <SFirstName>P625</SFirstName>
+               <DateOfInfo>03/13/2019 00:00:00</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>03/14/2019 11:38:10</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:25</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:22:18</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>03/14/2019 11:22:18</UpdatorDate>
+      </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>508</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:33:55</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>03/14/2019 15:36:50</UpdatorDate>
+         <DateOfInfo>02/01/2019 00:00:00</DateOfInfo>
+         <DateOfInfo>02/01/2019 12:07:47</DateOfInfo>
+         <DateOfInfo>08/08/2018 11:21:27</DateOfInfo>
+         <DateOfInfo>11/20/2017 15:31:18</DateOfInfo>
+         <StatusCode>8</StatusCode>
+         <VIN>ABCASD</VIN>
+         <VehicleYear>2018</VehicleYear>
+         <VehicleMakeCode>AUDI</VehicleMakeCode>
+         <VehicleModelCode>CBRIOLET</VehicleModelCode>
+         <VehicleStyleCode>SD</VehicleStyleCode>
+         <VehicleTypeCode>AT</VehicleTypeCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehPriColorCode>DBL</VehPriColorCode>
+         <VehPriColorCode>DBL</VehPriColorCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehSecColorCode>DGR</VehSecColorCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+         <VehicleLicStateCode>IN</VehicleLicStateCode>
+         <VehicleLicStateCode>IN</VehicleLicStateCode>
+         <VehicleLicStateCode>IN</VehicleLicStateCode>
+         <VehicleLicStateCode>IN</VehicleLicStateCode>
+         <VehicleLicNumber>888ORI</VehicleLicNumber>
+         <VehicleLicNumber>RWI617</VehicleLicNumber>
+         <VehicleLicNumber>RWI617</VehicleLicNumber>
+         <VehicleLicNumber>888ORI</VehicleLicNumber>
+         <VehicleLicYear>2018</VehicleLicYear>
+         <VehicleLicYear>2058</VehicleLicYear>
+         <VehicleLicYear>2058</VehicleLicYear>
+         <VehicleLicYear>2018</VehicleLicYear>
+         <VehicleLicMonth>1</VehicleLicMonth>
+         <VehicleLicTypeCode>DP</VehicleLicTypeCode>
+         <VehicleLicTypeCode>CU</VehicleLicTypeCode>
+         <VehConditionCode>G</VehConditionCode>
+         <VehConditionCode>F</VehConditionCode>
+         <VehDamageCode>10</VehDamageCode>
+         <VehDamageCode>NaN</VehDamageCode>
+         <VehDamageDesc>Under carriage</VehDamageDesc>
+         <VehDamageDesc>Water</VehDamageDesc>
+         <VehicleMotorCC>NaN</VehicleMotorCC>
+         <VehicleValue>10000</VehicleValue>
+         <VehicleValue>20000</VehicleValue>
+         <VehicleMiscID>XXX123</VehicleMiscID>
+         <VehicleMiscID>ABC888</VehicleMiscID>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:28:41</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>03/14/2019 15:25:30</UpdatorDate>
+         <DateOfInfo>03/14/2019 00:00:00</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>508</PropertyTypeCode>
+         <PropertyValue>100</PropertyValue>
+         <Value>100</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>1872</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:29:37</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>03/14/2019 15:25:18</UpdatorDate>
+         <DateOfInfo>03/14/2019 00:00:00</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>544</PropertyTypeCode>
+         <PropertyValue>233</PropertyValue>
+         <Value>233</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>1873</Property_ID>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:29:37</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>03/14/2019 15:25:16</UpdatorDate>
+         <DateOfInfo>03/14/2019 00:00:00</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>612</PropertyTypeCode>
+         <PropertyValue>344</PropertyValue>
+         <Value>344</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>1874</Property_ID>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:31:22</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>03/14/2019 15:25:26</UpdatorDate>
+         <DateOfInfo>03/14/2019 00:00:00</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <PropertyTypeCode>105</PropertyTypeCode>
+         <PropertyValue>355</PropertyValue>
+         <Value>355</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>1875</Property_ID>
+         <DrugTypeCode>E</DrugTypeCode>
+         <Quantity>3</Quantity>
+         <QuantityUnit>NP</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:31:22</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>03/14/2019 15:25:24</UpdatorDate>
+         <DateOfInfo>03/14/2019 00:00:00</DateOfInfo>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <PropertyTypeCode>105</PropertyTypeCode>
+         <PropertyValue>355</PropertyValue>
+         <Value>355</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>1875</Property_ID>
+         <DrugTypeCode>E</DrugTypeCode>
+         <Quantity>3</Quantity>
+         <QuantityUnit>NP</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:31:22</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>03/14/2019 15:25:22</UpdatorDate>
+         <DateOfInfo>03/14/2019 00:00:00</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <PropertyTypeCode>560</PropertyTypeCode>
+         <PropertyValue>455</PropertyValue>
+         <Value>455</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>1876</Property_ID>
+         <DrugTypeCode>O</DrugTypeCode>
+         <Quantity>3</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>6</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:31:22</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>03/14/2019 15:25:20</UpdatorDate>
+         <DateOfInfo>03/14/2019 00:00:00</DateOfInfo>
+         <StatusCode>6</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <PropertyTypeCode>560</PropertyTypeCode>
+         <PropertyValue>455</PropertyValue>
+         <Value>455</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>1876</Property_ID>
+         <DrugTypeCode>O</DrugTypeCode>
+         <Quantity>3</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:36:19</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>03/14/2019 15:25:15</UpdatorDate>
+         <DateOfInfo>03/14/2019 00:00:00</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <PropertyTypeCode>621</PropertyTypeCode>
+         <PropertyValue>111</PropertyValue>
+         <Value>111</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>1877</Property_ID>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>03/14/2019 11:36:19</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>03/14/2019 15:25:13</UpdatorDate>
+         <DateOfInfo>03/14/2019 00:00:00</DateOfInfo>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <PropertyTypeCode>610</PropertyTypeCode>
+         <PropertyValue>222</PropertyValue>
+         <Value>222</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>1878</Property_ID>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

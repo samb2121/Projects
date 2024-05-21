@@ -1,0 +1,18 @@
+Tu run webUI locally on Mac:
+
+
+- Run: ./start_macos.sh
+
+- in the session tab select openai and api 
+
+- select apply flags / extensions and restart 
+
+- in the terminal window you will now get the URL to the web UI and a URL for your api which by default should be 127.0.0.1:5000
+
+- go to the updated webUI link (not the 5000 one) and load some model, in the terminal window you should see confirmation that the model loaded correctly 
+
+- to run the web interface, go to the WebAPP directory and run python app.py, you have to have everything else set up ( like the web UI text generation api stuff etc from the instructions above) 
+
+- you should have 2 terminals, 1 with the webUI, and one with the frontend web app. 
+
+- type in any information in the boxes, and you should see confirmation in the terminal that has the webUI server running, and in the terminal with the frontened you should see some output as well

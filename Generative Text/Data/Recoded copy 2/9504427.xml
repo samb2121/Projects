@@ -1,0 +1,78 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>09/21/2023 11:53:00</ReportDate>
+   <StartDate>09/21/2023 10:28:00</StartDate>
+   <Summary>Store employee reported a theft that occurred inside store.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>THS</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>Dollar General</IncAddrComment>
+      <AddressId>671698</AddressId>
+      <Address>
+         <AddressId>671698</AddressId>
+         <StreetNumber>101</StreetNumber>
+         <StreetName>Sandstone</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Walkersville</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21793</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.342082</Longitude>
+         <Latitude>39.485852</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>DOLLAR GENERAL</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Conklin</LastName>
+            <FirstName>Gary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Devin</LastName>
+            <FirstName>Dane</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0521 23C</OffenseCode>
+         <PlaceCode>Commercial/Office Building</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0521 23C</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentBusiness>
+         <BusinessNumber>240017006</BusinessNumber>
+         <BusinessName>The Dollar General</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Several clothing items (UNK exact items) </Description>
+         <PropertyTypeCode>CLOTHING</PropertyTypeCode>
+         <PropertyValue>20</PropertyValue>
+         <Value>20</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>254692</Property_ID>
+         <PrimaryColor>GRY</PrimaryColor>
+         <SecondaryColor>WHI</SecondaryColor>
+         <Quantity>2</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

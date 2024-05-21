@@ -1,0 +1,132 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>02/10/2023 14:48:00</ReportDate>
+   <StartDate>02/10/2023 14:33:00</StartDate>
+   <Summary>Driving on suspended Lic. &amp; Priv.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>22 MM I695 WB, LUTHERVILLE TIMONIUM</IncAddrComment>
+      <AddressId>683802</AddressId>
+      <City>MDC564</City>
+      <Address>
+         <AddressId>683802</AddressId>
+         <StreetNumber>22</StreetNumber>
+         <StreetName>Mm I695 Wb Lutherville Timonium</StreetName>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.6757861333333</Longitude>
+         <Latitude>39.4038138</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bunger</LastName>
+            <FirstName>Gregory</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Twardowski</LastName>
+            <FirstName>Joseph</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Bukoski</LastName>
+            <FirstName>Conrad</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>3096</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <ArrestChargeCode>3096</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>19</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>343338</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>JACKSON</LastName>
+               <FirstName>BRIANA</FirstName>
+               <MiddleName>SHANEE</MiddleName>
+               <DOB>12/16/2003 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>JACKSON</LastName>
+               <FirstName>BRIANA</FirstName>
+               <MiddleName>SHANEE</MiddleName>
+               <DOB>12/16/2003 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>4120</StreetNumber>
+               <StreetName>ESSEX</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>PIKESVILLE</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21207</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.726955</Longitude>
+               <Latitude>39.352783</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>4505</StreetNumber>
+               <StreetName>Brightwater</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Owings Mills</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21117</Zip5>
+               <Zip4>4988</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.8073548</Longitude>
+               <Latitude>39.4001292</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>935</PhonePrefix>
+               <PhoneSuffix>1436</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>139408</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <StatusCode>16</StatusCode>
+         <VIN>1MEHM40186G618009</VIN>
+         <VehicleYear>2006</VehicleYear>
+         <VehicleMakeCode>MERCURY% AUTOMOBILES</VehicleMakeCode>
+         <VehicleModelCode>MONTEGO</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>DBL</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>7EX5027</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

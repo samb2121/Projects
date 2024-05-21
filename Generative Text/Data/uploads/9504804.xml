@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-020681</IncidentReportNum>
+   <AgencyCode>61</AgencyCode>
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>06/09/2023 15:15:00</ReportDate>
+   <ReportTime>06/09/2023 15:15:00</ReportTime>
+   <StartDate>06/09/2023 14:58:00</StartDate>
+   <StartTime>06/09/2023 14:58:00</StartTime>
+   <Summary>2 VEHICLE ACCIDENT</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>06/09/2023 15:15:54</CreatorDate>
+   <UpdatorId>MSP0392</UpdatorId>
+   <UpdatorDate>06/12/2023 12:47:23</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>697349</AddressId>
+      <CreatorId>MSP7363</CreatorId>
+      <CreatorDate>06/11/2023 19:27:41</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>06/11/2023 19:27:52</UpdatorDate>
+      <Address>
+         <AddressId>697349</AddressId>
+         <StreetDirCode>S</StreetDirCode>
+         <StreetName>301</StreetName>
+         <StreetTypeCode>HWY</StreetTypeCode>
+         <City>Brandywine</City>
+         <StateCode>MD</StateCode>
+         <Zip5>20613</Zip5>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>HWY</CrossStreetTypeCode>
+         <Longitude>-76.8723943</Longitude>
+         <Latitude>38.6877576</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/09/2023 15:15:53</SuppReportDate>
+      <SuppReportTime>06/09/2023 15:15:53</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>61</SuppAgencyCode>
+      <DsIcrDate>06/12/2023 12:47:23</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/09/2023 15:15:55</CreatorDate>
+      <UpdatorId>MSP0392</UpdatorId>
+      <UpdatorDate>06/12/2023 12:47:23</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>See completed ACRS in Delta.</NarrativeText>
+         <CreatorId>MSP7363</CreatorId>
+         <CreatorDate>06/11/2023 19:28:14</CreatorDate>
+         <UpdatorId>MSP7363</UpdatorId>
+         <UpdatorDate>06/11/2023 19:28:14</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>61</AgencyCode>
+            <ORINumber>MDMSP5600</ORINumber>
+            <LastName>Bowling</LastName>
+            <FirstName>Christopher</FirstName>
+            <InternalID>0392</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>61</AgencyCode>
+            <ORINumber>MDMSP5600</ORINumber>
+            <LastName>Manziano</LastName>
+            <FirstName>Nicole</FirstName>
+            <InternalID>7363</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

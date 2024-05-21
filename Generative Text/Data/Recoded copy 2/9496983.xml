@@ -1,0 +1,194 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>02/18/2023 13:45:00</ReportDate>
+   <StartDate>02/18/2023 13:24:00</StartDate>
+   <Summary>Check Welfare / Intoxicated Suspect / Public Intoxication</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Public Intoxication</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Welfare Check</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>684732</AddressId>
+      <City>MDC356</City>
+      <Address>
+         <AddressId>684732</AddressId>
+         <StreetNumber>2144</StreetNumber>
+         <StreetName>Didonato</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Chester</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21619</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.266955</Longitude>
+         <Latitude>38.973337</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Winiarski</LastName>
+            <FirstName>Corey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Passwaters</LastName>
+            <FirstName>Chase</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Curley</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Maranto</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Closed</OffenseStatusCode>
+         <OffenseCode>1 1661</OffenseCode>
+         <PlaceCode>Commercial/Office Building</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1661</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>45</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>362300</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>GOMEZ-RAMIREZ</LastName>
+               <FirstName>ROBERTO</FirstName>
+               <DOB>09/15/1977 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>GOMEZ-RAMIREZ</LastName>
+               <FirstName>ROBERTO</FirstName>
+               <DOB>09/15/1977 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>2115</StreetNumber>
+               <StreetName>Main</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Chester</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21619</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.268707</Longitude>
+               <Latitude>38.972071</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>300</StreetNumber>
+               <StreetName>Abruzzi</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Chester</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21619</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.265171</Longitude>
+               <Latitude>38.973217</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>739</PhonePrefix>
+               <PhoneSuffix>9567</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>58</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>369528</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Blick</LastName>
+               <FirstName>Barry</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>09/17/1964 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Blick</LastName>
+               <FirstName>Barry</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>09/17/1964 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>200</StreetNumber>
+               <StreetName>Sportsman Neck</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Queenstown</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.14982734696589</Longitude>
+               <Latitude>38.97864220621582</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>490</PhonePrefix>
+               <PhoneSuffix>3102</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Curley</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Maranto</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

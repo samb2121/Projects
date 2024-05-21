@@ -1,0 +1,227 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5100</ORINum>
+   <ReportDate>08/07/2023 13:00:00</ReportDate>
+   <StartDate>08/07/2023 13:00:00</StartDate>
+   <Summary>Two vehicles stolen.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>STV</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>US-50 / ADMIRAL DR</IncAddrComment>
+      <AddressId>703210</AddressId>
+      <Address>
+         <AddressId>703210</AddressId>
+         <StreetName>WB US-50 AT ADMIRAL DRIVE</StreetName>
+         <City>Annapolis</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21401</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.5263585</Longitude>
+         <Latitude>38.9894412</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>O'Connor</LastName>
+            <FirstName>Michael</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Appiah</LastName>
+            <FirstName>Felix</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Alvarado</LastName>
+            <FirstName>Alexander</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>2 0480</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 0480</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>38</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>384531</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>WEATHERS</LastName>
+               <FirstName>DANIEL</FirstName>
+               <MiddleName>LEE</MiddleName>
+               <DOB>11/23/1984 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>WEATHERS</LastName>
+               <FirstName>DANIEL</FirstName>
+               <MiddleName>LEE</MiddleName>
+               <DOB>11/23/1984 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetName>Toone</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.56895000000007</Longitude>
+               <Latitude>39.278410038469225</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>467</PhonePrefix>
+               <PhoneSuffix>1171</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>39</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>384782</PersonId>
+            <RaceCode>Hispanic</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>SALGADO CASTRO</LastName>
+               <FirstName>RIGOBERTO</FirstName>
+               <DOB>02/24/1984 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>SALGADO CASTRO</LastName>
+               <FirstName>RIGOBERTO</FirstName>
+               <DOB>02/24/1984 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetName>3912 WOODLEA AVE</StreetName>
+               <City>Baltimore</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21206</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240019990</BusinessNumber>
+         <BusinessName>MANOLIS PAINTING CO INC</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>76066</AddressId>
+            <StreetNumber>539</StreetNumber>
+            <StreetDirCode>N</StreetDirCode>
+            <StreetName>Dean</StreetName>
+            <StreetTypeCode>Street</StreetTypeCode>
+            <City>Baltimore</City>
+            <StateCode>Maryland</StateCode>
+            <Zip5>21205</Zip5>
+            <CountryCode>United States of America</CountryCode>
+            <Longitude>-76.56667</Longitude>
+            <Latitude>39.297852</Latitude>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>155878</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>5</StatusCode>
+         <VIN>1NKDL69X9RJ627099</VIN>
+         <VehicleYear>1994</VehicleYear>
+         <VehicleMakeCode>KENWORTH MOTOR TRUCK CO.DIV. OF PACCAR, INC. ALSO INCLUDESKENWORTH GLIDER.</VehicleMakeCode>
+         <VehicleModelCode>TRUCK</VehicleModelCode>
+         <VehicleStyleCode>DS</VehicleStyleCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehSecColorCode>WHI</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>770F02</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>4</VehicleLicMonth>
+         <VehicleLicTypeCode>CO</VehicleLicTypeCode>
+         <VehicleValue>50000</VehicleValue>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>155880</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>5</StatusCode>
+         <VIN>1T9BD35B1B1204172</VIN>
+         <VehicleYear>2011</VehicleYear>
+         <VehicleMakeCode>TRAILER CORPORATION OF AMERICA; EASLEY, SOUTH CAROLINA</VehicleMakeCode>
+         <VehicleStyleCode>VA</VehicleStyleCode>
+         <VehicleTypeCode>Construction</VehicleTypeCode>
+         <VehPriColorCode>BLU</VehPriColorCode>
+         <VehSecColorCode>BLU</VehSecColorCode>
+         <VehicleLicStateCode>ME</VehicleLicStateCode>
+         <VehicleLicNumber>61-288</VehicleLicNumber>
+         <VehicleLicYear>2025</VehicleLicYear>
+         <VehicleLicMonth>2</VehicleLicMonth>
+         <VehicleLicTypeCode>CO</VehicleLicTypeCode>
+         <VehicleValue>100000</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Appiah</LastName>
+            <FirstName>Felix</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Alvarado</LastName>
+            <FirstName>Alexander</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Appiah</LastName>
+            <FirstName>Felix</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Alvarado</LastName>
+            <FirstName>Alexander</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

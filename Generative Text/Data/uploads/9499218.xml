@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-019869</IncidentReportNum>
+   <AgencyCode>58</AgencyCode>
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>06/03/2023 12:34:00</ReportDate>
+   <ReportTime>06/03/2023 12:34:00</ReportTime>
+   <StartDate>06/03/2023 12:21:00</StartDate>
+   <StartTime>06/03/2023 12:21:00</StartTime>
+   <Summary>2 veh accident completed in Delta.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>06/03/2023 12:34:10</CreatorDate>
+   <UpdatorId>MSP5204</UpdatorId>
+   <UpdatorDate>06/20/2023 01:42:51</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>QUEEN ANNE HWY/ OCEAN GTWY</IncAddrComment>
+      <AddressId>695445</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/03/2023 12:34:12</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>06/11/2023 12:49:01</UpdatorDate>
+      <Address>
+         <AddressId>695445</AddressId>
+         <StreetName>Queen Anne</StreetName>
+         <StreetTypeCode>HWY</StreetTypeCode>
+         <City>Wye Mills</City>
+         <StateCode>MD</StateCode>
+         <Zip5>21657</Zip5>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>GTWY</CrossStreetTypeCode>
+         <Longitude>-76.062446</Longitude>
+         <Latitude>38.939309</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/03/2023 12:34:08</SuppReportDate>
+      <SuppReportTime>06/03/2023 12:34:08</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>58</SuppAgencyCode>
+      <DsIcrDate>06/20/2023 01:42:51</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/03/2023 12:34:10</CreatorDate>
+      <UpdatorId>MSP5204</UpdatorId>
+      <UpdatorDate>06/20/2023 01:42:51</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>ACRS COMPLETED IN DELTA.&amp;nbsp;</NarrativeText>
+         <CreatorId>MSP7204</CreatorId>
+         <CreatorDate>06/11/2023 12:49:14</CreatorDate>
+         <UpdatorId>MSP7204</UpdatorId>
+         <UpdatorDate>06/11/2023 12:49:14</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>58</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Repa</LastName>
+            <FirstName>Alexander</FirstName>
+            <InternalID>7124</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>58</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Bringman</LastName>
+            <FirstName>William</FirstName>
+            <InternalID>5204</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>58</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Johnston</LastName>
+            <FirstName>Tyler</FirstName>
+            <InternalID>7204</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

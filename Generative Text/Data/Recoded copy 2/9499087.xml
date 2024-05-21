@@ -1,0 +1,129 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4800</ORINum>
+   <ReportDate>06/02/2023 10:51:00</ReportDate>
+   <StartDate>06/02/2023 10:20:00</StartDate>
+   <Summary>Trespass</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Criminal Trespass</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>1726</AddressId>
+      <SubBeat>963</SubBeat>
+      <Address>
+         <AddressId>1726</AddressId>
+         <StreetNumber>10218</StreetNumber>
+         <StreetName>RACETRACK</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>BERLIN</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>963</SubBeat>
+         <Longitude>-75.16829030885111</Longitude>
+         <Latitude>38.350163231624386</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>OCEAN DOWNS CASINO</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>RACETRACK IN THE AREA OCEAN DOWNS CASINO</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Brader</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Shockley</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Brader</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Brader</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>2 2220</OffenseCode>
+         <PlaceCode>Gambling Facility/Casino/Race Track</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 2220</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>43</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>379234</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Wells</LastName>
+               <FirstName>Keith</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>11/30/1979 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Wells</LastName>
+               <FirstName>Keith</FirstName>
+               <MiddleName>Allen</MiddleName>
+               <DOB>11/30/1979 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>414 </StreetNumber>
+               <StreetDirCode>S</StreetDirCode>
+               <StreetName>Church </StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Snow Hill</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21863</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.390138</Longitude>
+               <Latitude>38.167459</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>859</PhonePrefix>
+               <PhoneSuffix>4883</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

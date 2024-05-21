@@ -1,0 +1,274 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2100</ORINum>
+   <ReportDate>01/24/2023 17:49:00</ReportDate>
+   <StartDate>01/24/2023 16:55:00</StartDate>
+   <Summary>Complaint of a second-degree assault.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>135261</AddressId>
+      <City>MDC136</City>
+      <Address>
+         <AddressId>135261</AddressId>
+         <StreetNumber>345</StreetNumber>
+         <StreetName>NATIONAL</StreetName>
+         <StreetTypeCode>Highway</StreetTypeCode>
+         <SubTypeCode>APT</SubTypeCode>
+         <SubNumber>9</SubNumber>
+         <City>CUMBERLAND</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-78.80382901071083</Longitude>
+         <Latitude>39.66246893412907</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Wilson</LastName>
+            <FirstName>Ersel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Diehl</LastName>
+            <FirstName>Dwight</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>McCue</LastName>
+            <FirstName>Hunter</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <Person>
+            <PersonId>367105</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Kennard</LastName>
+               <FirstName>Jesse</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>10/10/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Kennard</LastName>
+               <FirstName>Jesse</FirstName>
+               <MiddleName>Lee</MiddleName>
+               <DOB>10/10/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>345</StreetNumber>
+               <StreetName>National</StreetName>
+               <StreetTypeCode>Highway</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>7</SubNumber>
+               <City>Cumberland</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.80382901071083</Longitude>
+               <Latitude>39.66246893412907</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>410</PhonePrefix>
+               <PhoneSuffix>9699</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>62</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>367106</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Fauley JR</LastName>
+               <FirstName>Robert</FirstName>
+               <DOB>07/05/1960 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Fauley JR</LastName>
+               <FirstName>Robert</FirstName>
+               <DOB>07/05/1960 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>345</StreetNumber>
+               <StreetName>NATIONAL</StreetName>
+               <StreetTypeCode>Highway</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>9</SubNumber>
+               <City>CUMBERLAND</City>
+               <StateCode>Maryland</StateCode>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.80382901071083</Longitude>
+               <Latitude>39.66246893412907</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>920</PhonePrefix>
+               <PhoneSuffix>1802</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <Person>
+            <PersonId>220942</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Cecil</LastName>
+               <FirstName>Travis</FirstName>
+               <MiddleName>Edward</MiddleName>
+               <DOB>06/25/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Cecil</LastName>
+               <FirstName>Travis</FirstName>
+               <MiddleName>Edward</MiddleName>
+               <DOB>06/25/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>345</StreetNumber>
+               <StreetName>National</StreetName>
+               <StreetTypeCode>Highway</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>7</SubNumber>
+               <City>La Vale</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21502</Zip5>
+               <Zip4>7142</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-78.8040836</Longitude>
+               <Latitude>39.6627159</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>727</PhonePrefix>
+               <PhoneSuffix>8054</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>54</ApproxAge>
+         <Person>
+            <PersonId>367110</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Roby</LastName>
+               <FirstName>Linda</FirstName>
+               <MiddleName>Sue</MiddleName>
+               <DOB>08/22/1968 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Roby</LastName>
+               <FirstName>Linda</FirstName>
+               <MiddleName>Sue</MiddleName>
+               <DOB>08/22/1968 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>612</StreetNumber>
+               <StreetName>Broadway</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>MEYERSDALE</City>
+               <StateCode>Pennsylvania</StateCode>
+               <Zip5>15552</Zip5>
+               <CountryCode>United States of America</CountryCode>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Divelbiss</LastName>
+            <FirstName>James</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>McCue</LastName>
+            <FirstName>Hunter</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Diehl</LastName>
+            <FirstName>Dwight</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>McCue</LastName>
+            <FirstName>Hunter</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Inactive</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+   </IncidentSupplement>
+</Incident>

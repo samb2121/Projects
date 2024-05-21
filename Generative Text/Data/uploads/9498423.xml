@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-025579</IncidentReportNum>
+   <AgencyCode>53</AgencyCode>
+   <ORINum>MDMSP3000</ORINum>
+   <ReportDate>07/17/2023 18:28:00</ReportDate>
+   <ReportTime>07/17/2023 18:28:00</ReportTime>
+   <StartDate>07/17/2023 18:15:00</StartDate>
+   <StartTime>07/17/2023 18:15:00</StartTime>
+   <Summary>Cardiac arrest/Overdose</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>07/17/2023 18:28:10</CreatorDate>
+   <UpdatorId>MSP5948</UpdatorId>
+   <UpdatorDate>07/17/2023 22:41:10</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>OVD</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>691917</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>07/17/2023 18:28:10</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>07/17/2023 20:02:52</UpdatorDate>
+      <Address>
+         <AddressId>691917</AddressId>
+         <StreetNumber>1510</StreetNumber>
+         <StreetName>Bel Air</StreetName>
+         <StreetTypeCode>RD</StreetTypeCode>
+         <City>Fallston</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-76.38199</Longitude>
+         <Latitude>39.50431</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>07/17/2023 18:28:06</SuppReportDate>
+      <SuppReportTime>07/17/2023 18:28:06</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>53</SuppAgencyCode>
+      <DsIcrDate>07/17/2023 22:41:09</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>07/17/2023 18:28:10</CreatorDate>
+      <UpdatorId>MSP5948</UpdatorId>
+      <UpdatorDate>07/17/2023 22:41:10</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>On 7/17/2023 at approximately 1815 hours, I, Trooper Neal #7283 responded to Jones Junction (Jeep) for a cardiac arrest in progress. The call was dispatched county wide via EOC tones. Myself and S/Tpr Bracken arrived on scene and were met by Jones employees at the entrance. The employees led us to the back of the dealership where we observed a white male on the floor. The subject was barely breathing and had blood around his head and face. The subject had constricted pupils and his face was a purplish hue.&amp;nbsp;&lt;br /&gt; &lt;br /&gt; I retrieved my Narcan from my right breast pocket and gave it to S/Tpr Bracken who administered it. Little change occurred, and I ran back out to my cruiser to retrieve my second dose while S/Tpr Bracken administered life-saving techniques. I responded back inside the dealership where Fire Board and EMS began to assist.&amp;nbsp; EMS requested a second dose of Narcan, which I had on person. They administered my second dose of Narcan to the subject.&amp;nbsp;&lt;br /&gt; &lt;br /&gt; EMS disposed of used Narcan cartridges.&lt;br /&gt; &lt;br /&gt; EMS then transported the subject to Joppa for Aviation assistance.&lt;br /&gt; &lt;br /&gt; All events occurred in Harford County, MD.</NarrativeText>
+         <CreatorId>MSP7283</CreatorId>
+         <CreatorDate>07/17/2023 20:04:47</CreatorDate>
+         <UpdatorId>MSP7283</UpdatorId>
+         <UpdatorDate>07/17/2023 22:40:12</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>53</AgencyCode>
+            <ORINumber>MDMSP3000</ORINumber>
+            <LastName>Bracken</LastName>
+            <FirstName>Charles</FirstName>
+            <InternalID>5967</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>53</AgencyCode>
+            <ORINumber>MDMSP3000</ORINumber>
+            <LastName>Atkinson</LastName>
+            <FirstName>Matthew</FirstName>
+            <InternalID>5623</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>53</AgencyCode>
+            <ORINumber>MDMSP3000</ORINumber>
+            <LastName>Sander</LastName>
+            <FirstName>Scott</FirstName>
+            <InternalID>5948</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>53</AgencyCode>
+            <ORINumber>MDMSP3000</ORINumber>
+            <LastName>Neal</LastName>
+            <FirstName>Emily</FirstName>
+            <InternalID>7283</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

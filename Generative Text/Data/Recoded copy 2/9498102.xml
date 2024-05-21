@@ -1,0 +1,104 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3500</ORINum>
+   <ReportDate>02/20/2023 10:07:00</ReportDate>
+   <StartDate>02/17/2023 15:00:00</StartDate>
+   <EndDate>02/20/2023 06:30:00</EndDate>
+   <Summary>theft</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>684916</AddressId>
+      <City>MDC583</City>
+      <Address>
+         <AddressId>684916</AddressId>
+         <StreetNumber>69.4</StreetNumber>
+         <StreetName>Mm I95 Nb</StreetName>
+         <City>White Marsh</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.420055</Longitude>
+         <Latitude>39.405404</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Martinez</LastName>
+            <FirstName>Saul</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Payne</LastName>
+            <FirstName>Taejuan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>46</ApproxAge>
+         <Person>
+            <PersonId>370310</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Demski</LastName>
+               <FirstName>Christopher</FirstName>
+               <MiddleName>Douglas</MiddleName>
+               <DOB>03/04/1976 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Demski</LastName>
+               <FirstName>Christopher</FirstName>
+               <MiddleName>Douglas</MiddleName>
+               <DOB>03/04/1976 00:00:00</DOB>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240009817</BusinessNumber>
+         <BusinessName>Allan Myers</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         <BusinessAddress>
+            <AddressId>9932</AddressId>
+            <StreetNumber>2011</StreetNumber>
+            <StreetName>Belair</StreetName>
+            <StreetTypeCode>Road</StreetTypeCode>
+            <City>Fallston</City>
+            <StateCode>Maryland</StateCode>
+            <Zip5>21047</Zip5>
+            <CountryCode>United States of America</CountryCode>
+            <Longitude>-76.388125</Longitude>
+            <Latitude>39.495026</Latitude>
+            <BusinessPhone>
+               <PhoneTypeCode>Business</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>877</PhonePrefix>
+               <PhoneSuffix>8156</PhoneSuffix>
+               </BusinessPhone>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>150394</VEHICLE_ID>
+         <RoleCode>VI</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>5A3C714D53L004017</VIN>
+         <VehicleYear>2003</VehicleYear>
+         <VehicleMakeCode>CAR MATE TRAILERS%LEEPER PENNSYLVANIA</VehicleMakeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehicleLicStateCode>PA</VehicleLicStateCode>
+         <VehicleLicNumber>XY28714</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>2</VehicleLicMonth>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

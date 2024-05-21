@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2022D4210398</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>03/23/2022 13:29:00</ReportDate>
+   <ReportTime>03/23/2022 13:29:00</ReportTime>
+   <StartDate>03/23/2022 13:29:00</StartDate>
+   <StartTime>03/23/2022 13:29:00</StartTime>
+   <Summary>test</Summary>
+   <InternalIncident>Y</InternalIncident>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>06/23/2022 11:51:17</CreatorDate>
+   <UpdatorId>STATE_OFFICER11</UpdatorId>
+   <UpdatorDate>02/27/2023 11:57:32</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>B/B</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>1752</AddressId>
+      <City>1</City>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>06/23/2022 11:51:20</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>06/23/2022 11:51:20</UpdatorDate>
+      <Address>
+         <AddressId>1752</AddressId>
+         <StreetNumber>4</StreetNumber>
+         <StateCode>DE</StateCode>
+         <Zip5>11111</Zip5>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/23/2022 11:51:17</SuppReportDate>
+      <SuppReportTime>06/23/2022 11:51:17</SuppReportTime>
+      <AgencyOnly>Y</AgencyOnly>
+      <SecurityLevel>1500</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>02/27/2023 11:57:43</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>06/23/2022 11:51:17</CreatorDate>
+      <UpdatorId>STATE_OFFICER11</UpdatorId>
+      <UpdatorDate>02/27/2023 11:57:43</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Original Narrative</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/23/2022 11:51:24</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>08/25/2022 13:23:33</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Simpson</LastName>
+            <FirstName>Homer</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Simpson</LastName>
+            <FirstName>Homer</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>3402</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-2-1  B02</OffenseCode>
+         <PlaceCode>25</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>03/23/2022 13:29:00</OffenseStatusDate>
+         <ForcedEntryCode>N</ForcedEntryCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/23/2022 11:51:23</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>06/23/2022 11:51:23</UpdatorDate>
+      </IncidentOffense>
+      <IncidentOffense>
+         <IncidentId>3402</IncidentId>
+         <OffenseNumber>2</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-2-2  C01</OffenseCode>
+         <PlaceCode>09</PlaceCode>
+         <BiasCode>41</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>2</UCRNumber>
+         <OffenseStatusDate>03/23/2022 13:29:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>07/11/2022 12:03:31</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>07/11/2022 12:03:31</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>62</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/23/2022 11:51:19</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:25</UpdatorDate>
+         <Person>
+            <PersonId>84</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Burns</LastName>
+               <FirstName>Tom</FirstName>
+               <DOB>01/01/1960 00:00:00</DOB>
+               <DateOfInfo>04/03/2012 15:18:58</DateOfInfo>
+               <SLastName>B652</SLastName>
+               <SFirstName>T500</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <FirstName>test</FirstName>
+               <TitleCode>II</TitleCode>
+               <DateOfInfo>04/21/2017 00:00:00</DateOfInfo>
+               <SFirstName>T230</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Burns</LastName>
+               <FirstName>Tom</FirstName>
+               <DOB>01/01/1960 00:00:00</DOB>
+               <SLastName>B652</SLastName>
+               <SFirstName>T500</SFirstName>
+               <DateOfInfo>04/03/2012 15:18:58</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>N</NameTypeCode>
+               <FirstName>test</FirstName>
+               <TitleCode>II</TitleCode>
+               <SFirstName>T230</SFirstName>
+               <DateOfInfo>04/21/2017 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetNumber>123</StreetNumber>
+               <StreetDirCode>E</StreetDirCode>
+               <StreetName>Main</StreetName>
+               <StreetTypeCode>ST</StreetTypeCode>
+               <City>Peru</City>
+               <StateCode>IN</StateCode>
+               <Zip5>46970</Zip5>
+               <CountryCode>US</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-86.065924</Longitude>
+               <Latitude>40.755107</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>D/F</PhoneTypeCode>
+               <PhoneArea>212</PhoneArea>
+               <PhonePrefix>212</PhonePrefix>
+               <PhoneSuffix>2122</PhoneSuffix>
+               <DateOfInfo>04/24/2017 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>08/25/2022 13:23:03</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:25</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>45</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>06/23/2022 11:51:20</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:25</UpdatorDate>
+         <Person>
+            <PersonId>420</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Boes</LastName>
+               <FirstName>Donald</FirstName>
+               <MiddleName>Christopher</MiddleName>
+               <DOB>07/14/1976 00:00:00</DOB>
+               <DateOfInfo>03/20/2013 11:35:47</DateOfInfo>
+               <SLastName>B200</SLastName>
+               <SFirstName>D543</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Boes</LastName>
+               <FirstName>Donald</FirstName>
+               <MiddleName>Christopher</MiddleName>
+               <DOB>07/14/1976 00:00:00</DOB>
+               <SLastName>B200</SLastName>
+               <SFirstName>D543</SFirstName>
+               <DateOfInfo>03/20/2013 11:35:47</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>06/23/2022 11:51:20</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>71</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>08/25/2022 13:22:43</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:25</UpdatorDate>
+         <Person>
+            <PersonId>1107</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>ADAMS</LastName>
+               <FirstName>BERNIE</FirstName>
+               <DOB>09/07/1950 00:00:00</DOB>
+               <SSN>2.22222222E8</SSN>
+               <DateOfInfo>03/05/2021 17:00:28</DateOfInfo>
+               <SLastName>A352</SLastName>
+               <SFirstName>B650</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>ADAMS</LastName>
+               <FirstName>BERNIE</FirstName>
+               <DOB>09/07/1950 00:00:00</DOB>
+               <SSN>2.22222222E8</SSN>
+               <SLastName>A352</SLastName>
+               <SFirstName>B650</SFirstName>
+               <DateOfInfo>03/05/2021 17:00:28</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>08/25/2022 13:22:44</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:25</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>08/25/2022 13:23:11</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>08/25/2022 13:23:11</UpdatorDate>
+         <StatusCode>1</StatusCode>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+      </IncidentProperty>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>1</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>08/25/2022 13:28:29</SuppReportDate>
+      <SuppReportTime>08/25/2022 13:28:29</SuppReportTime>
+      <AgencyOnly>Y</AgencyOnly>
+      <SecurityLevel>1500</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>02/27/2023 11:57:43</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>08/25/2022 13:28:29</CreatorDate>
+      <UpdatorId>STATE_OFFICER11</UpdatorId>
+      <UpdatorDate>02/27/2023 11:57:43</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement #1 Narrative</NarrativeTitle>
+         <NarrativeText>Supplement #1 Narrative&lt;br /&gt; thiss is a teest&amp;nbsp;</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>08/25/2022 13:28:45</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>08/26/2022 12:43:24</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Simpson</LastName>
+            <FirstName>Homer</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>G</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Elmore</LastName>
+            <FirstName>Phil</FirstName>
+            <InternalID>123</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Simpson</LastName>
+            <FirstName>Homer</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Smith</LastName>
+            <FirstName>Charles</FirstName>
+            <InternalID>2014</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>62</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>02/27/2023 11:52:55</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:25</UpdatorDate>
+         <Person>
+            <PersonId>50</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>F</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Martin</LastName>
+               <FirstName>Sue</FirstName>
+               <DOB>01/01/1960 00:00:00</DOB>
+               <DateOfInfo>03/19/2012 10:30:43</DateOfInfo>
+               <SLastName>M635</SLastName>
+               <SFirstName>S000</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Martin</LastName>
+               <FirstName>Sue</FirstName>
+               <DOB>01/01/1960 00:00:00</DOB>
+               <SLastName>M635</SLastName>
+               <SFirstName>S000</SFirstName>
+               <DateOfInfo>03/19/2012 10:30:43</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>02/27/2023 11:52:56</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>02/27/2023 11:53:47</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:25</UpdatorDate>
+         <Person>
+            <PersonId>262</PersonId>
+            <RaceCode>U</RaceCode>
+            <SexCode>U</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>RANARD</LastName>
+               <FirstName>MARC</FirstName>
+               <MiddleName>A</MiddleName>
+               <DateOfInfo>06/06/2012 14:50:40</DateOfInfo>
+               <SLastName>R563</SLastName>
+               <SFirstName>M620</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>RANARD</LastName>
+               <FirstName>MARC</FirstName>
+               <MiddleName>A</MiddleName>
+               <SLastName>R563</SLastName>
+               <SFirstName>M620</SFirstName>
+               <DateOfInfo>06/06/2012 14:50:40</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetName>RR1BOX40</StreetName>
+               <City>BLOOMFIELD</City>
+               <StateCode>IN</StateCode>
+               <Zip5>47424</Zip5>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>02/27/2023 11:54:23</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:25</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>52</ApproxAge>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>02/27/2023 11:55:06</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:25</UpdatorDate>
+         <Person>
+            <PersonId>925</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>NASE</LastName>
+               <FirstName>MICHAEL</FirstName>
+               <DOB>06/07/1969 00:00:00</DOB>
+               <DateOfInfo>11/08/2017 11:16:38</DateOfInfo>
+               <SLastName>N200</SLastName>
+               <SFirstName>M240</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>NASE</LastName>
+               <FirstName>MICHAEL</FirstName>
+               <DOB>06/07/1969 00:00:00</DOB>
+               <SLastName>N200</SLastName>
+               <SFirstName>M240</SFirstName>
+               <DateOfInfo>11/08/2017 11:16:38</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>02/27/2023 11:55:06</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:25</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2019D4210227</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>04/03/2019 16:14:00</ReportDate>
+   <ReportTime>04/03/2019 16:14:00</ReportTime>
+   <StartDate>04/03/2019 16:14:00</StartDate>
+   <StartTime>04/03/2019 16:14:00</StartTime>
+   <Summary>11.0 Test</Summary>
+   <CreatorId>JMS_USER</CreatorId>
+   <CreatorDate>04/03/2019 16:14:01</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:43</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>B/B</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>1690</AddressId>
+      <City>1</City>
+      <CreatorId>JMS_USER</CreatorId>
+      <CreatorDate>04/03/2019 16:15:01</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>04/03/2019 16:15:14</UpdatorDate>
+      <Address>
+         <AddressId>1690</AddressId>
+         <StreetNumber>123</StreetNumber>
+         <StreetName>Cherry</StreetName>
+         <StreetTypeCode>LN</StreetTypeCode>
+         <City>Golden</City>
+         <StateCode>IN</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-82.544051</Longitude>
+         <Latitude>37.483456</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>04/03/2019 16:14:02</SuppReportDate>
+      <SuppReportTime>04/03/2019 16:14:02</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>400</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>Y</UnknownNoOffenders>
+      <DsIcrDate>08/29/2019 13:03:23</DsIcrDate>
+      <DsIcrSubmissionStatus>SENT WAITING FOR RESPONSE</DsIcrSubmissionStatus>
+      <CreatorId>JMS_USER</CreatorId>
+      <CreatorDate>04/03/2019 16:14:02</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:29</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>test</NarrativeText>
+         <CreatorId>JMS_USER</CreatorId>
+         <CreatorDate>04/03/2019 16:17:35</CreatorDate>
+         <UpdatorId>JMS_USER</UpdatorId>
+         <UpdatorDate>04/03/2019 16:18:40</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Wright</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>USER</LastName>
+            <FirstName>JMS</FirstName>
+            <InternalID>12345</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>3216</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-43-2-1  B01</OffenseCode>
+         <PlaceCode>01</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>04/03/2019 16:14:00</OffenseStatusDate>
+         <ForcedEntryCode>N</ForcedEntryCode>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <CreatorId>JMS_USER</CreatorId>
+         <CreatorDate>04/03/2019 16:15:50</CreatorDate>
+         <UpdatorId>JMS_USER</UpdatorId>
+         <UpdatorDate>04/03/2019 16:15:50</UpdatorDate>
+      </IncidentOffense>
+      <IncidentBusiness>
+         <BusinessNumber>240000067</BusinessNumber>
+         <BusinessName>All Blacks Rugby</BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>JMS_USER</CreatorId>
+         <CreatorDate>04/03/2019 16:16:28</CreatorDate>
+         <UpdatorId>JMS_USER</UpdatorId>
+         <UpdatorDate>04/03/2019 16:16:28</UpdatorDate>
+         <BusinessAddress>
+            <AddressId>531</AddressId>
+            <StreetNumber>1000</StreetNumber>
+            <StreetName>Pearl</StreetName>
+            <StreetTypeCode>ST</StreetTypeCode>
+            <City>Miles City</City>
+            <StateCode>MT</StateCode>
+            <Zip5>59301</Zip5>
+            <CountryCode>US</CountryCode>
+            <Longitude>-105.843402</Longitude>
+            <Latitude>46.405329</Latitude>
+            <Beat>Test</Beat>
+            <SubBeat>Area</SubBeat>
+            <AddressCommonName>
+               <CommonPlaceName>Dead strip</CommonPlaceName>
+            </AddressCommonName>
+            <BusinessPhone>
+               <PhoneTypeCode>BUS</PhoneTypeCode>
+               <PhoneArea>406</PhoneArea>
+               <PhonePrefix>789</PhonePrefix>
+               <PhoneSuffix>8954</PhoneSuffix>
+               <DateOfInfo>11/20/2015 00:00:00</DateOfInfo>
+            </BusinessPhone>
+         </BusinessAddress>
+         <BusinessAddress>
+            <AddressId>1172</AddressId>
+            <StreetNumber>2924</StreetNumber>
+            <StreetDirCode>E</StreetDirCode>
+            <StreetName>1250</StreetName>
+            <StreetSuffixCode>S</StreetSuffixCode>
+            <SubTypeCode>BLDG</SubTypeCode>
+            <SubNumber>99</SubNumber>
+            <City>Battle Ground</City>
+            <StateCode>IN</StateCode>
+            <Zip5>47920</Zip5>
+            <CountryCode>US</CountryCode>
+            <CountyCode>NaN</CountyCode>
+            <Longitude>-86.813061</Longitude>
+            <Latitude>40.569043</Latitude>
+            <AddressCommonName>
+               <CommonPlaceName>Dead strip</CommonPlaceName>
+            </AddressCommonName>
+            <AddressCommonName>
+               <CommonPlaceName>ANG TEST</CommonPlaceName>
+            </AddressCommonName>
+            <AddressCommonName>
+               <CommonPlaceName>District 42 test</CommonPlaceName>
+            </AddressCommonName>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentProperty>
+         <RoleCode>1</RoleCode>
+         <CreatorId>JMS_USER</CreatorId>
+         <CreatorDate>04/03/2019 16:17:19</CreatorDate>
+         <UpdatorId>JMS_USER</UpdatorId>
+         <UpdatorDate>04/03/2019 16:17:19</UpdatorDate>
+         <DateOfInfo>04/03/2019 00:00:00</DateOfInfo>
+         <StatusCode>1</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>470</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <SerialNumber>11111</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>1904</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

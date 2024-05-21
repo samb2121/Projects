@@ -1,0 +1,107 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>24-MSP-001650</IncidentReportNum>
+   <AgencyCode>54</AgencyCode>
+   <ORINum>MDMSP4100</ORINum>
+   <ReportDate>01/15/2024 12:43:00</ReportDate>
+   <ReportTime>01/15/2024 12:43:00</ReportTime>
+   <StartDate>01/15/2024 12:33:00</StartDate>
+   <StartTime>01/15/2024 12:33:00</StartTime>
+   <Summary>ACCIDENT</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>01/15/2024 12:43:55</CreatorDate>
+   <UpdatorId>MSP5734</UpdatorId>
+   <UpdatorDate>01/15/2024 14:08:14</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>OCEAN GTWY/BENT PINE RD, WILLARDS</IncAddrComment>
+      <AddressId>718868</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>01/15/2024 12:43:59</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>01/15/2024 13:32:41</UpdatorDate>
+      <Address>
+         <AddressId>718868</AddressId>
+         <StreetName>Ocean</StreetName>
+         <StreetTypeCode>GTWY</StreetTypeCode>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-75.341749</Longitude>
+         <Latitude>38.384922</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>01/15/2024 12:43:52</SuppReportDate>
+      <SuppReportTime>01/15/2024 12:43:52</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>54</SuppAgencyCode>
+      <DsIcrDate>01/15/2024 14:08:13</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>01/15/2024 12:43:55</CreatorDate>
+      <UpdatorId>MSP5734</UpdatorId>
+      <UpdatorDate>01/15/2024 14:08:14</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Accident report completed on Delta Plus.</NarrativeText>
+         <CreatorId>MSP5149</CreatorId>
+         <CreatorDate>01/15/2024 13:33:24</CreatorDate>
+         <UpdatorId>MSP5149</UpdatorId>
+         <UpdatorDate>01/15/2024 13:33:24</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>A</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>54</AgencyCode>
+            <ORINumber>MDMSP4100</ORINumber>
+            <LastName>Nastvogel</LastName>
+            <FirstName>Ravi</FirstName>
+            <InternalID>5938</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>54</AgencyCode>
+            <ORINumber>MDMSP4100</ORINumber>
+            <LastName>Bowie</LastName>
+            <FirstName>Michael</FirstName>
+            <InternalID>5734</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>54</AgencyCode>
+            <ORINumber>MDMSP4100</ORINumber>
+            <LastName>Chatham</LastName>
+            <FirstName>Matthew</FirstName>
+            <InternalID>5149</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentVehicle>
+         <VEHICLE_ID>160732</VEHICLE_ID>
+         <RoleCode>OT</RoleCode>
+         <CreatorId>MSP</CreatorId>
+         <CreatorDate>01/15/2024 12:44:00</CreatorDate>
+         <UpdatorId>MSP</UpdatorId>
+         <UpdatorDate>01/15/2024 12:44:00</UpdatorDate>
+         <DateOfInfo>01/15/2024 12:43:06</DateOfInfo>
+         <StatusCode>8</StatusCode>
+         <VIN>ZACCJBAB4JPH27420</VIN>
+         <VehicleYear>2018</VehicleYear>
+         <VehicleMakeCode>JEEP</VehicleMakeCode>
+         <VehicleModelCode>RENEGADE</VehicleModelCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>5AZ4545</VehicleLicNumber>
+         <VehicleLicYear>2025</VehicleLicYear>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

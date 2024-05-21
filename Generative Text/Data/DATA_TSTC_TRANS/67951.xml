@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2017D4210068</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>04/17/2017 13:19:00</ReportDate>
+   <ReportTime>04/17/2017 13:19:00</ReportTime>
+   <StartDate>04/17/2017 13:19:00</StartDate>
+   <StartTime>04/01/2017 13:19:00</StartTime>
+   <Summary>Testing crime summary sdf update</Summary>
+   <CreatorId>OFFICER_DMM</CreatorId>
+   <CreatorDate>04/17/2017 13:10:49</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:38</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>B/V</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>CAB</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>Asdf</IncAddrComment>
+      <AddressId>86</AddressId>
+      <Beat>Test</Beat>
+      <SubBeat>Area</SubBeat>
+      <City>3</City>
+      <CreatorId>OFFICER_DMM</CreatorId>
+      <CreatorDate>04/17/2017 13:16:25</CreatorDate>
+      <UpdatorId>OFFICER_DMM</UpdatorId>
+      <UpdatorDate>04/19/2017 12:04:52</UpdatorDate>
+      <Address>
+         <AddressId>86</AddressId>
+         <StreetNumber>204</StreetNumber>
+         <StreetDirCode>E</StreetDirCode>
+         <StreetName>PERRY</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>VERSAILLES</City>
+         <StateCode>IN</StateCode>
+         <CountryCode>US</CountryCode>
+         <SubBeat>P69</SubBeat>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>1</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>04/19/2017 00:38:48</SuppReportDate>
+      <SuppReportTime>04/19/2017 00:38:48</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>05/09/2017 12:30:44</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>04/19/2017 00:38:48</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:27</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement#1 - Narrative</NarrativeTitle>
+         <NarrativeText>&amp;nbsp;asdfasdfadfadfasdf&lt;br&gt;&lt;br&gt;asdfadfad</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>04/19/2017 00:39:16</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>04/19/2017 00:39:16</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+   <IncidentSupplement>
+      <SupplementSequence>2</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>04/19/2017 12:02:14</SuppReportDate>
+      <SuppReportTime>04/19/2017 12:02:14</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1201</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>05/09/2017 12:30:44</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>OFFICER_DMM</CreatorId>
+      <CreatorDate>04/19/2017 12:02:14</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:27</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement#2 - Narrative</NarrativeTitle>
+         <NarrativeText>&amp;nbsp;asdfasdf</NarrativeText>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>05/03/2017 09:33:19</CreatorDate>
+         <UpdatorId>OFFICER_DMM</UpdatorId>
+         <UpdatorDate>05/03/2017 09:33:19</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>2</NarrativeNumber>
+         <NarrativeTitle>Supplement#2 - Narrative</NarrativeTitle>
+         <NarrativeText>&amp;nbsp;asdfasdf</NarrativeText>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>05/03/2017 09:59:15</CreatorDate>
+         <UpdatorId>OFFICER_DMM</UpdatorId>
+         <UpdatorDate>05/03/2017 10:04:12</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>3</NarrativeNumber>
+         <NarrativeTitle>Supplement#2 - Narrative</NarrativeTitle>
+         <NarrativeText>&amp;nbsp;zxvzv</NarrativeText>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>05/03/2017 10:04:50</CreatorDate>
+         <UpdatorId>OFFICER_DMM</UpdatorId>
+         <UpdatorDate>05/03/2017 10:04:50</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>McMillan</LastName>
+            <FirstName>Dana</FirstName>
+            <InternalID>DMM12345</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>McMillan</LastName>
+            <FirstName>Dana</FirstName>
+            <InternalID>DMM12345</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>X</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Ranz</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>2639</IncidentId>
+         <OffenseNumber>5</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>14-15-9-6</OffenseCode>
+         <PlaceCode>46</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>A</CSAUCode>
+         <SupplementSeq>2</SupplementSeq>
+         <UCRNumber>3</UCRNumber>
+         <OffenseStatusDate>04/17/2017 13:19:00</OffenseStatusDate>
+         <AttemptedCompletedCode>A</AttemptedCompletedCode>
+         <ArrestChargeCode>14-15-9-6</ArrestChargeCode>
+         <CreatorId>TEST_ORG_USER_ADMIN</CreatorId>
+         <CreatorDate>05/03/2017 09:29:56</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>07/12/2017 13:27:20</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>30</ApproxAge>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>04/26/2017 17:22:50</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:24</UpdatorDate>
+         <Person>
+            <PersonId>254</PersonId>
+            <RaceCode>A</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>H</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>ALEXANDER</LastName>
+               <FirstName>KAREN</FirstName>
+               <MiddleName>A</MiddleName>
+               <DateOfInfo>06/06/2012 14:50:22</DateOfInfo>
+               <SLastName>A425</SLastName>
+               <SFirstName>K650</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Joe</LastName>
+               <FirstName>Schmoe</FirstName>
+               <MiddleName>Idaho</MiddleName>
+               <DateOfInfo>03/15/2013 00:00:00</DateOfInfo>
+               <SLastName>J000</SLastName>
+               <SFirstName>S500</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Asd</LastName>
+               <FirstName>Asd</FirstName>
+               <DateOfInfo>03/15/2013 00:00:00</DateOfInfo>
+               <SLastName>A230</SLastName>
+               <SFirstName>A230</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>ALEXANDER</LastName>
+               <FirstName>KAREN</FirstName>
+               <MiddleName>A</MiddleName>
+               <SLastName>A425</SLastName>
+               <SFirstName>K650</SFirstName>
+               <DateOfInfo>06/06/2012 14:50:22</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Joe</LastName>
+               <FirstName>Schmoe</FirstName>
+               <MiddleName>Idaho</MiddleName>
+               <SLastName>J000</SLastName>
+               <SFirstName>S500</SFirstName>
+               <DateOfInfo>03/15/2013 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>M</NameTypeCode>
+               <LastName>Asd</LastName>
+               <FirstName>Asd</FirstName>
+               <SLastName>A230</SLastName>
+               <SFirstName>A230</SFirstName>
+               <DateOfInfo>03/15/2013 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonAddress>
+               <StreetName>17841PATRICKST</StreetName>
+               <City>ROMULUS</City>
+               <StateCode>MI</StateCode>
+               <Zip5>48174</Zip5>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>OFFICER_DMM</CreatorId>
+            <CreatorDate>05/03/2017 09:32:11</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:23</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>31</ApproxAge>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>05/03/2017 09:34:59</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:23</UpdatorDate>
+         <Person>
+            <PersonId>211</PersonId>
+            <RaceCode>H</RaceCode>
+            <SexCode>F</SexCode>
+            <EthnicityCode>N</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>ALEXANDER</LastName>
+               <FirstName>KAREN</FirstName>
+               <MiddleName>A</MiddleName>
+               <DateOfInfo>06/06/2012 14:19:04</DateOfInfo>
+               <SLastName>A425</SLastName>
+               <SFirstName>K650</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Alexandria</LastName>
+               <FirstName>Shirley</FirstName>
+               <MiddleName>Lina</MiddleName>
+               <DOB>12/12/1985 00:00:00</DOB>
+               <SSN>7.84641359E8</SSN>
+               <TitleCode>SR</TitleCode>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+               <SLastName>A425</SLastName>
+               <SFirstName>S640</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <SSN>3.33445566E8</SSN>
+               <TitleCode>III</TitleCode>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>ALEXANDER</LastName>
+               <FirstName>KAREN</FirstName>
+               <MiddleName>A</MiddleName>
+               <SLastName>A425</SLastName>
+               <SFirstName>K650</SFirstName>
+               <DateOfInfo>06/06/2012 14:19:04</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Alexandria</LastName>
+               <FirstName>Shirley</FirstName>
+               <MiddleName>Lina</MiddleName>
+               <DOB>12/12/1985 00:00:00</DOB>
+               <SSN>7.84641359E8</SSN>
+               <TitleCode>SR</TitleCode>
+               <SLastName>A425</SLastName>
+               <SFirstName>S640</SFirstName>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <SSN>3.33445566E8</SSN>
+               <TitleCode>III</TitleCode>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Hoffman</LastName>
+               <FirstName>Laurent</FirstName>
+               <MiddleName>Jane</MiddleName>
+               <DOB>12/01/1985 00:00:00</DOB>
+               <SLastName>H155</SLastName>
+               <SFirstName>L653</SFirstName>
+               <DateOfInfo>12/13/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>RES</PhoneTypeCode>
+               <PhoneArea>765</PhoneArea>
+               <PhonePrefix>555</PhonePrefix>
+               <PhoneSuffix>5555</PhoneSuffix>
+               <DateOfInfo>04/08/2014 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            <CreatorId>OFFICER_DMM</CreatorId>
+            <CreatorDate>05/03/2017 09:35:21</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:22</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>OFFICER_DMM</CreatorId>
+            <CreatorDate>05/03/2017 09:35:21</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:22</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000045</BusinessNumber>
+         <BusinessName>A Temp Org</BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>04/26/2017 17:20:48</CreatorDate>
+         <UpdatorId>OFFICER_DMM</UpdatorId>
+         <UpdatorDate>04/26/2017 17:20:48</UpdatorDate>
+         <BusinessAddress>
+            <AddressId>527</AddressId>
+            <StreetNumber>1776</StreetNumber>
+            <StreetName>Lincoln</StreetName>
+            <CountryCode>US</CountryCode>
+         </BusinessAddress>
+      </IncidentBusiness>
+      <IncidentBusiness>
+         <BusinessNumber>240000055</BusinessNumber>
+         <BusinessName>School of special needs</BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>05/03/2017 11:06:48</CreatorDate>
+         <UpdatorId>OFFICER_DMM</UpdatorId>
+         <UpdatorDate>05/03/2017 11:06:48</UpdatorDate>
+      </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>22</VEHICLE_ID>
+         <RoleCode>AB</RoleCode>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>05/03/2017 11:54:26</CreatorDate>
+         <UpdatorId>OFFICER_DMM</UpdatorId>
+         <UpdatorDate>05/03/2017 11:54:26</UpdatorDate>
+         <DateOfInfo>11/26/2012 15:40:09</DateOfInfo>
+         <StatusCode>1</StatusCode>
+         <VIN>111111</VIN>
+         <VehicleYear>2011</VehicleYear>
+         <VehicleMakeCode>DODG</VehicleMakeCode>
+         <VehicleModelCode>RAM</VehicleModelCode>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>05/03/2017 09:48:45</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/10/2017 23:00:18</UpdatorDate>
+         <DateOfInfo>05/03/2017 00:00:00</DateOfInfo>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>descv 1</Description>
+         <PropertyTypeCode>793</PropertyTypeCode>
+         <PropertyValue>111</PropertyValue>
+         <Value>111</Value>
+         <SerialNumber>123</SerialNumber>
+         <Evidence>Y</Evidence>
+         <EvidenceFlag>Y</EvidenceFlag>
+         <ExternalEvidenceId>664</ExternalEvidenceId>
+         <Property_ID>1592</Property_ID>
+         <PrimaryColor>BGE</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>a</Make>
+         <Model>b</Model>
+         <Quantity>2</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>05/03/2017 09:48:45</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/10/2017 23:00:18</UpdatorDate>
+         <DateOfInfo>05/03/2017 00:00:00</DateOfInfo>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>descv 2</Description>
+         <PropertyTypeCode>793</PropertyTypeCode>
+         <PropertyValue>111</PropertyValue>
+         <Value>111</Value>
+         <SerialNumber>12</SerialNumber>
+         <Evidence>Y</Evidence>
+         <EvidenceFlag>Y</EvidenceFlag>
+         <ExternalEvidenceId>665</ExternalEvidenceId>
+         <Property_ID>1593</Property_ID>
+         <PrimaryColor>BGE</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>a</Make>
+         <Model>b</Model>
+         <Quantity>2</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>05/03/2017 09:48:45</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/10/2017 23:00:18</UpdatorDate>
+         <DateOfInfo>05/03/2017 00:00:00</DateOfInfo>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>descv 3</Description>
+         <PropertyTypeCode>793</PropertyTypeCode>
+         <PropertyValue>111</PropertyValue>
+         <Value>111</Value>
+         <SerialNumber>44</SerialNumber>
+         <Evidence>Y</Evidence>
+         <EvidenceFlag>Y</EvidenceFlag>
+         <ExternalEvidenceId>666</ExternalEvidenceId>
+         <Property_ID>1594</Property_ID>
+         <PrimaryColor>BGE</PrimaryColor>
+         <SecondaryColor>BLK</SecondaryColor>
+         <Make>a</Make>
+         <Model>b</Model>
+         <Quantity>2</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <CreatorId>OFFICER_DMM</CreatorId>
+         <CreatorDate>05/03/2017 09:51:18</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>08/10/2017 23:00:18</UpdatorDate>
+         <DateOfInfo>04/17/2017 00:00:00</DateOfInfo>
+         <StatusCode>2</StatusCode>
+         <DocumentTypeCode>O</DocumentTypeCode>
+         <PropertyTypeCode>X42</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>Y</Evidence>
+         <EvidenceFlag>Y</EvidenceFlag>
+         <ExternalEvidenceId>667</ExternalEvidenceId>
+         <Property_ID>1581</Property_ID>
+         <AccountNumber>0</AccountNumber>
+         <Amount>0</Amount>
+         <Bank>First Bank</Bank>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/static/css/style.css">
+
+    <title>Police Narrative Generator</title>
+</head>
+<body>
+    <h1>Narrative Generator</h1>
+    <form id="narrativeForm" method="post">
+        <label for="xmlFile">Upload XML File:</label>
+        <input type="file" id="xmlFile" name="xmlFile"><br><br>
+    
+        <button type="submit">Generate Narrative</button>
+    </form>
+    <div id="narrativeOutput">Narrative will appear here...</div>
+    <div id="loadingMessage" style="display: none;">Generating narrative, please wait...</div>
+    
+
+    <script>
+        document.getElementById('narrativeForm').onsubmit = async function(e) {
+            e.preventDefault();
+            const formData = new FormData(this);
+            document.getElementById('narrativeOutput').innerText = "";  
+            document.getElementById('loadingMessage').style.display = 'block';  
+
+            const response = await fetch('/generate', {
+                method: 'POST',
+                body: formData
+            });
+
+            const result = await response.json();
+            document.getElementById('loadingMessage').style.display = 'none';  
+            document.getElementById('narrativeOutput').innerText = result.text;  
+        };
+    </script>
+</body>
+</html>

@@ -1,0 +1,123 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3100</ORINum>
+   <ReportDate>05/29/2023 01:40:00</ReportDate>
+   <StartDate>05/29/2023 01:12:00</StartDate>
+   <Summary>THEFT OF CELLULAR PHONE. VICTIM MET SUSPECT ONLINE. VERY LIMITED INFORMATION ON SUSPECT DURING INITIAL INVESTIGATION.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>646600</AddressId>
+      <Address>
+         <AddressId>646600</AddressId>
+         <StreetNumber>14</StreetNumber>
+         <StreetName>Kenneth</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Rising Sun</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21911</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.0086691</Longitude>
+         <Latitude>39.6408199</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Spayd</LastName>
+            <FirstName>Samuel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Scott</LastName>
+            <FirstName>Conor</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1137_AOL</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>00</ApproxAge>
+         <Person>
+            <PersonId>378305</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>38</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>378306</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>STROHMAIER</LastName>
+               <FirstName>JENNA</FirstName>
+               <DOB>10/18/1984 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>STROHMAIER</LastName>
+               <FirstName>JENNA</FirstName>
+               <DOB>10/18/1984 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>14</StreetNumber>
+               <StreetName>Kenneth</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Rising Sun</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21911</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.0086691</Longitude>
+               <Latitude>39.6408199</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>CELLULAR PHONE</PropertyTypeCode>
+         <PropertyValue>800</PropertyValue>
+         <Value>800</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>249552</Property_ID>
+         <PrimaryColor>BLU</PrimaryColor>
+         <Make>APPLE</Make>
+         <Model>iPHONE 13 PRO MAX</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

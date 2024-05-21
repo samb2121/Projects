@@ -1,0 +1,166 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP0100</ORINum>
+   <ReportDate>06/03/2023 22:20:00</ReportDate>
+   <StartDate>06/03/2023 21:43:00</StartDate>
+   <EndDate>06/03/2023 23:45:00</EndDate>
+   <Summary>Single vehicle crash.  Driver was wanted through York County, PA.  Transported to Howard County DOC and charged as a fugitive from justice.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Warrant Service</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>696416</AddressId>
+      <Address>
+         <AddressId>696416</AddressId>
+         <StreetNumber>76</StreetNumber>
+         <StreetName>Mm I70 Eb</StreetName>
+         <City>Woodbine</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.02668</Longitude>
+         <Latitude>39.33047</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Dull</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Clark</LastName>
+            <FirstName>Darryl</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Dull</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Dull</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>MSP1002</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <Remarks>ARRESTED</Remarks>
+         <ArrestChargeCode>MSP1002</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>19731</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <Remarks>TRAFFIC CITATION</Remarks>
+         <ArrestChargeCode>19731</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>3099</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <Remarks>TRAFFIC CITATION</Remarks>
+         <ArrestChargeCode>3099</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>16824</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <Remarks>TRAFFIC CITATION</Remarks>
+         <ArrestChargeCode>16824</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>26</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <Person>
+            <PersonId>378931</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>MERRIMAN</LastName>
+               <FirstName>KAYLA</FirstName>
+               <MiddleName>MARIE</MiddleName>
+               <DOB>10/24/1996 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>MERRIMAN</LastName>
+               <FirstName>KAYLA</FirstName>
+               <MiddleName>MARIE</MiddleName>
+               <DOB>10/24/1996 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>19</StreetNumber>
+               <StreetName>Eagleton</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Jacobus</City>
+               <StateCode>Pennsylvania</StateCode>
+               <Zip5>17407</Zip5>
+               <Zip4>1262</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.72407</Longitude>
+               <Latitude>39.881662</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>717</PhoneArea>
+               <PhonePrefix>768</PhonePrefix>
+               <PhoneSuffix>7672</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>153770</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>12</StatusCode>
+         <VIN>JM3KE4CY2G0649044</VIN>
+         <VehicleYear>2016</VehicleYear>
+         <VehicleMakeCode>MAZDA</VehicleMakeCode>
+         <VehicleModelCode>CX5</VehicleModelCode>
+         <VehicleStyleCode>LL</VehicleStyleCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>GRY</VehPriColorCode>
+         <VehSecColorCode>GRY</VehSecColorCode>
+         <VehicleLicStateCode>PA</VehicleLicStateCode>
+         <VehicleLicNumber>LXS2430</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehicleValue>10000</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

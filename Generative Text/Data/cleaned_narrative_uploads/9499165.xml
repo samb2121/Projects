@@ -1,0 +1,83 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-022913</IncidentReportNum>
+   <AgencyCode>51</AgencyCode>
+   <ORINum>MDMSP2000</ORINum>
+   <ReportDate>06/26/2023 06:38:00</ReportDate>
+   <ReportTime>06/26/2023 06:38:00</ReportTime>
+   <StartDate>06/26/2023 06:01:00</StartDate>
+   <StartTime>06/26/2023 06:01:00</StartTime>
+   <Summary>DUPLICATE ACRS REPORT NUMBER.</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>06/26/2023 06:39:00</CreatorDate>
+   <UpdatorId>MSP0486</UpdatorId>
+   <UpdatorDate>06/26/2023 12:20:14</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>CLAY ST/ BOWIS DR</IncAddrComment>
+      <AddressId>698971</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/26/2023 06:39:01</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>06/26/2023 06:39:01</UpdatorDate>
+      <Address>
+         <AddressId>698971</AddressId>
+         <StreetName>Clay</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>Point Of Rocks</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>DR</CrossStreetTypeCode>
+         <Longitude>-77.52924</Longitude>
+         <Latitude>39.27506</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>CLAY ST AT BOWIS DR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/26/2023 06:38:57</SuppReportDate>
+      <SuppReportTime>06/26/2023 06:38:57</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>51</SuppAgencyCode>
+      <DsIcrDate>06/26/2023 12:20:14</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/26/2023 06:39:00</CreatorDate>
+      <UpdatorId>MSP0486</UpdatorId>
+      <UpdatorDate>06/26/2023 12:20:14</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Duplicate case number issued for ACRS report.</NarrativeText>
+         <CreatorId>MSP6942</CreatorId>
+         <CreatorDate>06/26/2023 07:55:46</CreatorDate>
+         <UpdatorId>MSP6942</UpdatorId>
+         <UpdatorDate>06/26/2023 07:55:46</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>51</AgencyCode>
+            <ORINumber>MDMSP2000</ORINumber>
+            <LastName>Cain</LastName>
+            <FirstName>Kenneth</FirstName>
+            <InternalID>0486</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>51</AgencyCode>
+            <ORINumber>MDMSP2000</ORINumber>
+            <LastName>Rickard</LastName>
+            <FirstName>Jason</FirstName>
+            <InternalID>6942</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

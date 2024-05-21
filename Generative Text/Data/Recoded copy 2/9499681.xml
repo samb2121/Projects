@@ -1,0 +1,101 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3000</ORINum>
+   <ReportDate>08/08/2023 13:56:00</ReportDate>
+   <StartDate>08/08/2023 13:52:00</StartDate>
+   <Summary>The victim complaint of the unauthorized use of his delivery van.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>STV</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Unauthorized Use of Motor Vehicle</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>5749</AddressId>
+      <SubBeat>531</SubBeat>
+      <Address>
+         <AddressId>5749</AddressId>
+         <StreetNumber>1401</StreetNumber>
+         <StreetName>BEL AIR</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>BEL AIR</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <SubBeat>531</SubBeat>
+         <Longitude>-76.38177706785434</Longitude>
+         <Latitude>39.505315450766766</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>MSP BEL AIR BARRACK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>BEL AIR BARRACK</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>MSP BEL AIR</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Workman</LastName>
+            <FirstName>Alex</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Esuma</LastName>
+            <FirstName>Smith</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1466</OffenseCode>
+         <PlaceCode>Commercial/Office Building</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1466</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentBusiness>
+         <BusinessNumber>240019683</BusinessNumber>
+         <BusinessName>JJADD ASSOCIATES LLC</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>155926</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>5</StatusCode>
+         <VIN>1FTNE2EW2DDA71974</VIN>
+         <VehicleYear>2013</VehicleYear>
+         <VehicleMakeCode>FORD(FORD)</VehicleMakeCode>
+         <VehicleModelCode>ECONOLINE E150</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehSecColorCode>GRY</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>7EL5719</VehicleLicNumber>
+         <VehicleLicYear>2025</VehicleLicYear>
+         <VehicleLicMonth>1</VehicleLicMonth>
+         <VehicleLicTypeCode>CO</VehicleLicTypeCode>
+         <VehicleValue>1</VehicleValue>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>AUTO</PropertyTypeCode>
+         <PropertyValue>1000</PropertyValue>
+         <Value>1000</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>253899</Property_ID>
+         <PrimaryColor>WHI</PrimaryColor>
+         <Make>Ford</Make>
+         <Model>Econoline E150</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

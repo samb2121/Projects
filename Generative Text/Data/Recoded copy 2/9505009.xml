@@ -1,0 +1,493 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>06/02/2023 16:09:00</ReportDate>
+   <StartDate>06/02/2023 15:48:00</StartDate>
+   <Summary>2 Vehicle collision hit and run, DUI, assault on police and EMS at barrack</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>CHURCH HILL RD/ SCHRADER RD</IncAddrComment>
+      <AddressId>618502</AddressId>
+      <Address>
+         <AddressId>618502</AddressId>
+         <StreetName>Church Hill</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Chestertown</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <CrossStreetTypeCode>RD</CrossStreetTypeCode>
+         <Longitude>-76.018118</Longitude>
+         <Latitude>39.188262</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>6100-6199 CHURCH HILL RD / 100-299 SCHRADER RD</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Nickerson</LastName>
+            <FirstName>Tanner</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Mulhearn</LastName>
+            <FirstName>Jason</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Wiley</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Selba</LastName>
+            <FirstName>Andrew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>3222</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <Remarks>Will apply for charges</Remarks>
+         <ArrestChargeCode>3222</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>14583</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <Remarks>Will apply for charges</Remarks>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>14583</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1416</OffenseCode>
+         <PlaceCode>Government/Public Building</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <Remarks>Will apply for charges</Remarks>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1416</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <ClearMultiArrestCode>C</ClearMultiArrestCode>
+         <Person>
+            <PersonId>302178</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Parsley</LastName>
+               <FirstName>Christopher</FirstName>
+               <MiddleName>David</MiddleName>
+               <DOB>09/20/1986 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Parsley</LastName>
+               <FirstName>Christopher</FirstName>
+               <MiddleName>David</MiddleName>
+               <DOB>09/20/1986 00:00:00</DOB>
+               <TitleCode>Junior</TitleCode>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>11029</StreetNumber>
+               <StreetName>Brindley</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Worton</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21678</Zip5>
+               <Zip4>1956</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.0985199</Longitude>
+               <Latitude>39.280296</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>609</StreetNumber>
+               <StreetDirCode>N</StreetDirCode>
+               <StreetName>Main</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Greensboro</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21639</Zip5>
+               <Zip4>1469</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.802355</Longitude>
+               <Latitude>38.98313</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>725</PhonePrefix>
+               <PhoneSuffix>3310</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>C</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>378799</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Wiley</LastName>
+               <FirstName>SGT</FirstName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Wiley</LastName>
+               <FirstName>SGT</FirstName>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>311</StreetNumber>
+               <StreetName>Safety</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Centreville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21617</Zip5>
+               <Zip4>2161</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.019519</Longitude>
+               <Latitude>39.032824</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>758</PhonePrefix>
+               <PhoneSuffix>1101</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>PO</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>VPO</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>32</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>185506</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Mulhearn</LastName>
+               <FirstName>TFC.</FirstName>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Mulhearn</LastName>
+               <FirstName>TFC.</FirstName>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>23200</StreetNumber>
+               <StreetName>Leonard Hall</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Leonardtown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20650</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.630777</Longitude>
+               <Latitude>38.305802</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>311</StreetNumber>
+               <StreetName>Safety</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Centreville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21617</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.020042</Longitude>
+               <Latitude>39.03312</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>475</PhonePrefix>
+               <PhoneSuffix>8955</PhoneSuffix>
+               </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>Business</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>758</PhonePrefix>
+               <PhoneSuffix>1101</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>PO</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>VPO</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>48</ApproxAge>
+         <ResidentStatusCode>Unknown</ResidentStatusCode>
+         <Person>
+            <PersonId>378800</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Williams</LastName>
+               <FirstName>Terry</FirstName>
+               <DOB>07/06/1974 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Williams</LastName>
+               <FirstName>Terry</FirstName>
+               <DOB>07/06/1974 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>100</StreetNumber>
+               <StreetName>Communications</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Centreville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21617</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.018802</Longitude>
+               <Latitude>39.031161</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>758</PhonePrefix>
+               <PhoneSuffix>4500</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>EM</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>28</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>378801</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Walker</LastName>
+               <FirstName>Brittany</FirstName>
+               <MiddleName>Nicole</MiddleName>
+               <DOB>07/31/1994 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Walker</LastName>
+               <FirstName>Brittany</FirstName>
+               <MiddleName>Nicole</MiddleName>
+               <DOB>07/31/1994 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>141</StreetNumber>
+               <StreetName>White Marsh</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Centreville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21617</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>490</PhonePrefix>
+               <PhoneSuffix>5667</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>R</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>60</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>378802</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Sharp</LastName>
+               <FirstName>Bryan</FirstName>
+               <MiddleName>Jeffrey</MiddleName>
+               <DOB>07/09/1962 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Sharp</LastName>
+               <FirstName>Bryan</FirstName>
+               <MiddleName>Jeffrey</MiddleName>
+               <DOB>07/09/1962 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>4104</StreetNumber>
+               <StreetName>Church Hill</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Church Hill</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21623</Zip5>
+               <Zip4>1218</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-75.993828</Longitude>
+               <Latitude>39.136468</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>708</PhonePrefix>
+               <PhoneSuffix>0036</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>R</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>W</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>X</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>Victim</IncBusinessRoleCode>
+         </IncidentBusiness>
+      <IncidentVehicle>
+         <VEHICLE_ID>153715</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>13</StatusCode>
+         <VIN>3GCUKREC0JG632920</VIN>
+         <VehicleYear>2018</VehicleYear>
+         <VehicleMakeCode>CHEVROLET</VehicleMakeCode>
+         <VehicleModelCode>SILVERADO</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>T1357009</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>7</VehicleLicMonth>
+      </IncidentVehicle>
+      <IncidentVehicle>
+         <VEHICLE_ID>153716</VEHICLE_ID>
+         <RoleCode>AC</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>1XPVDP9X4DD185203</VIN>
+         <VehicleYear>2013</VehicleYear>
+         <VehicleMakeCode>PETERBILT MOTORS CO.DIV. OF PACCAR, INC.</VehicleMakeCode>
+         <VehicleModelCode>386</VehicleModelCode>
+         <VehicleTypeCode>Truck/SUV</VehicleTypeCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>734F10</VehicleLicNumber>
+         <VehicleLicYear>2023</VehicleLicYear>
+         <VehicleLicMonth>10</VehicleLicMonth>
+      </IncidentVehicle>
+      <IncidentProperty>
+         <StatusCode>15</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <Description>One (1) ziploc bag with greenish brown vegetable matter, suspected marijuana. Property Held #P-345141</Description>
+         <PropertyTypeCode>DRUGS / NARCOTICS - CONTROLLED SUBSTANCE</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>249835</Property_ID>
+         <DrugTypeCode>SUSPECTED MARIJUANA</DrugTypeCode>
+         <Quantity>10.9</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

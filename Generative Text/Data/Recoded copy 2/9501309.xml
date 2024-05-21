@@ -1,0 +1,103 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>12/21/2023 09:04:00</ReportDate>
+   <StartDate>12/21/2023 08:54:00</StartDate>
+   <Summary>Vehicle Storage</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>RP FR O/L CAP BELTWAY TO PENNSYLVANIA AVE</IncAddrComment>
+      <AddressId>716632</AddressId>
+      <Address>
+         <AddressId>716632</AddressId>
+         <StreetName>Rp Fr O/L Cap Beltway To Pennsylvania</StreetName>
+         <StreetTypeCode>Avenue</StreetTypeCode>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Bowling</LastName>
+            <FirstName>Christopher</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Greenlee</LastName>
+            <FirstName>Clint</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>27</ApproxAge>
+         <Person>
+            <PersonId>395791</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>HOPKINS</LastName>
+               <FirstName>ALEXUS</FirstName>
+               <MiddleName>KIARA</MiddleName>
+               <DOB>04/17/1996 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>HOPKINS</LastName>
+               <FirstName>ALEXUS</FirstName>
+               <MiddleName>KIARA</MiddleName>
+               <DOB>04/17/1996 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>3103</StreetNumber>
+               <StreetName>Good Hope</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>30</SubNumber>
+               <City>Hillcrest Heights</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20748</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.957252</Longitude>
+               <Latitude>38.848159</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>716</PhonePrefix>
+               <PhoneSuffix>9207</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>DR</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>160047</VEHICLE_ID>
+         <RoleCode>AB</RoleCode>
+         <StatusCode>13</StatusCode>
+         <VIN>5XXG64J26NG094931</VIN>
+         <VehicleYear>2022</VehicleYear>
+         <VehicleMakeCode>KIA MOTORS CORPORATION</VehicleMakeCode>
+         <VehicleStyleCode>4D</VehicleStyleCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>WHI</VehPriColorCode>
+         <VehSecColorCode>WHI</VehSecColorCode>
+         <VehicleLicStateCode>MD</VehicleLicStateCode>
+         <VehicleLicNumber>9EG3451</VehicleLicNumber>
+         <VehicleLicYear>2022</VehicleLicYear>
+         <VehicleLicMonth>7</VehicleLicMonth>
+         <VehicleLicTypeCode>PC</VehicleLicTypeCode>
+         <VehConditionCode>P</VehConditionCode>
+         <VehDamageCode>11</VehDamageCode>
+         <VehDamageDesc>COLLISION DAMAGE TO FRONT, UNDERCARRIAGE, AND SIDES OF VEHICLE</VehDamageDesc>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

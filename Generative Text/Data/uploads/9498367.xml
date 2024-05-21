@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-020380</IncidentReportNum>
+   <AgencyCode>58</AgencyCode>
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>06/07/2023 10:02:00</ReportDate>
+   <ReportTime>06/07/2023 10:02:00</ReportTime>
+   <StartDate>06/07/2023 09:57:00</StartDate>
+   <StartTime>06/07/2023 09:57:00</StartTime>
+   <Summary>Accident Report</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>06/07/2023 10:02:21</CreatorDate>
+   <UpdatorId>MSP6360</UpdatorId>
+   <UpdatorDate>06/15/2023 21:09:24</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>RIDGELY RD/ DOWNES STATION RD</IncAddrComment>
+      <AddressId>697867</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/07/2023 10:02:22</CreatorDate>
+      <UpdatorId>MSP6572</UpdatorId>
+      <UpdatorDate>06/15/2023 17:01:13</UpdatorDate>
+      <Address>
+         <AddressId>697867</AddressId>
+         <StreetName>Ridgley</StreetName>
+         <StreetTypeCode>RDS</StreetTypeCode>
+         <City>Ridgley</City>
+         <StateCode>MD</StateCode>
+         <Zip5>21660</Zip5>
+         <CountryCode>US</CountryCode>
+         <CrossStreetTypeCode>RDS</CrossStreetTypeCode>
+         <Longitude>-75.89567</Longitude>
+         <Latitude>38.93479</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>06/07/2023 10:02:20</SuppReportDate>
+      <SuppReportTime>06/07/2023 10:02:20</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>58</SuppAgencyCode>
+      <DsIcrDate>06/15/2023 21:09:23</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>06/07/2023 10:02:21</CreatorDate>
+      <UpdatorId>MSP6360</UpdatorId>
+      <UpdatorDate>06/15/2023 21:09:24</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>See related accident report&amp;nbsp;</NarrativeText>
+         <CreatorId>MSP6572</CreatorId>
+         <CreatorDate>06/15/2023 16:57:25</CreatorDate>
+         <UpdatorId>MSP6572</UpdatorId>
+         <UpdatorDate>06/15/2023 16:57:25</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>58</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Cannon</LastName>
+            <FirstName>James</FirstName>
+            <InternalID>6360</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>58</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Elmore</LastName>
+            <FirstName>Keith</FirstName>
+            <InternalID>6572</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

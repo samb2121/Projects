@@ -1,0 +1,115 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5200</ORINum>
+   <ReportDate>09/17/2023 15:04:00</ReportDate>
+   <StartDate>09/17/2023 14:15:00</StartDate>
+   <Summary>Stolen trailer</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>I695 EB TO MD-295 NB / MD-295</IncAddrComment>
+      <AddressId>707199</AddressId>
+      <Address>
+         <AddressId>707199</AddressId>
+         <StreetName>I-695</StreetName>
+         <City>Baltimore</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21090</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.658351</Longitude>
+         <Latitude>39.219252</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Cearfoss</LastName>
+            <FirstName>Robert</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Caldwell</LastName>
+            <FirstName>Tahir</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>2 0480</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>2 0480</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>68</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>388052</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Lesonik</LastName>
+               <FirstName>David</FirstName>
+               <MiddleName>L</MiddleName>
+               <DOB>06/25/1955 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Lesonik</LastName>
+               <FirstName>David</FirstName>
+               <MiddleName>L</MiddleName>
+               <DOB>06/25/1955 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>462</StreetNumber>
+               <StreetDirCode>W</StreetDirCode>
+               <StreetName>4th</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Erie</City>
+               <StateCode>Pennsylvania</StateCode>
+               <Zip5>16507</Zip5>
+               <Zip4>1212</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-80.09738</Longitude>
+               <Latitude>42.127598</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>O</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>157174</VEHICLE_ID>
+         <RoleCode>ST</RoleCode>
+         <StatusCode>7</StatusCode>
+         <VIN>4YMBU0618NV011106</VIN>
+         <VehicleYear>2022</VehicleYear>
+         <VehicleMakeCode>CARRY-ON TRAILER CORP(COTC)</VehicleMakeCode>
+         <VehicleModelCode>TRAILER</VehicleModelCode>
+         <VehicleStyleCode>FB</VehicleStyleCode>
+         <VehicleTypeCode>Trailer/RVs</VehicleTypeCode>
+         <VehPriColorCode>BLK</VehPriColorCode>
+         <VehSecColorCode>BLK</VehSecColorCode>
+         <VehicleLicStateCode>PA</VehicleLicStateCode>
+         <VehicleLicNumber>XPS4704</VehicleLicNumber>
+         <VehicleLicYear>2024</VehicleLicYear>
+         <VehicleLicMonth>8</VehicleLicMonth>
+         <VehicleLicTypeCode>TL</VehicleLicTypeCode>
+         <VehicleValue>1000</VehicleValue>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

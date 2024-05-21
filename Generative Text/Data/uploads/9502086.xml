@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-043927</IncidentReportNum>
+   <AgencyCode>61</AgencyCode>
+   <ORINum>MDMSP5600</ORINum>
+   <ReportDate>12/12/2023 10:31:00</ReportDate>
+   <ReportTime>12/12/2023 10:31:00</ReportTime>
+   <StartDate>12/12/2023 10:14:00</StartDate>
+   <StartTime>12/12/2023 10:14:00</StartTime>
+   <Summary>SINGLE VEHICLE COLLISION</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>12/12/2023 10:31:05</CreatorDate>
+   <UpdatorId>MSP0392</UpdatorId>
+   <UpdatorDate>12/15/2023 10:41:15</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>615625</AddressId>
+      <CreatorId>MSP7467</CreatorId>
+      <CreatorDate>12/13/2023 08:22:41</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>12/13/2023 08:22:47</UpdatorDate>
+      <Address>
+         <AddressId>615625</AddressId>
+         <StreetNumber>Northbound</StreetNumber>
+         <StreetName>I-495</StreetName>
+         <City>BRANCH AVENUE</City>
+         <StateCode>MD</StateCode>
+         <Zip5>20748</Zip5>
+         <CountryCode>US</CountryCode>
+         <Distance>0</Distance>
+         <Longitude>-76.91923</Longitude>
+         <Latitude>38.81939</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>12/12/2023 10:31:00</SuppReportDate>
+      <SuppReportTime>12/12/2023 10:31:00</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>61</SuppAgencyCode>
+      <DsIcrDate>12/15/2023 10:41:15</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>12/12/2023 10:31:05</CreatorDate>
+      <UpdatorId>MSP0392</UpdatorId>
+      <UpdatorDate>12/15/2023 10:41:15</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>CLEARED BY ACRES</NarrativeText>
+         <CreatorId>MSP7467</CreatorId>
+         <CreatorDate>12/13/2023 08:23:10</CreatorDate>
+         <UpdatorId>MSP7467</UpdatorId>
+         <UpdatorDate>12/13/2023 08:23:10</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>61</AgencyCode>
+            <ORINumber>MDMSP5600</ORINumber>
+            <LastName>Bowling</LastName>
+            <FirstName>Christopher</FirstName>
+            <InternalID>0392</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>61</AgencyCode>
+            <ORINumber>MDMSP5600</ORINumber>
+            <LastName>Ware</LastName>
+            <FirstName>Traevon</FirstName>
+            <InternalID>7467</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

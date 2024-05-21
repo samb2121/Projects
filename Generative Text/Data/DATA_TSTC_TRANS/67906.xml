@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2021D4210367</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>08/13/2023 08:32:00</ReportDate>
+   <ReportTime>08/13/2023 08:32:00</ReportTime>
+   <StartDate>08/12/2023 08:32:00</StartDate>
+   <StartTime>08/12/2023 08:32:00</StartTime>
+   <Summary>test</Summary>
+   <InternalIncident>Y</InternalIncident>
+   <CreatorId>D_OFFICER</CreatorId>
+   <CreatorDate>10/08/2021 10:49:06</CreatorDate>
+   <UpdatorId>STATE_OFFICER11</UpdatorId>
+   <UpdatorDate>08/14/2023 08:42:11</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CITREP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>1367</AddressId>
+      <CreatorId>D_OFFICER</CreatorId>
+      <CreatorDate>08/14/2023 08:32:43</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/14/2023 08:32:49</UpdatorDate>
+      <Address>
+         <AddressId>1367</AddressId>
+         <StreetNumber>400</StreetNumber>
+         <StreetName>Lee</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <SubTypeCode>APT</SubTypeCode>
+         <SubNumber>33</SubNumber>
+         <City>Shirley</City>
+         <StateCode>IN</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-85.57782927015073</Longitude>
+         <Latitude>39.88730205195802</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>10/08/2021 10:49:06</SuppReportDate>
+      <SuppReportTime>10/08/2021 10:49:06</SuppReportTime>
+      <AgencyOnly>Y</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>08/14/2023 08:41:09</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>D_OFFICER</CreatorId>
+      <CreatorDate>10/08/2021 10:49:06</CreatorDate>
+      <UpdatorId>STATE_OFFICER11</UpdatorId>
+      <UpdatorDate>08/14/2023 08:41:09</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Complainant Narrative</NarrativeTitle>
+         <NarrativeText>test</NarrativeText>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>10/08/2021 10:49:07</CreatorDate>
+         <UpdatorId>D_OFFICER</UpdatorId>
+         <UpdatorDate>10/08/2021 10:49:07</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Simpson</LastName>
+            <FirstName>Homer</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>M</LastName>
+            <FirstName>Dana</FirstName>
+            <InternalID>DMM123</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>3371</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>02</OffenseStatusCode>
+         <OffenseCode>35-47-7-1</OffenseCode>
+         <PlaceCode>25</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>08/14/2023 08:34:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>08/14/2023 08:33:42</CreatorDate>
+         <UpdatorId>D_OFFICER</UpdatorId>
+         <UpdatorDate>08/14/2023 08:35:13</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>16</ApproxAge>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>08/14/2023 08:33:42</CreatorDate>
+         <UpdatorId>D_OFFICER</UpdatorId>
+         <UpdatorDate>08/14/2023 08:36:46</UpdatorDate>
+         <Person>
+            <PersonId>1235</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Young</LastName>
+               <FirstName>Sam</FirstName>
+               <DOB>05/06/2007 00:00:00</DOB>
+               <DateOfInfo>08/11/2023 09:32:07</DateOfInfo>
+               <SLastName>Y520</SLastName>
+               <SFirstName>S500</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Young</LastName>
+               <FirstName>Sam</FirstName>
+               <DOB>05/06/2007 00:00:00</DOB>
+               <SLastName>Y520</SLastName>
+               <SFirstName>S500</SFirstName>
+               <DateOfInfo>08/11/2023 09:32:07</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            <CreatorId>D_OFFICER</CreatorId>
+            <CreatorDate>08/14/2023 08:36:45</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:25</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>D_OFFICER</CreatorId>
+            <CreatorDate>08/14/2023 08:36:45</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:25</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentBusiness>
+         <BusinessNumber>240000001</BusinessNumber>
+         <BusinessName>SOCIETY</BusinessName>
+         <IncBusinessRoleCode>V</IncBusinessRoleCode>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>08/14/2023 08:33:45</CreatorDate>
+         <UpdatorId>D_OFFICER</UpdatorId>
+         <UpdatorDate>08/14/2023 08:33:45</UpdatorDate>
+      </IncidentBusiness>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,111 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP2200</ORINum>
+   <ReportDate>12/15/2023 14:35:00</ReportDate>
+   <StartDate>12/15/2023 14:07:00</StartDate>
+   <Summary>THEFT</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>716108</AddressId>
+      <Address>
+         <AddressId>716108</AddressId>
+         <StreetNumber>16715</StreetNumber>
+         <StreetName>National</StreetName>
+         <StreetTypeCode>Pike</StreetTypeCode>
+         <SubTypeCode>APT</SubTypeCode>
+         <SubNumber>2</SubNumber>
+         <City>Hagerstown</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-77.791997</Longitude>
+         <Latitude>39.651026</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>NEW DEL-MAR INN</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Shilling</LastName>
+            <FirstName>Kenneth</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>O'Neal</LastName>
+            <FirstName>Zachary</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 1137_AOL</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 1137_AOL</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>44</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>395527</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>FLETCHER</LastName>
+               <FirstName>ROBERT</FirstName>
+               <MiddleName>LEON</MiddleName>
+               <DOB>09/28/1979 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>FLETCHER</LastName>
+               <FirstName>ROBERT</FirstName>
+               <MiddleName>LEON</MiddleName>
+               <DOB>09/28/1979 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>101</StreetNumber>
+               <StreetDirCode>S</StreetDirCode>
+               <StreetName>Artizan</StreetName>
+               <StreetTypeCode>Street</StreetTypeCode>
+               <City>Williamsport</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21795</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-77.818691</Longitude>
+               <Latitude>39.597737</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>WHITE SONY PLAYSTATION 4 </Description>
+         <PropertyTypeCode>MISC/NO CODE</PropertyTypeCode>
+         <PropertyValue>235</PropertyValue>
+         <Value>235</Value>
+         <SerialNumber>AH912890737</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>257595</Property_ID>
+         <PrimaryColor>WHI</PrimaryColor>
+         <Make>SONY</Make>
+         <Model>PLAYSTATION 4</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

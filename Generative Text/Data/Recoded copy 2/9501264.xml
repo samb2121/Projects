@@ -1,0 +1,52 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>12/19/2023 14:48:00</ReportDate>
+   <StartDate>12/19/2023 14:16:00</StartDate>
+   <Summary>MVC/DUI/Poss CDS</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Accident</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DUI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>DWI</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Poss of Controlled Substance</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>OXFORD ROAD / ALMSHOUSE ROAD</IncAddrComment>
+      <AddressId>716522</AddressId>
+      <Address>
+         <AddressId>716522</AddressId>
+         <StreetNumber>27999</StreetNumber>
+         <StreetName>Oxford</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Oxford</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>21654</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.10624</Longitude>
+         <Latitude>38.691744</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Tassone</LastName>
+            <FirstName>Scott</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Cambra</LastName>
+            <FirstName>Nicholas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

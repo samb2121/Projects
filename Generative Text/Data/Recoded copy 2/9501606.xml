@@ -1,0 +1,168 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5400</ORINum>
+   <ReportDate>11/01/2023 18:16:00</ReportDate>
+   <StartDate>11/01/2023 18:09:00</StartDate>
+   <Summary>The victim sold her car to the suspect with the understanding that her license plates would be mailed back. The plates have not been returned and are now considered stolen.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Theft</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>711740</AddressId>
+      <Address>
+         <AddressId>711740</AddressId>
+         <StreetNumber>26769</StreetNumber>
+         <StreetName>Tin Top School</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Mechanicsville</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20659</Zip5>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.802468</Longitude>
+         <Latitude>38.402741</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Pope</LastName>
+            <FirstName>Jeremy</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Gibson</LastName>
+            <FirstName>Jeffrey</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Powis</LastName>
+            <FirstName>Jonathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Open/Pending</OffenseStatusCode>
+         <OffenseCode>1 0521</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <ArrestChargeCode>1 0521</ArrestChargeCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>34</ApproxAge>
+         <ResidentStatusCode>Resides in State but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>391831</PersonId>
+            <RaceCode>Black or African American</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Acha</LastName>
+               <FirstName>Werengie</FirstName>
+               <MiddleName>Violet</MiddleName>
+               <DOB>11/13/1988 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Acha</LastName>
+               <FirstName>Werengie</FirstName>
+               <MiddleName>Violet</MiddleName>
+               <DOB>11/13/1988 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>5317</StreetNumber>
+               <StreetName>85th</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <SubTypeCode>APT</SubTypeCode>
+               <SubNumber>101</SubNumber>
+               <City>Lanham</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20706</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.868126</Longitude>
+               <Latitude>38.95571</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>240</PhoneArea>
+               <PhonePrefix>758</PhonePrefix>
+               <PhoneSuffix>7491</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>391832</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Tucker</LastName>
+               <FirstName>Kristina</FirstName>
+               <MiddleName>Leigh</MiddleName>
+               <DOB>06/03/1987 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Tucker</LastName>
+               <FirstName>Kristina</FirstName>
+               <MiddleName>Leigh</MiddleName>
+               <DOB>06/03/1987 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>26769</StreetNumber>
+               <StreetName>Tin Top School</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Mechanicsville</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20659</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.802468</Longitude>
+               <Latitude>38.402741</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Residence</PhoneTypeCode>
+               <PhoneArea>301</PhoneArea>
+               <PhonePrefix>848</PhonePrefix>
+               <PhoneSuffix>1627</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>7</RoleCode>
+         <StatusCode>7</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <Description>Front and rear Maryland Registration plate "5BX4504"</Description>
+         <PropertyTypeCode>LICENSE PLATE</PropertyTypeCode>
+         <PropertyValue>50</PropertyValue>
+         <Value>50</Value>
+         <SerialNumber>5BX4504</SerialNumber>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>255995</Property_ID>
+         <PrimaryColor>WHI</PrimaryColor>
+         <SecondaryColor>RED</SecondaryColor>
+         <Make>Maryland</Make>
+         <Model>Vehicle Registration</Model>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

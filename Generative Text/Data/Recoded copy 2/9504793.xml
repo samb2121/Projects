@@ -1,0 +1,187 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP4800</ORINum>
+   <ReportDate>06/08/2023 22:22:00</ReportDate>
+   <StartDate>06/08/2023 20:04:00</StartDate>
+   <Summary>Subject called 911 stating he was assaulted and bleeding from the head. Investigation showed that the subject was the primary aggressor in a domestic assault and was ultimately arrested.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assault</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Domestic Dispute</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>697083</AddressId>
+      <Address>
+         <AddressId>697083</AddressId>
+         <StreetNumber>12433</StreetNumber>
+         <StreetDirCode>W</StreetDirCode>
+         <StreetName>Torquay</StreetName>
+         <StreetTypeCode>Road</StreetTypeCode>
+         <City>Ocean City</City>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-75.123334</Longitude>
+         <Latitude>38.35296</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Assisting</OfficerRoleCode>
+         <Officer>
+            <LastName>Brader</LastName>
+            <FirstName>Brian</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Discharging</OfficerRoleCode>
+         <Officer>
+            <LastName>Woo</LastName>
+            <FirstName>Johnathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Shockley</LastName>
+            <FirstName>Matthew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Woo</LastName>
+            <FirstName>Johnathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Arresting / Citing</OfficerRoleCode>
+         <Officer>
+            <LastName>Woo</LastName>
+            <FirstName>Johnathan</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Arrest</OffenseStatusCode>
+         <OffenseCode>1 1415 4E</OffenseCode>
+         <PlaceCode>Residence/Home</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>36</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <ClearMultiArrestCode>C</ClearMultiArrestCode>
+         <Person>
+            <PersonId>1076</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Other Ethnicity/National Origin</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Bryant</LastName>
+               <FirstName>Jeffrey</FirstName>
+               <MiddleName>Daniel</MiddleName>
+               <DOB>10/04/1986 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Bryant</LastName>
+               <FirstName>Jeffrey</FirstName>
+               <MiddleName>Daniel</MiddleName>
+               <DOB>10/04/1986 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>309</StreetNumber>
+               <StreetName>Park</StreetName>
+               <StreetTypeCode>Avenue</StreetTypeCode>
+               <SubNumber>10</SubNumber>
+               <City>Salisbury</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21801</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.600989</Longitude>
+               <Latitude>38.369306</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>12433</StreetNumber>
+               <StreetName>West Torquay</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Ocean City</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21842</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.12268</Longitude>
+               <Latitude>38.353114</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>302</PhoneArea>
+               <PhonePrefix>236</PhonePrefix>
+               <PhoneSuffix>6705</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>CP</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>25</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>363388</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Sidleck</LastName>
+               <FirstName>Isabella</FirstName>
+               <MiddleName>Anne</MiddleName>
+               <DOB>07/31/1997 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Sidleck</LastName>
+               <FirstName>Isabella</FirstName>
+               <MiddleName>Anne</MiddleName>
+               <DOB>07/31/1997 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>12433</StreetNumber>
+               <StreetName>West Torquay</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Ocean City</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21842</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-75.12268</Longitude>
+               <Latitude>38.353114</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>717</PhoneArea>
+               <PhonePrefix>419</PhonePrefix>
+               <PhoneSuffix>8987</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>D</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

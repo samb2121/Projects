@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2022D4210410</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>08/01/2022 15:38:00</ReportDate>
+   <ReportTime>08/01/2022 15:38:00</ReportTime>
+   <StartDate>08/01/2022 15:38:00</StartDate>
+   <StartTime>08/01/2022 15:38:00</StartTime>
+   <Summary>ddd</Summary>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>08/01/2022 15:38:26</CreatorDate>
+   <UpdatorId>STATE_OFFICER11</UpdatorId>
+   <UpdatorDate>09/08/2023 12:24:47</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>AIR</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>129</AddressId>
+      <Beat>Test</Beat>
+      <SubBeat>Area</SubBeat>
+      <City>1</City>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>09/16/2022 17:06:42</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>09/16/2022 17:13:59</UpdatorDate>
+      <Address>
+         <AddressId>129</AddressId>
+         <StreetNumber>123</StreetNumber>
+         <StreetDirCode>N</StreetDirCode>
+         <StreetName>Main</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <City>BATESVILLE</City>
+         <StateCode>IN</StateCode>
+         <CountryCode>US</CountryCode>
+         <Beat>Test</Beat>
+         <SubBeat>Area</SubBeat>
+         <Longitude>-85.221902</Longitude>
+         <Latitude>39.299375</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>123 Main St</CommonPlaceName>
+         </AddressCommonName>
+         <AddressCommonName>
+            <CommonPlaceName>AROUND THE CORNER</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>08/01/2022 15:38:26</SuppReportDate>
+      <SuppReportTime>08/01/2022 15:38:26</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>02/28/2023 11:27:17</DsIcrDate>
+      <DsIcrSubmissionStatus>READY TO BE PROCESSED-ORIGINAL</DsIcrSubmissionStatus>
+      <CreatorId>STATE_OFFICER11</CreatorId>
+      <CreatorDate>08/01/2022 15:38:26</CreatorDate>
+      <UpdatorId>STATE_OFFICER11</UpdatorId>
+      <UpdatorDate>02/28/2023 11:27:17</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>sdfsdfs</NarrativeText>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>09/16/2022 17:18:24</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>09/16/2022 17:18:24</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Simpson</LastName>
+            <FirstName>Homer</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Simpson</LastName>
+            <FirstName>Homer</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <IncidentId>3414</IncidentId>
+         <OffenseNumber>1</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>35-45-2-2</OffenseCode>
+         <PlaceCode>25</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>1</UCRNumber>
+         <OffenseStatusDate>08/01/2022 15:38:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>09/16/2022 17:14:34</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>09/16/2022 17:14:34</UpdatorDate>
+      </IncidentOffense>
+      <IncidentOffense>
+         <IncidentId>3414</IncidentId>
+         <OffenseNumber>2</OffenseNumber>
+         <OffenseStatusCode>00</OffenseStatusCode>
+         <OffenseCode>TESTSTATECODE</OffenseCode>
+         <PlaceCode>25</PlaceCode>
+         <BiasCode>88</BiasCode>
+         <CSAUCode>C</CSAUCode>
+         <SupplementSeq>0</SupplementSeq>
+         <UCRNumber>2</UCRNumber>
+         <OffenseStatusDate>08/01/2022 15:38:00</OffenseStatusDate>
+         <AttemptedCompletedCode>C</AttemptedCompletedCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>09/16/2022 17:14:35</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>09/16/2022 17:14:35</UpdatorDate>
+      </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>23</ApproxAge>
+         <ClearMultiArrestCode>N</ClearMultiArrestCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>09/16/2022 17:07:37</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:25</UpdatorDate>
+         <Person>
+            <PersonId>1205</PersonId>
+            <RaceCode>W</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>U</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Albany</LastName>
+               <FirstName>Tommy</FirstName>
+               <DOB>04/23/1999 00:00:00</DOB>
+               <DateOfInfo>09/16/2022 17:02:44</DateOfInfo>
+               <SLastName>A415</SLastName>
+               <SFirstName>T500</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Albany</LastName>
+               <FirstName>Tommy</FirstName>
+               <DOB>04/23/1999 00:00:00</DOB>
+               <SLastName>A415</SLastName>
+               <SFirstName>T500</SFirstName>
+               <DateOfInfo>09/16/2022 17:02:44</DateOfInfo>
+            </Alias>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>A</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>09/16/2022 17:16:33</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>09/16/2022 17:16:33</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>02</ApproxAge>
+         <ResidentStatusCode>R</ResidentStatusCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>09/16/2022 17:17:17</CreatorDate>
+         <UpdatorId>TSTC</UpdatorId>
+         <UpdatorDate>05/24/2023 12:41:24</UpdatorDate>
+         <Person>
+            <PersonId>383</PersonId>
+            <RaceCode>P</RaceCode>
+            <SexCode>M</SexCode>
+            <EthnicityCode>H</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Agui</LastName>
+               <FirstName>CARRERAS</FirstName>
+               <DOB>08/19/1967 00:00:00</DOB>
+               <DateOfInfo>09/05/2012 00:00:00</DateOfInfo>
+               <SLastName>A200</SLastName>
+               <SFirstName>C662</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Ign</LastName>
+               <FirstName>Test</FirstName>
+               <DOB>01/01/1986 00:00:00</DOB>
+               <DateOfInfo>01/14/2013 00:00:00</DateOfInfo>
+               <SLastName>I250</SLastName>
+               <SFirstName>T230</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Aguero</LastName>
+               <FirstName>Carlos</FirstName>
+               <DOB>03/03/1979 00:00:00</DOB>
+               <DateOfInfo>03/20/2013 00:00:00</DateOfInfo>
+               <SLastName>A260</SLastName>
+               <SFirstName>C642</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Aguero</LastName>
+               <FirstName>Carlosena</FirstName>
+               <MiddleName>Java</MiddleName>
+               <DOB>06/22/1961 00:00:00</DOB>
+               <SSN>1.23456789E8</SSN>
+               <DateOfInfo>07/11/2013 00:00:00</DateOfInfo>
+               <SLastName>A260</SLastName>
+               <SFirstName>C642</SFirstName>
+            </PersonPrimaryName>
+            <PersonPrimaryName>
+               <LastName>Dsfq</LastName>
+               <FirstName>Joe</FirstName>
+               <DOB>05/10/2020 00:00:00</DOB>
+               <SSN>9.88888888E8</SSN>
+               <TitleCode>JR</TitleCode>
+               <DateOfInfo>04/12/2016 00:00:00</DateOfInfo>
+               <SLastName>D212</SLastName>
+               <SFirstName>J000</SFirstName>
+            </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>N</NameTypeCode>
+               <LastName>Agui</LastName>
+               <FirstName>CARRERAS</FirstName>
+               <DOB>08/19/1967 00:00:00</DOB>
+               <SLastName>A200</SLastName>
+               <SFirstName>C662</SFirstName>
+               <DateOfInfo>09/05/2012 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Ign</LastName>
+               <FirstName>Test</FirstName>
+               <DOB>01/01/1986 00:00:00</DOB>
+               <SLastName>I250</SLastName>
+               <SFirstName>T230</SFirstName>
+               <DateOfInfo>01/14/2013 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Aguero</LastName>
+               <FirstName>Carlos</FirstName>
+               <DOB>03/03/1979 00:00:00</DOB>
+               <SLastName>A260</SLastName>
+               <SFirstName>C642</SFirstName>
+               <DateOfInfo>03/20/2013 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>A</NameTypeCode>
+               <LastName>Aguero</LastName>
+               <FirstName>Carlosena</FirstName>
+               <MiddleName>Java</MiddleName>
+               <DOB>06/22/1961 00:00:00</DOB>
+               <SSN>1.23456789E8</SSN>
+               <SLastName>A260</SLastName>
+               <SFirstName>C642</SFirstName>
+               <DateOfInfo>07/11/2013 00:00:00</DateOfInfo>
+            </Alias>
+            <Alias>
+               <NameTypeCode>P</NameTypeCode>
+               <LastName>Dsfq</LastName>
+               <FirstName>Joe</FirstName>
+               <DOB>05/10/2020 00:00:00</DOB>
+               <SSN>9.88888888E8</SSN>
+               <TitleCode>JR</TitleCode>
+               <SLastName>D212</SLastName>
+               <SFirstName>J000</SFirstName>
+               <DateOfInfo>04/12/2016 00:00:00</DateOfInfo>
+            </Alias>
+            <PersonPhone>
+               <PhoneTypeCode>RES</PhoneTypeCode>
+               <PhoneArea>444</PhoneArea>
+               <PhonePrefix>555</PhonePrefix>
+               <PhoneSuffix>6666</PhoneSuffix>
+               <DateOfInfo>11/18/2014 00:00:00</DateOfInfo>
+            </PersonPhone>
+            <PersonPhone>
+               <PhoneTypeCode>CEL</PhoneTypeCode>
+               <PhoneArea>777</PhoneArea>
+               <PhonePrefix>777</PhonePrefix>
+               <PhoneSuffix>7777</PhoneSuffix>
+               <DateOfInfo>06/06/2017 00:00:00</DateOfInfo>
+            </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            <CreatorId>STATE_OFFICER11</CreatorId>
+            <CreatorDate>09/16/2022 17:17:17</CreatorDate>
+            <UpdatorId>TSTC</UpdatorId>
+            <UpdatorDate>08/15/2023 20:32:24</UpdatorDate>
+         </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentProperty>
+         <RoleCode>2</RoleCode>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>09/16/2022 17:18:07</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>09/16/2022 17:18:07</UpdatorDate>
+         <DateOfInfo>09/16/2022 00:00:00</DateOfInfo>
+         <StatusCode>2</StatusCode>
+         <DocumentTypeCode>P</DocumentTypeCode>
+         <PropertyTypeCode>440</PropertyTypeCode>
+         <PropertyValue>50</PropertyValue>
+         <Value>50</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>2111</Property_ID>
+         <Quantity>1</Quantity>
+      </IncidentProperty>
+      <IncidentProperty>
+         <CreatorId>STATE_OFFICER11</CreatorId>
+         <CreatorDate>10/24/2022 13:13:58</CreatorDate>
+         <UpdatorId>STATE_OFFICER11</UpdatorId>
+         <UpdatorDate>09/08/2023 12:22:43</UpdatorDate>
+         <DateOfInfo>10/24/2022 00:00:00</DateOfInfo>
+         <StatusCode>15</StatusCode>
+         <DocumentTypeCode>G</DocumentTypeCode>
+         <PropertyTypeCode>621</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>Y</Evidence>
+         <EvidenceFlag>Y</EvidenceFlag>
+         <ExternalEvidenceId>856</ExternalEvidenceId>
+         <Property_ID>2114</Property_ID>
+         <Make>sdf</Make>
+         <Quantity>0</Quantity>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-025865</IncidentReportNum>
+   <AgencyCode>CVED</AgencyCode>
+   <ORINum>MD324SP00</ORINum>
+   <ReportDate>07/20/2023 05:55:00</ReportDate>
+   <ReportTime>07/20/2023 05:55:00</ReportTime>
+   <StartDate>07/20/2023 05:31:00</StartDate>
+   <StartTime>07/20/2023 05:31:00</StartTime>
+   <Summary>Motor Vehicle Collision</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>07/20/2023 05:55:41</CreatorDate>
+   <UpdatorId>MSP3136</UpdatorId>
+   <UpdatorDate>07/20/2023 10:44:08</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>ACC</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>701475</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>07/20/2023 05:55:42</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>07/20/2023 05:55:42</UpdatorDate>
+      <Address>
+         <AddressId>701475</AddressId>
+         <StreetName>Baltimore National</StreetName>
+         <StreetTypeCode>PIKE</StreetTypeCode>
+         <City>Ellicott City</City>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-76.86484</Longitude>
+         <Latitude>39.27905</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>0-0</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>07/20/2023 05:55:39</SuppReportDate>
+      <SuppReportTime>07/20/2023 05:55:39</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>CVED</SuppAgencyCode>
+      <DsIcrDate>07/20/2023 10:44:07</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>07/20/2023 05:55:41</CreatorDate>
+      <UpdatorId>MSP3136</UpdatorId>
+      <UpdatorDate>07/20/2023 10:44:08</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>Report Completed in ACRS.</NarrativeText>
+         <CreatorId>MSP5397</CreatorId>
+         <CreatorDate>07/20/2023 09:20:30</CreatorDate>
+         <UpdatorId>MSP5397</UpdatorId>
+         <UpdatorDate>07/20/2023 09:20:30</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>CVED</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Smith</LastName>
+            <FirstName>Conrad</FirstName>
+            <InternalID>3136</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>CVED</AgencyCode>
+            <ORINumber>MD324SP00</ORINumber>
+            <LastName>Copper</LastName>
+            <FirstName>Brian</FirstName>
+            <InternalID>5397</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>

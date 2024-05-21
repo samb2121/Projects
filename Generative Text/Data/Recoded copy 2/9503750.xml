@@ -1,0 +1,114 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP3400</ORINum>
+   <ReportDate>01/07/2023 09:02:00</ReportDate>
+   <StartDate>01/07/2023 09:01:00</StartDate>
+   <Summary>Suspended out-of-State License.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Traffic Arrest</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>I83 / SHAWAN</IncAddrComment>
+      <AddressId>679655</AddressId>
+      <City>MDC367</City>
+      <Address>
+         <AddressId>679655</AddressId>
+         <StreetName>I83</StreetName>
+         <StateCode>Maryland</StateCode>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.66560905</Longitude>
+         <Latitude>39.5068591166667</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>FROM CALIBER MOBILE</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Horton</LastName>
+            <FirstName>Arthur</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Rose</LastName>
+            <FirstName>Drew</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOffense>
+         <OffenseStatusCode>Cleared by Citation</OffenseStatusCode>
+         <OffenseCode>3099</OffenseCode>
+         <PlaceCode>Highway/Road/Alley</PlaceCode>
+         <BiasCode>None (No Bias)</BiasCode>
+         </IncidentOffense>
+      <IncidentPerson>
+         <ApproxAge>32</ApproxAge>
+         <ResidentStatusCode>Resides out of state</ResidentStatusCode>
+         <Person>
+            <PersonId>72484</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Not Hispanic or Latino</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Baumann</LastName>
+               <FirstName>ASHLEIGH</FirstName>
+               <MiddleName>Brooke</MiddleName>
+               <DOB>01/24/1990 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Baumann</LastName>
+               <FirstName>ASHLEIGH</FirstName>
+               <MiddleName>Brooke</MiddleName>
+               <DOB>01/24/1990 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>126</StreetNumber>
+               <StreetName>Crosstie</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Stewartstown</City>
+               <StateCode>Pennsylvania</StateCode>
+               <Zip5>17363</Zip5>
+               <Zip4>8346</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <Longitude>-76.583838</Longitude>
+               <Latitude>39.760757</Latitude>
+            </PersonAddress>
+            <PersonAddress>
+               <StreetNumber>200</StreetNumber>
+               <StreetName>Contee</StreetName>
+               <StreetTypeCode>Court</StreetTypeCode>
+               <City>Joppa</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>21085</Zip5>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.364304</Longitude>
+               <Latitude>39.415777</Latitude>
+            </PersonAddress>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>S</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentVehicle>
+         <VEHICLE_ID>148337</VEHICLE_ID>
+         <RoleCode>AR</RoleCode>
+         <StatusCode>1</StatusCode>
+         <VIN>KMHDU46D47U187930</VIN>
+         <VehicleYear>2007</VehicleYear>
+         <VehicleMakeCode>HYUNDAI</VehicleMakeCode>
+         <VehicleModelCode>ELANTRA</VehicleModelCode>
+         <VehicleTypeCode>Automobile / Passenger</VehicleTypeCode>
+         <VehPriColorCode>SIL</VehPriColorCode>
+         <VehSecColorCode>SIL</VehSecColorCode>
+         <VehicleLicStateCode>PA</VehicleLicStateCode>
+         <VehicleLicNumber>LVN8948</VehicleLicNumber>
+      </IncidentVehicle>
+   </IncidentSupplement>
+</Incident>

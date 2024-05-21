@@ -1,0 +1,148 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <ORINum>MDMSP5500</ORINum>
+   <ReportDate>04/15/2023 20:31:00</ReportDate>
+   <StartDate>04/15/2023 15:55:00</StartDate>
+   <Summary>2nd degree burn on male subject.</Summary>
+   <IncidentType>
+      <IncidentTypeCode>Assist Other Agency</IncidentTypeCode>
+   </IncidentType>
+   <IncidentType>
+      <IncidentTypeCode>Other (Specify)</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>690807</AddressId>
+      <Address>
+         <AddressId>690807</AddressId>
+         <StreetNumber>1425</StreetNumber>
+         <StreetName>Gregg</StreetName>
+         <StreetTypeCode>Drive</StreetTypeCode>
+         <City>Lusby</City>
+         <StateCode>Maryland</StateCode>
+         <Zip5>20657</Zip5>
+         <Zip4>2971</Zip4>
+         <CountryCode>United States of America</CountryCode>
+         <Longitude>-76.476077</Longitude>
+         <Latitude>38.354672</Latitude>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <IncidentSuppNarrative>
+         </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Hunt</LastName>
+            <FirstName>Kemery</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Approving</OfficerRoleCode>
+         <Officer>
+            <LastName>Davis</LastName>
+            <FirstName>Thomas</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>Reporting</OfficerRoleCode>
+         <Officer>
+            <LastName>Hernandez-Miguel</LastName>
+            <FirstName>Pavel</FirstName>
+            </Officer>
+      </IncidentOfficer>
+      <IncidentPerson>
+         <ApproxAge>65</ApproxAge>
+         <ResidentStatusCode>Resides in County but not City</ResidentStatusCode>
+         <Person>
+            <PersonId>374393</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Male</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Higgs</LastName>
+               <FirstName>Kelly</FirstName>
+               <MiddleName>Charles</MiddleName>
+               <DOB>08/27/1957 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Higgs</LastName>
+               <FirstName>Kelly</FirstName>
+               <MiddleName>Charles</MiddleName>
+               <DOB>08/27/1957 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>4665</StreetNumber>
+               <StreetName>Huntingtown</StreetName>
+               <StreetTypeCode>Road</StreetTypeCode>
+               <City>Huntingtown</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20639</Zip5>
+               <Zip4>8512</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.627485</Longitude>
+               <Latitude>38.625993</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>443</PhoneArea>
+               <PhonePrefix>968</PhonePrefix>
+               <PhoneSuffix>6253</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>E</RoleType>
+            </IncidentPersonRole>
+         <IncidentPersonRole>
+            <RoleType>V</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+      <IncidentPerson>
+         <ApproxAge>65</ApproxAge>
+         <ResidentStatusCode>Resides in City where occurred</ResidentStatusCode>
+         <Person>
+            <PersonId>374394</PersonId>
+            <RaceCode>White</RaceCode>
+            <SexCode>Female</SexCode>
+            <EthnicityCode>Unknown</EthnicityCode>
+            <PersonVerified>Y</PersonVerified>
+            <PersonPrimaryName>
+               <LastName>Dehenzel</LastName>
+               <FirstName>Barbara</FirstName>
+               <MiddleName>Jean</MiddleName>
+               <DOB>01/30/1958 00:00:00</DOB>
+               </PersonPrimaryName>
+            <Alias>
+               <NameTypeCode>Primary Name</NameTypeCode>
+               <LastName>Dehenzel</LastName>
+               <FirstName>Barbara</FirstName>
+               <MiddleName>Jean</MiddleName>
+               <DOB>01/30/1958 00:00:00</DOB>
+               </Alias>
+            <PersonAddress>
+               <StreetNumber>1425</StreetNumber>
+               <StreetName>Gregg</StreetName>
+               <StreetTypeCode>Drive</StreetTypeCode>
+               <City>Lusby</City>
+               <StateCode>Maryland</StateCode>
+               <Zip5>20657</Zip5>
+               <Zip4>2971</Zip4>
+               <CountryCode>United States of America</CountryCode>
+               <CountyCode>NaN</CountyCode>
+               <Longitude>-76.476077</Longitude>
+               <Latitude>38.354672</Latitude>
+            </PersonAddress>
+            <PersonPhone>
+               <PhoneTypeCode>Cellular</PhoneTypeCode>
+               <PhoneArea>410</PhoneArea>
+               <PhonePrefix>474</PhonePrefix>
+               <PhoneSuffix>5000</PhoneSuffix>
+               </PersonPhone>
+         </Person>
+         <IncidentPersonRole>
+            <RoleType>T</RoleType>
+            </IncidentPersonRole>
+      </IncidentPerson>
+   </IncidentSupplement>
+</Incident>

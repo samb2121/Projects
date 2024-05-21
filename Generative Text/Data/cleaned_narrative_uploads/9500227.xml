@@ -1,0 +1,96 @@
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>23-MSP-027542</IncidentReportNum>
+   <AgencyCode>40P</AgencyCode>
+   <ORINum>MDMSP9800</ORINum>
+   <ReportDate>08/04/2023 09:18:00</ReportDate>
+   <ReportTime>08/04/2023 09:18:00</ReportTime>
+   <StartDate>08/04/2023 09:17:00</StartDate>
+   <StartTime>08/04/2023 09:17:00</StartTime>
+   <Summary>CDS VIOLATION</Summary>
+   <CreatorId>MSP</CreatorId>
+   <CreatorDate>08/04/2023 09:18:59</CreatorDate>
+   <UpdatorId>MSP4812</UpdatorId>
+   <UpdatorDate>08/29/2023 12:53:58</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>DSM</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <IncAddrComment>121 S WASHINGTON ST</IncAddrComment>
+      <AddressId>702874</AddressId>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>08/04/2023 09:19:01</CreatorDate>
+      <UpdatorId>MSP</UpdatorId>
+      <UpdatorDate>08/04/2023 09:59:47</UpdatorDate>
+      <Address>
+         <AddressId>702874</AddressId>
+         <StreetNumber>121</StreetNumber>
+         <StreetDirCode>S</StreetDirCode>
+         <StreetName>Washington</StreetName>
+         <StreetTypeCode>ST</StreetTypeCode>
+         <StateCode>MD</StateCode>
+         <CountryCode>US</CountryCode>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>0</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>08/04/2023 09:18:58</SuppReportDate>
+      <SuppReportTime>08/04/2023 09:18:58</SuppReportTime>
+      <AgencyOnly>N</AgencyOnly>
+      <SecurityLevel>1700</SecurityLevel>
+      <SuppAgencyCode>40P</SuppAgencyCode>
+      <DsIcrDate>08/29/2023 12:53:58</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>MSP</CreatorId>
+      <CreatorDate>08/04/2023 09:19:00</CreatorDate>
+      <UpdatorId>MSP4812</UpdatorId>
+      <UpdatorDate>08/29/2023 12:53:58</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Original Narrative</NarrativeTitle>
+         <NarrativeText>On 8/3/23 the Metropolitan Area Drug Task Force was contacted by FedEx Security Operation (FSO) in reference to a suspicious parcel from 411 E. Huntington Dr. # 107, Arcadia California 91006, a known CDS source area. Based on a totality of the circumstance FSO removed the parcel from the delivery stream for further investigation and administratively opened the parcel. The parcel was being shipped to 121 S. Washington St., Greencastle Pennsylvania 17225. Upon opening the parcel, a quantity of marijuana, which later weighed at 730 grams was in one heat sealed bag. The parcel was secured by FedEx Security Operations and entered as seized by Police.  On 8/4/23 Sgt R McNeely #4812 of the MADTF went to the FedEx Express located at 4809 Oakmont Dr. Hagerstown MD to secure the parcel at 0716 hours. After securing the parcel it was transported to CED in Hanover MD to be processed. Upon weighing the parcel it returned at 730 grams which holds an approximate street value of $7,300.   The address has been flagged for future CDS investigation by FSO.  The CDS was processed for destruction by the MADTF.   </NarrativeText>
+         <CreatorId>TF0309</CreatorId>
+         <CreatorDate>08/04/2023 10:02:27</CreatorDate>
+         <UpdatorId>TF0309</UpdatorId>
+         <UpdatorDate>08/04/2023 10:16:52</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>40P</AgencyCode>
+            <ORINumber>MDMSP9800</ORINumber>
+            <LastName>McNeely</LastName>
+            <FirstName>Ryan</FirstName>
+            <InternalID>4812</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>40P</AgencyCode>
+            <ORINumber>MDMSP9800</ORINumber>
+            <LastName>DIGGS</LastName>
+            <FirstName>GARWOOD</FirstName>
+            <InternalID>TF0309</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentProperty>
+         <CreatorId>TF0309</CreatorId>
+         <CreatorDate>08/04/2023 10:01:20</CreatorDate>
+         <UpdatorId>TF0309</UpdatorId>
+         <UpdatorDate>08/04/2023 10:01:20</UpdatorDate>
+         <DateOfInfo>08/04/2023 00:00:00</DateOfInfo>
+         <StatusCode>5</StatusCode>
+         <DocumentTypeCode>D</DocumentTypeCode>
+         <PropertyTypeCode>560</PropertyTypeCode>
+         <PropertyValue>0</PropertyValue>
+         <Value>0</Value>
+         <Evidence>N</Evidence>
+         <EvidenceFlag>N</EvidenceFlag>
+         <Property_ID>252591</Property_ID>
+         <DrugTypeCode>E</DrugTypeCode>
+         <Quantity>730</Quantity>
+         <QuantityUnit>GM</QuantityUnit>
+      </IncidentProperty>
+   </IncidentSupplement>
+</Incident>

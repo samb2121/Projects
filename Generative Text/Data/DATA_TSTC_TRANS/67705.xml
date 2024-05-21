@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="file:///C:/DATA/EJS/SVN_Root/Ejustice/trunk/XMLTransformations/OnlineRMSInternalToIncident/IAOnlineRMSIncidentImport.xsd">
+   <IncidentReportNum>2015ROOT0022</IncidentReportNum>
+   <AgencyCode>D42</AgencyCode>
+   <ORINum>SC0280000</ORINum>
+   <ReportDate>03/09/2018 09:59:00</ReportDate>
+   <ReportTime>03/09/2018 09:59:00</ReportTime>
+   <StartDate>03/09/2018 09:59:00</StartDate>
+   <StartTime>03/01/2018 09:59:00</StartTime>
+   <Summary>test</Summary>
+   <CreatorId>STATE_OFFICER11</CreatorId>
+   <CreatorDate>01/20/2015 18:33:10</CreatorDate>
+   <UpdatorId>TSTC</UpdatorId>
+   <UpdatorDate>09/09/2021 18:46:34</UpdatorDate>
+   <IncidentType>
+      <IncidentTypeCode>CTP</IncidentTypeCode>
+   </IncidentType>
+   <IncidentAddress>
+      <AddressId>19</AddressId>
+      <City>20</City>
+      <CreatorId>D_OFFICER</CreatorId>
+      <CreatorDate>03/09/2018 09:59:54</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>03/09/2018 10:00:34</UpdatorDate>
+      <Address>
+         <AddressId>19</AddressId>
+         <StreetNumber>52400</StreetNumber>
+         <StreetDirCode>E</StreetDirCode>
+         <StreetName>County Road 17</StreetName>
+         <City>Bristol</City>
+         <StateCode>IN</StateCode>
+         <CountryCode>US</CountryCode>
+         <Longitude>-85.888474</Longitude>
+         <Latitude>41.732221</Latitude>
+         <AddressCommonName>
+            <CommonPlaceName>ANG TEST</CommonPlaceName>
+         </AddressCommonName>
+      </Address>
+   </IncidentAddress>
+   <IncidentSupplement>
+      <SupplementSequence>1</SupplementSequence>
+      <IncSupplementStatusCode>A</IncSupplementStatusCode>
+      <SuppReportDate>03/09/2018 09:58:46</SuppReportDate>
+      <SuppReportTime>03/09/2018 09:58:46</SuppReportTime>
+      <AgencyOnly>Y</AgencyOnly>
+      <SecurityLevel>1100</SecurityLevel>
+      <SuppAgencyCode>D42</SuppAgencyCode>
+      <UnknownNoOffenders>N</UnknownNoOffenders>
+      <DsIcrDate>12/10/2018 22:50:28</DsIcrDate>
+      <DsIcrSubmissionStatus>NOT REPORTABLE</DsIcrSubmissionStatus>
+      <CreatorId>D_OFFICER</CreatorId>
+      <CreatorDate>03/09/2018 09:58:46</CreatorDate>
+      <UpdatorId>TSTC</UpdatorId>
+      <UpdatorDate>08/05/2021 17:38:26</UpdatorDate>
+      <IncidentSuppNarrative>
+         <NarrativeNumber>1</NarrativeNumber>
+         <NarrativeTitle>Supplement #1 Narrative</NarrativeTitle>
+         <NarrativeText>&lt;p&gt;aasdfasdfasdf&lt;/p&gt; </NarrativeText>
+         <CreatorId>D_OFFICER</CreatorId>
+         <CreatorDate>03/09/2018 10:00:48</CreatorDate>
+         <UpdatorId>D_OFFICER</UpdatorId>
+         <UpdatorDate>03/09/2018 10:00:48</UpdatorDate>
+      </IncidentSuppNarrative>
+      <IncidentOfficer>
+         <OfficerRoleCode>P</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>Wright</LastName>
+            <FirstName>Greg</FirstName>
+            <InternalID>9696</InternalID>
+         </Officer>
+      </IncidentOfficer>
+      <IncidentOfficer>
+         <OfficerRoleCode>R</OfficerRoleCode>
+         <Officer>
+            <AgencyCode>D42</AgencyCode>
+            <ORINumber>SC0280000</ORINumber>
+            <LastName>M</LastName>
+            <FirstName>Dana</FirstName>
+            <InternalID>12345</InternalID>
+         </Officer>
+      </IncidentOfficer>
+   </IncidentSupplement>
+</Incident>
