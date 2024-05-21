@@ -1,0 +1,25 @@
+
+In this project, we created an adversarial example to trick a face recognition algorithm into misidentifying an image.
+
+Objectives:
+- Learn the basics of machine learning (ML).
+- Understand pitfalls and limits of ML-based authentication.
+- Implement an adversarial example attack against image classifiers.
+
+Part 0: MNIST
+- Task: Train a model to classify handwritten digits.
+- Tools: Python, torchvision, and neural networks.
+- Goal: Achieve high accuracy in digit classification.
+
+Part 1: Adversarial Examples
+- Task: Create an image that tricks the classifier into misidentifying a digit.
+- Tools: PyTorch, gradient descent, and backpropagation.
+- Goal: Generate an image that looks like one digit to humans but is classified as another digit by the model.
+
+Part 2: Facial Authentication
+- Task: Create an adversarial example from a face image that misidentifies it as another person.
+- Tools: Provided face-adv.py script, ResNet classifier, and face-dist.py script for testing.
+- Goal: Modify a picture of yourself or a celebrity to be misidentified as Steve Wozniak.
+
+Submission:
+- face-adv.py: Script to create adversarial face images.
